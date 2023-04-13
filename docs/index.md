@@ -1,4 +1,286 @@
-# Vocabulary Merge `03162022-033423`
+# abbozzo
+
+
+*From LookUp*:
+Noun
+1.	A preliminary sketch for a painting or other work of art; a rough drawing; a cartoon.
+# abbozzo
+
+
+*From LookUp*:
+Noun
+1.	A preliminary sketch for a painting or other work of art; a rough drawing; a cartoon.
+# abdicate
+ renounce throne
+# abdicate
+ renounce throne
+# abstruse
+
+
+## Adjective
+
+1. difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge; “the professor’s lectures were so abstruse that students tended to avoid them”; “a deep metaphysical theory”; “some recondite problem in historiography”
+	- Synonyms
+		- deep
+		- recondite
+	- Similar to
+		- esoteric
+	- Related
+		- obscureness
+		- obscurity
+		- abstruseness
+		- reconditeness
+		- reconditeness
+		- abstruseness
+		- abstrusity
+		- profoundness
+		- profundity
+		- reconditeness
+		- abstruseness
+		- abstrusity
+		- profoundness
+		- profundity
+		- obscureness
+		- obscurity
+		- abstruseness
+		- reconditeness
+
+
+# abyssal
+
+
+## Adjective
+
+1. relating to ocean depths from 2000 to 5000 meters
+	- Pertains to
+		- abyssal zone
+2. resembling an abyss in depth; so deep as to be unmeasurable; “the abyssal depths of the ocean”
+	- Synonyms
+		- abysmal
+		- unfathomable
+	- Similar to
+		- deep
+	- Related
+		- abyss
+		- abysm
+		- abyss
+		- abysm
+
+
+# abyssal
+
+
+## Adjective
+
+1. relating to ocean depths from 2000 to 5000 meters
+	- Pertains to
+		- abyssal zone
+2. resembling an abyss in depth; so deep as to be unmeasurable; “the abyssal depths of the ocean”
+	- Synonyms
+		- abysmal
+		- unfathomable
+	- Similar to
+		- deep
+	- Related
+		- abyss
+		- abysm
+		- abyss
+		- abysm
+
+
+# accost
+
+
+## Verb
+
+1. speak to someone
+	- Synonyms
+		- address
+		- come up to
+	- Less specific
+		- come
+		- come up
+	- More specific
+		- greet
+		- recognize
+		- recognise
+		- approach
+	- Related
+		- addressee
+2. approach with an offer of sexual favors; “he was solicited by a prostitute”; “The young man was caught soliciting in the park”
+	- Synonyms
+		- hook
+		- solicit
+	- Less specific
+		- offer
+	- Related
+		- solicitation
+		- allurement
+
+
+# accost
+
+
+## Verb
+
+1. speak to someone
+	- Synonyms
+		- address
+		- come up to
+	- Less specific
+		- come
+		- come up
+	- More specific
+		- greet
+		- recognize
+		- recognise
+		- approach
+	- Related
+		- addressee
+2. approach with an offer of sexual favors; “he was solicited by a prostitute”; “The young man was caught soliciting in the park”
+	- Synonyms
+		- hook
+		- solicit
+	- Less specific
+		- offer
+	- Related
+		- solicitation
+		- allurement
+
+
+# accoy
+
+
+Word of the Day: ACCOY (v.) to make calm or serene; to quieten
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1540213134111215616)
+# accoy
+
+
+Word of the Day: ACCOY (v.) to make calm or serene; to quieten
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1540213134111215616)
+# acquiesce
+
+
+## Verb
+
+1. to agree or express agreement; “The Maestro assented to the request for an encore”
+	- Synonyms
+		- assent
+		- accede
+	- Antonyms
+		- dissent
+	- Less specific
+		- agree
+	- More specific
+		- connive
+	- Related
+		- acquiescent
+		- biddable
+		- acquiescence
+		- assent
+		- acquiescence
+		- accession
+		- assenting
+		- assentient
+		- assent
+		- acquiescence
+		- assenter
+
+
+# acquiesce
+
+
+## Verb
+
+1. to agree or express agreement; “The Maestro assented to the request for an encore”
+	- Synonyms
+		- assent
+		- accede
+	- Antonyms
+		- dissent
+	- Less specific
+		- agree
+	- More specific
+		- connive
+	- Related
+		- acquiescent
+		- biddable
+		- acquiescence
+		- assent
+		- acquiescence
+		- accession
+		- assenting
+		- assentient
+		- assent
+		- acquiescence
+		- assenter
+
+
+# acquisitive
+
+
+## Adjective
+
+1. eager to acquire and possess things especially material possessions or ideas; “an acquisitive mind”; “an acquisitive society in which the craving for material things seems never satisfied”
+	- Antonyms
+		- unacquisitive
+	- Similar to
+		- accumulative
+		- avaricious
+		- covetous
+		- grabby
+		- grasping
+		- greedy
+		- prehensile
+		- possessive
+		- plundering
+		- predaceous
+		- predacious
+		- predatory
+		- rapacious
+		- ravening
+		- voracious
+		- sordid
+	- Attributes
+		- acquisitiveness
+	- Related
+		- get
+		- acquire
+		- acquisitiveness
+
+
+# acquisitive
+
+
+## Adjective
+
+1. eager to acquire and possess things especially material possessions or ideas; “an acquisitive mind”; “an acquisitive society in which the craving for material things seems never satisfied”
+	- Antonyms
+		- unacquisitive
+	- Similar to
+		- accumulative
+		- avaricious
+		- covetous
+		- grabby
+		- grasping
+		- greedy
+		- prehensile
+		- possessive
+		- plundering
+		- predaceous
+		- predacious
+		- predatory
+		- rapacious
+		- ravening
+		- voracious
+		- sordid
+	- Attributes
+		- acquisitiveness
+	- Related
+		- get
+		- acquire
+		- acquisitiveness
+
 
 # acrimony
 
@@ -50,93 +332,981 @@
 		- bitter
 
 
-===
-# abstruse
+# acrimony
 
 
-## Adjective
+## Noun
 
-1. difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge; “the professor’s lectures were so abstruse that students tended to avoid them”; “a deep metaphysical theory”; “some recondite problem in historiography”
+1. a rough and bitter manner
 	- Synonyms
-		- deep
-		- recondite
-	- Similar to
-		- esoteric
+		- bitterness
+		- acerbity
+		- jaundice
+		- tartness
+		- thorniness
+	- Less specific
+		- disagreeableness
 	- Related
-		- obscureness
-		- obscurity
-		- abstruseness
-		- reconditeness
-		- reconditeness
-		- abstruseness
-		- abstrusity
-		- profoundness
-		- profundity
-		- reconditeness
-		- abstruseness
-		- abstrusity
-		- profoundness
-		- profundity
-		- obscureness
-		- obscurity
-		- abstruseness
-		- reconditeness
+		- sharp
+		- sharp-worded
+		- tart
+		- jaundice
+		- acerb
+		- acerbic
+		- acid
+		- acrid
+		- bitter
+		- blistering
+		- caustic
+		- sulfurous
+		- sulphurous
+		- virulent
+		- vitriolic
+		- embitter
+		- envenom
+		- acerbate
+		- acrimonious
+		- bitter
+		- acerb
+		- acerbic
+		- acid
+		- acrid
+		- bitter
+		- blistering
+		- caustic
+		- sulfurous
+		- sulphurous
+		- virulent
+		- vitriolic
+		- acrimonious
+		- bitter
 
 
-===
-# abyssal
-
-
-## Adjective
-
-1. relating to ocean depths from 2000 to 5000 meters
-	- Pertains to
-		- abyssal zone
-2. resembling an abyss in depth; so deep as to be unmeasurable; “the abyssal depths of the ocean”
-	- Synonyms
-		- abysmal
-		- unfathomable
-	- Similar to
-		- deep
-	- Related
-		- abyss
-		- abysm
-		- abyss
-		- abysm
-
-
-===
-# accost
+# admonish
 
 
 ## Verb
 
-1. speak to someone
+1. advise or counsel in terms of someone’s behavior; “I warned him not to go too far”; “I warn you against false assumptions”; “She warned him to be quiet”
 	- Synonyms
-		- address
-		- come up to
+		- warn
+		- discourage
+		- monish
 	- Less specific
-		- come
-		- come up
+		- rede
+		- advise
+		- counsel
+	- Related
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonitory
+		- cautionary
+		- exemplary
+		- monitory
+		- warning
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonisher
+		- monitor
+		- reminder
+		- admonition
+		- monition
+		- warning
+		- word of advice
+2. warn strongly; put on guard
+	- Synonyms
+		- caution
+		- monish
+	- Less specific
+		- warn
+	- Related
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonitory
+		- cautionary
+		- exemplary
+		- monitory
+		- warning
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonisher
+		- monitor
+		- reminder
+		- caution
+		- caveat
+3. take to task; “He admonished the child for his bad behavior”
+	- Synonyms
+		- reprove
+		- reproof
+	- Less specific
+		- knock
+		- criticize
+		- criticise
+		- pick apart
+	- Related
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- upbraider
+		- reprover
+		- reproacher
+		- rebuker
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- admonitory
+		- admonishing
+		- reproachful
+		- reproving
+		- admonition
+		- admonishment
+		- monition
+		- admonition
+		- admonishment
+		- monition
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=admonish&definition=reprimand%2520firmly&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZG1vbmlzaCIsImRlZmluaXRpb24iOiJyZXByaW1hbmQgZmlybWx5In0%3D)
+Verb
+1.	warn or reprimand someone firmly
+she admonished me for appearing at breakfast unshaven | “You mustn't say that, Shiona,” Ruth admonished her
+
+[with object and infinitive] advise or urge (someone) earnestly
+she admonished him to drink no more than one glass of wine
+
+Archaic warn (someone) of something to be avoided
+he admonished the people against the evil of such practices
+# admonish
+
+
+## Verb
+
+1. advise or counsel in terms of someone’s behavior; “I warned him not to go too far”; “I warn you against false assumptions”; “She warned him to be quiet”
+	- Synonyms
+		- warn
+		- discourage
+		- monish
+	- Less specific
+		- rede
+		- advise
+		- counsel
+	- Related
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonitory
+		- cautionary
+		- exemplary
+		- monitory
+		- warning
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonisher
+		- monitor
+		- reminder
+		- admonition
+		- monition
+		- warning
+		- word of advice
+2. warn strongly; put on guard
+	- Synonyms
+		- caution
+		- monish
+	- Less specific
+		- warn
+	- Related
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonitory
+		- cautionary
+		- exemplary
+		- monitory
+		- warning
+		- admonition
+		- monition
+		- warning
+		- word of advice
+		- admonisher
+		- monitor
+		- reminder
+		- caution
+		- caveat
+3. take to task; “He admonished the child for his bad behavior”
+	- Synonyms
+		- reprove
+		- reproof
+	- Less specific
+		- knock
+		- criticize
+		- criticise
+		- pick apart
+	- Related
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- upbraider
+		- reprover
+		- reproacher
+		- rebuker
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- admonitory
+		- admonishing
+		- reproachful
+		- reproving
+		- admonition
+		- admonishment
+		- monition
+		- admonition
+		- admonishment
+		- monition
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=admonish&definition=reprimand%2520firmly&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZG1vbmlzaCIsImRlZmluaXRpb24iOiJyZXByaW1hbmQgZmlybWx5In0%3D)
+Verb
+1.	warn or reprimand someone firmly
+she admonished me for appearing at breakfast unshaven | “You mustn't say that, Shiona,” Ruth admonished her
+
+[with object and infinitive] advise or urge (someone) earnestly
+she admonished him to drink no more than one glass of wine
+
+Archaic warn (someone) of something to be avoided
+he admonished the people against the evil of such practices
+# adulation
+
+
+## Noun
+
+1. servile flattery; exaggerated and hypocritical praise
+	- Less specific
+		- flattery
+
+- [**adulation** - LookUp](https://learnwithlookup.com/share/index.html?word=adulation&definition=excessive%2520admiration%2520or%2520praise&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZHVsYXRpb24iLCJkZWZpbml0aW9uIjoiZXhjZXNzaXZlIGFkbWlyYXRpb24gb3IgcHJhaXNlIn0%3D)
+Noun
+1.	obsequious flattery; excessive admiration or praise
+he found it difficult to cope with the adulation of the fans
+# adulation
+
+
+## Noun
+
+1. servile flattery; exaggerated and hypocritical praise
+	- Less specific
+		- flattery
+
+- [**adulation** - LookUp](https://learnwithlookup.com/share/index.html?word=adulation&definition=excessive%2520admiration%2520or%2520praise&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZHVsYXRpb24iLCJkZWZpbml0aW9uIjoiZXhjZXNzaXZlIGFkbWlyYXRpb24gb3IgcHJhaXNlIn0%3D)
+Noun
+1.	obsequious flattery; excessive admiration or praise
+he found it difficult to cope with the adulation of the fans
+# adumbrate
+
+
+## Verb
+
+1. describe roughly or briefly or give the main points or summary of; “sketch the outline of the book”; “outline his ideas”
+	- Synonyms
+		- sketch
+		- outline
+	- Less specific
+		- describe
+		- depict
+		- draw
 	- More specific
-		- greet
-		- recognize
-		- recognise
-		- approach
+		- block out
 	- Related
-		- addressee
-2. approach with an offer of sexual favors; “he was solicited by a prostitute”; “The young man was caught soliciting in the park”
+		- outline
+		- synopsis
+		- abstract
+		- precis
+		- sketch
+		- survey
+		- resume
+		- sketch
+		- vignette
+2. give to understand; “I insinuated that I did not like his wife”
 	- Synonyms
-		- hook
-		- solicit
+		- intimate
+		- insinuate
 	- Less specific
-		- offer
+		- hint
+		- suggest
 	- Related
-		- solicitation
-		- allurement
+		- insinuation
+		- innuendo
+		- inkling
+		- intimation
+		- glimmering
+		- glimmer
+
+- [**adumbrate** - LookUp](https://learnwithlookup.com/share/index.html?word=adumbrate&definition=represent%2520in%2520outline&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZHVtYnJhdGUiLCJkZWZpbml0aW9uIjoicmVwcmVzZW50IGluIG91dGxpbmUifQ%3D%3D)
+Verb
+1.	Formal report or represent in outline
+they have adumbrated the importance of education as a means of social transformation
+
+indicate faintly
+the walls were not more than adumbrated by the meager light
+
+foreshadow or symbolize
+what qualities in Christ are adumbrated by the vine?
+
+overshadow
+her happy reminiscences were adumbrated by consciousness of something else
+
+## Origin
+late 16th century: from Latin adumbrat- ‘shaded’, from the verb adumbrare, from ad- ‘to’ (as an intensifier) + umbrare ‘cast a shadow’ (from umbra ‘shade’)
+# adumbrate
 
 
-===
+## Verb
+
+1. describe roughly or briefly or give the main points or summary of; “sketch the outline of the book”; “outline his ideas”
+	- Synonyms
+		- sketch
+		- outline
+	- Less specific
+		- describe
+		- depict
+		- draw
+	- More specific
+		- block out
+	- Related
+		- outline
+		- synopsis
+		- abstract
+		- precis
+		- sketch
+		- survey
+		- resume
+		- sketch
+		- vignette
+2. give to understand; “I insinuated that I did not like his wife”
+	- Synonyms
+		- intimate
+		- insinuate
+	- Less specific
+		- hint
+		- suggest
+	- Related
+		- insinuation
+		- innuendo
+		- inkling
+		- intimation
+		- glimmering
+		- glimmer
+
+- [**adumbrate** - LookUp](https://learnwithlookup.com/share/index.html?word=adumbrate&definition=represent%2520in%2520outline&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhZHVtYnJhdGUiLCJkZWZpbml0aW9uIjoicmVwcmVzZW50IGluIG91dGxpbmUifQ%3D%3D)
+Verb
+1.	Formal report or represent in outline
+they have adumbrated the importance of education as a means of social transformation
+
+indicate faintly
+the walls were not more than adumbrated by the meager light
+
+foreshadow or symbolize
+what qualities in Christ are adumbrated by the vine?
+
+overshadow
+her happy reminiscences were adumbrated by consciousness of something else
+
+## Origin
+late 16th century: from Latin adumbrat- ‘shaded’, from the verb adumbrare, from ad- ‘to’ (as an intensifier) + umbrare ‘cast a shadow’ (from umbra ‘shade’)
+# aegis
+
+
+## Noun
+
+1. kindly endorsement and guidance; “the tournament was held under the auspices of the city council”
+	- Synonyms
+		- auspices
+		- protection
+	- Less specific
+		- endorsement
+		- indorsement
+2. armor plate that protects the chest; the front part of a cuirass
+	- Synonyms
+		- breastplate
+		- egis
+	- Less specific
+		- armor plate
+		- armour plate
+		- armor plating
+		- plate armor
+		- plate armour
+	- More specific
+		- plastron
+	- Part of
+		- body armor
+		- body armour
+		- suit of armor
+		- suit of armour
+		- coat of mail
+		- cataphract
+
+*From LookUp*:
+Noun
+[in singular] 
+
+1.	the protection, backing, or support of a particular person or organization
+negotiations were conducted under the aegis of the UN
+
+Roman History Greek History (in classical art and mythology) an attribute of Zeus and Athena (or their Roman counterparts Jupiter and Minerva) usually represented as a goatskin shield.
+# aegis
+
+
+## Noun
+
+1. kindly endorsement and guidance; “the tournament was held under the auspices of the city council”
+	- Synonyms
+		- auspices
+		- protection
+	- Less specific
+		- endorsement
+		- indorsement
+2. armor plate that protects the chest; the front part of a cuirass
+	- Synonyms
+		- breastplate
+		- egis
+	- Less specific
+		- armor plate
+		- armour plate
+		- armor plating
+		- plate armor
+		- plate armour
+	- More specific
+		- plastron
+	- Part of
+		- body armor
+		- body armour
+		- suit of armor
+		- suit of armour
+		- coat of mail
+		- cataphract
+
+*From LookUp*:
+Noun
+[in singular] 
+
+1.	the protection, backing, or support of a particular person or organization
+negotiations were conducted under the aegis of the UN
+
+Roman History Greek History (in classical art and mythology) an attribute of Zeus and Athena (or their Roman counterparts Jupiter and Minerva) usually represented as a goatskin shield.
+# aeriform
+
+
+## Adjective
+
+1. resembling air or having the form of air
+	- Synonyms
+		- airlike
+	- Similar to
+		- gaseous
+2. characterized by lightness and insubstantiality; as impalpable or intangible as air; “figures light and aeriform come unlooked for and melt away”- Thomas Carlyle; “aerial fancies”; “an airy apparition”; “physical rather than ethereal forms”
+	- Synonyms
+		- aerial
+		- airy
+		- aery
+		- ethereal
+	- Similar to
+		- insubstantial
+		- unsubstantial
+		- unreal
+	- Related
+		- airiness
+		- buoyancy
+
+
+# aeriform
+
+
+## Adjective
+
+1. resembling air or having the form of air
+	- Synonyms
+		- airlike
+	- Similar to
+		- gaseous
+2. characterized by lightness and insubstantiality; as impalpable or intangible as air; “figures light and aeriform come unlooked for and melt away”- Thomas Carlyle; “aerial fancies”; “an airy apparition”; “physical rather than ethereal forms”
+	- Synonyms
+		- aerial
+		- airy
+		- aery
+		- ethereal
+	- Similar to
+		- insubstantial
+		- unsubstantial
+		- unreal
+	- Related
+		- airiness
+		- buoyancy
+
+
+# aggregatory
+
+
+*From LookUp*:
+Adjective
+1.	Aggregating; of or involved in aggregation.
+# aggregatory
+
+
+*From LookUp*:
+Adjective
+1.	Aggregating; of or involved in aggregation.
+# alacrity
+
+
+## Noun
+
+1. liveliness and eagerness; “he accepted with alacrity”; “the smartness of the pace soon exhausted him”
+	- Synonyms
+		- briskness
+		- smartness
+	- Less specific
+		- liveliness
+		- life
+		- spirit
+		- sprightliness
+	- Related
+		- smart
+		- alert
+		- brisk
+		- lively
+		- merry
+		- rattling
+		- snappy
+		- spanking
+		- zippy
+		- alacritous
+
+
+# alacrity
+
+
+## Noun
+
+1. liveliness and eagerness; “he accepted with alacrity”; “the smartness of the pace soon exhausted him”
+	- Synonyms
+		- briskness
+		- smartness
+	- Less specific
+		- liveliness
+		- life
+		- spirit
+		- sprightliness
+	- Related
+		- smart
+		- alert
+		- brisk
+		- lively
+		- merry
+		- rattling
+		- snappy
+		- spanking
+		- zippy
+		- alacritous
+
+
+# alate
+
+
+## Adjective
+
+1. (of seeds or insects) having winglike extensions; “alate leaves”; “alate seeds of a maple tree”
+	- Synonyms
+		- alated
+	- Similar to
+		- winged
+	- Related
+		- ala
+		- ala
+
+
+# alate
+
+
+## Adjective
+
+1. (of seeds or insects) having winglike extensions; “alate leaves”; “alate seeds of a maple tree”
+	- Synonyms
+		- alated
+	- Similar to
+		- winged
+	- Related
+		- ala
+		- ala
+
+
+# ameliorate
+
+
+## Verb
+
+1. to make better; “The editor improved the manuscript with his changes”
+	- Synonyms
+		- better
+		- improve
+		- amend
+		- meliorate
+	- Antonyms
+		- worsen
+		- aggravate
+		- exacerbate
+		- exasperate
+	- Less specific
+		- change
+		- alter
+		- modify
+	- More specific
+		- relieve
+		- alleviate
+		- palliate
+		- assuage
+		- help
+		- aid
+		- regenerate
+		- revitalize
+		- enrich
+		- build up
+		- develop
+		- turn around
+		- help
+		- upgrade
+		- condition
+		- emend
+		- iron out
+		- straighten out
+		- put right
+		- enhance
+		- repair
+		- mend
+		- fix
+		- bushel
+		- doctor
+		- furbish up
+		- restore
+		- touch on
+		- reform
+		- reform
+		- fancify
+		- beautify
+		- embellish
+		- prettify
+		- build
+		- perfect
+		- hone
+		- polish
+		- refine
+		- fine-tune
+		- down
+		- purify
+		- sublimate
+		- make pure
+		- distill
+		- fructify
+		- raise
+		- lift
+		- advance
+		- upgrade
+		- educate
+	- Causes
+		- better
+		- improve
+		- ameliorate
+		- meliorate
+	- Related
+		- ameliorating
+		- ameliorative
+		- amelioratory
+		- meliorative
+		- improvement
+		- melioration
+		- amelioration
+		- melioration
+		- betterment
+		- ameliorating
+		- ameliorative
+		- amelioratory
+		- meliorative
+		- ameliorating
+		- ameliorative
+		- amelioratory
+		- meliorative
+		- amelioration
+		- melioration
+		- betterment
+		- amendable
+		- correctable
+		- improvement
+		- humanitarian
+		- do-gooder
+		- improver
+		- addition
+		- add-on
+		- improver
+		- amelioration
+		- melioration
+		- betterment
+		- better
+2. get better; “The weather improved toward evening”
+	- Synonyms
+		- better
+		- improve
+		- meliorate
+	- Antonyms
+		- worsen
+		- decline
+	- Less specific
+		- change state
+		- turn
+	- More specific
+		- recuperate
+		- recover
+		- convalesce
+		- heal
+		- reform
+		- straighten out
+		- see the light
+		- surge
+		- turn around
+		- pick up
+		- get well
+		- get over
+		- bounce back
+		- mend
+		- heal
+		- fructify
+		- upgrade
+	- Related
+		- ameliorating
+		- ameliorative
+		- amelioratory
+		- meliorative
+		- improvement
+		- melioration
+		- melioration
+		- amelioration
+		- melioration
+		- betterment
+		- ameliorating
+		- ameliorative
+		- amelioratory
+		- meliorative
+		- ameliorating
+		- ameliorative
+		- amelioratory
+		- meliorative
+		- amelioration
+		- melioration
+		- betterment
+		- improvement
+		- melioration
+		- improvement
+		- betterment
+		- advance
+		- improvement
+		- betterment
+		- advance
+		- better
+
+- [**ameliorate** - LookUp](https://learnwithlookup.com/share/index.html?word=ameliorate&definition=make%2520something%2520bad%2520or%2520unsatisfactory%2520better&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhbWVsaW9yYXRlIiwiZGVmaW5pdGlvbiI6Im1ha2Ugc29tZXRoaW5nIGJhZCBvciB1bnNhdGlzZmFjdG9yeSBiZXR0ZXIifQ%3D%3D)
+Verb
+1.	Formal make (something bad or unsatisfactory) better
+the reform did much to ameliorate living standards
+
+## Thesaurus
+
+Verb
+1.	any move that ameliorates the situation is welcome
+
+Similar Words: 	improve    make better    better    make improvements to    enhance    help    benefit    boost    raise    amend    refine    reform    relieve    ease    mitigate    retrieve    rectify    correct    right    put right    set right    put to rights    sort out    clear up    deal with    remedy    repair    fix    cure    heal    mend    make good    resolve    settle    redress    square    tweak    patch up
+
+Opposites: 	worsen    leave alone
+# amorphous
+
+
+## Adjective
+
+1. having no definite form or distinct shape; “amorphous clouds of insects”; “an aggregate of formless particles”; “a shapeless mass of protoplasm”
+	- Synonyms
+		- formless
+		- shapeless
+	- Similar to
+		- unformed
+	- Related
+		- shapelessness
+2. lacking the system or structure characteristic of living bodies
+	- Synonyms
+		- unstructured
+	- Similar to
+		- inorganic
+3. (of a group of people or an organization) unorganized or unfocused; “A mob is an amorphous crowd of people without ideals, a sum of individuals in which each lives for himself”
+	- Similar to
+		- unstructured
+4. unclear because vague or badly organized; “Her vague, amorphous statement of her predicament was part of what made it so hard for her to solve it”
+	- Similar to
+		- unclear
+5. without real or apparent crystalline form; “an amorphous mineral”; “amorphous structure”
+	- Synonyms
+		- uncrystallized
+		- uncrystallised
+	- Similar to
+		- noncrystalline
+
+
+# amorphous
+
+
+## Adjective
+
+1. having no definite form or distinct shape; “amorphous clouds of insects”; “an aggregate of formless particles”; “a shapeless mass of protoplasm”
+	- Synonyms
+		- formless
+		- shapeless
+	- Similar to
+		- unformed
+	- Related
+		- shapelessness
+2. lacking the system or structure characteristic of living bodies
+	- Synonyms
+		- unstructured
+	- Similar to
+		- inorganic
+3. (of a group of people or an organization) unorganized or unfocused; “A mob is an amorphous crowd of people without ideals, a sum of individuals in which each lives for himself”
+	- Similar to
+		- unstructured
+4. unclear because vague or badly organized; “Her vague, amorphous statement of her predicament was part of what made it so hard for her to solve it”
+	- Similar to
+		- unclear
+5. without real or apparent crystalline form; “an amorphous mineral”; “amorphous structure”
+	- Synonyms
+		- uncrystallized
+		- uncrystallised
+	- Similar to
+		- noncrystalline
+
+
+# anchorite
+
+
+## Noun
+
+1. one retired from society for religious reasons
+	- Synonyms
+		- hermit
+	- Less specific
+		- eremite
+	- Related
+		- anchoritic
+		- eremitic
+		- eremitical
+		- hermitic
+		- hermitical
+		- anchoritic
+		- eremitic
+		- eremitical
+		- hermitic
+		- hermitical
+		- anchoritic
+		- eremitic
+		- eremitical
+		- hermitic
+		- hermitical
+
+In Christianity, an anchorite or anchoret (female: anchoress) is someone who, for religious reasons, withdraws from secular society so as to be able to lead an intensely prayer-oriented, ascetic, or Eucharist-focused life. Whilst anchorites are frequently considered to be a type of religious hermit, unlike hermits they were required to take a vow of stability of place, opting for permanent enclosure in cells often attached to churches. Also unlike hermits, anchorites were subject to a religious rite of consecration that closely resembled the funeral rite, following which they would be considered dead to the world, a type of living saint. Anchorites had a certain autonomy, as they did not answer to any ecclesiastical authority other than the bishop.The anchoritic life is one of the earliest forms of Christian monasticism. In the Catholic Church today, it is one of the "Other Forms of Consecrated Life" and governed by the same norms as the consecrated eremitic life. In medieval England, the earliest recorded anchorites existed in the 11th century. Their highest number—around 200 anchorites—were recorded in the 13th century.From the 12th to the 16th centuries, female anchorites consistently outnumbered their male counterparts, sometimes by as many as four to one (in the 13th century), dropping eventually to two to one (in the 15th century). The sex of a high number of anchorites, however, is not recorded for these periods.Between 1536 and 1539, the dissolution of the monasteries ordered by Henry VIII of England effectively brought the anchorite tradition to an end.
+- “[**Anchorite**](https://en.wikipedia.org/wiki/Anchorite)” - *Wikipedia*
+# anchorite
+
+
+## Noun
+
+1. one retired from society for religious reasons
+	- Synonyms
+		- hermit
+	- Less specific
+		- eremite
+	- Related
+		- anchoritic
+		- eremitic
+		- eremitical
+		- hermitic
+		- hermitical
+		- anchoritic
+		- eremitic
+		- eremitical
+		- hermitic
+		- hermitical
+		- anchoritic
+		- eremitic
+		- eremitical
+		- hermitic
+		- hermitical
+
+In Christianity, an anchorite or anchoret (female: anchoress) is someone who, for religious reasons, withdraws from secular society so as to be able to lead an intensely prayer-oriented, ascetic, or Eucharist-focused life. Whilst anchorites are frequently considered to be a type of religious hermit, unlike hermits they were required to take a vow of stability of place, opting for permanent enclosure in cells often attached to churches. Also unlike hermits, anchorites were subject to a religious rite of consecration that closely resembled the funeral rite, following which they would be considered dead to the world, a type of living saint. Anchorites had a certain autonomy, as they did not answer to any ecclesiastical authority other than the bishop.The anchoritic life is one of the earliest forms of Christian monasticism. In the Catholic Church today, it is one of the "Other Forms of Consecrated Life" and governed by the same norms as the consecrated eremitic life. In medieval England, the earliest recorded anchorites existed in the 11th century. Their highest number—around 200 anchorites—were recorded in the 13th century.From the 12th to the 16th centuries, female anchorites consistently outnumbered their male counterparts, sometimes by as many as four to one (in the 13th century), dropping eventually to two to one (in the 15th century). The sex of a high number of anchorites, however, is not recorded for these periods.Between 1536 and 1539, the dissolution of the monasteries ordered by Henry VIII of England effectively brought the anchorite tradition to an end.
+- “[**Anchorite**](https://en.wikipedia.org/wiki/Anchorite)” - *Wikipedia*
+# androgyny
+
+
+## Noun
+
+1. showing characteristics of both sexes
+	- Synonyms
+		- hermaphroditism
+		- bisexuality
+	- Less specific
+		- sex
+		- gender
+		- sexuality
+	- Related
+		- bisexual
+		- epicene
+		- androgynous
+		- androgynous
+		- androgenetic
+		- androgenous
+
+
+# androgyny
+
+
+## Noun
+
+1. showing characteristics of both sexes
+	- Synonyms
+		- hermaphroditism
+		- bisexuality
+	- Less specific
+		- sex
+		- gender
+		- sexuality
+	- Related
+		- bisexual
+		- epicene
+		- androgynous
+		- androgynous
+		- androgenetic
+		- androgenous
+
+
 # anhedonia
 
 
@@ -150,7 +1320,641 @@
 		- mental condition
 
 
-===
+# anhedonia
+
+
+## Noun
+
+1. an inability to experience pleasure
+	- Less specific
+		- psychological state
+		- psychological condition
+		- mental state
+		- mental condition
+
+
+# annul
+
+
+## Verb
+
+1. declare invalid; “The contract was annulled”; “void a plea”
+	- Synonyms
+		- invalidate
+		- quash
+		- void
+		- avoid
+		- nullify
+	- Antonyms
+		- validate
+		- formalize
+		- formalise
+	- Less specific
+		- cancel
+		- strike down
+	- More specific
+		- set aside
+		- break
+		- stet
+	- Related
+		- invalidator
+		- voider
+		- nullifier
+		- nullification
+		- nullification
+		- override
+		- nullifier
+		- rescindable
+		- voidable
+		- nothingness
+		- void
+		- nullity
+		- nihility
+		- invalidator
+		- voider
+		- nullifier
+		- annulment
+		- invalidation
+		- annulment
+		- invalidation
+		- invalidator
+		- voider
+		- nullifier
+2. cancel officially; “He revoked the ban on smoking”; “lift an embargo”; “vacate a death sentence”
+	- Synonyms
+		- revoke
+		- lift
+		- countermand
+		- reverse
+		- repeal
+		- overturn
+		- rescind
+		- vacate
+	- Less specific
+		- cancel
+		- strike down
+	- More specific
+		- renege
+		- renege on
+		- renegue on
+		- go back on
+	- Related
+		- vacation
+		- recission
+		- rescission
+		- recission
+		- rescission
+		- abrogation
+		- repeal
+		- annulment
+		- reversible
+		- reverse
+		- contrary
+		- opposite
+		- reversal
+		- change of mind
+		- flip-flop
+		- turnabout
+		- turnaround
+		- countermand
+		- abrogation
+		- repeal
+		- annulment
+		- revocation
+
+
+# annul
+
+
+## Verb
+
+1. declare invalid; “The contract was annulled”; “void a plea”
+	- Synonyms
+		- invalidate
+		- quash
+		- void
+		- avoid
+		- nullify
+	- Antonyms
+		- validate
+		- formalize
+		- formalise
+	- Less specific
+		- cancel
+		- strike down
+	- More specific
+		- set aside
+		- break
+		- stet
+	- Related
+		- invalidator
+		- voider
+		- nullifier
+		- nullification
+		- nullification
+		- override
+		- nullifier
+		- rescindable
+		- voidable
+		- nothingness
+		- void
+		- nullity
+		- nihility
+		- invalidator
+		- voider
+		- nullifier
+		- annulment
+		- invalidation
+		- annulment
+		- invalidation
+		- invalidator
+		- voider
+		- nullifier
+2. cancel officially; “He revoked the ban on smoking”; “lift an embargo”; “vacate a death sentence”
+	- Synonyms
+		- revoke
+		- lift
+		- countermand
+		- reverse
+		- repeal
+		- overturn
+		- rescind
+		- vacate
+	- Less specific
+		- cancel
+		- strike down
+	- More specific
+		- renege
+		- renege on
+		- renegue on
+		- go back on
+	- Related
+		- vacation
+		- recission
+		- rescission
+		- recission
+		- rescission
+		- abrogation
+		- repeal
+		- annulment
+		- reversible
+		- reverse
+		- contrary
+		- opposite
+		- reversal
+		- change of mind
+		- flip-flop
+		- turnabout
+		- turnaround
+		- countermand
+		- abrogation
+		- repeal
+		- annulment
+		- revocation
+
+
+# antagonistic
+
+
+## Adjective
+
+1. indicating opposition or resistance
+	- Synonyms
+		- counter
+	- Similar to
+		- negative
+	- Related
+		- adversary
+		- antagonist
+		- opponent
+		- opposer
+		- resister
+		- antagonism
+2. characterized by antagonism or antipathy; “slaves antagonistic to their masters”; “antipathetic factions within the party”
+	- Synonyms
+		- antipathetic
+		- antipathetical
+	- Similar to
+		- hostile
+	- Related
+		- antipathy
+		- aversion
+		- distaste
+		- antipathy
+		- aversion
+		- distaste
+		- antipathy
+		- hostility
+		- enmity
+		- antagonism
+		- antagonism
+3. arousing animosity or hostility; “his antagonistic brusqueness”; “Europe was antagonistic to the Unites States”
+	- Antonyms
+		- conciliatory
+		- conciliative
+	- Similar to
+		- alienating
+	- Related
+		- antagonism
+4. used especially of drugs or muscles that counteract or neutralize each other’s effect
+	- Synonyms
+		- incompatible
+	- Antonyms
+		- synergistic
+		- interactive
+	- Similar to
+		- antacid
+		- antiphlogistic
+	- Related
+		- antagonist
+		- antagonist
+		- antagonism
+5. incapable of harmonious association
+	- Similar to
+		- incompatible
+	- Related
+		- hostility
+		- enmity
+		- antagonism
+
+
+# antagonistic
+
+
+## Adjective
+
+1. indicating opposition or resistance
+	- Synonyms
+		- counter
+	- Similar to
+		- negative
+	- Related
+		- adversary
+		- antagonist
+		- opponent
+		- opposer
+		- resister
+		- antagonism
+2. characterized by antagonism or antipathy; “slaves antagonistic to their masters”; “antipathetic factions within the party”
+	- Synonyms
+		- antipathetic
+		- antipathetical
+	- Similar to
+		- hostile
+	- Related
+		- antipathy
+		- aversion
+		- distaste
+		- antipathy
+		- aversion
+		- distaste
+		- antipathy
+		- hostility
+		- enmity
+		- antagonism
+		- antagonism
+3. arousing animosity or hostility; “his antagonistic brusqueness”; “Europe was antagonistic to the Unites States”
+	- Antonyms
+		- conciliatory
+		- conciliative
+	- Similar to
+		- alienating
+	- Related
+		- antagonism
+4. used especially of drugs or muscles that counteract or neutralize each other’s effect
+	- Synonyms
+		- incompatible
+	- Antonyms
+		- synergistic
+		- interactive
+	- Similar to
+		- antacid
+		- antiphlogistic
+	- Related
+		- antagonist
+		- antagonist
+		- antagonism
+5. incapable of harmonious association
+	- Similar to
+		- incompatible
+	- Related
+		- hostility
+		- enmity
+		- antagonism
+
+
+# anthropogenic
+
+
+## Adjective
+
+1. of or relating to the study of the origins and development of human beings
+	- Synonyms
+		- anthropogenetic
+	- Pertains to
+		- anthropogenesis
+		- anthropogeny
+		- anthropogenesis
+		- anthropogeny
+	- Related
+		- anthropogenesis
+		- anthropogeny
+		- anthropogenesis
+		- anthropogeny
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=anthropogenic&definition=originating%2520in%2520human%2520activity&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhbnRocm9wb2dlbmljIiwiZGVmaW5pdGlvbiI6Im9yaWdpbmF0aW5nIGluIGh1bWFuIGFjdGl2aXR5In0%3D)
+Adjective
+1.	Ecology (chiefly of pollution or environmental change) originating in human activity
+anthropogenic emissions of sulfur dioxide | belief in anthropogenic climate change
+
+## Origin
+late 19th century (in sense ‘relating to the study of human development’): from anthropo- + -genic
+# anthropogenic
+
+
+## Adjective
+
+1. of or relating to the study of the origins and development of human beings
+	- Synonyms
+		- anthropogenetic
+	- Pertains to
+		- anthropogenesis
+		- anthropogeny
+		- anthropogenesis
+		- anthropogeny
+	- Related
+		- anthropogenesis
+		- anthropogeny
+		- anthropogenesis
+		- anthropogeny
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=anthropogenic&definition=originating%2520in%2520human%2520activity&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhbnRocm9wb2dlbmljIiwiZGVmaW5pdGlvbiI6Im9yaWdpbmF0aW5nIGluIGh1bWFuIGFjdGl2aXR5In0%3D)
+Adjective
+1.	Ecology (chiefly of pollution or environmental change) originating in human activity
+anthropogenic emissions of sulfur dioxide | belief in anthropogenic climate change
+
+## Origin
+late 19th century (in sense ‘relating to the study of human development’): from anthropo- + -genic
+# apodicticity
+
+
+(n.) absolute incontrovertible proof; the state of being provably true
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1528756738668826625)
+# apodicticity
+
+
+(n.) absolute incontrovertible proof; the state of being provably true
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1528756738668826625)
+# apogee
+
+![apogee LookUp](https://i.snap.as/hPejcC7a.png)
+
+## Noun
+
+1. a final climactic stage; “their achievements stand as a culmination of centuries of development”
+	- Synonyms
+		- culmination
+	- Less specific
+		- phase
+		- stage
+	- Related
+		- culminate
+		- culminate
+		- culminate
+		- climax
+2. apoapsis in Earth orbit; the point in its orbit where a satellite is at the greatest distance from the Earth
+	- Antonyms
+		- perigee
+	- Less specific
+		- apoapsis
+		- point of apoapsis
+	- Related
+		- apogean
+
+*From LookUp*:
+Noun
+1.	the highest point in the development of something; a climax or culmination
+the White House is considered the apogee of American achievement
+
+2.	Astronomy the point in the orbit of the moon or a satellite at which it is furthest from the earth. 
+• The opposite of perigee
+# apogee
+
+![apogee LookUp](https://i.snap.as/hPejcC7a.png)
+
+## Noun
+
+1. a final climactic stage; “their achievements stand as a culmination of centuries of development”
+	- Synonyms
+		- culmination
+	- Less specific
+		- phase
+		- stage
+	- Related
+		- culminate
+		- culminate
+		- culminate
+		- climax
+2. apoapsis in Earth orbit; the point in its orbit where a satellite is at the greatest distance from the Earth
+	- Antonyms
+		- perigee
+	- Less specific
+		- apoapsis
+		- point of apoapsis
+	- Related
+		- apogean
+
+*From LookUp*:
+Noun
+1.	the highest point in the development of something; a climax or culmination
+the White House is considered the apogee of American achievement
+
+2.	Astronomy the point in the orbit of the moon or a satellite at which it is furthest from the earth. 
+• The opposite of perigee
+# appellation
+
+
+## Noun
+
+1. identifying word or words by which someone or something is called and classified or distinguished from others
+	- Synonyms
+		- denomination
+		- designation
+		- appellative
+	- Less specific
+		- name
+	- More specific
+		- street name
+		- nickname
+		- moniker
+		- cognomen
+		- sobriquet
+		- soubriquet
+		- byname
+		- title
+		- title of respect
+		- form of address
+		- title
+	- Related
+		- appellative
+		- naming
+		- designate
+		- denominate
+		- designate
+		- denominate
+2. a geographical indication used to identify where the grapes for a wine are grown
+	- Less specific
+		- geographical indication
+		- GI
+
+- [**appellation** - LookUp](https://learnwithlookup.com/share/index.html?word=appellation&definition=name%2520or%2520title&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhcHBlbGxhdGlvbiIsImRlZmluaXRpb24iOiJuYW1lIG9yIHRpdGxlIn0%3D)
+Noun
+1.	Formal a name or title
+the city fully justifies its appellation “the Pearl of the Orient.”
+
+the action of giving a name to a person or thing.
+
+
+Noun
+1.	Wine an appellation contrôlée
+about 20 percent of French wines with an appellation come from Alsace
+
+Wine a wine bearing an appellation contrôlée
+the top appellations Saint-Émilion and Pomerol
+
+Wine the district in which a wine bearing an appellation contrôlée is produced
+the northeast corner of the appellation
+
+## Origin
+
+late Middle English: via Old French from Latin appellatio(n-), from the verb appellare (see appeal)
+
+abbreviation of appellation (d'origine) contrôlée
+# appellation
+
+
+## Noun
+
+1. identifying word or words by which someone or something is called and classified or distinguished from others
+	- Synonyms
+		- denomination
+		- designation
+		- appellative
+	- Less specific
+		- name
+	- More specific
+		- street name
+		- nickname
+		- moniker
+		- cognomen
+		- sobriquet
+		- soubriquet
+		- byname
+		- title
+		- title of respect
+		- form of address
+		- title
+	- Related
+		- appellative
+		- naming
+		- designate
+		- denominate
+		- designate
+		- denominate
+2. a geographical indication used to identify where the grapes for a wine are grown
+	- Less specific
+		- geographical indication
+		- GI
+
+- [**appellation** - LookUp](https://learnwithlookup.com/share/index.html?word=appellation&definition=name%2520or%2520title&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhcHBlbGxhdGlvbiIsImRlZmluaXRpb24iOiJuYW1lIG9yIHRpdGxlIn0%3D)
+Noun
+1.	Formal a name or title
+the city fully justifies its appellation “the Pearl of the Orient.”
+
+the action of giving a name to a person or thing.
+
+
+Noun
+1.	Wine an appellation contrôlée
+about 20 percent of French wines with an appellation come from Alsace
+
+Wine a wine bearing an appellation contrôlée
+the top appellations Saint-Émilion and Pomerol
+
+Wine the district in which a wine bearing an appellation contrôlée is produced
+the northeast corner of the appellation
+
+## Origin
+
+late Middle English: via Old French from Latin appellatio(n-), from the verb appellare (see appeal)
+
+abbreviation of appellation (d'origine) contrôlée
+# apposite
+
+
+## Adjective
+
+1. being of striking appropriateness and pertinence; “the successful copywriter is a master of apposite and evocative verbal images”; “an apt reply”
+	- Synonyms
+		- apt
+		- pertinent
+	- Similar to
+		- apropos
+	- Related
+		- applicability
+		- pertinence
+		- pertinency
+		- applicability
+		- pertinence
+		- pertinency
+		- refer
+		- pertain
+		- relate
+		- concern
+		- come to
+		- bear on
+		- touch
+		- touch on
+		- have to do with
+		- aptness
+		- appositeness
+		- aptness
+		- appositeness
+
+
+# apposite
+
+
+## Adjective
+
+1. being of striking appropriateness and pertinence; “the successful copywriter is a master of apposite and evocative verbal images”; “an apt reply”
+	- Synonyms
+		- apt
+		- pertinent
+	- Similar to
+		- apropos
+	- Related
+		- applicability
+		- pertinence
+		- pertinency
+		- applicability
+		- pertinence
+		- pertinency
+		- refer
+		- pertain
+		- relate
+		- concern
+		- come to
+		- bear on
+		- touch
+		- touch on
+		- have to do with
+		- aptness
+		- appositeness
+		- aptness
+		- appositeness
+
+
 # aquiline
 
 
@@ -163,7 +1967,447 @@
 		- crooked
 
 
-===
+# aquiline
+
+
+## Adjective
+
+1. curved down like an eagle’s beak
+	- Synonyms
+		- hooked
+	- Similar to
+		- crooked
+
+
+# archipelago
+
+
+## Noun
+
+1. a group of many islands in a large body of water
+	- Less specific
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+	- Members
+		- island
+	- Examples
+		- Cape Verde Islands
+		- Tierra del Fuego
+		- Comoro Islands
+		- Iles Comores
+		- West Indies
+		- the Indies
+		- Antilles
+		- Greater Antilles
+		- Lesser Antilles
+		- Caribees
+		- Leeward Islands
+		- Windward Islands
+		- Windward Isles
+		- Svalbard
+		- Lofoten
+		- Aland islands
+		- Aaland islands
+		- Ahvenanmaa
+		- Arctic Archipelago
+		- Aleutian Islands
+		- Aleutians
+		- Oceania
+		- Oceanica
+		- Australasia
+		- Austronesia
+		- Melanesia
+		- Micronesia
+		- Mariana Islands
+		- Marianas
+		- Ladrone Islands
+		- Caroline Islands
+		- Marshall Islands
+		- Gilbert Islands
+		- Tuvalu
+		- Ellice Islands
+		- Polynesia
+		- Malay Archipelago
+		- East Indies
+		- East India
+		- Sunda Islands
+		- Greater Sunda Islands
+		- Lesser Sunda Islands
+		- Nusa Tenggara
+		- Bismarck Archipelago
+		- Admiralty Islands
+		- Scilly Islands
+		- Isles of Scilly
+		- Hebrides
+		- Hebridean Islands
+		- Hebridean Isles
+		- Western Islands
+		- Western Isles
+		- Inner Hebrides
+		- Outer Hebrides
+		- Japan
+		- Japanese Islands
+		- Japanese Archipelago
+		- Ryukyu Islands
+		- Volcano Islands
+		- Frisian Islands
+		- Orkney Islands
+		- Shetland
+		- Shetland Islands
+		- Zetland
+		- Palau
+		- Palau Islands
+		- Belau
+		- Pelew
+		- Philippines
+		- Philippine Islands
+		- Madeira Islands
+		- Madeiras
+		- Society Islands
+		- Tuamotu Archipelago
+		- Paumotu Archipelago
+		- Low Archipelago
+		- Tubuai Islands
+		- Austral Islands
+		- Gambier Islands
+		- Marquesas Islands
+		- Iles Marquises
+		- Solomons
+		- Solomon Islands
+		- Balearic Islands
+		- Alexander Archipelago
+		- Hawaiian Islands
+		- H
+		- Sandwich Islands
+	- Related
+		- archipelagic
+
+
+# archipelago
+
+
+## Noun
+
+1. a group of many islands in a large body of water
+	- Less specific
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+	- Members
+		- island
+	- Examples
+		- Cape Verde Islands
+		- Tierra del Fuego
+		- Comoro Islands
+		- Iles Comores
+		- West Indies
+		- the Indies
+		- Antilles
+		- Greater Antilles
+		- Lesser Antilles
+		- Caribees
+		- Leeward Islands
+		- Windward Islands
+		- Windward Isles
+		- Svalbard
+		- Lofoten
+		- Aland islands
+		- Aaland islands
+		- Ahvenanmaa
+		- Arctic Archipelago
+		- Aleutian Islands
+		- Aleutians
+		- Oceania
+		- Oceanica
+		- Australasia
+		- Austronesia
+		- Melanesia
+		- Micronesia
+		- Mariana Islands
+		- Marianas
+		- Ladrone Islands
+		- Caroline Islands
+		- Marshall Islands
+		- Gilbert Islands
+		- Tuvalu
+		- Ellice Islands
+		- Polynesia
+		- Malay Archipelago
+		- East Indies
+		- East India
+		- Sunda Islands
+		- Greater Sunda Islands
+		- Lesser Sunda Islands
+		- Nusa Tenggara
+		- Bismarck Archipelago
+		- Admiralty Islands
+		- Scilly Islands
+		- Isles of Scilly
+		- Hebrides
+		- Hebridean Islands
+		- Hebridean Isles
+		- Western Islands
+		- Western Isles
+		- Inner Hebrides
+		- Outer Hebrides
+		- Japan
+		- Japanese Islands
+		- Japanese Archipelago
+		- Ryukyu Islands
+		- Volcano Islands
+		- Frisian Islands
+		- Orkney Islands
+		- Shetland
+		- Shetland Islands
+		- Zetland
+		- Palau
+		- Palau Islands
+		- Belau
+		- Pelew
+		- Philippines
+		- Philippine Islands
+		- Madeira Islands
+		- Madeiras
+		- Society Islands
+		- Tuamotu Archipelago
+		- Paumotu Archipelago
+		- Low Archipelago
+		- Tubuai Islands
+		- Austral Islands
+		- Gambier Islands
+		- Marquesas Islands
+		- Iles Marquises
+		- Solomons
+		- Solomon Islands
+		- Balearic Islands
+		- Alexander Archipelago
+		- Hawaiian Islands
+		- H
+		- Sandwich Islands
+	- Related
+		- archipelagic
+
+
+# arrivederci
+
+
+## Noun
+
+1. a farewell remark; “they said their good-byes”
+	- Synonyms
+		- adieu
+		- adios
+		- auf wiedersehen
+		- au revoir
+		- bye
+		- bye-bye
+		- cheerio
+		c- good-by
+		- goodby
+		- good-bye
+		- goodbye
+		- good day
+		- sayonara
+		- so long
+	- Less specific
+		- farewell
+		- wordè vv  of farewell
+
+;:.
+r
+# arrivederci
+
+
+## Noun
+
+1. a farewell remark; “they said their good-byes”
+	- Synonyms
+		- adieu
+		- adios
+		- auf wiedersehen
+		- au revoir
+		- bye
+		- bye-bye
+		- cheerio
+		c- good-by
+		- goodby
+		- good-bye
+		- goodbye
+		- good day
+		- sayonara
+		- so long
+	- Less specific
+		- farewell
+		- wordè vv  of farewell
+
+;:.
+r
+# aspirant
+
+
+## Noun
+
+1. an ambitious and aspiring young person; “a lofty aspirant”; “two executive hopefuls joined the firm”; “the audience was full of Madonna wannabes”
+	- Synonyms
+		- aspirer
+		- hopeful
+		- wannabe
+		- wannabee
+	- Less specific
+		- applicant
+		- applier
+	- Related
+		- bright
+		- hopeful
+		- promising
+		- hopeful
+		- draw a bead on
+		- aspire
+		- aim
+		- shoot for
+		- aspirant
+		- aspiring
+		- wishful
+		- draw a bead on
+		- aspire
+		- aim
+		- shoot for
+
+## Adjective
+
+1. desiring or striving for recognition or advancement
+	- Synonyms
+		- aspiring
+		- wishful
+	- Similar to
+		- ambitious
+	- Related
+		- aspirant
+		- aspirer
+		- hopeful
+		- wannabe
+		- wannabee
+		- draw a bead on
+		- aspire
+		- aim
+		- shoot for
+
+
+# aspirant
+
+
+## Noun
+
+1. an ambitious and aspiring young person; “a lofty aspirant”; “two executive hopefuls joined the firm”; “the audience was full of Madonna wannabes”
+	- Synonyms
+		- aspirer
+		- hopeful
+		- wannabe
+		- wannabee
+	- Less specific
+		- applicant
+		- applier
+	- Related
+		- bright
+		- hopeful
+		- promising
+		- hopeful
+		- draw a bead on
+		- aspire
+		- aim
+		- shoot for
+		- aspirant
+		- aspiring
+		- wishful
+		- draw a bead on
+		- aspire
+		- aim
+		- shoot for
+
+## Adjective
+
+1. desiring or striving for recognition or advancement
+	- Synonyms
+		- aspiring
+		- wishful
+	- Similar to
+		- ambitious
+	- Related
+		- aspirant
+		- aspirer
+		- hopeful
+		- wannabe
+		- wannabee
+		- draw a bead on
+		- aspire
+		- aim
+		- shoot for
+
+
+# assiduous
+
+
+## Adjective
+
+1. marked by care and persistent effort; “her assiduous attempts to learn French”; “assiduous research”; “sedulous pursuit of legal and moral principles”
+	- Synonyms
+		- sedulous
+	- Similar to
+		- diligent
+	- Related
+		- sedulity
+		- sedulousness
+		- sedulity
+		- sedulousness
+		- assiduity
+		- assiduousness
+		- concentration
+		- assiduity
+		- assiduousness
+		- concentration
+
+- [**assiduous** - LookUp](https://learnwithlookup.com/share/index.html?word=assiduous&definition=showing%2520great%2520care%2520and%2520perseverance&data=eyJpbWFnZSI6IiIsIndvcmQiOiJhc3NpZHVvdXMiLCJkZWZpbml0aW9uIjoic2hvd2luZyBncmVhdCBjYXJlIGFuZCBwZXJzZXZlcmFuY2UifQ%3D%3D)
+Adjective
+1.	showing great care and perseverance
+she was assiduous in pointing out every feature
+
+## Thesaurus 
+
+Adjective
+1.	she was assiduous in pointing out every feature
+
+Similar Words: 	diligent    careful    meticulous    thorough    sedulous    attentive    industrious    laborious    hard-working    conscientious    ultra-careful    punctilious    painstaking    demanding    exacting    persevering    unflagging    searching    close    elaborate    minute    accurate    correct    studious    rigorous    particular    religious    strict    pedantic    fussy
+# assuasive
+
+
+## Adjective
+
+1. freeing from fear and anxiety
+	- Synonyms
+		- soothing
+	- Similar to
+		- reassuring
+
+
+# assuasive
+
+
+## Adjective
+
+1. freeing from fear and anxiety
+	- Synonyms
+		- soothing
+	- Similar to
+		- reassuring
+
+
 # atavism
 
 
@@ -179,7 +2423,21 @@
 	- Related
 		- atavist
 		- throwback
-===
+# atavism
+
+
+## Noun
+
+1. a reappearance of an earlier characteristic
+	- Synonyms
+		- reversion
+		- throwback
+	- Less specific
+		- recurrence
+		- return
+	- Related
+		- atavist
+		- throwback
 # atrabilious
 
 
@@ -196,7 +2454,178 @@
 		- biliousness
 
 
-===
+# atrabilious
+
+
+## Adjective
+
+1. irritable as if suffering from indigestion
+	- Synonyms
+		- bilious
+		- dyspeptic
+		- liverish
+	- Similar to
+		- ill-natured
+	- Related
+		- biliousness
+
+
+# attrition
+
+
+## Noun
+
+1. erosion by friction
+	- Synonyms
+		- abrasion
+		- corrasion
+		- detrition
+	- Less specific
+		- erosion
+		- eroding
+		- eating away
+		- wearing
+		- wearing away
+	- Related
+		- abrade
+		- corrade
+		- abrase
+		- rub down
+		- rub off
+		- attritional
+		- abrade
+		- corrade
+		- abrase
+		- rub down
+		- rub off
+2. the wearing down of rock particles by friction due to water or wind or ice
+	- Synonyms
+		- grinding
+		- abrasion
+		- detrition
+	- Less specific
+		- friction
+		- rubbing
+	- Related
+		- attritional
+		- abrade
+		- corrade
+		- abrase
+		- rub down
+		- rub off
+		- grind
+		- mash
+		- crunch
+		- bray
+		- comminute
+3. sorrow for sin arising from fear of damnation
+	- Synonyms
+		- contrition
+		- contriteness
+	- Less specific
+		- sorrow
+		- regret
+		- rue
+		- ruefulness
+	- Related
+		- contrite
+		- remorseful
+		- rueful
+		- ruthful
+4. a wearing down to weaken or destroy; “a war of attrition”
+	- Less specific
+		- decrease
+		- lessening
+		- drop-off
+	- Related
+		- attritional
+5. the act of rubbing together; wearing something down by friction
+	- Less specific
+		- friction
+		- detrition
+		- rubbing
+	- Related
+		- attritional
+
+
+# attrition
+
+
+## Noun
+
+1. erosion by friction
+	- Synonyms
+		- abrasion
+		- corrasion
+		- detrition
+	- Less specific
+		- erosion
+		- eroding
+		- eating away
+		- wearing
+		- wearing away
+	- Related
+		- abrade
+		- corrade
+		- abrase
+		- rub down
+		- rub off
+		- attritional
+		- abrade
+		- corrade
+		- abrase
+		- rub down
+		- rub off
+2. the wearing down of rock particles by friction due to water or wind or ice
+	- Synonyms
+		- grinding
+		- abrasion
+		- detrition
+	- Less specific
+		- friction
+		- rubbing
+	- Related
+		- attritional
+		- abrade
+		- corrade
+		- abrase
+		- rub down
+		- rub off
+		- grind
+		- mash
+		- crunch
+		- bray
+		- comminute
+3. sorrow for sin arising from fear of damnation
+	- Synonyms
+		- contrition
+		- contriteness
+	- Less specific
+		- sorrow
+		- regret
+		- rue
+		- ruefulness
+	- Related
+		- contrite
+		- remorseful
+		- rueful
+		- ruthful
+4. a wearing down to weaken or destroy; “a war of attrition”
+	- Less specific
+		- decrease
+		- lessening
+		- drop-off
+	- Related
+		- attritional
+5. the act of rubbing together; wearing something down by friction
+	- Less specific
+		- friction
+		- detrition
+		- rubbing
+	- Related
+		- attritional
+
+
 # automation
 
 ## Noun
@@ -238,7 +2667,47 @@
 - [[- Embed <audio> Element: ⇧⌃A]]
 ---
 
-===
+# automation
+
+## Noun
+
+1. the act of implementing the control of equipment with advanced technology; usually involving electronic hardware; “automation replaces human workers by machines”
+	- Synonyms
+		- mechanization
+		- mechanisation
+	- Less specific
+		- high technology
+		- high tech
+	- More specific
+		- computerization
+		- cybernation
+	- Related
+		- mechanize
+		- mechanise
+		- mechanize
+		- mechanise
+		- automatize
+		- automatise
+		- automate
+2. the condition of being automatically operated or controlled; “automation increases productivity”
+	- Less specific
+		- condition
+		- status
+	- Related
+		- automatize
+		- automatise
+		- automate
+3. equipment used to achieve automatic control or operation; “this factory floor is a showcase for automation and robotic equipment”
+	- Less specific
+		- equipment
+
+
+---
+**BACK LINKS**  
+  
+- [[- Embed <audio> Element: ⇧⌃A]]
+---
+
 # axiomatic
 ## Adjective
 
@@ -273,14 +2742,98 @@
 		- axiom
 		- axiom
 
-===
+# axiomatic
+## Adjective
+
+1. evident without proof or argument; “an axiomatic truth”; “we hold these truths to be self-evident”
+	- Synonyms
+		- self-evident
+		- taken for granted
+	- Similar to
+		- obvious
+	- Related
+		- axiom
+2. containing aphorisms or maxims; “axiomatic wisdom”
+	- Synonyms
+		- aphoristic
+	- Pertains to
+		- maxim
+		- axiom
+	- Related
+		- aphorism
+		- apothegm
+		- apophthegm
+		- maxim
+		- axiom
+3. of or relating to or derived from axioms; “axiomatic physics”; “the postulational method was applied to geometry”- S.S.Stevens
+	- Synonyms
+		- axiomatical
+		- postulational
+	- Pertains to
+		- axiom
+		- axiom
+	- Related
+		- axiom
+		- axiom
+
+# bajulate
+
+
+(v.) to bear a heavy burden
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1528513623559118849)
+# bajulate
+
+
+(v.) to bear a heavy burden
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1528513623559118849)
+# balkanize
+
+
+## Verb
+
+1. divide a territory into small, hostile states
+	- Synonyms
+		- Balkanize
+		- Balkanise
+	- Less specific
+		- divide
+		- split
+		- split up
+		- separate
+		- dissever
+		- carve up
+
+
+# balkanize
+
+
+## Verb
+
+1. divide a territory into small, hostile states
+	- Synonyms
+		- Balkanize
+		- Balkanise
+	- Less specific
+		- divide
+		- split
+		- split up
+		- separate
+		- dissever
+		- carve up
+
+
 # bandylan
 
 
 > Word of the Day: BANDYLAN (n.) an outcast, an unpleasant person shunned by others [19thC dial.]
 
 - [@HaggardHawks](https://twitter.com/HaggardHawks/status/1498553625701859332)
-===
+# bandylan
+
+
+> Word of the Day: BANDYLAN (n.) an outcast, an unpleasant person shunned by others [19thC dial.]
+
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1498553625701859332)
 # bathyscaphe
 
 
@@ -294,12 +2847,27 @@
 		- submersible
 
 
-===
+# bathyscaphe
+
+
+## Noun
+
+1. navigable deep diving vessel for underwater exploration
+	- Synonyms
+		- bathyscaph
+		- bathyscape
+	- Less specific
+		- submersible
+
+
 # bathysphere
 -noun
 
 a strongly built steel diving sphere for deep-sea observation
-===
+# bathysphere
+-noun
+
+a strongly built steel diving sphere for deep-sea observation
 # bauble
 
 
@@ -339,7 +2907,505 @@ a strongly built steel diving sphere for deep-sea observation
 		- trashy
 
 
-===
+# bauble
+
+
+## Noun
+
+1. a mock scepter carried by a court jester
+	- Less specific
+		- scepter
+		- sceptre
+		- verge
+		- wand
+2. cheap showy jewelry or ornament on clothing
+	- Synonyms
+		- bangle
+		- gaud
+		- gewgaw
+		- novelty
+		- fallal
+		- trinket
+	- Less specific
+		- adornment
+	- Member of
+		- trinketry
+	- Related
+		- brassy
+		- cheap
+		- flash
+		- flashy
+		- garish
+		- gaudy
+		- gimcrack
+		- loud
+		- meretricious
+		- tacky
+		- tatty
+		- tawdry
+		- trashy
+
+
+# bearing
+
+
+## Noun
+
+1. relevant relation or interconnection; “those issues have no bearing on our situation”
+	- Less specific
+		- relatedness
+2. the direction or path along which something moves or along which it lies
+	- Synonyms
+		- heading
+		- aim
+	- Less specific
+		- direction
+		- way
+	- More specific
+		- tack
+	- Related
+		- steer
+		- maneuver
+		- manoeuver
+		- manoeuvre
+		- direct
+		- point
+		- head
+		- guide
+		- channelize
+		- channelise
+		- head
+3. dignified manner or conduct
+	- Synonyms
+		- comportment
+		- presence
+		- mien
+	- Less specific
+		- manner
+		- personal manner
+	- More specific
+		- dignity
+		- lordliness
+		- gravitas
+	- Related
+		- behave
+		- acquit
+		- bear
+		- deport
+		- conduct
+		- comport
+		- carry
+		- behave
+		- comport
+		- behave
+		- acquit
+		- bear
+		- deport
+		- conduct
+		- comport
+		- carry
+4. characteristic way of bearing one’s body; “stood with good posture”
+	- Synonyms
+		- carriage
+		- posture
+	- Less specific
+		- bodily property
+	- More specific
+		- walk
+		- manner of walking
+		- slouch
+		- gracefulness
+		- awkwardness
+		- clumsiness
+	- Related
+		- postural
+		- hold
+		- carry
+		- bear
+		- hold
+		- carry
+		- bear
+5. heraldry consisting of a design or image depicted on a shield
+	- Synonyms
+		- charge
+		- heraldic bearing
+		- armorial bearing
+	- Less specific
+		- heraldry
+	- More specific
+		- roundel
+		- annulet
+		- chevron
+		- fleur-de-lis
+		- fleur-de-lys
+		- ordinary
+	- Related
+		- charge
+6. a rotating support placed between moving parts to allow them to move easily
+	- Less specific
+		- support
+	- More specific
+		- ball bearing
+		- needle bearing
+		- roller bearing
+		- fifth wheel
+		- journal bearing
+		- thrust bearing
+	- Part of
+		- rotating mechanism
+
+## Adjective
+
+1. (of a structural member) withstanding a weight or strain
+	- Antonyms
+		- nonbearing
+	- Similar to
+		- load-bearing
+		- supporting
+
+
+# bearing
+
+
+## Noun
+
+1. relevant relation or interconnection; “those issues have no bearing on our situation”
+	- Less specific
+		- relatedness
+2. the direction or path along which something moves or along which it lies
+	- Synonyms
+		- heading
+		- aim
+	- Less specific
+		- direction
+		- way
+	- More specific
+		- tack
+	- Related
+		- steer
+		- maneuver
+		- manoeuver
+		- manoeuvre
+		- direct
+		- point
+		- head
+		- guide
+		- channelize
+		- channelise
+		- head
+3. dignified manner or conduct
+	- Synonyms
+		- comportment
+		- presence
+		- mien
+	- Less specific
+		- manner
+		- personal manner
+	- More specific
+		- dignity
+		- lordliness
+		- gravitas
+	- Related
+		- behave
+		- acquit
+		- bear
+		- deport
+		- conduct
+		- comport
+		- carry
+		- behave
+		- comport
+		- behave
+		- acquit
+		- bear
+		- deport
+		- conduct
+		- comport
+		- carry
+4. characteristic way of bearing one’s body; “stood with good posture”
+	- Synonyms
+		- carriage
+		- posture
+	- Less specific
+		- bodily property
+	- More specific
+		- walk
+		- manner of walking
+		- slouch
+		- gracefulness
+		- awkwardness
+		- clumsiness
+	- Related
+		- postural
+		- hold
+		- carry
+		- bear
+		- hold
+		- carry
+		- bear
+5. heraldry consisting of a design or image depicted on a shield
+	- Synonyms
+		- charge
+		- heraldic bearing
+		- armorial bearing
+	- Less specific
+		- heraldry
+	- More specific
+		- roundel
+		- annulet
+		- chevron
+		- fleur-de-lis
+		- fleur-de-lys
+		- ordinary
+	- Related
+		- charge
+6. a rotating support placed between moving parts to allow them to move easily
+	- Less specific
+		- support
+	- More specific
+		- ball bearing
+		- needle bearing
+		- roller bearing
+		- fifth wheel
+		- journal bearing
+		- thrust bearing
+	- Part of
+		- rotating mechanism
+
+## Adjective
+
+1. (of a structural member) withstanding a weight or strain
+	- Antonyms
+		- nonbearing
+	- Similar to
+		- load-bearing
+		- supporting
+
+
+# beatitude
+
+
+## Noun
+
+1. a state of supreme happiness
+	- Synonyms
+		- blessedness
+		- beatification
+	- Less specific
+		- happiness
+		- felicity
+	- More specific
+		- nirvana
+		- enlightenment
+	- Related
+		- exhilarate
+		- tickle pink
+		- inebriate
+		- thrill
+		- exalt
+		- beatify
+		- beatify
+		- blessed
+2. one of the eight sayings of Jesus at the beginning of the Sermon on the Mount; in Latin each saying begins with `beatus’ (blessed); “her favorite Beatitude is `Blessed are the meek for they shall inherit the earth’”
+	- Less specific
+		- saying
+		- expression
+		- locution
+	- Part of
+		- Sermon on the Mount
+
+
+# beatitude
+
+
+## Noun
+
+1. a state of supreme happiness
+	- Synonyms
+		- blessedness
+		- beatification
+	- Less specific
+		- happiness
+		- felicity
+	- More specific
+		- nirvana
+		- enlightenment
+	- Related
+		- exhilarate
+		- tickle pink
+		- inebriate
+		- thrill
+		- exalt
+		- beatify
+		- beatify
+		- blessed
+2. one of the eight sayings of Jesus at the beginning of the Sermon on the Mount; in Latin each saying begins with `beatus’ (blessed); “her favorite Beatitude is `Blessed are the meek for they shall inherit the earth’”
+	- Less specific
+		- saying
+		- expression
+		- locution
+	- Part of
+		- Sermon on the Mount
+
+
+# bemoan
+
+
+## Verb
+
+1. regret strongly; “I deplore this hostile action”; “we lamented the loss of benefits”
+	- Synonyms
+		- deplore
+		- lament
+		- bewail
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- deplorable
+		- distressing
+		- lamentable
+		- pitiful
+		- sad
+		- sorry
+		- mourner
+		- griever
+		- sorrower
+		- lamenter
+
+
+# bemoan
+
+
+## Verb
+
+1. regret strongly; “I deplore this hostile action”; “we lamented the loss of benefits”
+	- Synonyms
+		- deplore
+		- lament
+		- bewail
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- deplorable
+		- distressing
+		- lamentable
+		- pitiful
+		- sad
+		- sorry
+		- mourner
+		- griever
+		- sorrower
+		- lamenter
+
+
+# bemuse
+
+
+## Verb
+
+1. cause to be confused emotionally
+	- Synonyms
+		- bewilder
+		- discombobulate
+		- throw
+	- Less specific
+		- upset
+		- discompose
+		- untune
+		- disconcert
+		- discomfit
+	- Related
+		- confusion
+		- discombobulation
+		- bewilderment
+		- obfuscation
+		- puzzlement
+		- befuddlement
+		- mystification
+		- bafflement
+		- bemusement
+
+
+# bemuse
+
+
+## Verb
+
+1. cause to be confused emotionally
+	- Synonyms
+		- bewilder
+		- discombobulate
+		- throw
+	- Less specific
+		- upset
+		- discompose
+		- untune
+		- disconcert
+		- discomfit
+	- Related
+		- confusion
+		- discombobulation
+		- bewilderment
+		- obfuscation
+		- puzzlement
+		- befuddlement
+		- mystification
+		- bafflement
+		- bemusement
+
+
+# benefaction
+
+
+## Noun
+
+1. a contribution of money or assistance
+	- Less specific
+		- contribution
+		- donation
+	- Related
+		- benefact
+2. an act intending or showing kindness and good will
+	- Synonyms
+		- benevolence
+	- Less specific
+		- kindness
+		- benignity
+	- Related
+		- benefact
+		- benevolent
+
+# benefaction
+
+
+## Noun
+
+1. a contribution of money or assistance
+	- Less specific
+		- contribution
+		- donation
+	- Related
+		- benefact
+2. an act intending or showing kindness and good will
+	- Synonyms
+		- benevolence
+	- Less specific
+		- kindness
+		- benignity
+	- Related
+		- benefact
+		- benevolent
+
 # bevy
 
 
@@ -356,7 +3422,40 @@ a strongly built steel diving sphere for deep-sea observation
 		- quail
 
 
-===
+# bevy
+
+
+## Noun
+
+1. a large gathering of people of a particular type; “he was surrounded by a bevy of beauties in bathing attire”; “a bevy of young beach boys swarmed around him”
+	- Less specific
+		- gathering
+		- assemblage
+2. a flock of birds (especially when gathered close together on the ground); “we were visited at breakfast by a bevy of excited ducks”
+	- Less specific
+		- flock
+	- Members
+		- quail
+
+
+# bildungsroman
+
+
+*From LookUp*:
+Noun
+1.	Literature a novel dealing with one person's formative years or spiritual education
+the book is a bildungsroman of sorts, as Tull overcomes his abused childhood and learns about love
+
+In literary criticism, a Bildungsroman (German pronunciation: [ˈbɪldʊŋs.ʁoˌmaːn], plural Bildungsromane, German pronunciation: [ˈbɪldʊŋs.ʁoˌmaːnə]) is a literary genre that focuses on the psychological and moral growth of the protagonist from childhood to adulthood (coming of age), in which character change is important. The term comes from the German words Bildung ("education", alternatively "forming") and Roman ("novel").
+# bildungsroman
+
+
+*From LookUp*:
+Noun
+1.	Literature a novel dealing with one person's formative years or spiritual education
+the book is a bildungsroman of sorts, as Tull overcomes his abused childhood and learns about love
+
+In literary criticism, a Bildungsroman (German pronunciation: [ˈbɪldʊŋs.ʁoˌmaːn], plural Bildungsromane, German pronunciation: [ˈbɪldʊŋs.ʁoˌmaːnə]) is a literary genre that focuses on the psychological and moral growth of the protagonist from childhood to adulthood (coming of age), in which character change is important. The term comes from the German words Bildung ("education", alternatively "forming") and Roman ("novel").
 # bitch
 
 
@@ -499,7 +3598,822 @@ a strongly built steel diving sphere for deep-sea observation
 		- backbiter
 		- traducer
 
-===
+# bitch
+
+
+## Noun
+
+1. an unpleasant difficulty; “this problem is a real bitch”
+	- Less specific
+		- difficulty
+2. a person (usually but not necessarily a woman) who is thoroughly disliked; “she said her son thought Hillary was a bitch”
+	- Synonyms
+		- cunt
+	- Less specific
+		- unpleasant person
+		- disagreeable person
+3. informal terms for objecting; “I have a gripe about the service here”
+	- Synonyms
+		- gripe
+		- kick
+		- beef
+		- squawk
+	- Less specific
+		- objection
+	- Related
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- bitchy
+		- catty
+		- cattish
+		- backbite
+		- bitch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+4. female of any member of the dog family
+	- Less specific
+		- canine
+		- canid
+	- More specific
+		- brood bitch
+
+## Verb
+
+1. complain; “What was he hollering about?”
+	- Synonyms
+		- gripe
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- crab
+		- crabby person
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+2. say mean things
+	- Synonyms
+		- backbite
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- bitchery
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+
+# blimpism
+
+
+An ideology centered around the proliferation of lighter-than-air craft.
+# blimpism
+
+
+An ideology centered around the proliferation of lighter-than-air craft.
+# bluster
+
+
+## Noun
+
+1. noisy confusion and turbulence; “he was awakened by the bluster of their preparations”
+	- Less specific
+		- confusion
+2. a swaggering show of courage
+	- Synonyms
+		- bravado
+	- Less specific
+		- ostentation
+		- fanfare
+		- flash
+	- Related
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- vaunt
+		- gasconade
+3. a violent gusty wind
+	- Less specific
+		- gust
+		- blast
+		- blow
+	- Related
+		- blustering
+		- blusterous
+		- blustery
+		- blustering
+		- blusterous
+		- blustery
+		- bluster
+4. vain and empty boasting
+	- Synonyms
+		- braggadocio
+		- rodomontade
+		- rhodomontade
+	- Less specific
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+	- Related
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- vaunt
+		- gasconade
+
+## Verb
+
+1. blow hard; be gusty, as of wind; “A southeaster blustered onshore”; “The flames blustered”
+	- Less specific
+		- blow
+	- Related
+		- bluster
+2. show off
+	- Synonyms
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- vaunt
+		- gasconade
+	- Less specific
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+	- More specific
+		- puff
+		- gloat
+		- triumph
+		- crow
+	- Related
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- vaunt
+		- braggadocio
+		- bluster
+		- rodomontade
+		- rhodomontade
+		- bravado
+		- bluster
+		- loudmouth
+		- blusterer
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+3. act in an arrogant, overly self-assured, or conceited manner
+	- Synonyms
+		- swagger
+		- swash
+	- Less specific
+		- act
+		- behave
+		- do
+	- Related
+		- loudmouth
+		- blusterer
+		- swaggerer
+
+- [**LookUp**](https://learnwithlookup.com/share/index.html?word=bluster&definition=talk%2520in%2520loud,%2520aggressive,%2520or%2520indignant%2520way%2520with%2520little%2520effect&data=eyJpbWFnZSI6IiIsIndvcmQiOiJibHVzdGVyIiwiZGVmaW5pdGlvbiI6InRhbGsgaW4gbG91ZCwgYWdncmVzc2l2ZSwgb3IgaW5kaWduYW50IHdheSB3aXRoIGxpdHRsZSBlZmZlY3QifQ%3D%3D)
+Verb
+1.	talk in a loud, aggressive, or indignant way with little effect
+you threaten and bluster, but won't carry it through | “I don't care what he says,” I blustered
+
+(of a storm, wind, or rain) blow or beat fiercely and noisily
+a winter gale blustered against the sides of the house
+
+
+Noun
+1.	loud, aggressive, or indignant talk with little effect
+their threats contained a measure of bluster
+
+## Thesaurus
+
+Verb
+1.	he's still blustering and saying that he'll never resort to that
+
+Similar Words: 	rant    thunder    boast    brag    swagger    throw one's weight about    throw one's weight around    be overbearing    lord it    vaunt    bray    crow
+
+2.	in winter the storms bluster in from the Mediterranean
+
+Similar Words: 	blow fiercely    blast    gust    storm    roar    rush
+
+
+
+Noun
+1.	he sought refuge in bluster and bullying
+
+Similar Words: 	ranting    hectoring    thundering    threatening    threats    bullying    domineering    boasting    bragging    swaggering    throwing one's weight around    bombast    bravado    bumptiousness    imperiousness    empty threats    humbug    braggadocio
+# bluster
+
+
+## Noun
+
+1. noisy confusion and turbulence; “he was awakened by the bluster of their preparations”
+	- Less specific
+		- confusion
+2. a swaggering show of courage
+	- Synonyms
+		- bravado
+	- Less specific
+		- ostentation
+		- fanfare
+		- flash
+	- Related
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- vaunt
+		- gasconade
+3. a violent gusty wind
+	- Less specific
+		- gust
+		- blast
+		- blow
+	- Related
+		- blustering
+		- blusterous
+		- blustery
+		- blustering
+		- blusterous
+		- blustery
+		- bluster
+4. vain and empty boasting
+	- Synonyms
+		- braggadocio
+		- rodomontade
+		- rhodomontade
+	- Less specific
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+	- Related
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- vaunt
+		- gasconade
+
+## Verb
+
+1. blow hard; be gusty, as of wind; “A southeaster blustered onshore”; “The flames blustered”
+	- Less specific
+		- blow
+	- Related
+		- bluster
+2. show off
+	- Synonyms
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- vaunt
+		- gasconade
+	- Less specific
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+	- More specific
+		- puff
+		- gloat
+		- triumph
+		- crow
+	- Related
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- vaunt
+		- braggadocio
+		- bluster
+		- rodomontade
+		- rhodomontade
+		- bravado
+		- bluster
+		- loudmouth
+		- blusterer
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+3. act in an arrogant, overly self-assured, or conceited manner
+	- Synonyms
+		- swagger
+		- swash
+	- Less specific
+		- act
+		- behave
+		- do
+	- Related
+		- loudmouth
+		- blusterer
+		- swaggerer
+
+- [**LookUp**](https://learnwithlookup.com/share/index.html?word=bluster&definition=talk%2520in%2520loud,%2520aggressive,%2520or%2520indignant%2520way%2520with%2520little%2520effect&data=eyJpbWFnZSI6IiIsIndvcmQiOiJibHVzdGVyIiwiZGVmaW5pdGlvbiI6InRhbGsgaW4gbG91ZCwgYWdncmVzc2l2ZSwgb3IgaW5kaWduYW50IHdheSB3aXRoIGxpdHRsZSBlZmZlY3QifQ%3D%3D)
+Verb
+1.	talk in a loud, aggressive, or indignant way with little effect
+you threaten and bluster, but won't carry it through | “I don't care what he says,” I blustered
+
+(of a storm, wind, or rain) blow or beat fiercely and noisily
+a winter gale blustered against the sides of the house
+
+
+Noun
+1.	loud, aggressive, or indignant talk with little effect
+their threats contained a measure of bluster
+
+## Thesaurus
+
+Verb
+1.	he's still blustering and saying that he'll never resort to that
+
+Similar Words: 	rant    thunder    boast    brag    swagger    throw one's weight about    throw one's weight around    be overbearing    lord it    vaunt    bray    crow
+
+2.	in winter the storms bluster in from the Mediterranean
+
+Similar Words: 	blow fiercely    blast    gust    storm    roar    rush
+
+
+
+Noun
+1.	he sought refuge in bluster and bullying
+
+Similar Words: 	ranting    hectoring    thundering    threatening    threats    bullying    domineering    boasting    bragging    swaggering    throwing one's weight around    bombast    bravado    bumptiousness    imperiousness    empty threats    humbug    braggadocio
+# bokeh
+
+
+*From LookUp*:
+Noun
+1.	Photography the visual quality of the out-of-focus areas of a photographic image, especially as rendered by a particular lens
+a quick, visual survey of the foreground and background bokeh of a variety of lenses
+# bokeh
+
+
+*From LookUp*:
+Noun
+1.	Photography the visual quality of the out-of-focus areas of a photographic image, especially as rendered by a particular lens
+a quick, visual survey of the foreground and background bokeh of a variety of lenses
+# bole
+
+
+## Noun
+
+1. a soft oily clay used as a pigment (especially a reddish brown pigment)
+	- Less specific
+		- pigment
+		- soil
+		- dirt
+2. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber
+	- Synonyms
+		- trunk
+		- tree trunk
+	- Less specific
+		- stalk
+		- stem
+	- Parts
+		- bark
+	- Part of
+		- tree
+3. a Chadic language spoken in northern Nigeria and closely related to Hausa
+	- Synonyms
+		- Bole
+		- Bolanci
+	- Less specific
+		- West Chadic
+
+
+# bole
+
+
+## Noun
+
+1. a soft oily clay used as a pigment (especially a reddish brown pigment)
+	- Less specific
+		- pigment
+		- soil
+		- dirt
+2. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber
+	- Synonyms
+		- trunk
+		- tree trunk
+	- Less specific
+		- stalk
+		- stem
+	- Parts
+		- bark
+	- Part of
+		- tree
+3. a Chadic language spoken in northern Nigeria and closely related to Hausa
+	- Synonyms
+		- Bole
+		- Bolanci
+	- Less specific
+		- West Chadic
+
+
+# bombastic
+
+
+## Adjective
+
+1. ostentatiously lofty in style; “a man given to large talk”; “tumid political prose”
+	- Synonyms
+		- declamatory
+		- large
+		- orotund
+		- tumid
+		- turgid
+	- Similar to
+		- rhetorical
+	- Related
+		- turgidity
+		- turgidness
+		- flatulence
+		- turgidity
+		- turgidness
+		- flatulence
+		- pretentiousness
+		- pretension
+		- largeness
+		- bombast
+		- fustian
+		- rant
+		- claptrap
+		- blah
+
+
+# bombastic
+
+
+## Adjective
+
+1. ostentatiously lofty in style; “a man given to large talk”; “tumid political prose”
+	- Synonyms
+		- declamatory
+		- large
+		- orotund
+		- tumid
+		- turgid
+	- Similar to
+		- rhetorical
+	- Related
+		- turgidity
+		- turgidness
+		- flatulence
+		- turgidity
+		- turgidness
+		- flatulence
+		- pretentiousness
+		- pretension
+		- largeness
+		- bombast
+		- fustian
+		- rant
+		- claptrap
+		- blah
+
+
+# bombinate
+
+
+## Verb
+
+1. make a buzzing sound; “bees were buzzing around the hive”
+	- Synonyms
+		- buzz
+		- bombilate
+	- Less specific
+		- sound
+		- go
+	- Related
+		- buzz
+		- bombilation
+		- bombination
+		- buzz
+		- bombilation
+		- bombination
+		- buzz
+		- bombilation
+		- bombination
+		- buzzer
+		- doorbell
+		- bell
+		- buzzer
+
+
+# bombinate
+
+
+## Verb
+
+1. make a buzzing sound; “bees were buzzing around the hive”
+	- Synonyms
+		- buzz
+		- bombilate
+	- Less specific
+		- sound
+		- go
+	- Related
+		- buzz
+		- bombilation
+		- bombination
+		- buzz
+		- bombilation
+		- bombination
+		- buzz
+		- bombilation
+		- bombination
+		- buzzer
+		- doorbell
+		- bell
+		- buzzer
+
+
+# boodle
+
+
+## Noun
+
+1. informal terms for money
+	- Synonyms
+		- bread
+		- cabbage
+		- clams
+		- dinero
+		- dough
+		- gelt
+		- kale
+		- lettuce
+		- lolly
+		- lucre
+		- loot
+		- moolah
+		- pelf
+		- scratch
+		- shekels
+		- simoleons
+		- sugar
+		- wampum
+	- Less specific
+		- money
+	- Related
+		- pilfer
+		- cabbage
+		- purloin
+		- pinch
+		- abstract
+		- snarf
+		- swipe
+		- hook
+		- sneak
+		- filch
+		- nobble
+		- lift
+2. a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card
+	- Synonyms
+		- Michigan
+		- Chicago
+		- Newmarket
+		- stops
+	- Less specific
+		- card game
+		- cards
+
+
+# boodle
+
+
+## Noun
+
+1. informal terms for money
+	- Synonyms
+		- bread
+		- cabbage
+		- clams
+		- dinero
+		- dough
+		- gelt
+		- kale
+		- lettuce
+		- lolly
+		- lucre
+		- loot
+		- moolah
+		- pelf
+		- scratch
+		- shekels
+		- simoleons
+		- sugar
+		- wampum
+	- Less specific
+		- money
+	- Related
+		- pilfer
+		- cabbage
+		- purloin
+		- pinch
+		- abstract
+		- snarf
+		- swipe
+		- hook
+		- sneak
+		- filch
+		- nobble
+		- lift
+2. a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card
+	- Synonyms
+		- Michigan
+		- Chicago
+		- Newmarket
+		- stops
+	- Less specific
+		- card game
+		- cards
+
+
 # boolean
 
 
@@ -514,7 +4428,105 @@ a strongly built steel diving sphere for deep-sea observation
 		- George Boole
 
 
-===
+# boolean
+
+
+## Adjective
+
+1. of or relating to a combinatorial system devised by George Boole that combines propositions with the logical operators AND and OR and IF THEN and EXCEPT and NOT
+	- Pertains to
+		- Boole
+		- George Boole
+	- Related
+		- Boole
+		- George Boole
+
+
+# 🅱️oolin
+
+
+"Just messing around with your friends, having a good time. Just as the 🅱️ emoji goes it can refer to 'foolin' or 'boolin' both are practicly the same meaning but 'boiling' is used by the Bloods.
+
+Person 1: 'What are you doing tonight?'
+
+Person 2: 'You know, probably 🅱️oolin with my homes'"
+-[Urban Dictionary: 🅱️oolin](https://www.urbandictionary.com/define.php?term=%F0%9F%85%B1%EF%B8%8Foolin)
+# 🅱️oolin
+
+
+"Just messing around with your friends, having a good time. Just as the 🅱️ emoji goes it can refer to 'foolin' or 'boolin' both are practicly the same meaning but 'boiling' is used by the Bloods.
+
+Person 1: 'What are you doing tonight?'
+
+Person 2: 'You know, probably 🅱️oolin with my homes'"
+-[Urban Dictionary: 🅱️oolin](https://www.urbandictionary.com/define.php?term=%F0%9F%85%B1%EF%B8%8Foolin)
+# boondocks
+
+
+## Noun
+
+1. a remote and undeveloped area
+	- Synonyms
+		- backwoods
+		- back country
+		- hinterland
+	- Less specific
+		- country
+		- rural area
+
+- [**boondocks** - LookUp](https://learnwithlookup.com/share/index.html?word=boondocks&definition=rough%2520or%2520isolated%2520country&data=eyJpbWFnZSI6IiIsIndvcmQiOiJib29uZG9ja3MiLCJkZWZpbml0aW9uIjoicm91Z2ggb3IgaXNvbGF0ZWQgY291bnRyeSJ9)
+Noun
+1.	Geography Informal North American rough, remote, or isolated country
+we're out here in the boondocks, miles from a telephone
+
+## Thesaurus
+
+Noun
+1.	until I was twelve, we lived in the boondocks
+
+Similar Words: 	the country    the countryside    the provinces    rural districts    the backwoods    the back of beyond    the wilds    the hinterland    a backwater    the backcountry    the backland    hicksville    the backblocks    Bandywallop    the booay    the backveld    the platteland    the middle of nowhere    the sticks    the boonies    the tall timbers    Woop Woop    beyond the black stump    Bullamakanka    Oodnagalahbi
+# bouffant
+
+
+## Noun
+
+1. a woman’s hairstyle in which the hair gives a puffy appearance
+	- Less specific
+		- hairdo
+		- hairstyle
+		- hair style
+		- coiffure
+		- coif
+
+## Adjective
+
+1. being puffed out; used of hair style or clothing; “a bouffant skirt”
+	- Synonyms
+		- puffy
+	- Similar to
+		- large
+		- big
+# bouffant
+
+
+## Noun
+
+1. a woman’s hairstyle in which the hair gives a puffy appearance
+	- Less specific
+		- hairdo
+		- hairstyle
+		- hair style
+		- coiffure
+		- coif
+
+## Adjective
+
+1. being puffed out; used of hair style or clothing; “a bouffant skirt”
+	- Synonyms
+		- puffy
+	- Similar to
+		- large
+		- big
 # bout
 
 
@@ -578,7 +4590,69 @@ a strongly built steel diving sphere for deep-sea observation
 		- scarf out
 
 
-===
+# bout
+
+
+## Noun
+
+1. (sports) a division during which one team is on the offensive
+	- Synonyms
+		- turn
+		- round
+	- Less specific
+		- part
+		- section
+		- division
+	- More specific
+		- top
+		- top of the inning
+		- bottom
+		- bottom of the inning
+	- Part of
+		- playing period
+		- period of play
+		- play
+	- Topic Members
+		- sport
+		- athletics
+2. a period of illness; “a bout of fever”; “a bout of depression”
+	- Less specific
+		- time period
+		- period of time
+		- period
+3. a contest or fight (especially between boxers or wrestlers)
+	- Less specific
+		- contest
+		- competition
+4. an occasion for excessive eating or drinking; “they went on a bust that lasted three days”
+	- Synonyms
+		- bust
+		- tear
+		- binge
+	- Less specific
+		- revel
+		- revelry
+	- More specific
+		- piss-up
+	- Related
+		- gorge
+		- ingurgitate
+		- overindulge
+		- glut
+		- englut
+		- stuff
+		- engorge
+		- overgorge
+		- overeat
+		- gormandize
+		- gormandise
+		- gourmandize
+		- binge
+		- pig out
+		- satiate
+		- scarf out
+
+
 # bowdlerizer
 
 
@@ -609,7 +4683,36 @@ a strongly built steel diving sphere for deep-sea observation
 		- shorten
 
 
-===
+# bowdlerizer
+
+
+## Noun
+
+1. a person who edits a text by removing obscene or offensive words or passages; “Thomas Bowdler was a famous expurgator”
+	- Synonyms
+		- expurgator
+		- bowdleriser
+	- Less specific
+		- editor
+		- editor in chief
+	- Related
+		- bowdlerize
+		- bowdlerise
+		- expurgate
+		- castrate
+		- shorten
+		- bowdlerize
+		- bowdlerise
+		- expurgate
+		- castrate
+		- shorten
+		- bowdlerize
+		- bowdlerise
+		- expurgate
+		- castrate
+		- shorten
+
+
 # bozo
 
 
@@ -695,7 +4798,181 @@ a strongly built steel diving sphere for deep-sea observation
 		- Great Britain
 
 
-===
+# bozo
+
+
+## Noun
+
+1. a man who is a stupid incompetent fool
+	- Synonyms
+		- fathead
+		- goof
+		- goofball
+		- jackass
+		- goose
+		- cuckoo
+		- twat
+		- zany
+	- Less specific
+		- fool
+		- sap
+		- saphead
+		- muggins
+		- tomfool
+	- Related
+		- buffoonish
+		- clownish
+		- clownlike
+		- zany
+		- goofy
+		- silly
+		- wacky
+		- whacky
+		- zany
+		- anserine
+		- dopy
+		- dopey
+		- foolish
+		- goosey
+		- goosy
+		- gooselike
+		- jerky
+		- anserine
+		- dopy
+		- dopey
+		- foolish
+		- goosey
+		- goosy
+		- gooselike
+		- jerky
+		- goofy
+		- silly
+		- wacky
+		- whacky
+		- zany
+		- drop the ball
+		- sin
+		- blunder
+		- boob
+		- goof
+		- blockheaded
+		- boneheaded
+		- duncical
+		- duncish
+		- fatheaded
+		- loggerheaded
+		- thick
+		- thickheaded
+		- thick-skulled
+		- wooden-headed
+2. an informal term for a youth or man; “a nice guy”; “the guy’s only doing it for some doll”; “the poor sod couldn’t even buy a drink”
+	- Synonyms
+		- guy
+		- cat
+		- hombre
+		- sod
+	- Less specific
+		- man
+		- adult male
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+
+
+# broke
+
+
+## Adjective
+
+1. lacking funds; “`skint’ is a British slang term”
+	- Synonyms
+		- bust
+		- skint
+		- stone-broke
+		- stony-broke
+	- Similar to
+		- poor
+
+
+# broke
+
+
+## Adjective
+
+1. lacking funds; “`skint’ is a British slang term”
+	- Synonyms
+		- bust
+		- skint
+		- stone-broke
+		- stony-broke
+	- Similar to
+		- poor
+
+
+# brusk
+
+
+## Adjective
+
+1. marked by rude or peremptory shortness; “try to cultivate a less brusque manner”; “a curt reply”; “the salesgirl was very short with him”
+	- Synonyms
+		- brusque
+		- curt
+		- short
+	- Similar to
+		- discourteous
+	- Related
+		- abruptness
+		- brusqueness
+		- curtness
+		- gruffness
+		- shortness
+		- abruptness
+		- brusqueness
+		- curtness
+		- gruffness
+		- shortness
+		- abruptness
+		- brusqueness
+		- curtness
+		- gruffness
+		- shortness
+
+
+# brusk
+
+
+## Adjective
+
+1. marked by rude or peremptory shortness; “try to cultivate a less brusque manner”; “a curt reply”; “the salesgirl was very short with him”
+	- Synonyms
+		- brusque
+		- curt
+		- short
+	- Similar to
+		- discourteous
+	- Related
+		- abruptness
+		- brusqueness
+		- curtness
+		- gruffness
+		- shortness
+		- abruptness
+		- brusqueness
+		- curtness
+		- gruffness
+		- shortness
+		- abruptness
+		- brusqueness
+		- curtness
+		- gruffness
+		- shortness
+
+
 # bugaboo
 
 
@@ -715,9 +4992,227 @@ a strongly built steel diving sphere for deep-sea observation
 		- worry
 		- headache
 		- vexation
+# bugaboo
 
 
-===
+## Noun
+
+1. an imaginary monster used to frighten children
+	- Synonyms
+		- bogeyman
+		- bugbear
+		- boogeyman
+		- booger
+	- Less specific
+		- monster
+2. a source of concern; “the old bugaboo of inflation still bothers them”
+	- Less specific
+		- concern
+		- worry
+		- headache
+		- vexation
+# cacophonic
+
+
+## Adjective
+
+1. having an unpleasant sound; “as cacophonous as a henyard”- John McCarten
+	- Synonyms
+		- cacophonous
+	- Antonyms
+		- euphonious
+		- euphonous
+	- Similar to
+		- cackly
+		- squawky
+		- croaky
+		- guttural
+		- grating
+		- gravelly
+		- rasping
+		- raspy
+		- rough
+		- scratchy
+		- gruff
+		- hoarse
+		- husky
+		- jangling
+		- jangly
+		- jarring
+		- raucous
+		- strident
+		- rending
+		- ripping
+		- splitting
+	- See also
+		- noisy
+	- Related
+		- blare
+		- blaring
+		- cacophony
+		- clamor
+		- din
+		- cacophony
+		- blare
+		- blaring
+		- cacophony
+		- clamor
+		- din
+		- cacophony
+
+- [**cacophonous** - LookUp](https://learnwithlookup.com/share/index.html?word=cacophonous&definition=involving%2520or%2520producing%2520harsh,%2520discordant%2520mixture%2520of%2520sounds&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjYWNvcGhvbm91cyIsImRlZmluaXRpb24iOiJpbnZvbHZpbmcgb3IgcHJvZHVjaW5nIGhhcnNoLCBkaXNjb3JkYW50IG1peHR1cmUgb2Ygc291bmRzIn0%3D)
+Adjective
+1.	involving or producing a harsh, discordant mixture of sounds
+the cacophonous sound of slot machines
+
+## Thesaurus
+
+Adjective
+1.	cacophonous rock music blared from the speakers
+
+Similar Words: 	loud    noisy    ear-splitting    blaring    booming    thunderous    deafening    raucous    discordant    dissonant    inharmonious    unmelodious    unmusical    tuneless    harsh    strident    screeching    screechy    grating    jarring    jangling    horrisonant    absonant
+
+Opposites: 	harmonious    sweet
+# cacophonic
+
+
+## Adjective
+
+1. having an unpleasant sound; “as cacophonous as a henyard”- John McCarten
+	- Synonyms
+		- cacophonous
+	- Antonyms
+		- euphonious
+		- euphonous
+	- Similar to
+		- cackly
+		- squawky
+		- croaky
+		- guttural
+		- grating
+		- gravelly
+		- rasping
+		- raspy
+		- rough
+		- scratchy
+		- gruff
+		- hoarse
+		- husky
+		- jangling
+		- jangly
+		- jarring
+		- raucous
+		- strident
+		- rending
+		- ripping
+		- splitting
+	- See also
+		- noisy
+	- Related
+		- blare
+		- blaring
+		- cacophony
+		- clamor
+		- din
+		- cacophony
+		- blare
+		- blaring
+		- cacophony
+		- clamor
+		- din
+		- cacophony
+
+- [**cacophonous** - LookUp](https://learnwithlookup.com/share/index.html?word=cacophonous&definition=involving%2520or%2520producing%2520harsh,%2520discordant%2520mixture%2520of%2520sounds&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjYWNvcGhvbm91cyIsImRlZmluaXRpb24iOiJpbnZvbHZpbmcgb3IgcHJvZHVjaW5nIGhhcnNoLCBkaXNjb3JkYW50IG1peHR1cmUgb2Ygc291bmRzIn0%3D)
+Adjective
+1.	involving or producing a harsh, discordant mixture of sounds
+the cacophonous sound of slot machines
+
+## Thesaurus
+
+Adjective
+1.	cacophonous rock music blared from the speakers
+
+Similar Words: 	loud    noisy    ear-splitting    blaring    booming    thunderous    deafening    raucous    discordant    dissonant    inharmonious    unmelodious    unmusical    tuneless    harsh    strident    screeching    screechy    grating    jarring    jangling    horrisonant    absonant
+
+Opposites: 	harmonious    sweet
+# cagey
+
+
+## Adjective
+
+1. showing self-interest and shrewdness in dealing with others; “a cagey lawyer”; “too clever to be sound”
+	- Synonyms
+		- cagy
+		- canny
+		- clever
+	- Similar to
+		- smart
+2. characterized by great caution and wariness; “a cagey avoidance of a definite answer”; “chary of the risks involved”; “a chary investor”
+	- Synonyms
+		- cagy
+		- chary
+	- Similar to
+		- cautious
+	- Related
+		- wariness
+		- chariness
+
+
+# cagey
+
+
+## Adjective
+
+1. showing self-interest and shrewdness in dealing with others; “a cagey lawyer”; “too clever to be sound”
+	- Synonyms
+		- cagy
+		- canny
+		- clever
+	- Similar to
+		- smart
+2. characterized by great caution and wariness; “a cagey avoidance of a definite answer”; “chary of the risks involved”; “a chary investor”
+	- Synonyms
+		- cagy
+		- chary
+	- Similar to
+		- cautious
+	- Related
+		- wariness
+		- chariness
+
+
+# cantabile
+
+
+## Adjective
+
+1. smooth and flowing
+	- Synonyms
+		- singing
+	- Similar to
+		- melodious
+		- melodic
+		- musical
+	- Topic Members
+		- music
+
+
+# cantabile
+
+
+## Adjective
+
+1. smooth and flowing
+	- Synonyms
+		- singing
+	- Similar to
+		- melodious
+		- melodic
+		- musical
+	- Topic Members
+		- music
+
+
 # capitulate
 
 
@@ -733,7 +5228,173 @@ a strongly built steel diving sphere for deep-sea observation
 		- surrender
 
 
-===
+# capitulate
+
+
+## Verb
+
+1. surrender under agreed conditions
+	- Less specific
+		- surrender
+		- give up
+	- Related
+		- capitulation
+		- fall
+		- surrender
+
+
+# carp
+
+
+## Noun
+
+1. the lean flesh of a fish that is often farmed; can be baked or braised
+	- Less specific
+		- freshwater fish
+	- Part of
+		- domestic carp
+		- Cyprinus carpio
+2. any of various freshwater fish of the family Cyprinidae
+	- Less specific
+		- cyprinid
+		- cyprinid fish
+	- More specific
+		- domestic carp
+		- Cyprinus carpio
+	- Member of
+		- Cyprinidae
+		- family Cyprinidae
+
+## Verb
+
+1. raise trivial objections
+	- Synonyms
+		- cavil
+		- chicane
+	- Less specific
+		- object
+	- Related
+		- carper
+		- niggler
+		- quibbler
+		- caviller
+		- caviler
+		- pettifogger
+		- quibbler
+		- caviller
+		- caviler
+		- pettifogger
+		- quibble
+		- quiddity
+		- cavil
+
+*From LookUp*:
+Noun
+1.	Fish a deep-bodied freshwater fish, typically with barbels around the mouth. Carp are farmed for food in some parts of the world and are widely kept in large ponds.
+
+Technical Note: Family Cyprinidae (the minnow family): several genera and species, including the common carp (Cyprinus carpio) and silver carp (Hypophthalmichthys molitrix). The family includes the majority of freshwater fishes in Eurasia, Africa, and North and Central America
+
+
+Verb
+
+Verb
+1.	complain or find fault continually about trivial matters
+I don't want to carp about the way you did it | he was constantly carping at me
+
+
+Noun
+# carp
+
+
+## Noun
+
+1. the lean flesh of a fish that is often farmed; can be baked or braised
+	- Less specific
+		- freshwater fish
+	- Part of
+		- domestic carp
+		- Cyprinus carpio
+2. any of various freshwater fish of the family Cyprinidae
+	- Less specific
+		- cyprinid
+		- cyprinid fish
+	- More specific
+		- domestic carp
+		- Cyprinus carpio
+	- Member of
+		- Cyprinidae
+		- family Cyprinidae
+
+## Verb
+
+1. raise trivial objections
+	- Synonyms
+		- cavil
+		- chicane
+	- Less specific
+		- object
+	- Related
+		- carper
+		- niggler
+		- quibbler
+		- caviller
+		- caviler
+		- pettifogger
+		- quibbler
+		- caviller
+		- caviler
+		- pettifogger
+		- quibble
+		- quiddity
+		- cavil
+
+*From LookUp*:
+Noun
+1.	Fish a deep-bodied freshwater fish, typically with barbels around the mouth. Carp are farmed for food in some parts of the world and are widely kept in large ponds.
+
+Technical Note: Family Cyprinidae (the minnow family): several genera and species, including the common carp (Cyprinus carpio) and silver carp (Hypophthalmichthys molitrix). The family includes the majority of freshwater fishes in Eurasia, Africa, and North and Central America
+
+
+Verb
+
+Verb
+1.	complain or find fault continually about trivial matters
+I don't want to carp about the way you did it | he was constantly carping at me
+
+
+Noun
+# carping
+
+
+## Noun
+
+1. persistent petty and unjustified criticism
+	- Synonyms
+		- faultfinding
+	- Less specific
+		- criticism
+		- unfavorable judgment
+	- Related
+		- captious
+		- faultfinding
+
+
+# carping
+
+
+## Noun
+
+1. persistent petty and unjustified criticism
+	- Synonyms
+		- faultfinding
+	- Less specific
+		- criticism
+		- unfavorable judgment
+	- Related
+		- captious
+		- faultfinding
+
+
 # castrametation
 
 
@@ -743,7 +5404,625 @@ a strongly built steel diving sphere for deep-sea observation
 *plural* -s
 
 the making or laying out of a military camp
-===
+# castrametation
+
+
+## Noun
+
+`cas·​tra·​me·​ta·​tion | \ ˌkastrəmə̇ˈtāshən \`
+*plural* -s
+
+the making or laying out of a military camp
+# cavalcade
+
+
+## Noun
+
+1. a procession of people traveling on horseback
+	- Less specific
+		- procession
+
+*From LookUp*:
+Noun
+1.	a formal procession of people walking, on horseback, or riding in vehicles
+the royal cavalcade proceeded through the city
+
+## Origin
+
+late 16th century (denoting a ride or raid on horseback): from French, from Italian cavalcata, from cavalcare ‘to ride’, based on Latin caballus ‘horse’
+
+## Wikipedia
+
+A cavalcade is a procession or parade on horseback, or a mass trail ride by a company of riders.  The focus of a cavalcade is participation rather than display. Often, the participants do not wear costumes or ride in formation. Often, a cavalcade re-enacts an important historical event and follows a long-distance trail.  A cavalcade may also be a pilgrimage.
+Many cavalcades involve ceremonial entries into and departures from towns and villages along the way.  A small version of such a ceremonial entry is the "grand entry" that is traditional in many rodeos.  Long-distance cavalcades may acquire more riders who join from populated places along its route.
+
+The term cavalcade comes from the classical Latin word caballus, used to describe a strong work horse.  This developed into the word caballicare, "to ride horseback," which in Italian became cavalcare. In Spanish the term for cavalcade is cabalgata.
+# cavalcade
+
+
+## Noun
+
+1. a procession of people traveling on horseback
+	- Less specific
+		- procession
+
+*From LookUp*:
+Noun
+1.	a formal procession of people walking, on horseback, or riding in vehicles
+the royal cavalcade proceeded through the city
+
+## Origin
+
+late 16th century (denoting a ride or raid on horseback): from French, from Italian cavalcata, from cavalcare ‘to ride’, based on Latin caballus ‘horse’
+
+## Wikipedia
+
+A cavalcade is a procession or parade on horseback, or a mass trail ride by a company of riders.  The focus of a cavalcade is participation rather than display. Often, the participants do not wear costumes or ride in formation. Often, a cavalcade re-enacts an important historical event and follows a long-distance trail.  A cavalcade may also be a pilgrimage.
+Many cavalcades involve ceremonial entries into and departures from towns and villages along the way.  A small version of such a ceremonial entry is the "grand entry" that is traditional in many rodeos.  Long-distance cavalcades may acquire more riders who join from populated places along its route.
+
+The term cavalcade comes from the classical Latin word caballus, used to describe a strong work horse.  This developed into the word caballicare, "to ride horseback," which in Italian became cavalcare. In Spanish the term for cavalcade is cabalgata.
+# celerity
+
+
+## Noun
+
+1. a rate that is rapid
+	- Synonyms
+		- quickness
+		- rapidity
+		- rapidness
+		- speediness
+	- Less specific
+		- pace
+		- rate
+	- More specific
+		- fleetness
+		- immediacy
+		- immediateness
+		- instantaneousness
+		- instancy
+		- dispatch
+		- despatch
+		- expedition
+		- expeditiousness
+		- promptness
+		- promptitude
+	- Related
+		- quick
+		- speedy
+		- rapid
+		- speedy
+		- rapid
+		- speedy
+		- rapid
+		- rapid
+		- speedy
+		- rapid
+		- immediate
+		- prompt
+		- quick
+		- straightaway
+		- flying
+		- quick
+		- fast
+		- quick
+		- speedy
+		- quick
+		- warm
+		- agile
+		- nimble
+		- quick
+		- spry
+
+
+# celerity
+
+
+## Noun
+
+1. a rate that is rapid
+	- Synonyms
+		- quickness
+		- rapidity
+		- rapidness
+		- speediness
+	- Less specific
+		- pace
+		- rate
+	- More specific
+		- fleetness
+		- immediacy
+		- immediateness
+		- instantaneousness
+		- instancy
+		- dispatch
+		- despatch
+		- expedition
+		- expeditiousness
+		- promptness
+		- promptitude
+	- Related
+		- quick
+		- speedy
+		- rapid
+		- speedy
+		- rapid
+		- speedy
+		- rapid
+		- rapid
+		- speedy
+		- rapid
+		- immediate
+		- prompt
+		- quick
+		- straightaway
+		- flying
+		- quick
+		- fast
+		- quick
+		- speedy
+		- quick
+		- warm
+		- agile
+		- nimble
+		- quick
+		- spry
+
+
+# chaff
+
+
+## Noun
+
+1. material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds
+	- Synonyms
+		- husk
+		- shuck
+		- stalk
+		- straw
+		- stubble
+	- Less specific
+		- plant material
+		- plant substance
+	- More specific
+		- bran
+	- Related
+		- shuck
+		- husk
+		- shell
+		- chaffy
+		- chafflike
+2. foil in thin strips; ejected into the air as a radar countermeasure
+	- Less specific
+		- foil
+	- Related
+		- chaffy
+		- chafflike
+
+## Verb
+
+1. be silly or tease one another; “After we relaxed, we just kidded around”
+	- Synonyms
+		- kid
+		- jolly
+		- josh
+		- banter
+	- Less specific
+		- tease
+		- razz
+		- rag
+		- cod
+		- tantalize
+		- tantalise
+		- bait
+		- taunt
+		- twit
+		- rally
+		- ride
+	- Related
+		- banter
+		- raillery
+		- give-and-take
+		- backchat
+		- jolly
+
+- [**chaff** - LookUp](https://learnwithlookup.com/share/index.html?word=chaff&definition=husks%2520of%2520corn&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjaGFmZiIsImRlZmluaXRpb24iOiJodXNrcyBvZiBjb3JuIn0%3D)
+Noun
+1.	the husks of corn or other seed separated by winnowing or threshing.
+
+chopped hay and straw used as fodder.
+
+worthless things; trash.
+
+Air Force strips of metal foil or metal filings released in the atmosphere from aircraft, or deployed as missiles, to obstruct radar detection or confuse radar-tracking missiles.
+
+
+Verb
+
+Noun
+1.	lighthearted joking; banter
+we used to come in for a fair amount of ribbing and good-natured chaff
+
+
+Verb
+1.	tease.
+
+## Origin
+Old English cæf, ceaf, probably from a Germanic base meaning ‘gnaw’; related to Dutch kaf, also to chafer
+
+early 19th century: perhaps from chafe
+
+##Phrases
+> separate the wheat from the chaff
+
+## Wikipedia
+Chaff (; also UK: ) is the dry, scaly protective casing of the seeds of cereal grains or similar fine, dry, scaly plant material (such as scaly parts of flowers or finely chopped straw). Chaff is indigestible by humans, but livestock can eat it. In agriculture it is used as livestock fodder, or is a waste material ploughed into the soil or burned.
+
+## Thesaurus
+Noun
+1.	a machine that separated the chaff from the grain
+
+Similar Words: 	husks    hulls    bran    pods    seed cases    shells    capsules    sheaths    shucks
+
+2.	the proposals were characterized as so much chaff
+
+Similar Words: 	refuse    waste    garbage    litter    discarded matter    debris    detritus    scrap    dross    flotsam and jetsam    lumber    sweepings    leavings    leftovers    remains    scraps    dregs    offscourings    odds and ends    muck    rubbish    trash    mullock    dreck    junk    grot    gash    debitage    draff    raff    raffle    cultch    orts
+
+
+
+Noun
+1.	we used to come in for a fair amount of good-natured chaff
+
+Similar Words: 	banter    repartee    raillery    ripostes    sallies    quips    wisecracks    crosstalk    wordplay    teasing    ragging    badinage    witty conversation    witty remarks    witticism    witticisms    joking    jesting    jocularity    drollery    bons mots    kidding    kidology    ribbing    joshing    wisecracking    persiflage
+
+
+
+Verb
+1.	the pleasures of drinking and betting and chaffing your mates
+
+Similar Words: 	tease    make fun of    poke fun at    rag    mock    laugh at    guy    deride    ridicule    scoff at    jeer at    jibe at    taunt    bait    goad    pick on    take the mickey out of    send up    rib    josh    kid    wind up    have on    pull someone's leg    make a monkey out of    goof on    rag on    put on    pull someone's chain    razz    fun    shuck    poke mullock at    poke borak at    sling off at    chiack    take the piss out of    make sport of    twit    quiz    smoke    flout at    rally
+# chaff
+
+
+## Noun
+
+1. material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds
+	- Synonyms
+		- husk
+		- shuck
+		- stalk
+		- straw
+		- stubble
+	- Less specific
+		- plant material
+		- plant substance
+	- More specific
+		- bran
+	- Related
+		- shuck
+		- husk
+		- shell
+		- chaffy
+		- chafflike
+2. foil in thin strips; ejected into the air as a radar countermeasure
+	- Less specific
+		- foil
+	- Related
+		- chaffy
+		- chafflike
+
+## Verb
+
+1. be silly or tease one another; “After we relaxed, we just kidded around”
+	- Synonyms
+		- kid
+		- jolly
+		- josh
+		- banter
+	- Less specific
+		- tease
+		- razz
+		- rag
+		- cod
+		- tantalize
+		- tantalise
+		- bait
+		- taunt
+		- twit
+		- rally
+		- ride
+	- Related
+		- banter
+		- raillery
+		- give-and-take
+		- backchat
+		- jolly
+
+- [**chaff** - LookUp](https://learnwithlookup.com/share/index.html?word=chaff&definition=husks%2520of%2520corn&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjaGFmZiIsImRlZmluaXRpb24iOiJodXNrcyBvZiBjb3JuIn0%3D)
+Noun
+1.	the husks of corn or other seed separated by winnowing or threshing.
+
+chopped hay and straw used as fodder.
+
+worthless things; trash.
+
+Air Force strips of metal foil or metal filings released in the atmosphere from aircraft, or deployed as missiles, to obstruct radar detection or confuse radar-tracking missiles.
+
+
+Verb
+
+Noun
+1.	lighthearted joking; banter
+we used to come in for a fair amount of ribbing and good-natured chaff
+
+
+Verb
+1.	tease.
+
+## Origin
+Old English cæf, ceaf, probably from a Germanic base meaning ‘gnaw’; related to Dutch kaf, also to chafer
+
+early 19th century: perhaps from chafe
+
+##Phrases
+> separate the wheat from the chaff
+
+## Wikipedia
+Chaff (; also UK: ) is the dry, scaly protective casing of the seeds of cereal grains or similar fine, dry, scaly plant material (such as scaly parts of flowers or finely chopped straw). Chaff is indigestible by humans, but livestock can eat it. In agriculture it is used as livestock fodder, or is a waste material ploughed into the soil or burned.
+
+## Thesaurus
+Noun
+1.	a machine that separated the chaff from the grain
+
+Similar Words: 	husks    hulls    bran    pods    seed cases    shells    capsules    sheaths    shucks
+
+2.	the proposals were characterized as so much chaff
+
+Similar Words: 	refuse    waste    garbage    litter    discarded matter    debris    detritus    scrap    dross    flotsam and jetsam    lumber    sweepings    leavings    leftovers    remains    scraps    dregs    offscourings    odds and ends    muck    rubbish    trash    mullock    dreck    junk    grot    gash    debitage    draff    raff    raffle    cultch    orts
+
+
+
+Noun
+1.	we used to come in for a fair amount of good-natured chaff
+
+Similar Words: 	banter    repartee    raillery    ripostes    sallies    quips    wisecracks    crosstalk    wordplay    teasing    ragging    badinage    witty conversation    witty remarks    witticism    witticisms    joking    jesting    jocularity    drollery    bons mots    kidding    kidology    ribbing    joshing    wisecracking    persiflage
+
+
+
+Verb
+1.	the pleasures of drinking and betting and chaffing your mates
+
+Similar Words: 	tease    make fun of    poke fun at    rag    mock    laugh at    guy    deride    ridicule    scoff at    jeer at    jibe at    taunt    bait    goad    pick on    take the mickey out of    send up    rib    josh    kid    wind up    have on    pull someone's leg    make a monkey out of    goof on    rag on    put on    pull someone's chain    razz    fun    shuck    poke mullock at    poke borak at    sling off at    chiack    take the piss out of    make sport of    twit    quiz    smoke    flout at    rally
+# cheque
+
+
+## Noun
+
+1. a written order directing a bank to pay money; “he paid all his bills by check”
+	- Synonyms
+		- check
+		- bank check
+	- Less specific
+		- draft
+		- bill of exchange
+		- order of payment
+	- More specific
+		- bad check
+		- bad cheque
+		- kite
+		- kite
+		- counter check
+		- giro
+		- giro cheque
+		- paycheck
+		- payroll check
+		- certified check
+		- certified cheque
+		- personal check
+		- personal cheque
+		- cashier's check
+		- treasurer's check
+		- cashier's cheque
+		- treasurer's cheque
+		- blank check
+		- blank cheque
+		- medicare check
+		- medicare payment
+	- Related
+		- cheque
+		- check out
+		- check
+
+## Verb
+
+1. withdraw money by writing a check
+	- Synonyms
+		- check out
+	- Less specific
+		- withdraw
+		- draw
+		- take out
+		- draw off
+	- Related
+		- check
+		- bank check
+		- cheque
+
+
+# cheque
+
+
+## Noun
+
+1. a written order directing a bank to pay money; “he paid all his bills by check”
+	- Synonyms
+		- check
+		- bank check
+	- Less specific
+		- draft
+		- bill of exchange
+		- order of payment
+	- More specific
+		- bad check
+		- bad cheque
+		- kite
+		- kite
+		- counter check
+		- giro
+		- giro cheque
+		- paycheck
+		- payroll check
+		- certified check
+		- certified cheque
+		- personal check
+		- personal cheque
+		- cashier's check
+		- treasurer's check
+		- cashier's cheque
+		- treasurer's cheque
+		- blank check
+		- blank cheque
+		- medicare check
+		- medicare payment
+	- Related
+		- cheque
+		- check out
+		- check
+
+## Verb
+
+1. withdraw money by writing a check
+	- Synonyms
+		- check out
+	- Less specific
+		- withdraw
+		- draw
+		- take out
+		- draw off
+	- Related
+		- check
+		- bank check
+		- cheque
+
+
+# chicanery
+
+
+## Noun
+
+1. the use of tricks to deceive someone (usually to extract money from them)
+	- Synonyms
+		- trickery
+		- chicane
+		- guile
+		- wile
+		- shenanigan
+	- Less specific
+		- deception
+		- deceit
+		- dissembling
+		- dissimulation
+	- More specific
+		- fraud
+		- fraudulence
+		- dupery
+		- hoax
+		- humbug
+		- put-on
+		- jugglery
+	- Related
+		- crafty
+		- cunning
+		- dodgy
+		- foxy
+		- guileful
+		- knavish
+		- slick
+		- sly
+		- tricksy
+		- tricky
+		- wily
+		- cheat
+		- chouse
+		- shaft
+		- screw
+		- chicane
+		- jockey
+		- cheat
+		- chouse
+		- shaft
+		- screw
+		- chicane
+		- jockey
+		- flim-flam
+		- play a joke on
+		- play tricks
+		- trick
+		- fob
+		- fox
+		- pull a fast one on
+		- play a trick on
+
+
+# chicanery
+
+
+## Noun
+
+1. the use of tricks to deceive someone (usually to extract money from them)
+	- Synonyms
+		- trickery
+		- chicane
+		- guile
+		- wile
+		- shenanigan
+	- Less specific
+		- deception
+		- deceit
+		- dissembling
+		- dissimulation
+	- More specific
+		- fraud
+		- fraudulence
+		- dupery
+		- hoax
+		- humbug
+		- put-on
+		- jugglery
+	- Related
+		- crafty
+		- cunning
+		- dodgy
+		- foxy
+		- guileful
+		- knavish
+		- slick
+		- sly
+		- tricksy
+		- tricky
+		- wily
+		- cheat
+		- chouse
+		- shaft
+		- screw
+		- chicane
+		- jockey
+		- cheat
+		- chouse
+		- shaft
+		- screw
+		- chicane
+		- jockey
+		- flim-flam
+		- play a joke on
+		- play tricks
+		- trick
+		- fob
+		- fox
+		- pull a fast one on
+		- play a trick on
+
+
 # chivvy
 
 
@@ -809,7 +6088,241 @@ the making or laying out of a military camp
 		- molestation
 
 
-===
+# chivvy
+
+
+## Verb
+
+1. annoy continually or chronically; “He is known to harry his staff when he is overworked”; “This man harasses his female co-workers”
+	- Synonyms
+		- harass
+		- hassle
+		- harry
+		- chivy
+		- chevy
+		- chevvy
+		- beset
+		- plague
+		- molest
+		- provoke
+	- Less specific
+		- annoy
+		- rag
+		- get to
+		- bother
+		- get at
+		- irritate
+		- rile
+		- nark
+		- nettle
+		- gravel
+		- vex
+		- chafe
+		- devil
+	- More specific
+		- needle
+		- goad
+		- torment
+		- rag
+		- bedevil
+		- crucify
+		- dun
+		- frustrate
+		- haze
+	- Related
+		- provocative
+		- aggravation
+		- irritation
+		- provocation
+		- instigator
+		- provoker
+		- inciter
+		- instigant
+		- firebrand
+		- harassment
+		- molestation
+		- plague
+		- harasser
+		- harrier
+		- fuss
+		- trouble
+		- bother
+		- hassle
+		- harasser
+		- harassment
+		- molestation
+
+
+# cinch
+
+
+## Noun
+
+1. any undertaking that is easy to do; “marketing this product will be no picnic”
+	- Synonyms
+		- breeze
+		- picnic
+		- snap
+		- duck soup
+		- child's play
+		- pushover
+		- walkover
+		- piece of cake
+	- Less specific
+		- undertaking
+		- project
+		- task
+		- labor
+	- More specific
+		- doddle
+	- Related
+		- walk over
+		- breeze
+		- cinch
+2. stable gear consisting of a band around a horse’s belly that holds the saddle in place
+	- Synonyms
+		- girth
+	- Less specific
+		- stable gear
+		- saddlery
+		- tack
+	- Part of
+		- harness
+	- Related
+		- cinch
+		- girth
+		- cinch
+		- girth
+3. a form of all fours in which the players bid for the privilege of naming trumps
+	- Less specific
+		- all fours
+		- high-low-jack
+
+## Verb
+
+1. tie a cinch around; “cinch horses”
+	- Synonyms
+		- girth
+	- Less specific
+		- fasten
+		- fix
+		- secure
+	- Related
+		- cinch
+		- girth
+		- cinch
+		- girth
+2. make sure of
+	- Less specific
+		- see
+		- check
+		- insure
+		- see to it
+		- ensure
+		- control
+		- ascertain
+		- assure
+3. get a grip on; get mastery of
+	- Less specific
+		- master
+		- control
+	- Related
+		- cinch
+		- breeze
+		- picnic
+		- snap
+		- duck soup
+		- child's play
+		- pushover
+		- walkover
+		- piece of cake
+
+
+# cinch
+
+
+## Noun
+
+1. any undertaking that is easy to do; “marketing this product will be no picnic”
+	- Synonyms
+		- breeze
+		- picnic
+		- snap
+		- duck soup
+		- child's play
+		- pushover
+		- walkover
+		- piece of cake
+	- Less specific
+		- undertaking
+		- project
+		- task
+		- labor
+	- More specific
+		- doddle
+	- Related
+		- walk over
+		- breeze
+		- cinch
+2. stable gear consisting of a band around a horse’s belly that holds the saddle in place
+	- Synonyms
+		- girth
+	- Less specific
+		- stable gear
+		- saddlery
+		- tack
+	- Part of
+		- harness
+	- Related
+		- cinch
+		- girth
+		- cinch
+		- girth
+3. a form of all fours in which the players bid for the privilege of naming trumps
+	- Less specific
+		- all fours
+		- high-low-jack
+
+## Verb
+
+1. tie a cinch around; “cinch horses”
+	- Synonyms
+		- girth
+	- Less specific
+		- fasten
+		- fix
+		- secure
+	- Related
+		- cinch
+		- girth
+		- cinch
+		- girth
+2. make sure of
+	- Less specific
+		- see
+		- check
+		- insure
+		- see to it
+		- ensure
+		- control
+		- ascertain
+		- assure
+3. get a grip on; get mastery of
+	- Less specific
+		- master
+		- control
+	- Related
+		- cinch
+		- breeze
+		- picnic
+		- snap
+		- duck soup
+		- child's play
+		- pushover
+		- walkover
+		- piece of cake
+
+
 # classificatory
 
 
@@ -834,7 +6347,744 @@ the making or laying out of a military camp
 		- separate
 
 
-===
+# classificatory
+
+
+## Adjective
+
+1. relating to or involving classification; “classificatory criteria”
+	- Pertains to
+		- categorization
+		- categorisation
+		- classification
+		- compartmentalization
+		- compartmentalisation
+		- assortment
+	- Related
+		- relegate
+		- classify
+		- classify
+		- class
+		- sort
+		- assort
+		- sort out
+		- separate
+
+
+# clobber
+
+
+## Noun
+
+1. informal terms for personal possessions; “did you take all your clobber?”
+	- Synonyms
+		- stuff
+	- Less specific
+		- personal property
+		- personal estate
+		- personalty
+		- private property
+
+## Verb
+
+1. strike violently and repeatedly; “She clobbered the man who tried to attack her”
+	- Synonyms
+		- baste
+		- batter
+	- Less specific
+		- beat
+		- beat up
+		- work over
+2. beat thoroughly and conclusively in a competition or fight; “We licked the other team on Sunday!”
+	- Synonyms
+		- cream
+		- bat
+		- drub
+		- thrash
+		- lick
+	- Less specific
+		- beat
+		- beat out
+		- crush
+		- shell
+		- trounce
+		- vanquish
+	- Related
+		- thrashing
+		- walloping
+		- debacle
+		- drubbing
+		- slaughter
+		- trouncing
+		- whipping
+		- thrashing
+		- walloping
+		- debacle
+		- drubbing
+		- slaughter
+		- trouncing
+		- whipping
+
+- [**clobber** - LookUp](https://learnwithlookup.com/share/index.html?word=clobber&definition=hit%2520someone%2520hard&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjbG9iYmVyIiwiZGVmaW5pdGlvbiI6ImhpdCBzb21lb25lIGhhcmQifQ%3D%3D)
+Verb
+1.	Informal hit (someone) hard
+if he does that I'll clobber him!
+
+treat or deal with harshly
+the recession clobbered other parts of the business
+
+defeat heavily
+the Braves clobbered the Cubs 23–10
+
+
+Verb
+
+Verb
+1.	add enameled decoration to (porcelain).
+
+## Wikipedia
+
+- [*Clobbering*](https://en.wikipedia.org/wiki/Clobbering)
+
+In software engineering and computer science, clobbering a file, processor register or a region of computer memory is the process of overwriting its contents completely, whether intentionally or unintentionally, or to indicate that such an action will likely occur. The Jargon File defines clobbering as
+
+> To overwrite, usually unintentionally: "I walked off the end of the array and clobbered the stack." Compare mung, scribble, trash, and smash the stack.
+# clobber
+
+
+## Noun
+
+1. informal terms for personal possessions; “did you take all your clobber?”
+	- Synonyms
+		- stuff
+	- Less specific
+		- personal property
+		- personal estate
+		- personalty
+		- private property
+
+## Verb
+
+1. strike violently and repeatedly; “She clobbered the man who tried to attack her”
+	- Synonyms
+		- baste
+		- batter
+	- Less specific
+		- beat
+		- beat up
+		- work over
+2. beat thoroughly and conclusively in a competition or fight; “We licked the other team on Sunday!”
+	- Synonyms
+		- cream
+		- bat
+		- drub
+		- thrash
+		- lick
+	- Less specific
+		- beat
+		- beat out
+		- crush
+		- shell
+		- trounce
+		- vanquish
+	- Related
+		- thrashing
+		- walloping
+		- debacle
+		- drubbing
+		- slaughter
+		- trouncing
+		- whipping
+		- thrashing
+		- walloping
+		- debacle
+		- drubbing
+		- slaughter
+		- trouncing
+		- whipping
+
+- [**clobber** - LookUp](https://learnwithlookup.com/share/index.html?word=clobber&definition=hit%2520someone%2520hard&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjbG9iYmVyIiwiZGVmaW5pdGlvbiI6ImhpdCBzb21lb25lIGhhcmQifQ%3D%3D)
+Verb
+1.	Informal hit (someone) hard
+if he does that I'll clobber him!
+
+treat or deal with harshly
+the recession clobbered other parts of the business
+
+defeat heavily
+the Braves clobbered the Cubs 23–10
+
+
+Verb
+
+Verb
+1.	add enameled decoration to (porcelain).
+
+## Wikipedia
+
+- [*Clobbering*](https://en.wikipedia.org/wiki/Clobbering)
+
+In software engineering and computer science, clobbering a file, processor register or a region of computer memory is the process of overwriting its contents completely, whether intentionally or unintentionally, or to indicate that such an action will likely occur. The Jargon File defines clobbering as
+
+> To overwrite, usually unintentionally: "I walked off the end of the array and clobbered the stack." Compare mung, scribble, trash, and smash the stack.
+# coalesce
+
+
+## Verb
+
+1. mix together different elements; “The colors blend well”
+	- Synonyms
+		- blend
+		- flux
+		- mix
+		- conflate
+		- commingle
+		- immix
+		- fuse
+		- meld
+		- combine
+		- merge
+	- Less specific
+		- change integrity
+	- More specific
+		- gauge
+		- absorb
+		- melt
+		- meld
+		- blend in
+		- mix in
+		- accrete
+		- conjugate
+		- admix
+		- alloy
+		- syncretize
+		- syncretise
+	- See also
+		- stump
+		- mix up
+	- Related
+		- combination
+		- combining
+		- combine
+		- combination
+		- combining
+		- compounding
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalition
+		- fusion
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- fusible
+		- fusion
+		- merger
+		- unification
+		- fusion
+		- miscible
+		- mixable
+		- mixer
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- mix
+		- mixture
+		- mixture
+		- assortment
+		- mixture
+		- mixed bag
+		- miscellany
+		- miscellanea
+		- variety
+		- salmagundi
+		- smorgasbord
+		- potpourri
+		- motley
+		- concoction
+		- mixture
+		- intermixture
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- flux
+		- blend
+		- blend
+		- blending
+2. fuse or cause to grow together
+	- Less specific
+		- unify
+		- unite
+		- merge
+	- More specific
+		- clog
+		- clot
+	- Related
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+
+
+# coalesce
+
+
+## Verb
+
+1. mix together different elements; “The colors blend well”
+	- Synonyms
+		- blend
+		- flux
+		- mix
+		- conflate
+		- commingle
+		- immix
+		- fuse
+		- meld
+		- combine
+		- merge
+	- Less specific
+		- change integrity
+	- More specific
+		- gauge
+		- absorb
+		- melt
+		- meld
+		- blend in
+		- mix in
+		- accrete
+		- conjugate
+		- admix
+		- alloy
+		- syncretize
+		- syncretise
+	- See also
+		- stump
+		- mix up
+	- Related
+		- combination
+		- combining
+		- combine
+		- combination
+		- combining
+		- compounding
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalition
+		- fusion
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- fusible
+		- fusion
+		- merger
+		- unification
+		- fusion
+		- miscible
+		- mixable
+		- mixer
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- mix
+		- mixture
+		- mixture
+		- assortment
+		- mixture
+		- mixed bag
+		- miscellany
+		- miscellanea
+		- variety
+		- salmagundi
+		- smorgasbord
+		- potpourri
+		- motley
+		- concoction
+		- mixture
+		- intermixture
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- flux
+		- blend
+		- blend
+		- blending
+2. fuse or cause to grow together
+	- Less specific
+		- unify
+		- unite
+		- merge
+	- More specific
+		- clog
+		- clot
+	- Related
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+
+
+# cogitate
+
+
+## Verb
+
+1. consider carefully and deeply; reflect upon; turn over in one’s mind
+	- Less specific
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- excogitate
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+	- Related
+		- cogitative
+		- cogitation
+		- cogitation
+		- study
+2. use or exercise the mind or one’s power of reason in order to make inferences, decisions, or arrive at a solution or judgments; “I’ve been thinking all day and getting nowhere”
+	- Synonyms
+		- think
+		- cerebrate
+	- More specific
+		- puzzle over
+		- rationalize
+		- rationalise
+		- think
+		- philosophize
+		- philosophise
+		- brainstorm
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- excogitate
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+		- reason
+		- reason
+		- reason out
+		- conclude
+		- evaluate
+		- pass judgment
+		- judge
+		- study
+		- meditate
+		- contemplate
+		- plan
+		- associate
+		- tie in
+		- relate
+		- link
+		- colligate
+		- link up
+		- connect
+		- concentrate
+		- focus
+		- center
+		- centre
+		- pore
+		- rivet
+		- give
+		- pay
+		- devote
+		- think about
+		- think
+		- think
+	- See also
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- excogitate
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+		- think out
+		- think up
+		- think of
+		- dream up
+		- hatch
+		- concoct
+	- Related
+		- thinking
+		- thought
+		- thought process
+		- cerebration
+		- intellection
+		- mentation
+		- cogitative
+		- cogitative
+		- cogitation
+		- study
+		- thinking
+		- thought
+		- thought process
+		- cerebration
+		- intellection
+		- mentation
+		- think
+		- thinker
+		- creative thinker
+		- mind
+		- thinker
+		- thinking
+		- thought
+		- thought process
+		- cerebration
+		- intellection
+		- mentation
+
+
+# cogitate
+
+
+## Verb
+
+1. consider carefully and deeply; reflect upon; turn over in one’s mind
+	- Less specific
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- excogitate
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+	- Related
+		- cogitative
+		- cogitation
+		- cogitation
+		- study
+2. use or exercise the mind or one’s power of reason in order to make inferences, decisions, or arrive at a solution or judgments; “I’ve been thinking all day and getting nowhere”
+	- Synonyms
+		- think
+		- cerebrate
+	- More specific
+		- puzzle over
+		- rationalize
+		- rationalise
+		- think
+		- philosophize
+		- philosophise
+		- brainstorm
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- excogitate
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+		- reason
+		- reason
+		- reason out
+		- conclude
+		- evaluate
+		- pass judgment
+		- judge
+		- study
+		- meditate
+		- contemplate
+		- plan
+		- associate
+		- tie in
+		- relate
+		- link
+		- colligate
+		- link up
+		- connect
+		- concentrate
+		- focus
+		- center
+		- centre
+		- pore
+		- rivet
+		- give
+		- pay
+		- devote
+		- think about
+		- think
+		- think
+	- See also
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- excogitate
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+		- think out
+		- think up
+		- think of
+		- dream up
+		- hatch
+		- concoct
+	- Related
+		- thinking
+		- thought
+		- thought process
+		- cerebration
+		- intellection
+		- mentation
+		- cogitative
+		- cogitative
+		- cogitation
+		- study
+		- thinking
+		- thought
+		- thought process
+		- cerebration
+		- intellection
+		- mentation
+		- think
+		- thinker
+		- creative thinker
+		- mind
+		- thinker
+		- thinking
+		- thought
+		- thought process
+		- cerebration
+		- intellection
+		- mentation
+
+
+# cognomen
+
+
+## Noun
+
+1. a familiar name for a person (often a shortened version of a person’s given name); “Joe’s mother would not use his nickname and always called him Joseph”; “Henry’s nickname was Slim”
+	- Synonyms
+		- nickname
+		- moniker
+		- sobriquet
+		- soubriquet
+		- byname
+	- Less specific
+		- appellation
+		- denomination
+		- designation
+		- appellative
+	- Related
+		- dub
+		- nickname
+2. the name used to identify the members of a family (as distinguished from each member’s given name)
+	- Synonyms
+		- surname
+		- family name
+		- last name
+	- Less specific
+		- name
+	- More specific
+		- maiden name
+
+- [**cognomen** - LookUp](https://learnwithlookup.com/share/index.html?word=cognomen&definition=third%2520name%2520given%2520to%2520ancient%2520Roman%2520citizen&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb2dub21lbiIsImRlZmluaXRpb24iOiJ0aGlyZCBuYW1lIGdpdmVuIHRvIGFuY2llbnQgUm9tYW4gY2l0aXplbiJ9)
+A cognomen was the third name of a citizen of ancient Rome, under Roman naming conventions. Initially, it was a nickname, but lost that purpose when it became hereditary. Hereditary cognomina were used to augment the second name, the nomen gentilicium, in order to identify a particular branch within a family or family within a clan. The term has also taken on other contemporary meanings.
+# cognomen
+
+
+## Noun
+
+1. a familiar name for a person (often a shortened version of a person’s given name); “Joe’s mother would not use his nickname and always called him Joseph”; “Henry’s nickname was Slim”
+	- Synonyms
+		- nickname
+		- moniker
+		- sobriquet
+		- soubriquet
+		- byname
+	- Less specific
+		- appellation
+		- denomination
+		- designation
+		- appellative
+	- Related
+		- dub
+		- nickname
+2. the name used to identify the members of a family (as distinguished from each member’s given name)
+	- Synonyms
+		- surname
+		- family name
+		- last name
+	- Less specific
+		- name
+	- More specific
+		- maiden name
+
+- [**cognomen** - LookUp](https://learnwithlookup.com/share/index.html?word=cognomen&definition=third%2520name%2520given%2520to%2520ancient%2520Roman%2520citizen&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb2dub21lbiIsImRlZmluaXRpb24iOiJ0aGlyZCBuYW1lIGdpdmVuIHRvIGFuY2llbnQgUm9tYW4gY2l0aXplbiJ9)
+A cognomen was the third name of a citizen of ancient Rome, under Roman naming conventions. Initially, it was a nickname, but lost that purpose when it became hereditary. Hereditary cognomina were used to augment the second name, the nomen gentilicium, in order to identify a particular branch within a family or family within a clan. The term has also taken on other contemporary meanings.
 # collocation
 
 
@@ -865,7 +7115,84 @@ the making or laying out of a military camp
 		- juxtapose
 
 
-===
+# collocation
+
+
+## Noun
+
+1. a grouping of words in a sentence
+	- Less specific
+		- language unit
+		- linguistic unit
+2. the act of positioning close together (or side by side); “it is the result of the juxtaposition of contrasting colors”
+	- Synonyms
+		- juxtaposition
+		- apposition
+	- Less specific
+		- placement
+		- location
+		- locating
+		- position
+		- positioning
+		- emplacement
+	- More specific
+		- tessellation
+	- Related
+		- collocate
+		- lump
+		- chunk
+		- appose
+		- juxtapose
+
+
+# compunction
+
+
+## Noun
+
+1. a feeling of deep regret (usually for some misdeed)
+	- Synonyms
+		- remorse
+		- self-reproach
+	- Less specific
+		- sorrow
+		- regret
+		- rue
+		- ruefulness
+	- More specific
+		- guilt
+		- guilty conscience
+		- guilt feelings
+		- guilt trip
+		- repentance
+		- penitence
+		- penance
+
+
+# compunction
+
+
+## Noun
+
+1. a feeling of deep regret (usually for some misdeed)
+	- Synonyms
+		- remorse
+		- self-reproach
+	- Less specific
+		- sorrow
+		- regret
+		- rue
+		- ruefulness
+	- More specific
+		- guilt
+		- guilty conscience
+		- guilt feelings
+		- guilt trip
+		- repentance
+		- penitence
+		- penance
+
+
 # concatenate
 
 
@@ -886,7 +7213,748 @@ the making or laying out of a military camp
 		- concatenation
 
 
-===
+# concatenate
+
+
+## Verb
+
+1. combine two strings to form a single one
+	- Less specific
+		- chain
+	- Related
+		- concatenation
+	- Topic Members
+		- computer science
+		- computing
+2. add by linking or joining so as to form a chain or series; “concatenate terms”; “concatenate characters”
+	- Less specific
+		- add
+	- Related
+		- concatenation
+
+
+# concatenation
+
+
+## Noun
+
+1. the state of being linked together as in a chain; union in a linked series
+	- Less specific
+		- connection
+		- link
+		- connectedness
+	- Related
+		- concatenate
+2. the linking together of a consecutive series of symbols or events or ideas etc; “it was caused by an improbable concatenation of circumstances”
+	- Less specific
+		- connection
+		- connexion
+		- connectedness
+3. a series of things depending on each other as if linked together; “the chain of command”; “a complicated concatenation of circumstances”
+	- Synonyms
+		- chain
+	- Less specific
+		- series
+	- More specific
+		- catena
+		- daisy chain
+	- Related
+		- catenate
+		- catenulate
+		- catenate
+		- catenulate
+4. the act of linking together as in a series or chain
+	- Less specific
+		- joining
+		- connection
+		- connexion
+	- Related
+		- concatenate
+
+
+# concatenation
+
+
+## Noun
+
+1. the state of being linked together as in a chain; union in a linked series
+	- Less specific
+		- connection
+		- link
+		- connectedness
+	- Related
+		- concatenate
+2. the linking together of a consecutive series of symbols or events or ideas etc; “it was caused by an improbable concatenation of circumstances”
+	- Less specific
+		- connection
+		- connexion
+		- connectedness
+3. a series of things depending on each other as if linked together; “the chain of command”; “a complicated concatenation of circumstances”
+	- Synonyms
+		- chain
+	- Less specific
+		- series
+	- More specific
+		- catena
+		- daisy chain
+	- Related
+		- catenate
+		- catenulate
+		- catenate
+		- catenulate
+4. the act of linking together as in a series or chain
+	- Less specific
+		- joining
+		- connection
+		- connexion
+	- Related
+		- concatenate
+
+
+# concoct
+
+
+## Verb
+
+1. make a concoction (of) by mixing
+	- Less specific
+		- mix
+		- mingle
+		- commix
+		- unify
+		- amalgamate
+	- Related
+		- concoction
+		- confection
+		- concoction
+2. prepare or cook by mixing ingredients; “concoct a strange mixture”
+	- Synonyms
+		- cook up
+	- Less specific
+		- cook
+		- fix
+		- ready
+		- make
+		- prepare
+	- Related
+		- confection
+		- concoction
+		- concoction
+		- mixture
+		- intermixture
+	- Topic Members
+		- cooking
+		- cookery
+		- preparation
+3. invent; “trump up charges”
+	- Synonyms
+		- trump up
+	- Less specific
+		- fabricate
+		- manufacture
+		- cook up
+		- make up
+		- invent
+	- Related
+		- concoction
+4. devise or invent; “He thought up a plan to get rich quickly”; “no-one had ever thought of such a clever piece of software”
+	- Synonyms
+		- think up
+		- think of
+		- dream up
+		- hatch
+	- Less specific
+		- create by mental act
+		- create mentally
+	- More specific
+		- idealize
+		- idealise
+		- fabricate
+		- manufacture
+		- cook up
+		- make up
+		- invent
+	- Related
+		- concoction
+
+
+# concoct
+
+
+## Verb
+
+1. make a concoction (of) by mixing
+	- Less specific
+		- mix
+		- mingle
+		- commix
+		- unify
+		- amalgamate
+	- Related
+		- concoction
+		- confection
+		- concoction
+2. prepare or cook by mixing ingredients; “concoct a strange mixture”
+	- Synonyms
+		- cook up
+	- Less specific
+		- cook
+		- fix
+		- ready
+		- make
+		- prepare
+	- Related
+		- confection
+		- concoction
+		- concoction
+		- mixture
+		- intermixture
+	- Topic Members
+		- cooking
+		- cookery
+		- preparation
+3. invent; “trump up charges”
+	- Synonyms
+		- trump up
+	- Less specific
+		- fabricate
+		- manufacture
+		- cook up
+		- make up
+		- invent
+	- Related
+		- concoction
+4. devise or invent; “He thought up a plan to get rich quickly”; “no-one had ever thought of such a clever piece of software”
+	- Synonyms
+		- think up
+		- think of
+		- dream up
+		- hatch
+	- Less specific
+		- create by mental act
+		- create mentally
+	- More specific
+		- idealize
+		- idealise
+		- fabricate
+		- manufacture
+		- cook up
+		- make up
+		- invent
+	- Related
+		- concoction
+
+
+# configurables
+
+
+## Noun
+
+configured plugins, themes, settings sets, and other aggregate modifications for a given piece of software.
+# configurables
+
+
+## Noun
+
+configured plugins, themes, settings sets, and other aggregate modifications for a given piece of software.
+# conflate
+
+
+## Verb
+
+1. mix together different elements; “The colors blend well”
+	- Synonyms
+		- blend
+		- flux
+		- mix
+		- commingle
+		- immix
+		- fuse
+		- coalesce
+		- meld
+		- combine
+		- merge
+	- Less specific
+		- change integrity
+	- More specific
+		- gauge
+		- absorb
+		- melt
+		- meld
+		- blend in
+		- mix in
+		- accrete
+		- conjugate
+		- admix
+		- alloy
+		- syncretize
+		- syncretise
+	- See also
+		- stump
+		- mix up
+	- Related
+		- combination
+		- combining
+		- combine
+		- combination
+		- combining
+		- compounding
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalition
+		- fusion
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- fusible
+		- fusion
+		- merger
+		- unification
+		- fusion
+		- miscible
+		- mixable
+		- mixer
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- mix
+		- mixture
+		- mixture
+		- assortment
+		- mixture
+		- mixed bag
+		- miscellany
+		- miscellanea
+		- variety
+		- salmagundi
+		- smorgasbord
+		- potpourri
+		- motley
+		- concoction
+		- mixture
+		- intermixture
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- flux
+		- blend
+		- blend
+		- blending
+
+
+# conflate
+
+
+## Verb
+
+1. mix together different elements; “The colors blend well”
+	- Synonyms
+		- blend
+		- flux
+		- mix
+		- commingle
+		- immix
+		- fuse
+		- coalesce
+		- meld
+		- combine
+		- merge
+	- Less specific
+		- change integrity
+	- More specific
+		- gauge
+		- absorb
+		- melt
+		- meld
+		- blend in
+		- mix in
+		- accrete
+		- conjugate
+		- admix
+		- alloy
+		- syncretize
+		- syncretise
+	- See also
+		- stump
+		- mix up
+	- Related
+		- combination
+		- combining
+		- combine
+		- combination
+		- combining
+		- compounding
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- coalition
+		- fusion
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+		- conglutination
+		- fusible
+		- fusion
+		- merger
+		- unification
+		- fusion
+		- miscible
+		- mixable
+		- mixer
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- mix
+		- mixture
+		- mixture
+		- assortment
+		- mixture
+		- mixed bag
+		- miscellany
+		- miscellanea
+		- variety
+		- salmagundi
+		- smorgasbord
+		- potpourri
+		- motley
+		- concoction
+		- mixture
+		- intermixture
+		- mix
+		- commixture
+		- admixture
+		- mixture
+		- intermixture
+		- mixing
+		- flux
+		- blend
+		- blend
+		- blending
+
+
+# conglutination
+
+
+## Noun
+
+1. healing process involving the growing together of the edges of a wound or the growing together of broken bones
+	- Synonyms
+		- union
+	- Less specific
+		- healing
+	- Related
+		- coapt
+		- conglutinate
+		- conglutinate
+2. the union of diverse things into one body or form or group; the growing together of parts
+	- Synonyms
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+	- Less specific
+		- union
+		- unification
+		- uniting
+		- conjugation
+		- jointure
+	- Related
+		- coapt
+		- conglutinate
+		- concrete
+		- blend
+		- flux
+		- mix
+		- conflate
+		- commingle
+		- immix
+		- fuse
+		- coalesce
+		- meld
+		- combine
+		- merge
+		- coalesce
+		- coalescent
+		- coalescing
+		- coalesce
+		- blend
+		- flux
+		- mix
+		- conflate
+		- commingle
+		- immix
+		- fuse
+		- coalesce
+		- meld
+		- combine
+		- merge
+		- coalescent
+		- coalescing
+		- coalesce
+
+
+# conglutination
+
+
+## Noun
+
+1. healing process involving the growing together of the edges of a wound or the growing together of broken bones
+	- Synonyms
+		- union
+	- Less specific
+		- healing
+	- Related
+		- coapt
+		- conglutinate
+		- conglutinate
+2. the union of diverse things into one body or form or group; the growing together of parts
+	- Synonyms
+		- coalescence
+		- coalescency
+		- coalition
+		- concretion
+	- Less specific
+		- union
+		- unification
+		- uniting
+		- conjugation
+		- jointure
+	- Related
+		- coapt
+		- conglutinate
+		- concrete
+		- blend
+		- flux
+		- mix
+		- conflate
+		- commingle
+		- immix
+		- fuse
+		- coalesce
+		- meld
+		- combine
+		- merge
+		- coalesce
+		- coalescent
+		- coalescing
+		- coalesce
+		- blend
+		- flux
+		- mix
+		- conflate
+		- commingle
+		- immix
+		- fuse
+		- coalesce
+		- meld
+		- combine
+		- merge
+		- coalescent
+		- coalescing
+		- coalesce
+
+
+# consequent
+
+
+## Adjective
+
+1. occurring with or following as a consequence; “an excessive growth of bureaucracy, with attendant problems”; “snags incidental to the changeover in management”; “attendant circumstances”; “the period of tension and consequent need for military preparedness”; “the ensuant response to his appeal”; “the resultant savings were considerable”; “collateral target damage from a bombing run”
+	- Synonyms
+		- attendant
+		- accompanying
+		- concomitant
+		- incidental
+		- ensuant
+		- resultant
+		- sequent
+		- collateral
+	- Similar to
+		- subsequent
+	- Related
+		- resultant
+		- end point
+		- result
+		- resultant
+		- final result
+		- outcome
+		- termination
+		- vector sum
+		- resultant
+		- leave
+		- result
+		- lead
+		- result
+		- ensue
+		- concomitance
+		- consequence
+		- effect
+		- outcome
+		- result
+		- event
+		- issue
+		- upshot
+		- accompaniment
+		- concomitant
+		- attendant
+		- co-occurrence
+		- attend
+
+
+# consequent
+
+
+## Adjective
+
+1. occurring with or following as a consequence; “an excessive growth of bureaucracy, with attendant problems”; “snags incidental to the changeover in management”; “attendant circumstances”; “the period of tension and consequent need for military preparedness”; “the ensuant response to his appeal”; “the resultant savings were considerable”; “collateral target damage from a bombing run”
+	- Synonyms
+		- attendant
+		- accompanying
+		- concomitant
+		- incidental
+		- ensuant
+		- resultant
+		- sequent
+		- collateral
+	- Similar to
+		- subsequent
+	- Related
+		- resultant
+		- end point
+		- result
+		- resultant
+		- final result
+		- outcome
+		- termination
+		- vector sum
+		- resultant
+		- leave
+		- result
+		- lead
+		- result
+		- ensue
+		- concomitance
+		- consequence
+		- effect
+		- outcome
+		- result
+		- event
+		- issue
+		- upshot
+		- accompaniment
+		- concomitant
+		- attendant
+		- co-occurrence
+		- attend
+
+
+# consternation
+
+
+## Noun
+
+1. fear resulting from the awareness of danger
+	- Synonyms
+		- alarm
+		- dismay
+	- Less specific
+		- fear
+		- fearfulness
+		- fright
+	- Attributes
+		- alarming
+		- unalarming
+	- Related
+		- dismay
+		- alarm
+		- appal
+		- appall
+		- horrify
+		- dismay
+		- alarm
+		- appal
+		- appall
+		- horrify
+		- alarm
+		- alert
+
+- [**consternation** - LookUp](https://learnwithlookup.com/share/index.html?word=consternation&definition=feeling%2520of%2520anxiety%2520or%2520dismay&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb25zdGVybmF0aW9uIiwiZGVmaW5pdGlvbiI6ImZlZWxpbmcgb2YgYW54aWV0eSBvciBkaXNtYXkifQ%3D%3D)
+Noun
+1.	feelings of anxiety or dismay, typically at something unexpected
+I always welcomed clover, much to the consternation of the neighbors
+
+## Origin
+early 17th century: from Latin consternatio(n-), from the verb consternare ‘lay prostrate, terrify’ (see consternate)
+
+## Thesaurus
+Noun
+1.	much to the consternation of his detractors, he emerged as a management guru
+
+Similar Words: 	dismay    perturbation    anxiety    distress    disquiet    disquietude    discomposure    angst    trepidation    surprise    amazement    astonishment    stupefaction    alarm    panic    hysteria    fear    fearfulness    fright    shock
+
+Opposites: 	satisfaction
+# consternation
+
+
+## Noun
+
+1. fear resulting from the awareness of danger
+	- Synonyms
+		- alarm
+		- dismay
+	- Less specific
+		- fear
+		- fearfulness
+		- fright
+	- Attributes
+		- alarming
+		- unalarming
+	- Related
+		- dismay
+		- alarm
+		- appal
+		- appall
+		- horrify
+		- dismay
+		- alarm
+		- appal
+		- appall
+		- horrify
+		- alarm
+		- alert
+
+- [**consternation** - LookUp](https://learnwithlookup.com/share/index.html?word=consternation&definition=feeling%2520of%2520anxiety%2520or%2520dismay&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb25zdGVybmF0aW9uIiwiZGVmaW5pdGlvbiI6ImZlZWxpbmcgb2YgYW54aWV0eSBvciBkaXNtYXkifQ%3D%3D)
+Noun
+1.	feelings of anxiety or dismay, typically at something unexpected
+I always welcomed clover, much to the consternation of the neighbors
+
+## Origin
+early 17th century: from Latin consternatio(n-), from the verb consternare ‘lay prostrate, terrify’ (see consternate)
+
+## Thesaurus
+Noun
+1.	much to the consternation of his detractors, he emerged as a management guru
+
+Similar Words: 	dismay    perturbation    anxiety    distress    disquiet    disquietude    discomposure    angst    trepidation    surprise    amazement    astonishment    stupefaction    alarm    panic    hysteria    fear    fearfulness    fright    shock
+
+Opposites: 	satisfaction
 # contemporaneous
 
 
@@ -924,7 +7992,191 @@ the making or laying out of a military camp
 		- coeval
 
 
-===
+# contemporaneous
+
+
+## Adjective
+
+1. occurring in the same period of time; “a rise in interest rates is often contemporaneous with an increase in inflation”; “the composer Salieri was contemporary with Mozart”
+	- Synonyms
+		- contemporary
+	- Similar to
+		- synchronous
+		- synchronal
+		- synchronic
+	- Related
+		- modernity
+		- modernness
+		- modernism
+		- contemporaneity
+		- contemporaneousness
+		- contemporaneity
+		- contemporaneousness
+2. of the same period
+	- Synonyms
+		- coetaneous
+		- coeval
+	- Similar to
+		- synchronous
+		- synchronal
+		- synchronic
+	- Related
+		- contemporaneity
+		- contemporaneousness
+		- contemporaneity
+		- contemporaneousness
+		- contemporary
+		- coeval
+
+
+# contemporaneous
+
+
+## Adjective
+
+1. occurring in the same period of time; “a rise in interest rates is often contemporaneous with an increase in inflation”; “the composer Salieri was contemporary with Mozart”
+	- Synonyms
+		- contemporary
+	- Similar to
+		- synchronous
+		- synchronal
+		- synchronic
+	- Related
+		- modernity
+		- modernness
+		- modernism
+		- contemporaneity
+		- contemporaneousness
+		- contemporaneity
+		- contemporaneousness
+2. of the same period
+	- Synonyms
+		- coetaneous
+		- coeval
+	- Similar to
+		- synchronous
+		- synchronal
+		- synchronic
+	- Related
+		- contemporaneity
+		- contemporaneousness
+		- contemporaneity
+		- contemporaneousness
+		- contemporary
+		- coeval
+
+
+# contemporaneous
+
+
+## Adjective
+
+1. occurring in the same period of time; “a rise in interest rates is often contemporaneous with an increase in inflation”; “the composer Salieri was contemporary with Mozart”
+	- Synonyms
+		- contemporary
+	- Similar to
+		- synchronous
+		- synchronal
+		- synchronic
+	- Related
+		- modernity
+		- modernness
+		- modernism
+		- contemporaneity
+		- contemporaneousness
+		- contemporaneity
+		- contemporaneousness
+2. of the same period
+	- Synonyms
+		- coetaneous
+		- coeval
+	- Similar to
+		- synchronous
+		- synchronal
+		- synchronic
+	- Related
+		- contemporaneity
+		- contemporaneousness
+		- contemporaneity
+		- contemporaneousness
+		- contemporary
+		- coeval
+
+
+# contiguity
+
+
+## Noun
+
+1. the attribute of being so near as to be touching
+	- Synonyms
+		- adjacency
+		- contiguousness
+	- Less specific
+		- nearness
+		- closeness
+	- Related
+		- adjacent
+		- conterminous
+		- contiguous
+		- neighboring
+		- contiguous
+		- immediate
+		- adjacent
+		- conterminous
+		- contiguous
+		- neighboring
+		- contiguous
+		- immediate
+		- adjacent
+		- adjacent
+		- conterminous
+		- contiguous
+		- neighboring
+		- adjacent
+		- next
+		- side by side
+		- conterminous
+		- contiguous
+
+
+# contiguity
+
+
+## Noun
+
+1. the attribute of being so near as to be touching
+	- Synonyms
+		- adjacency
+		- contiguousness
+	- Less specific
+		- nearness
+		- closeness
+	- Related
+		- adjacent
+		- conterminous
+		- contiguous
+		- neighboring
+		- contiguous
+		- immediate
+		- adjacent
+		- conterminous
+		- contiguous
+		- neighboring
+		- contiguous
+		- immediate
+		- adjacent
+		- adjacent
+		- conterminous
+		- contiguous
+		- neighboring
+		- adjacent
+		- next
+		- side by side
+		- conterminous
+		- contiguous
+
+
 # contrite
 
 
@@ -951,7 +8203,518 @@ the making or laying out of a military camp
 		- contriteness
 
 
-===
+# contrite
+
+
+## Adjective
+
+1. feeling or expressing pain or sorrow for sins or offenses
+	- Synonyms
+		- remorseful
+		- rueful
+		- ruthful
+	- Similar to
+		- penitent
+		- repentant
+	- Related
+		- mournfulness
+		- sorrowfulness
+		- ruthfulness
+		- sorrow
+		- regret
+		- rue
+		- ruefulness
+		- attrition
+		- contrition
+		- contriteness
+
+
+# convivial
+
+
+## Adjective
+
+1. occupied with or fond of the pleasures of good company; “a convivial atmosphere at the reunion”; “a woman of convivial nature”; “he was a real good-time Charlie”
+	- Synonyms
+		- good-time
+	- Similar to
+		- sociable
+	- Related
+		- conviviality
+		- joviality
+
+- [**convivial** - LookUp](https://learnwithlookup.com/share/index.html?word=convivial&definition=friendly%2520and%2520enjoyable&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb252aXZpYWwiLCJkZWZpbml0aW9uIjoiZnJpZW5kbHkgYW5kIGVuam95YWJsZSJ9)
+Adjective
+1.	(of an atmosphere or event) friendly, lively, and enjoyable
+a convivial cocktail party
+
+(of a person) cheerful and friendly; jovial
+she was relaxed and convivial
+
+## Origin
+
+mid 17th century (in the sense ‘fit for a feast, festive’): from Latin convivialis, from convivium ‘a feast’, from con- ‘with’ + vivere ‘live’
+
+## Thesaurus
+
+Adjective
+1.	he was always a convivial host | the convivial after-dinner atmosphere
+
+Similar Words: 	friendly    genial    affable    amiable    congenial    agreeable    good-humoured    cordial    warm    sociable    outgoing    gregarious    clubbable    companionable    hail-fellow-well-met    cheerful    jolly    jovial    merry    lively    enjoyable    festive    couthy    backslapping    chummy    pally    matey    clubby    buddy-buddy    conversable
+
+Opposites: 	unfriendly    unsociable
+# convivial
+
+
+## Adjective
+
+1. occupied with or fond of the pleasures of good company; “a convivial atmosphere at the reunion”; “a woman of convivial nature”; “he was a real good-time Charlie”
+	- Synonyms
+		- good-time
+	- Similar to
+		- sociable
+	- Related
+		- conviviality
+		- joviality
+
+- [**convivial** - LookUp](https://learnwithlookup.com/share/index.html?word=convivial&definition=friendly%2520and%2520enjoyable&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb252aXZpYWwiLCJkZWZpbml0aW9uIjoiZnJpZW5kbHkgYW5kIGVuam95YWJsZSJ9)
+Adjective
+1.	(of an atmosphere or event) friendly, lively, and enjoyable
+a convivial cocktail party
+
+(of a person) cheerful and friendly; jovial
+she was relaxed and convivial
+
+## Origin
+
+mid 17th century (in the sense ‘fit for a feast, festive’): from Latin convivialis, from convivium ‘a feast’, from con- ‘with’ + vivere ‘live’
+
+## Thesaurus
+
+Adjective
+1.	he was always a convivial host | the convivial after-dinner atmosphere
+
+Similar Words: 	friendly    genial    affable    amiable    congenial    agreeable    good-humoured    cordial    warm    sociable    outgoing    gregarious    clubbable    companionable    hail-fellow-well-met    cheerful    jolly    jovial    merry    lively    enjoyable    festive    couthy    backslapping    chummy    pally    matey    clubby    buddy-buddy    conversable
+
+Opposites: 	unfriendly    unsociable
+# copacetic
+
+![copacetic LookUp](https://i.snap.as/yAHoMAZ8.png)
+
+## Adjective
+
+1. completely satisfactory; “his smile said that everything was copacetic”; “You had to be a good judge of what a man was like, and the English was copacetic”- John O’Hara
+	- Synonyms
+		- copasetic
+		- copesetic
+		- copesettic
+	- Similar to
+		- satisfactory
+
+*From LookUp*:
+Adjective
+1.	Informal North American in excellent order
+he said to tell you everything is copacetic
+# copacetic
+
+![copacetic LookUp](https://i.snap.as/yAHoMAZ8.png)
+
+## Adjective
+
+1. completely satisfactory; “his smile said that everything was copacetic”; “You had to be a good judge of what a man was like, and the English was copacetic”- John O’Hara
+	- Synonyms
+		- copasetic
+		- copesetic
+		- copesettic
+	- Similar to
+		- satisfactory
+
+*From LookUp*:
+Adjective
+1.	Informal North American in excellent order
+he said to tell you everything is copacetic
+# cosmopolitanism
+
+
+- [**cosmopolitanism** - LookUp](https://learnwithlookup.com/share/index.html?word=cosmopolitanism&definition=Cosmopolitanism%2520is%2520the%2520idea%2520that%2520all%2520human%2520beings%2520are%2520members%2520of%2520a%2520single%2520community.%2520Its%2520adherents%2520are%2520known%2520as%2520cosmopolitan%2520or%2520cosmopolite.%2520Cosmopolitanism%2520is%2520both%2520prescriptive%2520and%2520aspirational,%2520believing%2520humans%2520can%2520and%2520should%2520be%2520%2522world%2520citizens%2522%2520in%2520a%2520%2522universal%2520community%2522.%2520The%2520idea%2520encompasses%2520different%2520dimensions%2520and%2520avenues%2520of%2520community,%2520such%2520as%2520promoting%2520universal%2520moral%2520standards,%2520establishing%2520global%2520political%2520structures,%2520or%2520developing%2520a%2520platform%2520for%2520mutual%2520cultural%2520expression%2520and%2520tolerance.For%2520example,%2520Kwame%2520Anthony%2520Appiah%2520articulates%2520a%2520cosmopolitan%2520community%2520where%2520individuals%2520from%2520varying%2520locations%2520(physical,%2520economic,%2520etc.)%2520enter%2520relationships%2520of%2520mutual%2520respect%2520despite%2520their%2520differing%2520beliefs%2520(religious,%2520political,%2520etc.).%2520By%2520comparison,%2520Immanuel%2520Kant%2520envisioned%2520a%2520cosmopolitan%2520world%2520where%2520armies%2520were%2520abolished%2520and%2520humans%2520were%2520governed%2520under%2520a%2520representative%2520global%2520institution.%2520In%2520all%2520instances,%2520proponents%2520of%2520cosmopolitanism%2520share%2520an%2520emphasis%2520that%2520all%2520humans%2520should%2520form%2520one%2520cohesive%2520and%2520united%2520community.%250A%250AIn%2520a%2520looser%2520but%2520related%2520sense,%2520%2522cosmopolitan%2522%2520is%2520also%2520used%2520to%2520describe%2520places%2520where%2520people%2520of%2520various%2520ethnic,%2520cultural%2520and%2525or%2520religious%2520backgrounds%2520live%2520together%2520and%2520interact%2520with%2520each%2520other.&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb3Ntb3BvbGl0YW5pc20iLCJkZWZpbml0aW9uIjoiQ29zbW9wb2xpdGFuaXNtIGlzIHRoZSBpZGVhIHRoYXQgYWxsIGh1bWFuIGJlaW5ncyBhcmUgbWVtYmVycyBvZiBhIHNpbmdsZSBjb21tdW5pdHkuIEl0cyBhZGhlcmVudHMgYXJlIGtub3duIGFzIGNvc21vcG9saXRhbiBvciBjb3Ntb3BvbGl0ZS4gQ29zbW9wb2xpdGFuaXNtIGlzIGJvdGggcHJlc2NyaXB0aXZlIGFuZCBhc3BpcmF0aW9uYWwsIGJlbGlldmluZyBodW1hbnMgY2FuIGFuZCBzaG91bGQgYmUgXCJ3b3JsZCBjaXRpemVuc1wiIGluIGEgXCJ1bml2ZXJzYWwgY29tbXVuaXR5XCIuIFRoZSBpZGVhIGVuY29tcGFzc2VzIGRpZmZlcmVudCBkaW1lbnNpb25zIGFuZCBhdmVudWVzIG9mIGNvbW11bml0eSwgc3VjaCBhcyBwcm9tb3RpbmcgdW5pdmVyc2FsIG1vcmFsIHN0YW5kYXJkcywgZXN0YWJsaXNoaW5nIGdsb2JhbCBwb2xpdGljYWwgc3RydWN0dXJlcywgb3IgZGV2ZWxvcGluZyBhIHBsYXRmb3JtIGZvciBtdXR1YWwgY3VsdHVyYWwgZXhwcmVzc2lvbiBhbmQgdG9sZXJhbmNlLkZvciBleGFtcGxlLCBLd2FtZSBBbnRob255IEFwcGlhaCBhcnRpY3VsYXRlcyBhIGNvc21vcG9saXRhbiBjb21tdW5pdHkgd2hlcmUgaW5kaXZpZHVhbHMgZnJvbSB2YXJ5aW5nIGxvY2F0aW9ucyAocGh5c2ljYWwsIGVjb25vbWljLCBldGMuKSBlbnRlciByZWxhdGlvbnNoaXBzIG9mIG11dHVhbCByZXNwZWN0IGRlc3BpdGUgdGhlaXIgZGlmZmVyaW5nIGJlbGllZnMgKHJlbGlnaW91cywgcG9saXRpY2FsLCBldGMuKS4gQnkgY29tcGFyaXNvbiwgSW1tYW51ZWwgS2FudCBlbnZpc2lvbmVkIGEgY29zbW9wb2xpdGFuIHdvcmxkIHdoZXJlIGFybWllcyB3ZXJlIGFib2xpc2hlZCBhbmQgaHVtYW5zIHdlcmUgZ292ZXJuZWQgdW5kZXIgYSByZXByZXNlbnRhdGl2ZSBnbG9iYWwgaW5zdGl0dXRpb24uIEluIGFsbCBpbnN0YW5jZXMsIHByb3BvbmVudHMgb2YgY29zbW9wb2xpdGFuaXNtIHNoYXJlIGFuIGVtcGhhc2lzIHRoYXQgYWxsIGh1bWFucyBzaG91bGQgZm9ybSBvbmUgY29oZXNpdmUgYW5kIHVuaXRlZCBjb21tdW5pdHkuXG5cbkluIGEgbG9vc2VyIGJ1dCByZWxhdGVkIHNlbnNlLCBcImNvc21vcG9saXRhblwiIGlzIGFsc28gdXNlZCB0byBkZXNjcmliZSBwbGFjZXMgd2hlcmUgcGVvcGxlIG9mIHZhcmlvdXMgZXRobmljLCBjdWx0dXJhbCBhbmRcL29yIHJlbGlnaW91cyBiYWNrZ3JvdW5kcyBsaXZlIHRvZ2V0aGVyIGFuZCBpbnRlcmFjdCB3aXRoIGVhY2ggb3RoZXIuIn0%3D)
+Cosmopolitanism is the idea that all human beings are members of a single community. Its adherents are known as cosmopolitan or cosmopolite. Cosmopolitanism is both prescriptive and aspirational, believing humans can and should be "world citizens" in a "universal community". The idea encompasses different dimensions and avenues of community, such as promoting universal moral standards, establishing global political structures, or developing a platform for mutual cultural expression and tolerance.For example, Kwame Anthony Appiah articulates a cosmopolitan community where individuals from varying locations (physical, economic, etc.) enter relationships of mutual respect despite their differing beliefs (religious, political, etc.). By comparison, Immanuel Kant envisioned a cosmopolitan world where armies were abolished and humans were governed under a representative global institution. In all instances, proponents of cosmopolitanism share an emphasis that all humans should form one cohesive and united community.
+
+In a looser but related sense, "cosmopolitan" is also used to describe places where people of various ethnic, cultural and/or religious backgrounds live together and interact with each other.
+# cosmopolitanism
+
+
+- [**cosmopolitanism** - LookUp](https://learnwithlookup.com/share/index.html?word=cosmopolitanism&definition=Cosmopolitanism%2520is%2520the%2520idea%2520that%2520all%2520human%2520beings%2520are%2520members%2520of%2520a%2520single%2520community.%2520Its%2520adherents%2520are%2520known%2520as%2520cosmopolitan%2520or%2520cosmopolite.%2520Cosmopolitanism%2520is%2520both%2520prescriptive%2520and%2520aspirational,%2520believing%2520humans%2520can%2520and%2520should%2520be%2520%2522world%2520citizens%2522%2520in%2520a%2520%2522universal%2520community%2522.%2520The%2520idea%2520encompasses%2520different%2520dimensions%2520and%2520avenues%2520of%2520community,%2520such%2520as%2520promoting%2520universal%2520moral%2520standards,%2520establishing%2520global%2520political%2520structures,%2520or%2520developing%2520a%2520platform%2520for%2520mutual%2520cultural%2520expression%2520and%2520tolerance.For%2520example,%2520Kwame%2520Anthony%2520Appiah%2520articulates%2520a%2520cosmopolitan%2520community%2520where%2520individuals%2520from%2520varying%2520locations%2520(physical,%2520economic,%2520etc.)%2520enter%2520relationships%2520of%2520mutual%2520respect%2520despite%2520their%2520differing%2520beliefs%2520(religious,%2520political,%2520etc.).%2520By%2520comparison,%2520Immanuel%2520Kant%2520envisioned%2520a%2520cosmopolitan%2520world%2520where%2520armies%2520were%2520abolished%2520and%2520humans%2520were%2520governed%2520under%2520a%2520representative%2520global%2520institution.%2520In%2520all%2520instances,%2520proponents%2520of%2520cosmopolitanism%2520share%2520an%2520emphasis%2520that%2520all%2520humans%2520should%2520form%2520one%2520cohesive%2520and%2520united%2520community.%250A%250AIn%2520a%2520looser%2520but%2520related%2520sense,%2520%2522cosmopolitan%2522%2520is%2520also%2520used%2520to%2520describe%2520places%2520where%2520people%2520of%2520various%2520ethnic,%2520cultural%2520and%2525or%2520religious%2520backgrounds%2520live%2520together%2520and%2520interact%2520with%2520each%2520other.&data=eyJpbWFnZSI6IiIsIndvcmQiOiJjb3Ntb3BvbGl0YW5pc20iLCJkZWZpbml0aW9uIjoiQ29zbW9wb2xpdGFuaXNtIGlzIHRoZSBpZGVhIHRoYXQgYWxsIGh1bWFuIGJlaW5ncyBhcmUgbWVtYmVycyBvZiBhIHNpbmdsZSBjb21tdW5pdHkuIEl0cyBhZGhlcmVudHMgYXJlIGtub3duIGFzIGNvc21vcG9saXRhbiBvciBjb3Ntb3BvbGl0ZS4gQ29zbW9wb2xpdGFuaXNtIGlzIGJvdGggcHJlc2NyaXB0aXZlIGFuZCBhc3BpcmF0aW9uYWwsIGJlbGlldmluZyBodW1hbnMgY2FuIGFuZCBzaG91bGQgYmUgXCJ3b3JsZCBjaXRpemVuc1wiIGluIGEgXCJ1bml2ZXJzYWwgY29tbXVuaXR5XCIuIFRoZSBpZGVhIGVuY29tcGFzc2VzIGRpZmZlcmVudCBkaW1lbnNpb25zIGFuZCBhdmVudWVzIG9mIGNvbW11bml0eSwgc3VjaCBhcyBwcm9tb3RpbmcgdW5pdmVyc2FsIG1vcmFsIHN0YW5kYXJkcywgZXN0YWJsaXNoaW5nIGdsb2JhbCBwb2xpdGljYWwgc3RydWN0dXJlcywgb3IgZGV2ZWxvcGluZyBhIHBsYXRmb3JtIGZvciBtdXR1YWwgY3VsdHVyYWwgZXhwcmVzc2lvbiBhbmQgdG9sZXJhbmNlLkZvciBleGFtcGxlLCBLd2FtZSBBbnRob255IEFwcGlhaCBhcnRpY3VsYXRlcyBhIGNvc21vcG9saXRhbiBjb21tdW5pdHkgd2hlcmUgaW5kaXZpZHVhbHMgZnJvbSB2YXJ5aW5nIGxvY2F0aW9ucyAocGh5c2ljYWwsIGVjb25vbWljLCBldGMuKSBlbnRlciByZWxhdGlvbnNoaXBzIG9mIG11dHVhbCByZXNwZWN0IGRlc3BpdGUgdGhlaXIgZGlmZmVyaW5nIGJlbGllZnMgKHJlbGlnaW91cywgcG9saXRpY2FsLCBldGMuKS4gQnkgY29tcGFyaXNvbiwgSW1tYW51ZWwgS2FudCBlbnZpc2lvbmVkIGEgY29zbW9wb2xpdGFuIHdvcmxkIHdoZXJlIGFybWllcyB3ZXJlIGFib2xpc2hlZCBhbmQgaHVtYW5zIHdlcmUgZ292ZXJuZWQgdW5kZXIgYSByZXByZXNlbnRhdGl2ZSBnbG9iYWwgaW5zdGl0dXRpb24uIEluIGFsbCBpbnN0YW5jZXMsIHByb3BvbmVudHMgb2YgY29zbW9wb2xpdGFuaXNtIHNoYXJlIGFuIGVtcGhhc2lzIHRoYXQgYWxsIGh1bWFucyBzaG91bGQgZm9ybSBvbmUgY29oZXNpdmUgYW5kIHVuaXRlZCBjb21tdW5pdHkuXG5cbkluIGEgbG9vc2VyIGJ1dCByZWxhdGVkIHNlbnNlLCBcImNvc21vcG9saXRhblwiIGlzIGFsc28gdXNlZCB0byBkZXNjcmliZSBwbGFjZXMgd2hlcmUgcGVvcGxlIG9mIHZhcmlvdXMgZXRobmljLCBjdWx0dXJhbCBhbmRcL29yIHJlbGlnaW91cyBiYWNrZ3JvdW5kcyBsaXZlIHRvZ2V0aGVyIGFuZCBpbnRlcmFjdCB3aXRoIGVhY2ggb3RoZXIuIn0%3D)
+Cosmopolitanism is the idea that all human beings are members of a single community. Its adherents are known as cosmopolitan or cosmopolite. Cosmopolitanism is both prescriptive and aspirational, believing humans can and should be "world citizens" in a "universal community". The idea encompasses different dimensions and avenues of community, such as promoting universal moral standards, establishing global political structures, or developing a platform for mutual cultural expression and tolerance.For example, Kwame Anthony Appiah articulates a cosmopolitan community where individuals from varying locations (physical, economic, etc.) enter relationships of mutual respect despite their differing beliefs (religious, political, etc.). By comparison, Immanuel Kant envisioned a cosmopolitan world where armies were abolished and humans were governed under a representative global institution. In all instances, proponents of cosmopolitanism share an emphasis that all humans should form one cohesive and united community.
+
+In a looser but related sense, "cosmopolitan" is also used to describe places where people of various ethnic, cultural and/or religious backgrounds live together and interact with each other.
+# cottagecore
+
+
+Cottagecore is a fashion aesthetic popularised by teenagers and young adults celebrating an idealized rural life. Traditionally based on a rural English and European life, it was developed throughout the 2010s and was first named cottagecore on Tumblr in 2018. The aesthetic centres on traditional rural clothing, interior design, and crafts such as drawing, baking, and pottery, and is related to similar aesthetic movements such as grandmacore, farmcore, goblincore, and fairycore.Some sources describe cottagecore as a subculture of Millennials and Generation Z.
+- [Wikipedia](https://en.wikipedia.org/wiki/Cottagecore)
+# cottagecore
+
+
+Cottagecore is a fashion aesthetic popularised by teenagers and young adults celebrating an idealized rural life. Traditionally based on a rural English and European life, it was developed throughout the 2010s and was first named cottagecore on Tumblr in 2018. The aesthetic centres on traditional rural clothing, interior design, and crafts such as drawing, baking, and pottery, and is related to similar aesthetic movements such as grandmacore, farmcore, goblincore, and fairycore.Some sources describe cottagecore as a subculture of Millennials and Generation Z.
+- [Wikipedia](https://en.wikipedia.org/wiki/Cottagecore)
+# countenance
+
+
+## Noun
+
+1. the appearance conveyed by a person’s face; “a pleasant countenance”; “a stern visage”
+	- Synonyms
+		- visage
+	- Less specific
+		- appearance
+		- visual aspect
+	- More specific
+		- expression
+		- look
+		- aspect
+		- facial expression
+		- face
+		- poker face
+2. formal and explicit approval; “a Democrat usually gets the union’s endorsement”
+	- Synonyms
+		- sanction
+		- endorsement
+		- indorsement
+		- warrant
+		- imprimatur
+	- Less specific
+		- approval
+		- commendation
+	- More specific
+		- O
+		- OK
+		- okay
+		- okey
+		- okeh
+		- visa
+		- nihil obstat
+	- Related
+		- certify
+		- endorse
+		- indorse
+		- certify
+		- endorse
+		- indorse
+		- permit
+		- allow
+		- let
+		- countenance
+		- sanction
+		- approve
+		- O
+		- okay
+		- sanction
+3. the human face (`kisser’ and `smiler’ and `mug’ are informal terms for `face’ and `phiz’ is British)
+	- Synonyms
+		- physiognomy
+		- phiz
+		- visage
+		- kisser
+		- smiler
+		- mug
+	- Less specific
+		- face
+		- human face
+	- More specific
+		- pudding face
+		- pudding-face
+	- Part of
+		- human head
+	- Related
+		- smile
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+
+## Verb
+
+1. consent to, give permission; “She permitted her son to visit her estranged husband”; “I won’t let the police search her basement”; “I cannot allow you to see your exam”
+	- Synonyms
+		- permit
+		- allow
+		- let
+	- Antonyms
+		- forbid
+		- prohibit
+		- interdict
+		- proscribe
+		- veto
+		- disallow
+		- nix
+		- forbid
+		- prohibit
+		- interdict
+		- proscribe
+		- veto
+		- disallow
+		- nix
+	- Less specific
+		- accept
+		- consent
+		- go for
+	- More specific
+		- digest
+		- endure
+		- stick out
+		- stomach
+		- bear
+		- stand
+		- tolerate
+		- support
+		- brook
+		- abide
+		- suffer
+		- put up
+		- furlough
+		- give
+		- allow
+		- permit
+		- tolerate
+		- authorize
+		- authorise
+		- pass
+		- clear
+		- admit
+		- let in
+		- include
+		- privilege
+		- favor
+		- favour
+		- legalize
+		- legalise
+		- decriminalize
+		- decriminalise
+		- legitimize
+		- legitimise
+		- legitimate
+		- legitimatize
+		- legitimatise
+		- trust
+		- admit
+		- allow in
+		- let in
+		- intromit
+	- Related
+		- sanction
+		- countenance
+		- endorsement
+		- indorsement
+		- warrant
+		- imprimatur
+		- allowable
+		- permissible
+		- allowable
+		- permissive
+		- license
+		- permission
+		- permit
+		- license
+		- licence
+		- permit
+		- license
+		- permission
+		- permit
+
+*From LookUp*:
+Noun
+1.	a person's face or facial expression
+his impenetrable eyes and inscrutable countenance give little away
+
+2.	support
+she was giving her specific countenance to the occasion
+
+
+Verb
+1.	admit as acceptable or possible
+he was reluctant to countenance the use of force
+# countenance
+
+
+## Noun
+
+1. the appearance conveyed by a person’s face; “a pleasant countenance”; “a stern visage”
+	- Synonyms
+		- visage
+	- Less specific
+		- appearance
+		- visual aspect
+	- More specific
+		- expression
+		- look
+		- aspect
+		- facial expression
+		- face
+		- poker face
+2. formal and explicit approval; “a Democrat usually gets the union’s endorsement”
+	- Synonyms
+		- sanction
+		- endorsement
+		- indorsement
+		- warrant
+		- imprimatur
+	- Less specific
+		- approval
+		- commendation
+	- More specific
+		- O
+		- OK
+		- okay
+		- okey
+		- okeh
+		- visa
+		- nihil obstat
+	- Related
+		- certify
+		- endorse
+		- indorse
+		- certify
+		- endorse
+		- indorse
+		- permit
+		- allow
+		- let
+		- countenance
+		- sanction
+		- approve
+		- O
+		- okay
+		- sanction
+3. the human face (`kisser’ and `smiler’ and `mug’ are informal terms for `face’ and `phiz’ is British)
+	- Synonyms
+		- physiognomy
+		- phiz
+		- visage
+		- kisser
+		- smiler
+		- mug
+	- Less specific
+		- face
+		- human face
+	- More specific
+		- pudding face
+		- pudding-face
+	- Part of
+		- human head
+	- Related
+		- smile
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+
+## Verb
+
+1. consent to, give permission; “She permitted her son to visit her estranged husband”; “I won’t let the police search her basement”; “I cannot allow you to see your exam”
+	- Synonyms
+		- permit
+		- allow
+		- let
+	- Antonyms
+		- forbid
+		- prohibit
+		- interdict
+		- proscribe
+		- veto
+		- disallow
+		- nix
+		- forbid
+		- prohibit
+		- interdict
+		- proscribe
+		- veto
+		- disallow
+		- nix
+	- Less specific
+		- accept
+		- consent
+		- go for
+	- More specific
+		- digest
+		- endure
+		- stick out
+		- stomach
+		- bear
+		- stand
+		- tolerate
+		- support
+		- brook
+		- abide
+		- suffer
+		- put up
+		- furlough
+		- give
+		- allow
+		- permit
+		- tolerate
+		- authorize
+		- authorise
+		- pass
+		- clear
+		- admit
+		- let in
+		- include
+		- privilege
+		- favor
+		- favour
+		- legalize
+		- legalise
+		- decriminalize
+		- decriminalise
+		- legitimize
+		- legitimise
+		- legitimate
+		- legitimatize
+		- legitimatise
+		- trust
+		- admit
+		- allow in
+		- let in
+		- intromit
+	- Related
+		- sanction
+		- countenance
+		- endorsement
+		- indorsement
+		- warrant
+		- imprimatur
+		- allowable
+		- permissible
+		- allowable
+		- permissive
+		- license
+		- permission
+		- permit
+		- license
+		- licence
+		- permit
+		- license
+		- permission
+		- permit
+
+*From LookUp*:
+Noun
+1.	a person's face or facial expression
+his impenetrable eyes and inscrutable countenance give little away
+
+2.	support
+she was giving her specific countenance to the occasion
+
+
+Verb
+1.	admit as acceptable or possible
+he was reluctant to countenance the use of force
 # crimp
 
 
@@ -1055,7 +8818,779 @@ the making or laying out of a military camp
 		- crimp
 
 
-===
+# crimp
+
+
+## Noun
+
+1. an angular or rounded shape made by folding; “a fold in the napkin”; “a crease in his trousers”; “a plication on her blouse”; “a flexure of the colon”; “a bend of his elbow”
+	- Synonyms
+		- fold
+		- crease
+		- plication
+		- flexure
+		- bend
+	- Less specific
+		- angular shape
+		- angularity
+	- More specific
+		- pleat
+		- plait
+		- kink
+		- twist
+		- twirl
+		- pucker
+		- ruck
+	- Related
+		- bend
+		- flex
+		- flex
+		- bend
+		- deform
+		- twist
+		- turn
+		- crimp
+		- pinch
+		- bend
+		- flex
+		- pleat
+		- plicate
+		- fold
+		- fold up
+		- turn up
+2. someone who tricks or coerces men into service as sailors or soldiers
+	- Synonyms
+		- crimper
+	- Less specific
+		- kidnapper
+		- kidnaper
+		- abductor
+		- snatcher
+3. a lock of hair that has been artificially waved or curled
+	- Less specific
+		- lock
+		- curl
+		- ringlet
+		- whorl
+	- More specific
+		- pin curl
+		- spit curl
+		- kiss curl
+	- Related
+		- crimp
+		- crape
+		- frizzle
+		- frizz
+		- kink up
+		- kink
+
+## Verb
+
+1. make ridges into by pinching together
+	- Synonyms
+		- pinch
+	- Less specific
+		- fold
+		- fold up
+		- turn up
+	- More specific
+		- flute
+	- Related
+		- pinch
+		- tweak
+		- fold
+		- crease
+		- plication
+		- flexure
+		- crimp
+		- bend
+2. curl tightly; “crimp hair”
+	- Synonyms
+		- crape
+		- frizzle
+		- frizz
+		- kink up
+		- kink
+	- Less specific
+		- curl
+		- wave
+	- Related
+		- kink
+		- twist
+		- twirl
+		- crimp
+
+
+# crufty
+
+
+*From LookUp*:
+Adjective
+1.	Slang Of software: poorly designed, especially unnecessarily or unintentionally complex; containing redundant code.
+
+---
+Cruft is a jargon word for anything that is left over, redundant and getting in the way. It is used particularly for defective, superseded, useless, superfluous, or dysfunctional elements in computer software.
+- [Wikipedia](https://en.wikipedia.org/wiki/Cruft)
+# crufty
+
+
+*From LookUp*:
+Adjective
+1.	Slang Of software: poorly designed, especially unnecessarily or unintentionally complex; containing redundant code.
+
+---
+Cruft is a jargon word for anything that is left over, redundant and getting in the way. It is used particularly for defective, superseded, useless, superfluous, or dysfunctional elements in computer software.
+- [Wikipedia](https://en.wikipedia.org/wiki/Cruft)
+# curmudgeon
+
+
+## Noun
+
+1. a crusty irascible cantankerous old person full of stubborn ideas
+	- Less specific
+		- oldster
+		- old person
+		- senior citizen
+		- golden ager
+	- Related
+		- crusty
+		- curmudgeonly
+		- gruff
+		- ill-humored
+		- ill-humoured
+
+
+# curmudgeon
+
+
+## Noun
+
+1. a crusty irascible cantankerous old person full of stubborn ideas
+	- Less specific
+		- oldster
+		- old person
+		- senior citizen
+		- golden ager
+	- Related
+		- crusty
+		- curmudgeonly
+		- gruff
+		- ill-humored
+		- ill-humoured
+
+
+# cynicism
+
+
+## Noun
+
+1. a cynical feeling of distrust
+	- Less specific
+		- pessimism
+
+Cynicism is an attitude characterized by a general distrust of others' motives. A cynic may have a general lack of faith or hope in people motivated by ambition, desire, greed, gratification, materialism, goals, and opinions that a cynic perceives as vain, unobtainable, or ultimately meaningless and therefore deserving of ridicule or admonishment. 
+-[Cynicism (contemporary)](https://en.wikipedia.org/wiki/Cynicism_(contemporary)) | *Wikipedia*
+# cynicism
+
+
+## Noun
+
+1. a cynical feeling of distrust
+	- Less specific
+		- pessimism
+
+Cynicism is an attitude characterized by a general distrust of others' motives. A cynic may have a general lack of faith or hope in people motivated by ambition, desire, greed, gratification, materialism, goals, and opinions that a cynic perceives as vain, unobtainable, or ultimately meaningless and therefore deserving of ridicule or admonishment. 
+-[Cynicism (contemporary)](https://en.wikipedia.org/wiki/Cynicism_(contemporary)) | *Wikipedia*
+# dally
+
+
+## Verb
+
+1. behave carelessly or indifferently; “Play about with a young girl’s affection”
+	- Synonyms
+		- toy
+		- play
+		- flirt
+	- Less specific
+		- act
+		- move
+	- Related
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+2. waste time; “Get busy–don’t dally!”
+	- Synonyms
+		- dawdle
+	- Less specific
+		- act
+		- behave
+		- do
+	- Related
+		- dawdler
+		- drone
+		- laggard
+		- lagger
+		- trailer
+		- poke
+		- dalliance
+		- dawdling
+		- trifling
+		- dallier
+		- dillydallier
+		- dilly-dallier
+		- mope
+		- lounger
+		- dalliance
+		- dawdling
+		- trifling
+3. talk or behave amorously, without serious intentions; “The guys always try to chat up the new secretaries”; “My husband never flirts with other women”
+	- Synonyms
+		- chat up
+		- flirt
+		- butterfly
+		- coquet
+		- coquette
+		- romance
+		- philander
+		- mash
+	- Less specific
+		- talk
+		- speak
+	- More specific
+		- wanton
+		- vamp
+	- Related
+		- wolf
+		- woman chaser
+		- skirt chaser
+		- masher
+		- love story
+		- romance
+		- love affair
+		- romance
+		- coquette
+		- flirt
+		- vamp
+		- vamper
+		- minx
+		- tease
+		- prickteaser
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+		- coquette
+		- flirt
+		- vamp
+		- vamper
+		- minx
+		- tease
+		- prickteaser
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+		- flirt
+		- flirting
+		- flirtation
+		- coquetry
+		- dalliance
+		- toying
+4. consider not very seriously; “He is trifling with her”; “She plays with the thought of moving to Tasmania”
+	- Synonyms
+		- trifle
+		- play
+	- Less specific
+		- consider
+		- take
+		- deal
+		- look at
+
+- [**dally** - LookUp](https://learnwithlookup.com/share/index.html?word=dally&definition=act%2520or%2520move%2520slowly&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkYWxseSIsImRlZmluaXRpb24iOiJhY3Qgb3IgbW92ZSBzbG93bHkifQ%3D%3D)
+Verb
+1.	act or move slowly
+workers were loafing, dallying, or goofing off
+
+2.	have a casual romantic or sexual liaison with
+he should stop dallying with movie stars
+
+show a casual interest in something, without committing oneself seriously
+the company has been dallying with the idea of opening a new office
+
+## Thesaurus
+
+Verb
+1.	there's no time to dally on the way to work
+
+Similar Words: 	dawdle    delay    loiter    linger    waste time    kill time    take one's time    while away time    lag    trail    straggle    fall behind    amble    plod    trudge    meander    drift    traik    dilly-dally    tarry
+
+Opposites: 	hurry
+
+2.	he should stop dallying with film stars
+
+Similar Words: 	trifle    toy    play    amuse oneself    flirt    play fast and loose    tinker    philander    womanize    carry on    play around    mess about    mess around
+# dandified
+
+
+## Adjective
+
+1. affecting extreme elegance in dress and manner
+	- Synonyms
+		- dandyish
+		- foppish
+	- Similar to
+		- elegant
+	- Related
+		- foppishness
+		- dandyism
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=dandified&definition=showing%2520excessive%2520concern%2520about%2520his%2520clothes%2520or%2520appearance&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkYW5kaWZpZWQiLCJkZWZpbml0aW9uIjoic2hvd2luZyBleGNlc3NpdmUgY29uY2VybiBhYm91dCBoaXMgY2xvdGhlcyBvciBhcHBlYXJhbmNlIn0%3D):
+Adjective
+1.	showing excessive concern about ones clothes or appearance (typically used of a man)
+we watched the boat races among crowds of elegant and dandified young men
+
+self-consciously sophisticated or elaborate
+he writes a dandified prose
+# dandified
+
+
+## Adjective
+
+1. affecting extreme elegance in dress and manner
+	- Synonyms
+		- dandyish
+		- foppish
+	- Similar to
+		- elegant
+	- Related
+		- foppishness
+		- dandyism
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=dandified&definition=showing%2520excessive%2520concern%2520about%2520his%2520clothes%2520or%2520appearance&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkYW5kaWZpZWQiLCJkZWZpbml0aW9uIjoic2hvd2luZyBleGNlc3NpdmUgY29uY2VybiBhYm91dCBoaXMgY2xvdGhlcyBvciBhcHBlYXJhbmNlIn0%3D):
+Adjective
+1.	showing excessive concern about ones clothes or appearance (typically used of a man)
+we watched the boat races among crowds of elegant and dandified young men
+
+self-consciously sophisticated or elaborate
+he writes a dandified prose
+# dappled
+
+
+## Adjective
+
+1. having spots or patches of color
+	- Synonyms
+		- mottled
+	- Similar to
+		- patterned
+
+
+# dappled
+
+
+## Adjective
+
+1. having spots or patches of color
+	- Synonyms
+		- mottled
+	- Similar to
+		- patterned
+
+
+# debonair
+
+
+## Adjective
+
+1. having a sophisticated charm; “a debonair gentleman”
+	- Synonyms
+		- debonaire
+		- debonnaire
+		- suave
+	- Similar to
+		- refined
+	- Related
+		- suavity
+		- suaveness
+		- blandness
+		- smoothness
+2. having a cheerful, lively, and self-confident air; “looking chipper, like a man…diverted by his own wit”- Frances G. Patton; “life that is gay, brisk, and debonair”- H.M.Reynolds; “walked with a jaunty step”; “a jaunty optimist”
+	- Synonyms
+		- chipper
+		- debonaire
+		- jaunty
+	- Similar to
+		- cheerful
+	- Related
+		- breeziness
+		- jauntiness
+
+
+# debonair
+
+
+## Adjective
+
+1. having a sophisticated charm; “a debonair gentleman”
+	- Synonyms
+		- debonaire
+		- debonnaire
+		- suave
+	- Similar to
+		- refined
+	- Related
+		- suavity
+		- suaveness
+		- blandness
+		- smoothness
+2. having a cheerful, lively, and self-confident air; “looking chipper, like a man…diverted by his own wit”- Frances G. Patton; “life that is gay, brisk, and debonair”- H.M.Reynolds; “walked with a jaunty step”; “a jaunty optimist”
+	- Synonyms
+		- chipper
+		- debonaire
+		- jaunty
+	- Similar to
+		- cheerful
+	- Related
+		- breeziness
+		- jauntiness
+
+
+# declinant
+
+
+(n.) someone whose fortunes are waning or declining [18thC]
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1536226865836224512)
+# declinant
+
+
+(n.) someone whose fortunes are waning or declining [18thC]
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1536226865836224512)
+# deference
+
+
+## Noun
+
+1. a courteous expression (by word or deed) of esteem or regard; “his deference to her wishes was very flattering”; “be sure to give my respects to the dean”
+	- Synonyms
+		- respect
+	- Less specific
+		- politeness
+		- civility
+	- More specific
+		- court
+		- homage
+		- last respects
+		- props
+	- Related
+		- respect
+		- honor
+		- honour
+		- abide by
+		- observe
+		- respect
+		- esteem
+		- value
+		- prize
+		- prise
+		- deferent
+		- deferential
+		- regardful
+		- deferent
+		- deferential
+		- regardful
+2. courteous regard for people’s feelings; “in deference to your wishes”; “out of respect for his privacy”
+	- Synonyms
+		- respect
+		- respectfulness
+	- Less specific
+		- courtesy
+		- good manners
+	- Related
+		- respectful
+		- reverential
+		- venerating
+		- respectful
+		- respect
+		- honor
+		- honour
+		- abide by
+		- observe
+		- deferent
+		- deferential
+		- regardful
+		- deferent
+		- deferential
+		- regardful
+		- submit
+		- bow
+		- defer
+		- accede
+		- give in
+3. a disposition or tendency to yield to the will of others
+	- Synonyms
+		- complaisance
+		- compliance
+		- compliancy
+		- obligingness
+	- Less specific
+		- agreeableness
+		- agreeability
+	- Related
+		- deferent
+		- deferential
+		- regardful
+		- deferent
+		- deferential
+		- regardful
+		- complaisant
+		- obliging
+		- compliant
+		- comply
+		- follow
+		- abide by
+		- compliant
+		- complaisant
+		- obliging
+
+- [**deference** - LookUp](https://learnwithlookup.com/share/index.html?word=deference&definition=polite%2520submission%2520and%2520respect&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkZWZlcmVuY2UiLCJkZWZpbml0aW9uIjoicG9saXRlIHN1Ym1pc3Npb24gYW5kIHJlc3BlY3QifQ%3D%3D)
+Noun
+1.	humble submission and respect
+he addressed her with the deference due to age
+
+## Thesaurus
+
+Noun
+1.	his writings show excessive deference to the gentry
+
+Similar Words: 	respect    respectfulness    regard    esteem    consideration    attentiveness    attention    thoughtfulness    courteousness    courtesy    politeness    civility    dutifulness    reverence    veneration    awe    homage    submissiveness    submission    obedience    yielding    surrender    accession    capitulation    acquiescence    complaisance    obeisance
+
+Opposites: 	disrespect
+
+# degrading
+
+
+## Adjective
+
+1. harmful to the mind or morals; “corrupt judges and their corrupting influence”; “the vicious and degrading cult of violence”
+	- Synonyms
+		- corrupting
+	- Similar to
+		- noxious
+2. used of conduct; characterized by dishonor
+	- Synonyms
+		- debasing
+	- Similar to
+		- dishonorable
+		- dishonourable
+
+
+# degrading
+
+
+## Adjective
+
+1. harmful to the mind or morals; “corrupt judges and their corrupting influence”; “the vicious and degrading cult of violence”
+	- Synonyms
+		- corrupting
+	- Similar to
+		- noxious
+2. used of conduct; characterized by dishonor
+	- Synonyms
+		- debasing
+	- Similar to
+		- dishonorable
+		- dishonourable
+
+
+# deleterious
+
+
+## Adjective
+
+1. harmful to living things; “deleterious chemical additives”
+	- Synonyms
+		- hurtful
+		- injurious
+	- Similar to
+		- harmful
+	- Related
+		- injury
+		- hurt
+		- harm
+		- trauma
+		- harmfulness
+		- injuriousness
+
+*From LookUp*:
+Adjective
+1.	Formal causing harm or damage
+divorce is assumed to have deleterious effects on children
+# deleterious
+
+
+## Adjective
+
+1. harmful to living things; “deleterious chemical additives”
+	- Synonyms
+		- hurtful
+		- injurious
+	- Similar to
+		- harmful
+	- Related
+		- injury
+		- hurt
+		- harm
+		- trauma
+		- harmfulness
+		- injuriousness
+
+*From LookUp*:
+Adjective
+1.	Formal causing harm or damage
+divorce is assumed to have deleterious effects on children
+# delimit
+
+
+## Verb
+
+1. determine the essential quality of
+	- Synonyms
+		- specify
+		- define
+		- delineate
+		- delimitate
+	- Less specific
+		- be
+	- More specific
+		- determine
+		- redefine
+	- Related
+		- word picture
+		- word-painting
+		- delineation
+		- depiction
+		- picture
+		- characterization
+		- characterisation
+2. be opposite to; of angles and sides, in geometry
+	- Synonyms
+		- subtend
+	- Less specific
+		- be
+3. set, mark, or draw the boundaries of something
+	- Synonyms
+		- demarcate
+		- delimitate
+	- Less specific
+		- restrict
+		- trammel
+		- limit
+		- bound
+		- confine
+		- throttle
+	- Related
+		- boundary line
+		- border
+		- borderline
+		- delimitation
+		- mete
+		- boundary line
+		- border
+		- borderline
+		- delimitation
+		- mete
+		- limit
+		- demarcation
+		- demarcation line
+
+
+# delimit
+
+
+## Verb
+
+1. determine the essential quality of
+	- Synonyms
+		- specify
+		- define
+		- delineate
+		- delimitate
+	- Less specific
+		- be
+	- More specific
+		- determine
+		- redefine
+	- Related
+		- word picture
+		- word-painting
+		- delineation
+		- depiction
+		- picture
+		- characterization
+		- characterisation
+2. be opposite to; of angles and sides, in geometry
+	- Synonyms
+		- subtend
+	- Less specific
+		- be
+3. set, mark, or draw the boundaries of something
+	- Synonyms
+		- demarcate
+		- delimitate
+	- Less specific
+		- restrict
+		- trammel
+		- limit
+		- bound
+		- confine
+		- throttle
+	- Related
+		- boundary line
+		- border
+		- borderline
+		- delimitation
+		- mete
+		- boundary line
+		- border
+		- borderline
+		- delimitation
+		- mete
+		- limit
+		- demarcation
+		- demarcation line
+
+
 # dereliction
 
 
@@ -1085,14 +9620,655 @@ the making or laying out of a military camp
 		- nonfeasance
 
 
-===
+# dereliction
+
+
+## Noun
+
+1. a tendency to be negligent and uncaring; “he inherited his delinquency from his father”; “his derelictions were not really intended as crimes”; “his adolescent protest consisted of willful neglect of all his responsibilities”
+	- Synonyms
+		- delinquency
+		- willful neglect
+	- Less specific
+		- negligence
+		- neglect
+		- neglectfulness
+	- Related
+		- delinquent
+2. willful negligence
+	- Less specific
+		- negligence
+		- carelessness
+		- neglect
+		- nonperformance
+		- wrongdoing
+		- wrongful conduct
+		- misconduct
+		- actus reus
+	- More specific
+		- nonfeasance
+
+
+# detumescence 
+
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=detumescence&definition=process%2520of%2520subsiding%2520from%2520state%2520of%2520tension&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkZXR1bWVzY2VuY2UiLCJkZWZpbml0aW9uIjoicHJvY2VzcyBvZiBzdWJzaWRpbmcgZnJvbSBzdGF0ZSBvZiB0ZW5zaW9uIn0%3D):
+Noun
+1.	Physiology Sex the process of subsiding from a state of tension, swelling, or (especially) sexual arousal.
+
+
+### Origin
+
+late 17th century: from Latin detumescere, from de- ‘down, away’+ tumescere ‘to swell’
+# detumescence 
+
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=detumescence&definition=process%2520of%2520subsiding%2520from%2520state%2520of%2520tension&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkZXR1bWVzY2VuY2UiLCJkZWZpbml0aW9uIjoicHJvY2VzcyBvZiBzdWJzaWRpbmcgZnJvbSBzdGF0ZSBvZiB0ZW5zaW9uIn0%3D):
+Noun
+1.	Physiology Sex the process of subsiding from a state of tension, swelling, or (especially) sexual arousal.
+
+
+### Origin
+
+late 17th century: from Latin detumescere, from de- ‘down, away’+ tumescere ‘to swell’
+# dew point
+
+
+## Noun
+
+1. the temperature at which the water vapor in the air becomes saturated and condensation begins
+	- Less specific
+		- temperature
+		- saturation point
+
+
+# dew point
+
+
+## Noun
+
+1. the temperature at which the water vapor in the air becomes saturated and condensation begins
+	- Less specific
+		- temperature
+		- saturation point
+
+
+# dextrous
+
+
+## Adjective
+
+1. skillful in physical movements; especially of the hands; “a deft waiter”; “deft fingers massaged her face”; “dexterous of hand and inventive of mind”
+	- Synonyms
+		- deft
+		- dexterous
+	- Similar to
+		- adroit
+	- Related
+		- dexterity
+		- manual dexterity
+		- sleight
+		- adeptness
+		- adroitness
+		- deftness
+		- facility
+		- quickness
+
+
+# dextrous
+
+
+## Adjective
+
+1. skillful in physical movements; especially of the hands; “a deft waiter”; “deft fingers massaged her face”; “dexterous of hand and inventive of mind”
+	- Synonyms
+		- deft
+		- dexterous
+	- Similar to
+		- adroit
+	- Related
+		- dexterity
+		- manual dexterity
+		- sleight
+		- adeptness
+		- adroitness
+		- deftness
+		- facility
+		- quickness
+
+
+# diachronic
+
+
+## Adjective
+
+1. used of the study of a phenomenon (especially language) as it changes through time; “diachronic linguistics”
+	- Synonyms
+		- historical
+	- Antonyms
+		- synchronic
+	- Related
+		- historicalness
+		- historical linguistics
+		- diachronic linguistics
+		- diachrony
+	- Topic Members
+		- language
+		- linguistic communication
+
+*From LookUp*:
+Adjective
+1.	Linguistics concerned with the way in which something, especially language, has developed and evolved through time. 	• Often contrasted with synchronic
+the census is also a diachronic data set | linguistic change is the diachronic aspect of linguistic variation
+# diachronic
+
+
+## Adjective
+
+1. used of the study of a phenomenon (especially language) as it changes through time; “diachronic linguistics”
+	- Synonyms
+		- historical
+	- Antonyms
+		- synchronic
+	- Related
+		- historicalness
+		- historical linguistics
+		- diachronic linguistics
+		- diachrony
+	- Topic Members
+		- language
+		- linguistic communication
+
+*From LookUp*:
+Adjective
+1.	Linguistics concerned with the way in which something, especially language, has developed and evolved through time. 	• Often contrasted with synchronic
+the census is also a diachronic data set | linguistic change is the diachronic aspect of linguistic variation
+# dialectal
+
+
+## Adjective
+
+1. belonging to or characteristic of a dialect; “dialectal variation”
+	- Pertains to
+		- dialect
+		- idiom
+		- accent
+	- Related
+		- dialect
+		- idiom
+		- accent
+
+
+# dialectal
+
+
+## Adjective
+
+1. belonging to or characteristic of a dialect; “dialectal variation”
+	- Pertains to
+		- dialect
+		- idiom
+		- accent
+	- Related
+		- dialect
+		- idiom
+		- accent
+
+
 # dinkus
 
 
 > In typography, a dinkus is a typographic symbol which often consists of three spaced asterisks in a horizontal row, i.e.   ∗ ∗ ∗  . The symbol has a variety of uses, and it usually denotes an intentional omission or a logical "break" of varying degree in a written work. This latter use is similar to a subsection, and it indicates to the reader that the subsequent text should be re-contextualized. When used this way, the dinkus typically appears centrally aligned on a line of its own with vertical spacing before and after the symbol. The dinkus has been in use in various forms since c. 1850. Historically, the dinkus was often represented as an asterism, ⁂, though this use has fallen out of favor and is now nearly obsolete.
 
 -[Dinkus - Wikipedia](https://en.wikipedia.org/wiki/Dinkus)
-===
+# dinkus
+
+
+> In typography, a dinkus is a typographic symbol which often consists of three spaced asterisks in a horizontal row, i.e.   ∗ ∗ ∗  . The symbol has a variety of uses, and it usually denotes an intentional omission or a logical "break" of varying degree in a written work. This latter use is similar to a subsection, and it indicates to the reader that the subsequent text should be re-contextualized. When used this way, the dinkus typically appears centrally aligned on a line of its own with vertical spacing before and after the symbol. The dinkus has been in use in various forms since c. 1850. Historically, the dinkus was often represented as an asterism, ⁂, though this use has fallen out of favor and is now nearly obsolete.
+
+-[Dinkus - Wikipedia](https://en.wikipedia.org/wiki/Dinkus)
+# dirigible
+
+
+## Noun
+
+1. a steerable self-propelled aircraft
+	- Synonyms
+		- airship
+	- Less specific
+		- lighter-than-air craft
+	- More specific
+		- barrage balloon
+		- blimp
+		- sausage balloon
+		- sausage
+	- Parts
+		- car
+		- gondola
+	- Examples
+		- zeppelin
+		- Graf Zeppelin
+	- Related
+		- steerable
+		- dirigible
+
+## Adjective
+
+1. capable of being steered or directed
+	- Synonyms
+		- steerable
+	- Similar to
+		- manageable
+	- Related
+		- airship
+		- dirigible
+
+
+# dirigible
+
+
+## Noun
+
+1. a steerable self-propelled aircraft
+	- Synonyms
+		- airship
+	- Less specific
+		- lighter-than-air craft
+	- More specific
+		- barrage balloon
+		- blimp
+		- sausage balloon
+		- sausage
+	- Parts
+		- car
+		- gondola
+	- Examples
+		- zeppelin
+		- Graf Zeppelin
+	- Related
+		- steerable
+		- dirigible
+
+## Adjective
+
+1. capable of being steered or directed
+	- Synonyms
+		- steerable
+	- Similar to
+		- manageable
+	- Related
+		- airship
+		- dirigible
+
+
+# disburse
+
+
+## Verb
+
+1. expend, as from a fund
+	- Synonyms
+		- pay out
+	- Less specific
+		- pay
+	- Related
+		- expense
+		- disbursal
+		- disbursement
+		- spending
+		- disbursement
+		- disbursal
+		- outlay
+		- spender
+		- disburser
+		- expender
+		- spending
+		- disbursement
+		- disbursal
+		- outlay
+
+
+# disburse
+
+
+## Verb
+
+1. expend, as from a fund
+	- Synonyms
+		- pay out
+	- Less specific
+		- pay
+	- Related
+		- expense
+		- disbursal
+		- disbursement
+		- spending
+		- disbursement
+		- disbursal
+		- outlay
+		- spender
+		- disburser
+		- expender
+		- spending
+		- disbursement
+		- disbursal
+		- outlay
+
+
+# discerning
+
+
+## Adjective
+
+1. having or revealing keen insight and good judgment; “a discerning critic”; “a discerning reader”
+	- Antonyms
+		- undiscerning
+	- Similar to
+		- clear
+		- percipient
+		- clear-eyed
+		- clear-sighted
+		- perspicacious
+		- prescient
+	- See also
+		- critical
+		- discriminating
+2. unobtrusively perceptive and sympathetic; “a discerning editor”; “a discreet silence”
+	- Synonyms
+		- discreet
+	- Similar to
+		- tactful
+	- Related
+		- delicacy
+		- diplomacy
+		- discreetness
+		- finesse
+3. quick to understand; “a kind and apprehensive friend”- Nathaniel Hawthorne
+	- Synonyms
+		- apprehensive
+	- Similar to
+		- perceptive
+	- Related
+		- grok
+		- get the picture
+		- comprehend
+		- savvy
+		- dig
+		- grasp
+		- compass
+		- apprehend
+4. able to make or detect effects of great subtlety; sensitive; “discerning taste”; “a discerning eye for color”
+	- Similar to
+		- discriminating
+
+
+# discerning
+
+
+## Adjective
+
+1. having or revealing keen insight and good judgment; “a discerning critic”; “a discerning reader”
+	- Antonyms
+		- undiscerning
+	- Similar to
+		- clear
+		- percipient
+		- clear-eyed
+		- clear-sighted
+		- perspicacious
+		- prescient
+	- See also
+		- critical
+		- discriminating
+2. unobtrusively perceptive and sympathetic; “a discerning editor”; “a discreet silence”
+	- Synonyms
+		- discreet
+	- Similar to
+		- tactful
+	- Related
+		- delicacy
+		- diplomacy
+		- discreetness
+		- finesse
+3. quick to understand; “a kind and apprehensive friend”- Nathaniel Hawthorne
+	- Synonyms
+		- apprehensive
+	- Similar to
+		- perceptive
+	- Related
+		- grok
+		- get the picture
+		- comprehend
+		- savvy
+		- dig
+		- grasp
+		- compass
+		- apprehend
+4. able to make or detect effects of great subtlety; sensitive; “discerning taste”; “a discerning eye for color”
+	- Similar to
+		- discriminating
+
+
+# discordant
+
+
+## Adjective
+
+1. not in agreement or harmony; “views discordant with present-day ideas”
+	- Antonyms
+		- accordant
+	- Similar to
+		- at variance
+		- discrepant
+		- dissonant
+		- dissentious
+		- divisive
+		- factious
+	- Related
+		- disagree
+		- disaccord
+		- discord
+		- discord
+		- discordance
+2. lacking in harmony
+	- Synonyms
+		- disharmonious
+		- dissonant
+		- inharmonic
+	- Similar to
+		- inharmonious
+		- unharmonious
+	- Related
+		- dissonance
+		- disagree
+		- disaccord
+		- discord
+		- discordance
+		- discord
+
+- [**discordant** - LookUp](https://learnwithlookup.com/share/index.html?word=discordant&definition=disagreeing%2520or%2520incongruous&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkaXNjb3JkYW50IiwiZGVmaW5pdGlvbiI6ImRpc2FncmVlaW5nIG9yIGluY29uZ3J1b3VzIn0%3D)
+Adjective
+1.	disagreeing or incongruous
+the principle of meritocracy is discordant with claims of inherited worth
+
+characterized by quarreling and conflict
+a study of children in discordant homes
+
+2.	(of sounds) harsh and jarring because of a lack of harmony
+bombs, guns, and engines mingled in discordant sound
+
+3.	Biology (of a matched pair of subjects, especially twins) not having the same trait or disease
+studies with data from discordant twins will be useful to confirm our findings
+
+## Origin
+late Middle English: from Old French descordant, present participle of descorder (see discord)
+
+## Thesaurus
+Adjective
+1.	the messages from Washington and London were discordant
+
+Similar Words: 	in disagreement    at variance    at odds    disagreeing    differing    divergent    discrepant    contradictory    contrary    in conflict    conflicting    opposite    opposed    opposing    clashing    incompatible    inconsistent    irreconcilable    inconsonant    incongruous    oppugnant
+
+Opposites: 	in agreement    harmonious    compatible
+
+2.	discordant sounds
+
+Similar Words: 	inharmonious    unharmonious    unmelodic    unmusical    tuneless    off-key    dissonant    harsh    jarring    grating    jangling    jangly    strident    shrill    screeching    screechy    cacophonous    sharp    flat    absonant    horrisonant
+
+Opposites: 	harmonious    dulcet
+# discordant
+
+
+## Adjective
+
+1. not in agreement or harmony; “views discordant with present-day ideas”
+	- Antonyms
+		- accordant
+	- Similar to
+		- at variance
+		- discrepant
+		- dissonant
+		- dissentious
+		- divisive
+		- factious
+	- Related
+		- disagree
+		- disaccord
+		- discord
+		- discord
+		- discordance
+2. lacking in harmony
+	- Synonyms
+		- disharmonious
+		- dissonant
+		- inharmonic
+	- Similar to
+		- inharmonious
+		- unharmonious
+	- Related
+		- dissonance
+		- disagree
+		- disaccord
+		- discord
+		- discordance
+		- discord
+
+- [**discordant** - LookUp](https://learnwithlookup.com/share/index.html?word=discordant&definition=disagreeing%2520or%2520incongruous&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkaXNjb3JkYW50IiwiZGVmaW5pdGlvbiI6ImRpc2FncmVlaW5nIG9yIGluY29uZ3J1b3VzIn0%3D)
+Adjective
+1.	disagreeing or incongruous
+the principle of meritocracy is discordant with claims of inherited worth
+
+characterized by quarreling and conflict
+a study of children in discordant homes
+
+2.	(of sounds) harsh and jarring because of a lack of harmony
+bombs, guns, and engines mingled in discordant sound
+
+3.	Biology (of a matched pair of subjects, especially twins) not having the same trait or disease
+studies with data from discordant twins will be useful to confirm our findings
+
+## Origin
+late Middle English: from Old French descordant, present participle of descorder (see discord)
+
+## Thesaurus
+Adjective
+1.	the messages from Washington and London were discordant
+
+Similar Words: 	in disagreement    at variance    at odds    disagreeing    differing    divergent    discrepant    contradictory    contrary    in conflict    conflicting    opposite    opposed    opposing    clashing    incompatible    inconsistent    irreconcilable    inconsonant    incongruous    oppugnant
+
+Opposites: 	in agreement    harmonious    compatible
+
+2.	discordant sounds
+
+Similar Words: 	inharmonious    unharmonious    unmelodic    unmusical    tuneless    off-key    dissonant    harsh    jarring    grating    jangling    jangly    strident    shrill    screeching    screechy    cacophonous    sharp    flat    absonant    horrisonant
+
+Opposites: 	harmonious    dulcet
+# discursive
+
+
+## Adjective
+
+1. proceeding to a conclusion by reason or argument rather than intuition
+	- Synonyms
+		- dianoetic
+	- Similar to
+		- logical
+	- Related
+		- discursiveness
+	- Topic Members
+		- philosophy
+2. (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects; “amusingly digressive with satirical thrusts at women’s fashions among other things”; “a rambling discursive book”; “his excursive remarks”; “a rambling speech about this and that”
+	- Synonyms
+		- digressive
+		- excursive
+		- rambling
+	- Similar to
+		- indirect
+	- Related
+		- discursiveness
+		- digress
+		- stray
+		- divagate
+		- wander
+
+- [**discursive** - LookUp](https://learnwithlookup.com/share/index.html?word=discursive&definition=digressing%2520from%2520subject%2520to%2520subject&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkaXNjdXJzaXZlIiwiZGVmaW5pdGlvbiI6ImRpZ3Jlc3NpbmcgZnJvbSBzdWJqZWN0IHRvIHN1YmplY3QifQ%3D%3D)
+Adjective
+1.	digressing from subject to subject
+students often write dull, secondhand, discursive prose
+
+Literature (of a style of speech or writing) fluent and expansive rather than formulaic or abbreviated
+the short story is concentrated, whereas the novel is discursive
+
+2.	Linguistics relating to discourse or modes of discourse
+the attempt to transform utterances from one discursive context to another
+
+3.	Philosophy Archaic proceeding by argument or reasoning rather than by intuition.
+
+## Origin
+late 16th century: from medieval Latin discursivus, from Latin discurs-, literally ‘gone hastily to and fro’, from the verb discurrere (see discourse)
+# discursive
+
+
+## Adjective
+
+1. proceeding to a conclusion by reason or argument rather than intuition
+	- Synonyms
+		- dianoetic
+	- Similar to
+		- logical
+	- Related
+		- discursiveness
+	- Topic Members
+		- philosophy
+2. (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects; “amusingly digressive with satirical thrusts at women’s fashions among other things”; “a rambling discursive book”; “his excursive remarks”; “a rambling speech about this and that”
+	- Synonyms
+		- digressive
+		- excursive
+		- rambling
+	- Similar to
+		- indirect
+	- Related
+		- discursiveness
+		- digress
+		- stray
+		- divagate
+		- wander
+
+- [**discursive** - LookUp](https://learnwithlookup.com/share/index.html?word=discursive&definition=digressing%2520from%2520subject%2520to%2520subject&data=eyJpbWFnZSI6IiIsIndvcmQiOiJkaXNjdXJzaXZlIiwiZGVmaW5pdGlvbiI6ImRpZ3Jlc3NpbmcgZnJvbSBzdWJqZWN0IHRvIHN1YmplY3QifQ%3D%3D)
+Adjective
+1.	digressing from subject to subject
+students often write dull, secondhand, discursive prose
+
+Literature (of a style of speech or writing) fluent and expansive rather than formulaic or abbreviated
+the short story is concentrated, whereas the novel is discursive
+
+2.	Linguistics relating to discourse or modes of discourse
+the attempt to transform utterances from one discursive context to another
+
+3.	Philosophy Archaic proceeding by argument or reasoning rather than by intuition.
+
+## Origin
+late 16th century: from medieval Latin discursivus, from Latin discurs-, literally ‘gone hastily to and fro’, from the verb discurrere (see discourse)
 # disruption
 
 
@@ -1190,7 +10366,159 @@ the making or laying out of a military camp
 		- disrupt
 
 
-===
+# disruption
+
+
+## Noun
+
+1. an act of delaying or interrupting the continuity; “it was presented without commercial breaks”; “there was a gap in his account”
+	- Synonyms
+		- break
+		- interruption
+		- gap
+	- Less specific
+		- delay
+		- holdup
+	- More specific
+		- cut-in
+		- insert
+		- cut-in
+		- insert
+		- interjection
+		- interposition
+		- interpolation
+		- interpellation
+		- breaking off
+		- abruption
+		- heckling
+		- barracking
+	- Related
+		- interrupt
+		- disrupt
+		- break up
+		- cut off
+		- interrupt
+		- disrupt
+		- interrupt
+		- disrupt
+		- break up
+		- cut off
+		- interrupt
+		- disrupt
+2. a disorderly outburst or tumult; “they were amazed by the furious disturbance they had caused”
+	- Synonyms
+		- disturbance
+		- commotion
+		- flutter
+		- hurly burly
+		- to-do
+		- hoo-ha
+		- hoo-hah
+		- kerfuffle
+	- Less specific
+		- disorder
+	- More specific
+		- convulsion
+		- turmoil
+		- upheaval
+		- earthquake
+		- incident
+		- stir
+		- splash
+		- storm
+		- tempest
+		- storm center
+		- storm centre
+		- tumult
+		- tumultuousness
+		- uproar
+		- garboil
+3. an event that results in a displacement or discontinuity
+	- Synonyms
+		- dislocation
+	- Less specific
+		- interruption
+		- break
+	- Related
+		- dislocate
+		- dislocate
+		- luxate
+		- splay
+		- slip
+4. the act of causing disorder
+	- Synonyms
+		- perturbation
+	- Less specific
+		- disturbance
+	- More specific
+		- dislocation
+		- breakdown
+		- surprise
+		- surprisal
+	- Related
+		- perturb
+		- perturb
+		- derange
+		- throw out of kilter
+		- disrupt
+
+
+# dogmatic
+
+
+## Adjective
+
+1. characterized by assertion of unproved or unprovable principles
+	- Synonyms
+		- dogmatical
+	- Similar to
+		- narrow-minded
+		- narrow
+	- Related
+		- dogma
+		- dogma
+		- tenet
+2. of or pertaining to or characteristic of a doctrine or code of beliefs accepted as authoritative
+	- Pertains to
+		- dogma
+	- Related
+		- dogma
+3. relating to or involving dogma; “dogmatic writings”
+	- Pertains to
+		- dogma
+		- tenet
+	- Related
+		- dogma
+
+
+# dogmatic
+
+
+## Adjective
+
+1. characterized by assertion of unproved or unprovable principles
+	- Synonyms
+		- dogmatical
+	- Similar to
+		- narrow-minded
+		- narrow
+	- Related
+		- dogma
+		- dogma
+		- tenet
+2. of or pertaining to or characteristic of a doctrine or code of beliefs accepted as authoritative
+	- Pertains to
+		- dogma
+	- Related
+		- dogma
+3. relating to or involving dogma; “dogmatic writings”
+	- Pertains to
+		- dogma
+		- tenet
+	- Related
+		- dogma
+
+
 # doldrums
 
 
@@ -1231,7 +10559,436 @@ the making or laying out of a military camp
 		- current of air
 
 
-===
+# doldrums
+
+
+## Noun
+
+1. a state of inactivity (in business or art etc); “economic growth of less than 1% per year is considered to be economic stagnation”
+	- Synonyms
+		- stagnation
+		- stagnancy
+	- Less specific
+		- inaction
+		- inactivity
+		- inactiveness
+	- Related
+		- stagnant
+		- moribund
+		- idle
+		- laze
+		- slug
+		- stagnate
+		- stagnate
+		- stagnate
+		- idle
+		- laze
+		- slug
+		- stagnate
+	- Topic Members
+		- commercial enterprise
+		- business enterprise
+		- business
+		- art
+		- artistic creation
+		- artistic production
+2. a belt of calms and light winds between the northern and southern trade winds of the Atlantic and Pacific
+	- Less specific
+		- wind
+		- air current
+		- current of air
+
+
+# dolt
+
+
+## Noun
+
+1. a person who is not very bright; “The economy, stupid!”
+	- Synonyms
+		- stupid
+		- stupid person
+		- stupe
+		- dullard
+		- pudding head
+		- pudden-head
+		- poor fish
+		- pillock
+	- Less specific
+		- simpleton
+		- simple
+	- More specific
+		- berk
+		- dunce
+		- dunderhead
+		- numskull
+		- blockhead
+		- bonehead
+		- lunkhead
+		- hammerhead
+		- knucklehead
+		- loggerhead
+		- muttonhead
+		- shithead
+		- dumbass
+		- fuckhead
+		- klutz
+	- Related
+		- unintelligent
+		- stupid
+		- stupid
+
+*From LookUp*:
+## Origin
+
+mid 16th century: perhaps a variant of dulled, past participle of dull
+
+## Thesaurus 
+
+Noun
+1.	he makes me feel like a dolt
+
+Similar Words: 	fool    nincompoop    clown    simpleton    idiot    ninny    dope    dimwit    chump    goon    dumbo    dummy    halfwit    nitwit    dum-dum    loon    jackass    cretin    imbecile    jerk    nerd    fathead    blockhead    numbskull    dunderhead    dunce    dipstick    bonehead    chucklehead    clod    goop    knucklehead    lamebrain    pea-brain    pudding-head    thickhead    wooden-head    pinhead    airhead    birdbrain    dumb-bell    donkey    stupe    noodle    nit    twit    numpty    clot    plonker    berk    prat    pillock    wally    git    wazzock    divvy    nerk    twerp    charlie    mug    muppet    nyaff    balloon    sumph    gowk    gobdaw    schmuck    bozo    boob    lamer    turkey    schlepper    chowderhead    dumbhead    dumbass    goofball    goof    goofus    galoot    dork    lummox    klutz    putz    schlemiel    sap    meatball    gink    cluck    clunk    ding-dong    dingbat    wiener    weeny    dip    simp    spud    coot    palooka    poop    squarehead    yo-yo    dingleberry    drongo    dill    alec    galah    nong    bogan    poon    boofhead    mompara    arse    arsehole    knobhead    twat    wanker    ass    asshole    asshat    tomfool    muttonhead    noddy    clodpole    loggerhead    spoony    mooncalf
+# dolt
+
+
+## Noun
+
+1. a person who is not very bright; “The economy, stupid!”
+	- Synonyms
+		- stupid
+		- stupid person
+		- stupe
+		- dullard
+		- pudding head
+		- pudden-head
+		- poor fish
+		- pillock
+	- Less specific
+		- simpleton
+		- simple
+	- More specific
+		- berk
+		- dunce
+		- dunderhead
+		- numskull
+		- blockhead
+		- bonehead
+		- lunkhead
+		- hammerhead
+		- knucklehead
+		- loggerhead
+		- muttonhead
+		- shithead
+		- dumbass
+		- fuckhead
+		- klutz
+	- Related
+		- unintelligent
+		- stupid
+		- stupid
+
+*From LookUp*:
+## Origin
+
+mid 16th century: perhaps a variant of dulled, past participle of dull
+
+## Thesaurus 
+
+Noun
+1.	he makes me feel like a dolt
+
+Similar Words: 	fool    nincompoop    clown    simpleton    idiot    ninny    dope    dimwit    chump    goon    dumbo    dummy    halfwit    nitwit    dum-dum    loon    jackass    cretin    imbecile    jerk    nerd    fathead    blockhead    numbskull    dunderhead    dunce    dipstick    bonehead    chucklehead    clod    goop    knucklehead    lamebrain    pea-brain    pudding-head    thickhead    wooden-head    pinhead    airhead    birdbrain    dumb-bell    donkey    stupe    noodle    nit    twit    numpty    clot    plonker    berk    prat    pillock    wally    git    wazzock    divvy    nerk    twerp    charlie    mug    muppet    nyaff    balloon    sumph    gowk    gobdaw    schmuck    bozo    boob    lamer    turkey    schlepper    chowderhead    dumbhead    dumbass    goofball    goof    goofus    galoot    dork    lummox    klutz    putz    schlemiel    sap    meatball    gink    cluck    clunk    ding-dong    dingbat    wiener    weeny    dip    simp    spud    coot    palooka    poop    squarehead    yo-yo    dingleberry    drongo    dill    alec    galah    nong    bogan    poon    boofhead    mompara    arse    arsehole    knobhead    twat    wanker    ass    asshole    asshat    tomfool    muttonhead    noddy    clodpole    loggerhead    spoony    mooncalf
+# donee
+
+
+## Noun
+
+1. the recipient of funds or other benefits
+	- Synonyms
+		- beneficiary
+	- Less specific
+		- recipient
+		- receiver
+	- More specific
+		- co-beneficiary
+		- devisee
+		- legatee
+		- pensioner
+		- pensionary
+	- Related
+		- benefice
+
+*From LookUp*:
+Noun
+1.	a person who receives a gift.
+
+Law a person who is given a power of appointment.1
+# donee
+
+
+## Noun
+
+1. the recipient of funds or other benefits
+	- Synonyms
+		- beneficiary
+	- Less specific
+		- recipient
+		- receiver
+	- More specific
+		- co-beneficiary
+		- devisee
+		- legatee
+		- pensioner
+		- pensionary
+	- Related
+		- benefice
+
+*From LookUp*:
+Noun
+1.	a person who receives a gift.
+
+Law a person who is given a power of appointment.1
+# doof
+
+<iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fi%2F1409734444&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+
+<audio controls>
+  <source src="https://davidblue.wtf/audio/doof.mp3">
+</audio>
+
+> A doof or bush doof is a type of outdoor dance party generally held in a remote country area, or outside a large city in surrounding bush or rainforest. Originating in the post-punk electronic music scene of Melbourne, Australia in the early 1990s, events referred to as doofs are now held worldwide and have built from a small set of social groups to a subculture with millions of active members worldwide, considered by some as a full blown culture similar to raves or teknivals. Doofs generally have healing workshops, speakers, art, live artists and DJs playing a range of electronic music, commonly goa, house, dub techno, Techno, acid heavy sounds and psychedelic trance.
+-[Doof - Wikipedia](https://en.wikipedia.org/wiki/Doof)
+# doof
+
+<iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fi%2F1409734444&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+
+<audio controls>
+  <source src="https://davidblue.wtf/audio/doof.mp3">
+</audio>
+
+> A doof or bush doof is a type of outdoor dance party generally held in a remote country area, or outside a large city in surrounding bush or rainforest. Originating in the post-punk electronic music scene of Melbourne, Australia in the early 1990s, events referred to as doofs are now held worldwide and have built from a small set of social groups to a subculture with millions of active members worldwide, considered by some as a full blown culture similar to raves or teknivals. Doofs generally have healing workshops, speakers, art, live artists and DJs playing a range of electronic music, commonly goa, house, dub techno, Techno, acid heavy sounds and psychedelic trance.
+-[Doof - Wikipedia](https://en.wikipedia.org/wiki/Doof)
+# drudge
+
+
+## Noun
+
+1. one who works hard at boring tasks
+	- Synonyms
+		- hack
+		- hacker
+	- Less specific
+		- unskilled person
+	- More specific
+		- plodder
+		- slogger
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+2. a laborer who is obliged to do menial work
+	- Synonyms
+		- peon
+		- navvy
+		- galley slave
+	- Less specific
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+
+## Verb
+
+1. work hard; “She was digging away at her math homework”; “Lexicographers drudge all day long”
+	- Synonyms
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- dig
+		- moil
+	- Less specific
+		- work
+		- do work
+	- Related
+		- drudge
+		- peon
+		- navvy
+		- galley slave
+		- hack
+		- drudge
+		- hacker
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- swot
+		- grind
+		- nerd
+		- wonk
+		- dweeb
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- effort
+		- elbow grease
+		- exertion
+		- travail
+		- sweat
+		- toiler
+		- labor
+		- labour
+		- toil
+		- labor
+		- labour
+		- toil
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+		- labor
+		- labour
+		- toil
+		- undertaking
+		- project
+		- task
+		- labor
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+
+
+# drudge
+
+
+## Noun
+
+1. one who works hard at boring tasks
+	- Synonyms
+		- hack
+		- hacker
+	- Less specific
+		- unskilled person
+	- More specific
+		- plodder
+		- slogger
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+2. a laborer who is obliged to do menial work
+	- Synonyms
+		- peon
+		- navvy
+		- galley slave
+	- Less specific
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+
+## Verb
+
+1. work hard; “She was digging away at her math homework”; “Lexicographers drudge all day long”
+	- Synonyms
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- dig
+		- moil
+	- Less specific
+		- work
+		- do work
+	- Related
+		- drudge
+		- peon
+		- navvy
+		- galley slave
+		- hack
+		- drudge
+		- hacker
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- swot
+		- grind
+		- nerd
+		- wonk
+		- dweeb
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- effort
+		- elbow grease
+		- exertion
+		- travail
+		- sweat
+		- toiler
+		- labor
+		- labour
+		- toil
+		- labor
+		- labour
+		- toil
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+		- labor
+		- labour
+		- toil
+		- undertaking
+		- project
+		- task
+		- labor
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+
+
 # dubitable
 
 
@@ -1254,7 +11011,1010 @@ the making or laying out of a military camp
 		- doubtfulness
 		- question
 
-===
+# dubitable
+
+
+## Adjective
+
+1. open to doubt or suspicion; “the candidate’s doubtful past”; “he has a dubious record indeed”; “what one found uncertain the other found dubious or downright false”; “it was more than dubitable whether the friend was as influential as she thought”- Karen Horney
+	- Synonyms
+		- doubtful
+		- dubious
+		- in question
+	- Similar to
+		- questionable
+	- Related
+		- doubt
+		- dubiousness
+		- doubtfulness
+		- question
+		- doubt
+		- dubiousness
+		- doubtfulness
+		- question
+
+# dynamical
+
+
+## Adjective
+
+1. characterized by action or forcefulness or force of personality; “a dynamic market”; “a dynamic speaker”; “the dynamic president of the firm”
+	- Synonyms
+		- dynamic
+	- Antonyms
+		- undynamic
+		- adynamic
+	- Similar to
+		- can-do
+		- changing
+		- ever-changing
+		- driving
+		- impulsive
+		- energizing
+		- energising
+		- kinetic
+		- high-octane
+		- high-powered
+		- high-power
+		- high-voltage
+		- high-energy
+		- projectile
+		- propellant
+		- propellent
+		- propelling
+		- propulsive
+		- self-propelled
+		- self-propelling
+		- slashing
+	- See also
+		- energetic
+	- Related
+		- vigor
+		- vigour
+		- dynamism
+		- heartiness
+		- dynamism
+		- pizzazz
+		- pizzaz
+		- oomph
+		- zing
+
+
+# dynamical
+
+
+## Adjective
+
+1. characterized by action or forcefulness or force of personality; “a dynamic market”; “a dynamic speaker”; “the dynamic president of the firm”
+	- Synonyms
+		- dynamic
+	- Antonyms
+		- undynamic
+		- adynamic
+	- Similar to
+		- can-do
+		- changing
+		- ever-changing
+		- driving
+		- impulsive
+		- energizing
+		- energising
+		- kinetic
+		- high-octane
+		- high-powered
+		- high-power
+		- high-voltage
+		- high-energy
+		- projectile
+		- propellant
+		- propellent
+		- propelling
+		- propulsive
+		- self-propelled
+		- self-propelling
+		- slashing
+	- See also
+		- energetic
+	- Related
+		- vigor
+		- vigour
+		- dynamism
+		- heartiness
+		- dynamism
+		- pizzazz
+		- pizzaz
+		- oomph
+		- zing
+
+
+# ebullient
+
+
+## Adjective
+
+1. joyously unrestrained
+	- Synonyms
+		- exuberant
+		- high-spirited
+	- Similar to
+		- spirited
+	- Related
+		- high-spiritedness
+		- exuberate
+		- exult
+		- rejoice
+		- triumph
+		- jubilate
+		- exuberance
+		- exuberance
+		- enthusiasm
+		- ebullience
+
+- [LookUp:](https://learnwithlookup.com/share/index.html?word=ebullient&definition=cheerful%2520and%2520full%2520of%2520energy&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlYnVsbGllbnQiLCJkZWZpbml0aW9uIjoiY2hlZXJmdWwgYW5kIGZ1bGwgb2YgZW5lcmd5In0%3D)
+Adjective
+1.	cheerful and full of energy
+she sounded ebullient and happy
+
+2.	Archaic (of liquid or matter) boiling or agitated as if boiling
+misted and ebullient seas
+# ebullient
+
+
+## Adjective
+
+1. joyously unrestrained
+	- Synonyms
+		- exuberant
+		- high-spirited
+	- Similar to
+		- spirited
+	- Related
+		- high-spiritedness
+		- exuberate
+		- exult
+		- rejoice
+		- triumph
+		- jubilate
+		- exuberance
+		- exuberance
+		- enthusiasm
+		- ebullience
+
+- [LookUp:](https://learnwithlookup.com/share/index.html?word=ebullient&definition=cheerful%2520and%2520full%2520of%2520energy&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlYnVsbGllbnQiLCJkZWZpbml0aW9uIjoiY2hlZXJmdWwgYW5kIGZ1bGwgb2YgZW5lcmd5In0%3D)
+Adjective
+1.	cheerful and full of energy
+she sounded ebullient and happy
+
+2.	Archaic (of liquid or matter) boiling or agitated as if boiling
+misted and ebullient seas
+# edacious
+
+
+## Adjective
+
+1. devouring or craving food in great quantities; “edacious vultures”; “a rapacious appetite”; “ravenous as wolves”; “voracious sharks”
+	- Synonyms
+		- esurient
+		- rapacious
+		- ravening
+		- ravenous
+		- voracious
+		- wolfish
+	- Similar to
+		- gluttonous
+	- Related
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+
+
+# edacious
+
+
+## Adjective
+
+1. devouring or craving food in great quantities; “edacious vultures”; “a rapacious appetite”; “ravenous as wolves”; “voracious sharks”
+	- Synonyms
+		- esurient
+		- rapacious
+		- ravening
+		- ravenous
+		- voracious
+		- wolfish
+	- Similar to
+		- gluttonous
+	- Related
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+
+
+# egregious
+
+
+## Adjective
+
+1. conspicuously and outrageously bad or reprehensible; “a crying shame”; “an egregious lie”; “flagrant violation of human rights”; “a glaring error”; “gross ineptitude”; “gross injustice”; “rank treachery”
+	- Synonyms
+		- crying
+		- flagrant
+		- glaring
+		- gross
+		- rank
+	- Similar to
+		- conspicuous
+
+
+# egregious
+
+
+## Adjective
+
+1. conspicuously and outrageously bad or reprehensible; “a crying shame”; “an egregious lie”; “flagrant violation of human rights”; “a glaring error”; “gross ineptitude”; “gross injustice”; “rank treachery”
+	- Synonyms
+		- crying
+		- flagrant
+		- glaring
+		- gross
+		- rank
+	- Similar to
+		- conspicuous
+
+
+# egress
+
+
+## Noun
+
+1. (astronomy) the reappearance of a celestial body after an eclipse
+	- Synonyms
+		- emersion
+	- Antonyms
+		- ingress
+		- immersion
+		- ingress
+		- immersion
+	- Less specific
+		- reappearance
+	- Part of
+		- eclipse
+		- occultation
+	- Topic Members
+		- astronomy
+		- uranology
+2. the becoming visible; “not a day’s difference between the emergence of the andrenas and the opening of the willow catkins”
+	- Synonyms
+		- emergence
+		- issue
+	- Less specific
+		- beginning
+	- More specific
+		- eruption
+		- dissilience
+	- Related
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+		- egress
+		- emerge
+3. the act of coming (or going) out; becoming apparent
+	- Synonyms
+		- egression
+		- emergence
+	- Less specific
+		- act
+		- deed
+		- human action
+		- human activity
+	- More specific
+		- surfacing
+		- emission
+		- emanation
+	- Related
+		- emerge
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+		- egress
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+		- egress
+
+## Verb
+
+1. come out of; “Water issued from the hole in the wall”; “The words seemed to come out by themselves”
+	- Synonyms
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+	- More specific
+		- pop out
+		- radiate
+		- leak
+		- escape
+		- fall
+		- debouch
+		- come out
+		- fall out
+	- Related
+		- egress
+		- egression
+		- emergence
+		- emergence
+		- egress
+		- issue
+		- egress
+		- egression
+		- emergence
+		- emergence
+		- emersion
+		- exit
+		- issue
+		- outlet
+		- way out
+
+- [**egress** - LookUp](https://learnwithlookup.com/share/index.html?word=egress&definition=action%2520of%2520going%2520out%2520of%2520or%2520leaving%2520place&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlZ3Jlc3MiLCJkZWZpbml0aW9uIjoiYWN0aW9uIG9mIGdvaW5nIG91dCBvZiBvciBsZWF2aW5nIHBsYWNlIn0%3D)
+Noun
+1.	the action of going out of or leaving a place
+direct means of access and egress for passengers
+
+a way out
+a narrow egress
+
+Law Us the right or freedom to come out or go out.
+
+Astronomy • another term for emersion
+
+
+Verb
+1.	Military Us go out of or leave (a place)
+they'd egress the area by heading southwest
+
+## Origin
+
+mid 16th century: from Latin egressus ‘gone out’, from the verb egredi, from ex- ‘out’ + gradi ‘to step’
+
+## Thesaurus 
+
+Noun
+1.	the egress from the gallery was blocked
+
+Similar Words: 	exit    way out    out door    escape route    outlet    vent
+
+Opposites: 	entrance
+
+2.	a means of egress for the crowds
+
+Similar Words: 	departure    leaving    exit    withdrawal    retreat    pull-out    exodus    issue    emergence    flowing out    escape    emanation    debouchment    vacation of a place
+
+Opposites: 	entry
+# egress
+
+
+## Noun
+
+1. (astronomy) the reappearance of a celestial body after an eclipse
+	- Synonyms
+		- emersion
+	- Antonyms
+		- ingress
+		- immersion
+		- ingress
+		- immersion
+	- Less specific
+		- reappearance
+	- Part of
+		- eclipse
+		- occultation
+	- Topic Members
+		- astronomy
+		- uranology
+2. the becoming visible; “not a day’s difference between the emergence of the andrenas and the opening of the willow catkins”
+	- Synonyms
+		- emergence
+		- issue
+	- Less specific
+		- beginning
+	- More specific
+		- eruption
+		- dissilience
+	- Related
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+		- egress
+		- emerge
+3. the act of coming (or going) out; becoming apparent
+	- Synonyms
+		- egression
+		- emergence
+	- Less specific
+		- act
+		- deed
+		- human action
+		- human activity
+	- More specific
+		- surfacing
+		- emission
+		- emanation
+	- Related
+		- emerge
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+		- egress
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+		- egress
+
+## Verb
+
+1. come out of; “Water issued from the hole in the wall”; “The words seemed to come out by themselves”
+	- Synonyms
+		- issue
+		- emerge
+		- come out
+		- come forth
+		- go forth
+	- More specific
+		- pop out
+		- radiate
+		- leak
+		- escape
+		- fall
+		- debouch
+		- come out
+		- fall out
+	- Related
+		- egress
+		- egression
+		- emergence
+		- emergence
+		- egress
+		- issue
+		- egress
+		- egression
+		- emergence
+		- emergence
+		- emersion
+		- exit
+		- issue
+		- outlet
+		- way out
+
+- [**egress** - LookUp](https://learnwithlookup.com/share/index.html?word=egress&definition=action%2520of%2520going%2520out%2520of%2520or%2520leaving%2520place&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlZ3Jlc3MiLCJkZWZpbml0aW9uIjoiYWN0aW9uIG9mIGdvaW5nIG91dCBvZiBvciBsZWF2aW5nIHBsYWNlIn0%3D)
+Noun
+1.	the action of going out of or leaving a place
+direct means of access and egress for passengers
+
+a way out
+a narrow egress
+
+Law Us the right or freedom to come out or go out.
+
+Astronomy • another term for emersion
+
+
+Verb
+1.	Military Us go out of or leave (a place)
+they'd egress the area by heading southwest
+
+## Origin
+
+mid 16th century: from Latin egressus ‘gone out’, from the verb egredi, from ex- ‘out’ + gradi ‘to step’
+
+## Thesaurus 
+
+Noun
+1.	the egress from the gallery was blocked
+
+Similar Words: 	exit    way out    out door    escape route    outlet    vent
+
+Opposites: 	entrance
+
+2.	a means of egress for the crowds
+
+Similar Words: 	departure    leaving    exit    withdrawal    retreat    pull-out    exodus    issue    emergence    flowing out    escape    emanation    debouchment    vacation of a place
+
+Opposites: 	entry
+# embezzle
+
+
+## Verb
+
+1. appropriate (as property entrusted to one’s care) fraudulently to one’s own use; “The accountant embezzled thousands of dollars while working for the wealthy family”
+	- Synonyms
+		- defalcate
+		- peculate
+		- misappropriate
+		- malversate
+	- Less specific
+		- steal
+		- rip off
+		- rip
+	- More specific
+		- fiddle
+	- Related
+		- malversation
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzler
+		- defalcator
+		- peculator
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzler
+		- defalcator
+		- peculator
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzler
+		- defalcator
+		- peculator
+
+- [**embezzle** - LookUp](https://learnwithlookup.com/share/index.html?word=embezzle&definition=steal%2520or%2520misappropriate&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlbWJlenpsZSIsImRlZmluaXRpb24iOiJzdGVhbCBvciBtaXNhcHByb3ByaWF0ZSJ9)
+Verb
+1.	Law steal or misappropriate (money placed in one's trust or belonging to the organization for which one works)
+she had embezzled $5,600,000 in company funds
+
+## Origin
+late Middle English (in the sense ‘steal’): from Anglo-Norman French embesiler, from besiler in the same sense (compare with Old French besillier ‘maltreat, ravage’), of unknown ultimate origin. The current sense dates from the late 16th century
+
+## Thesaurus
+Verb
+1.	he was charged with embezzling more than £5,000 from a country club
+
+Similar Words: 	misappropriate    steal    rob    thieve    pilfer    appropriate    abstract    defraud someone of    siphon off    pocket    take    take for oneself    help oneself to    line one's pockets with    line one's purse with    put one's hand in the till    dip into the public purse    commit white-collar crime    commit fraud    rip off    filch    swipe    lift    skim    snaffle    pinch    nick    half-inch    whip    nobble    peculate    defalcate    purloin
+# embezzle
+
+
+## Verb
+
+1. appropriate (as property entrusted to one’s care) fraudulently to one’s own use; “The accountant embezzled thousands of dollars while working for the wealthy family”
+	- Synonyms
+		- defalcate
+		- peculate
+		- misappropriate
+		- malversate
+	- Less specific
+		- steal
+		- rip off
+		- rip
+	- More specific
+		- fiddle
+	- Related
+		- malversation
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzler
+		- defalcator
+		- peculator
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzler
+		- defalcator
+		- peculator
+		- embezzlement
+		- peculation
+		- defalcation
+		- misapplication
+		- misappropriation
+		- embezzler
+		- defalcator
+		- peculator
+
+- [**embezzle** - LookUp](https://learnwithlookup.com/share/index.html?word=embezzle&definition=steal%2520or%2520misappropriate&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlbWJlenpsZSIsImRlZmluaXRpb24iOiJzdGVhbCBvciBtaXNhcHByb3ByaWF0ZSJ9)
+Verb
+1.	Law steal or misappropriate (money placed in one's trust or belonging to the organization for which one works)
+she had embezzled $5,600,000 in company funds
+
+## Origin
+late Middle English (in the sense ‘steal’): from Anglo-Norman French embesiler, from besiler in the same sense (compare with Old French besillier ‘maltreat, ravage’), of unknown ultimate origin. The current sense dates from the late 16th century
+
+## Thesaurus
+Verb
+1.	he was charged with embezzling more than £5,000 from a country club
+
+Similar Words: 	misappropriate    steal    rob    thieve    pilfer    appropriate    abstract    defraud someone of    siphon off    pocket    take    take for oneself    help oneself to    line one's pockets with    line one's purse with    put one's hand in the till    dip into the public purse    commit white-collar crime    commit fraud    rip off    filch    swipe    lift    skim    snaffle    pinch    nick    half-inch    whip    nobble    peculate    defalcate    purloin
+# embranglement
+
+
+Word of the Day: EMBRANGLEMENT (n.) an intricate state of confusion or disorder
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1510877532974899200)
+# embranglement
+
+
+Word of the Day: EMBRANGLEMENT (n.) an intricate state of confusion or disorder
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1510877532974899200)
+# emphatically
+
+
+## Adverb
+
+1. without question and beyond doubt; “it was decidedly too expensive”; “she told him off in spades”; “by all odds they should win”
+	- Synonyms
+		- decidedly
+		- unquestionably
+		- definitely
+		- in spades
+		- by all odds
+	- Pertains to
+		- emphatic
+		- forceful
+		- unquestionable
+		- distinct
+		- decided
+
+
+# emphatically
+
+
+## Adverb
+
+1. without question and beyond doubt; “it was decidedly too expensive”; “she told him off in spades”; “by all odds they should win”
+	- Synonyms
+		- decidedly
+		- unquestionably
+		- definitely
+		- in spades
+		- by all odds
+	- Pertains to
+		- emphatic
+		- forceful
+		- unquestionable
+		- distinct
+		- decided
+
+
+# empyrean
+
+
+## Noun
+
+1. the apparent surface of the imaginary sphere on which celestial bodies appear to be projected
+	- Synonyms
+		- celestial sphere
+		- sphere
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+	- Less specific
+		- surface
+	- Parts
+		- apex
+		- solar apex
+		- apex of the sun's way
+		- celestial point
+		- nadir
+		- zenith
+		- zodiac
+	- Related
+		- firmamental
+		- empyrean
+		- empyreal
+
+## Adjective
+
+1. of or relating to the sky or heavens; “the empyrean sphere”
+	- Synonyms
+		- empyreal
+	- Pertains to
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+	- Related
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+2. inspiring awe; “well-meaning ineptitude that rises to empyreal absurdity”- M.S.Dworkin; “empyrean aplomb”- Hamilton Basso; “the sublime beauty of the night”
+	- Synonyms
+		- empyreal
+		- sublime
+	- Similar to
+		- glorious
+
+
+# empyrean
+
+
+## Noun
+
+1. the apparent surface of the imaginary sphere on which celestial bodies appear to be projected
+	- Synonyms
+		- celestial sphere
+		- sphere
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+	- Less specific
+		- surface
+	- Parts
+		- apex
+		- solar apex
+		- apex of the sun's way
+		- celestial point
+		- nadir
+		- zenith
+		- zodiac
+	- Related
+		- firmamental
+		- empyrean
+		- empyreal
+
+## Adjective
+
+1. of or relating to the sky or heavens; “the empyrean sphere”
+	- Synonyms
+		- empyreal
+	- Pertains to
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+	- Related
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+2. inspiring awe; “well-meaning ineptitude that rises to empyreal absurdity”- M.S.Dworkin; “empyrean aplomb”- Hamilton Basso; “the sublime beauty of the night”
+	- Synonyms
+		- empyreal
+		- sublime
+	- Similar to
+		- glorious
+
+
+# encomium
+
+
+## Noun
+
+1. a formal expression of praise
+	- Synonyms
+		- eulogy
+		- panegyric
+		- paean
+		- pean
+	- Less specific
+		- praise
+		- congratulations
+		- kudos
+		- extolment
+	- Related
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+		- eulogist
+		- panegyrist
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+
+
+# encomium
+
+
+## Noun
+
+1. a formal expression of praise
+	- Synonyms
+		- eulogy
+		- panegyric
+		- paean
+		- pean
+	- Less specific
+		- praise
+		- congratulations
+		- kudos
+		- extolment
+	- Related
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+		- eulogist
+		- panegyrist
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+		- encomiastic
+		- eulogistic
+		- panegyric
+		- panegyrical
+
+
 # ensconce
 
 
@@ -1272,7 +12032,163 @@ the making or laying out of a military camp
 		- lay
 
 
-===
+# ensconce
+
+
+## Verb
+
+1. fix firmly; “He ensconced himself in the chair”
+	- Synonyms
+		- settle
+	- Less specific
+		- put
+		- set
+		- place
+		- pose
+		- position
+		- lay
+
+
+# epiphenomenon
+
+
+## Noun
+
+1. a secondary phenomenon that is a by-product of another phenomenon
+	- Less specific
+		- by-product
+		- byproduct
+
+- [**epiphenomenon** - LookUp](https://learnwithlookup.com/share/index.html?word=epiphenomenon&definition=secondary%2520effect%2520or%2520by-product&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlcGlwaGVub21lbm9uIiwiZGVmaW5pdGlvbiI6InNlY29uZGFyeSBlZmZlY3Qgb3IgYnktcHJvZHVjdCJ9)
+Noun
+1.	a secondary effect or byproduct that arises from but does not causally influence a process.
+
+Pathology a secondary symptom, occurring simultaneously with a disease or condition but not directly related to it.
+
+Psychology Philosophy a mental state regarded as a byproduct of brain activity.
+# epiphenomenon
+
+
+## Noun
+
+1. a secondary phenomenon that is a by-product of another phenomenon
+	- Less specific
+		- by-product
+		- byproduct
+
+- [**epiphenomenon** - LookUp](https://learnwithlookup.com/share/index.html?word=epiphenomenon&definition=secondary%2520effect%2520or%2520by-product&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlcGlwaGVub21lbm9uIiwiZGVmaW5pdGlvbiI6InNlY29uZGFyeSBlZmZlY3Qgb3IgYnktcHJvZHVjdCJ9)
+Noun
+1.	a secondary effect or byproduct that arises from but does not causally influence a process.
+
+Pathology a secondary symptom, occurring simultaneously with a disease or condition but not directly related to it.
+
+Psychology Philosophy a mental state regarded as a byproduct of brain activity.
+# equipollent
+
+
+- [**equipollent** - LookUp](https://learnwithlookup.com/share/index.html?word=equipollent&definition=equal%2520or%2520equivalent%2520in%2520power%2520or%2520significance&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlcXVpcG9sbGVudCIsImRlZmluaXRpb24iOiJlcXVhbCBvciBlcXVpdmFsZW50IGluIHBvd2VyIG9yIHNpZ25pZmljYW5jZSJ9)
+Adjective
+1.	Logic Archaic equal or equivalent in power, effect, or significance.
+
+## Origin
+late Middle English: from Old French equipolent, from Latin aequipollent- ‘of equal value’, from aequi- ‘equally’ + pollere ‘be strong’
+# equipollent
+
+
+- [**equipollent** - LookUp](https://learnwithlookup.com/share/index.html?word=equipollent&definition=equal%2520or%2520equivalent%2520in%2520power%2520or%2520significance&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlcXVpcG9sbGVudCIsImRlZmluaXRpb24iOiJlcXVhbCBvciBlcXVpdmFsZW50IGluIHBvd2VyIG9yIHNpZ25pZmljYW5jZSJ9)
+Adjective
+1.	Logic Archaic equal or equivalent in power, effect, or significance.
+
+## Origin
+late Middle English: from Old French equipolent, from Latin aequipollent- ‘of equal value’, from aequi- ‘equally’ + pollere ‘be strong’
+# erudite
+
+
+![erudite LookUp](https://i.snap.as/f2v9XDDP.png)
+
+
+## Adjective
+
+1. having or showing profound knowledge; “a learned jurist”; “an erudite professor”
+	- Synonyms
+		- learned
+	- Similar to
+		- scholarly
+	- Related
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+
+*From LookUp*:
+Adjective
+1.	having or showing great knowledge or learning
+Ken could turn any conversation into an erudite discussion | she was very erudite
+
+## Origin
+late Middle English: from Latin eruditus, past participle of erudire ‘instruct, train’ (based on rudis ‘rude, untrained’)
+
+## Thesaurus
+Adjective
+1.	he was so erudite that only men who were his equals in scholarship could understand him | erudite editions of minor classical writers
+
+Similar Words: 	learned    scholarly    well educated    knowledgeable    well read    widely read    well versed    well informed    lettered    cultured    cultivated    civilized    intellectual    intelligent    clever    academic    literary    bookish    highbrow    studious    sage    wise    sagacious    discerning    donnish    cerebral    enlightened    illuminated    sophisticated    pedantic    esoteric    obscure    recondite    brainy    genius    sapient
+
+Opposites: 	ignorant    ill-educated
+# erudite
+
+
+![erudite LookUp](https://i.snap.as/f2v9XDDP.png)
+
+
+## Adjective
+
+1. having or showing profound knowledge; “a learned jurist”; “an erudite professor”
+	- Synonyms
+		- learned
+	- Similar to
+		- scholarly
+	- Related
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+
+*From LookUp*:
+Adjective
+1.	having or showing great knowledge or learning
+Ken could turn any conversation into an erudite discussion | she was very erudite
+
+## Origin
+late Middle English: from Latin eruditus, past participle of erudire ‘instruct, train’ (based on rudis ‘rude, untrained’)
+
+## Thesaurus
+Adjective
+1.	he was so erudite that only men who were his equals in scholarship could understand him | erudite editions of minor classical writers
+
+Similar Words: 	learned    scholarly    well educated    knowledgeable    well read    widely read    well versed    well informed    lettered    cultured    cultivated    civilized    intellectual    intelligent    clever    academic    literary    bookish    highbrow    studious    sage    wise    sagacious    discerning    donnish    cerebral    enlightened    illuminated    sophisticated    pedantic    esoteric    obscure    recondite    brainy    genius    sapient
+
+Opposites: 	ignorant    ill-educated
 # erudite
 
 
@@ -1300,7 +12216,743 @@ the making or laying out of a military camp
 		- encyclopaedism
 
 
-===
+# erudite
+
+
+## Adjective
+
+1. having or showing profound knowledge; “a learned jurist”; “an erudite professor”
+	- Synonyms
+		- learned
+	- Similar to
+		- scholarly
+	- Related
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+
+
+# escarpment
+
+
+## Noun
+
+1. a long steep slope or cliff at the edge of a plateau or ridge; usually formed by erosion
+	- Synonyms
+		- scarp
+	- Less specific
+		- slope
+		- incline
+		- side
+2. a steep artificial slope in front of a fortification
+	- Synonyms
+		- escarp
+		- scarp
+		- protective embankment
+	- Less specific
+		- fortification
+		- munition
+
+
+# escarpment
+
+
+## Noun
+
+1. a long steep slope or cliff at the edge of a plateau or ridge; usually formed by erosion
+	- Synonyms
+		- scarp
+	- Less specific
+		- slope
+		- incline
+		- side
+2. a steep artificial slope in front of a fortification
+	- Synonyms
+		- escarp
+		- scarp
+		- protective embankment
+	- Less specific
+		- fortification
+		- munition
+
+
+# eschatology
+
+
+## Noun
+
+1. the branch of theology that is concerned with such final things as death and Last Judgment; Heaven and Hell; the ultimate destiny of humankind
+	- Less specific
+		- theology
+		- divinity
+	- Related
+		- eschatological
+		- eschatologist
+
+*From Wikipedia*
+Eschatology concerns expectations of the end of the present age, human history, or of the world itself. The end of the world or end times is predicted by several world religions, which teach that negative world events will reach a climax. Belief that the end of the world is imminent is known as apocalypticism, and over time has been held both by members of mainstream religions and by doomsday cults. In the context of mysticism, the term refers metaphorically to the end of ordinary reality and to reunion with the divine. Various religions treat eschatology as a future event prophesied in sacred texts or in folklore.
+
+The Abrahamic religions maintain a linear cosmology, with end-time scenarios containing themes of transformation and redemption. In later Judaism, the term "end of days" makes reference to the Messianic Age and includes an in-gathering of the exiled Jewish diaspora, the coming of the Messiah, the resurrection of the righteous, and the world to come. Some forms of Christianity depict the end time as a period of tribulation that precedes the second coming of Christ, who will face the rise of the Antichrist along with his power structure and false prophets, and usher in the Kingdom of God. In Islam, the Day of Judgment is preceded by the appearance of the Masīḥ ad-Dajjāl, and followed by the descending of ʿĪsā (Jesus), which shall triumph over the false Messiah or Antichrist; his defeat will lead to a sequence of events that will end with the sun rising from the west and the beginning of the Qiyāmah (Judgment Day).
+
+Dharmic religions tend to have more cyclical worldviews, with end-time eschatologies characterized by decay, redemption, and rebirth (though some believe transitions between cycles are relatively uneventful). In Hinduism, the end time occurs when Kalki, the final incarnation of Vishnu, descends atop a white horse and brings an end to the current Kali Yuga, completing a cycle that starts again with the regeneration of the world. In Buddhism, the Buddha predicted his teachings would be forgotten after 5,000 years, followed by turmoil. It says a bodhisattva named Maitreya will appear and rediscover the teachings of the Buddha Dharma, and that the ultimate destruction of the world will then come through seven suns.
+
+Since the development of the concept of deep time in the 18th century and the calculation of the estimated age of planet Earth, scientific discourse about end times has considered the ultimate fate of the universe. Theories have included the Big Rip, Big Crunch, Big Bounce, and Big Freeze (heat death). Social and scientific commentators also worry about global catastrophic risks and scenarios that could result in human extinction.
+# eschatology
+
+
+## Noun
+
+1. the branch of theology that is concerned with such final things as death and Last Judgment; Heaven and Hell; the ultimate destiny of humankind
+	- Less specific
+		- theology
+		- divinity
+	- Related
+		- eschatological
+		- eschatologist
+
+*From Wikipedia*
+Eschatology concerns expectations of the end of the present age, human history, or of the world itself. The end of the world or end times is predicted by several world religions, which teach that negative world events will reach a climax. Belief that the end of the world is imminent is known as apocalypticism, and over time has been held both by members of mainstream religions and by doomsday cults. In the context of mysticism, the term refers metaphorically to the end of ordinary reality and to reunion with the divine. Various religions treat eschatology as a future event prophesied in sacred texts or in folklore.
+
+The Abrahamic religions maintain a linear cosmology, with end-time scenarios containing themes of transformation and redemption. In later Judaism, the term "end of days" makes reference to the Messianic Age and includes an in-gathering of the exiled Jewish diaspora, the coming of the Messiah, the resurrection of the righteous, and the world to come. Some forms of Christianity depict the end time as a period of tribulation that precedes the second coming of Christ, who will face the rise of the Antichrist along with his power structure and false prophets, and usher in the Kingdom of God. In Islam, the Day of Judgment is preceded by the appearance of the Masīḥ ad-Dajjāl, and followed by the descending of ʿĪsā (Jesus), which shall triumph over the false Messiah or Antichrist; his defeat will lead to a sequence of events that will end with the sun rising from the west and the beginning of the Qiyāmah (Judgment Day).
+
+Dharmic religions tend to have more cyclical worldviews, with end-time eschatologies characterized by decay, redemption, and rebirth (though some believe transitions between cycles are relatively uneventful). In Hinduism, the end time occurs when Kalki, the final incarnation of Vishnu, descends atop a white horse and brings an end to the current Kali Yuga, completing a cycle that starts again with the regeneration of the world. In Buddhism, the Buddha predicted his teachings would be forgotten after 5,000 years, followed by turmoil. It says a bodhisattva named Maitreya will appear and rediscover the teachings of the Buddha Dharma, and that the ultimate destruction of the world will then come through seven suns.
+
+Since the development of the concept of deep time in the 18th century and the calculation of the estimated age of planet Earth, scientific discourse about end times has considered the ultimate fate of the universe. Theories have included the Big Rip, Big Crunch, Big Bounce, and Big Freeze (heat death). Social and scientific commentators also worry about global catastrophic risks and scenarios that could result in human extinction.
+# esculent
+
+
+*From LookUp*:
+Adjective
+1.	Formal fit to be eaten; edible.
+
+
+Noun
+1.	Formal a thing, especially a vegetable, which is fit to be eaten.
+# esculent
+
+
+*From LookUp*:
+Adjective
+1.	Formal fit to be eaten; edible.
+
+
+Noun
+1.	Formal a thing, especially a vegetable, which is fit to be eaten.
+# esoteric
+
+
+## Adjective
+
+1. confined to and understandable by only an enlightened inner circle; “a compilation of esoteric philosophical theories”
+	- Antonyms
+		- exoteric
+	- Similar to
+		- abstruse
+		- deep
+		- recondite
+		- arcane
+		- cabalistic
+		- kabbalistic
+		- qabalistic
+		- cryptic
+		- cryptical
+		- sibylline
+		- mysterious
+		- mystic
+		- mystical
+		- occult
+		- secret
+		- orphic
+	- See also
+		- private
+
+- [**esoteric** - LookUp](https://learnwithlookup.com/share/index.html?word=esoteric&definition=intended%2520for%2520or%2520likely%2520to%2520be%2520understood%2520by%2520only%2520small%2520number%2520of%2520people&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlc290ZXJpYyIsImRlZmluaXRpb24iOiJpbnRlbmRlZCBmb3Igb3IgbGlrZWx5IHRvIGJlIHVuZGVyc3Rvb2QgYnkgb25seSBzbWFsbCBudW1iZXIgb2YgcGVvcGxlIn0%3D)
+Adjective
+1.	intended for or likely to be understood by only a small number of people with a specialized knowledge or interest
+esoteric philosophical debates
+
+## Origin
+
+mid 17th century: from Greek esōterikos, from esōterō, comparative of esō ‘within’, from es, eis ‘into’. Compare with exoteric
+
+## Thesaurus
+
+Adjective
+1.	the question is dominated by esoteric debate
+
+Similar Words: 	abstruse    obscure    arcane    recherché    rarefied    recondite    abstract    difficult    hard    puzzling    perplexing    enigmatic    inscrutable    cryptic    Delphic    complex    complicated    involved    above one's head    over one's head    incomprehensible    opaque    unfathomable    impenetrable    mysterious    occult    little known    hidden    secret    private    mystic    magical    cabbalistic    involuted
+
+Opposites: 	simple    familiar
+# esoteric
+
+
+## Adjective
+
+1. confined to and understandable by only an enlightened inner circle; “a compilation of esoteric philosophical theories”
+	- Antonyms
+		- exoteric
+	- Similar to
+		- abstruse
+		- deep
+		- recondite
+		- arcane
+		- cabalistic
+		- kabbalistic
+		- qabalistic
+		- cryptic
+		- cryptical
+		- sibylline
+		- mysterious
+		- mystic
+		- mystical
+		- occult
+		- secret
+		- orphic
+	- See also
+		- private
+
+- [**esoteric** - LookUp](https://learnwithlookup.com/share/index.html?word=esoteric&definition=intended%2520for%2520or%2520likely%2520to%2520be%2520understood%2520by%2520only%2520small%2520number%2520of%2520people&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlc290ZXJpYyIsImRlZmluaXRpb24iOiJpbnRlbmRlZCBmb3Igb3IgbGlrZWx5IHRvIGJlIHVuZGVyc3Rvb2QgYnkgb25seSBzbWFsbCBudW1iZXIgb2YgcGVvcGxlIn0%3D)
+Adjective
+1.	intended for or likely to be understood by only a small number of people with a specialized knowledge or interest
+esoteric philosophical debates
+
+## Origin
+
+mid 17th century: from Greek esōterikos, from esōterō, comparative of esō ‘within’, from es, eis ‘into’. Compare with exoteric
+
+## Thesaurus
+
+Adjective
+1.	the question is dominated by esoteric debate
+
+Similar Words: 	abstruse    obscure    arcane    recherché    rarefied    recondite    abstract    difficult    hard    puzzling    perplexing    enigmatic    inscrutable    cryptic    Delphic    complex    complicated    involved    above one's head    over one's head    incomprehensible    opaque    unfathomable    impenetrable    mysterious    occult    little known    hidden    secret    private    mystic    magical    cabbalistic    involuted
+
+Opposites: 	simple    familiar
+# espy
+
+
+## Verb
+
+1. catch sight of
+	- Synonyms
+		- descry
+		- spot
+		- spy
+	- Less specific
+		- spy
+		- sight
+	- Related
+		- detection
+		- catching
+		- espial
+		- spying
+		- spotting
+		- detection
+		- catching
+		- espial
+		- spying
+		- spotting
+		- lookout
+		- lookout man
+		- sentinel
+		- sentry
+		- watch
+		- spotter
+		- scout
+		- picket
+		- finder
+		- discoverer
+		- spotter
+		- detection
+		- catching
+		- espial
+		- spying
+		- spotting
+
+- [**espy** - LookUp](https://learnwithlookup.com/share/index.html?word=espy&definition=catch%2520sight%2520of&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlc3B5IiwiZGVmaW5pdGlvbiI6ImNhdGNoIHNpZ2h0IG9mIn0%3D)
+Verb
+1.	Literary catch sight of
+she espied her daughter rounding the corner
+
+## Origin
+Middle English: from Old French espier, ultimately of Germanic origin and related to Dutch spieden and German spähan. Compare with spy
+# espy
+
+
+## Verb
+
+1. catch sight of
+	- Synonyms
+		- descry
+		- spot
+		- spy
+	- Less specific
+		- spy
+		- sight
+	- Related
+		- detection
+		- catching
+		- espial
+		- spying
+		- spotting
+		- detection
+		- catching
+		- espial
+		- spying
+		- spotting
+		- lookout
+		- lookout man
+		- sentinel
+		- sentry
+		- watch
+		- spotter
+		- scout
+		- picket
+		- finder
+		- discoverer
+		- spotter
+		- detection
+		- catching
+		- espial
+		- spying
+		- spotting
+
+- [**espy** - LookUp](https://learnwithlookup.com/share/index.html?word=espy&definition=catch%2520sight%2520of&data=eyJpbWFnZSI6IiIsIndvcmQiOiJlc3B5IiwiZGVmaW5pdGlvbiI6ImNhdGNoIHNpZ2h0IG9mIn0%3D)
+Verb
+1.	Literary catch sight of
+she espied her daughter rounding the corner
+
+## Origin
+Middle English: from Old French espier, ultimately of Germanic origin and related to Dutch spieden and German spähan. Compare with spy
+# estimable
+
+
+## Adjective
+
+1. deserving of respect or high regard
+	- Antonyms
+		- contemptible
+	- Similar to
+		- admirable
+	- See also
+		- worthy
+2. deserving of esteem and respect; “all respectable companies give guarantees”; “ruined the family’s good name”
+	- Synonyms
+		- good
+		- honorable
+		- respectable
+	- Similar to
+		- reputable
+	- Related
+		- respectability
+		- reputability
+		- honorableness
+		- honourableness
+		- respect
+		- honor
+		- honour
+		- abide by
+		- observe
+		- good
+		- goodness
+3. may be computed or estimated; “a calculable risk”; “computable odds”; “estimable assets”
+	- Synonyms
+		- computable
+	- Similar to
+		- calculable
+
+*From LookUp*:
+Adjective
+1.	worthy of great respect
+she was shown into that estimable woman's presence
+# estimable
+
+
+## Adjective
+
+1. deserving of respect or high regard
+	- Antonyms
+		- contemptible
+	- Similar to
+		- admirable
+	- See also
+		- worthy
+2. deserving of esteem and respect; “all respectable companies give guarantees”; “ruined the family’s good name”
+	- Synonyms
+		- good
+		- honorable
+		- respectable
+	- Similar to
+		- reputable
+	- Related
+		- respectability
+		- reputability
+		- honorableness
+		- honourableness
+		- respect
+		- honor
+		- honour
+		- abide by
+		- observe
+		- good
+		- goodness
+3. may be computed or estimated; “a calculable risk”; “computable odds”; “estimable assets”
+	- Synonyms
+		- computable
+	- Similar to
+		- calculable
+
+*From LookUp*:
+Adjective
+1.	worthy of great respect
+she was shown into that estimable woman's presence
+# esurient
+
+
+## Adjective
+
+1. extremely hungry; “they were tired and famished for food and sleep”; “a ravenous boy”; “the family was starved and ragged”; “fell into the esurient embrance of a predatory enemy”
+	- Synonyms
+		- famished
+		- ravenous
+		- sharp-set
+		- starved
+	- Similar to
+		- hungry
+	- Related
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+2. (often followed by `for’) ardently or excessively desirous; “avid for adventure”; “an avid ambition to succeed”; “fierce devouring affection”; “the esurient eyes of an avid curiosity”; “greedy for fame”
+	- Synonyms
+		- avid
+		- devouring
+		- greedy
+	- Similar to
+		- desirous
+		- wishful
+3. devouring or craving food in great quantities; “edacious vultures”; “a rapacious appetite”; “ravenous as wolves”; “voracious sharks”
+	- Synonyms
+		- edacious
+		- rapacious
+		- ravening
+		- ravenous
+		- voracious
+		- wolfish
+	- Similar to
+		- gluttonous
+	- Related
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+
+
+# esurient
+
+
+## Adjective
+
+1. extremely hungry; “they were tired and famished for food and sleep”; “a ravenous boy”; “the family was starved and ragged”; “fell into the esurient embrance of a predatory enemy”
+	- Synonyms
+		- famished
+		- ravenous
+		- sharp-set
+		- starved
+	- Similar to
+		- hungry
+	- Related
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+2. (often followed by `for’) ardently or excessively desirous; “avid for adventure”; “an avid ambition to succeed”; “fierce devouring affection”; “the esurient eyes of an avid curiosity”; “greedy for fame”
+	- Synonyms
+		- avid
+		- devouring
+		- greedy
+	- Similar to
+		- desirous
+		- wishful
+3. devouring or craving food in great quantities; “edacious vultures”; “a rapacious appetite”; “ravenous as wolves”; “voracious sharks”
+	- Synonyms
+		- edacious
+		- rapacious
+		- ravening
+		- ravenous
+		- voracious
+		- wolfish
+	- Similar to
+		- gluttonous
+	- Related
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- ravenousness
+		- voracity
+		- voraciousness
+		- edacity
+		- esurience
+		- rapaciousness
+		- rapacity
+		- voracity
+		- voraciousness
+
+
+# ethereal
+
+![ethereal LookUp](https://i.snap.as/4ucXE5gA.png)
+
+## Adjective
+
+1. characterized by lightness and insubstantiality; as impalpable or intangible as air; “figures light and aeriform come unlooked for and melt away”- Thomas Carlyle; “aerial fancies”; “an airy apparition”; “physical rather than ethereal forms”
+	- Synonyms
+		- aeriform
+		- aerial
+		- airy
+		- aery
+	- Similar to
+		- insubstantial
+		- unsubstantial
+		- unreal
+	- Related
+		- airiness
+		- buoyancy
+2. of or containing or dissolved in ether; “ethereal solution”
+	- Pertains to
+		- ether
+		- ethoxyethane
+		- divinyl ether
+		- vinyl ether
+		- diethyl ether
+		- ethyl ether
+	- Related
+		- ether
+		- ether
+		- ethoxyethane
+		- divinyl ether
+		- vinyl ether
+		- diethyl ether
+		- ethyl ether
+	- Topic Members
+		- chemistry
+		- chemical science
+3. of heaven or the spirit; “celestial peace”; “ethereal melodies”; “the supernal happiness of a quiet death”
+	- Synonyms
+		- celestial
+		- supernal
+	- Similar to
+		- heavenly
+	- Related
+		- quintessence
+		- ether
+4. characterized by unusual lightness and delicacy; “this smallest and most ethereal of birds”; “gossamer shading through his playing”
+	- Synonyms
+		- gossamer
+	- Similar to
+		- delicate
+	- Related
+		- cobweb
+		- gossamer
+		- gossamer
+
+*From LookUp*:
+Adjective
+1.	extremely delicate and light in a way that seems too perfect for this world
+her ethereal beauty | a singer who has a weirdly ethereal voice
+
+heavenly or spiritual
+ethereal, otherworldly visions
+
+2.	Chemistry (of a solution) having diethyl ether as a solvent
+sodium is dissolved in ethereal solutions of aromatic ketones
+# ethereal
+
+![ethereal LookUp](https://i.snap.as/4ucXE5gA.png)
+
+## Adjective
+
+1. characterized by lightness and insubstantiality; as impalpable or intangible as air; “figures light and aeriform come unlooked for and melt away”- Thomas Carlyle; “aerial fancies”; “an airy apparition”; “physical rather than ethereal forms”
+	- Synonyms
+		- aeriform
+		- aerial
+		- airy
+		- aery
+	- Similar to
+		- insubstantial
+		- unsubstantial
+		- unreal
+	- Related
+		- airiness
+		- buoyancy
+2. of or containing or dissolved in ether; “ethereal solution”
+	- Pertains to
+		- ether
+		- ethoxyethane
+		- divinyl ether
+		- vinyl ether
+		- diethyl ether
+		- ethyl ether
+	- Related
+		- ether
+		- ether
+		- ethoxyethane
+		- divinyl ether
+		- vinyl ether
+		- diethyl ether
+		- ethyl ether
+	- Topic Members
+		- chemistry
+		- chemical science
+3. of heaven or the spirit; “celestial peace”; “ethereal melodies”; “the supernal happiness of a quiet death”
+	- Synonyms
+		- celestial
+		- supernal
+	- Similar to
+		- heavenly
+	- Related
+		- quintessence
+		- ether
+4. characterized by unusual lightness and delicacy; “this smallest and most ethereal of birds”; “gossamer shading through his playing”
+	- Synonyms
+		- gossamer
+	- Similar to
+		- delicate
+	- Related
+		- cobweb
+		- gossamer
+		- gossamer
+
+*From LookUp*:
+Adjective
+1.	extremely delicate and light in a way that seems too perfect for this world
+her ethereal beauty | a singer who has a weirdly ethereal voice
+
+heavenly or spiritual
+ethereal, otherworldly visions
+
+2.	Chemistry (of a solution) having diethyl ether as a solvent
+sodium is dissolved in ethereal solutions of aromatic ketones
 # ethnography
 
 
@@ -1317,7 +12969,232 @@ the making or laying out of a military camp
 		- ethnographer
 
 
-===
+# ethnography
+
+
+## Noun
+
+1. the branch of anthropology that provides scientific description of individual human societies
+	- Synonyms
+		- descriptive anthropology
+	- Less specific
+		- anthropology
+	- Related
+		- ethnographic
+		- ethnographical
+		- ethnographer
+
+
+# ethnography
+
+
+## Noun
+
+1. the branch of anthropology that provides scientific description of individual human societies
+	- Synonyms
+		- descriptive anthropology
+	- Less specific
+		- anthropology
+	- Related
+		- ethnographic
+		- ethnographical
+		- ethnographer
+
+
+# ethnography
+
+
+## Noun
+
+1. the branch of anthropology that provides scientific description of individual human societies
+	- Synonyms
+		- descriptive anthropology
+	- Less specific
+		- anthropology
+	- Related
+		- ethnographic
+		- ethnographical
+		- ethnographer
+
+
+# excogitate
+
+
+## Verb
+
+1. come up with (an idea, plan, explanation, theory, or principle) after a mental effort; “excogitate a way to measure the speed of light”
+	- Synonyms
+		- invent
+		- contrive
+		- devise
+		- formulate
+		- forge
+	- Less specific
+		- create by mental act
+		- create mentally
+	- Related
+		- formula
+		- conceptualization
+		- conceptualisation
+		- formulation
+		- invention
+		- innovation
+		- excogitation
+		- conception
+		- design
+		- excogitation
+		- excogitator
+		- planner
+		- contriver
+		- deviser
+		- devising
+		- fashioning
+		- making
+		- devisal
+		- contrivance
+		- devisal
+		- contrivance
+		- imaginative
+		- inventive
+		- invention
+		- innovation
+		- excogitation
+		- conception
+		- design
+		- invention
+		- inventor
+		- discoverer
+		- artificer
+2. reflect deeply on a subject; “I mulled over the events of the afternoon”; “philosophers have speculated on the question of God for thousands of years”; “The scientist must stop to observe and start to excogitate”
+	- Synonyms
+		- chew over
+		- think over
+		- meditate
+		- ponder
+		- contemplate
+		- muse
+		- reflect
+		- mull
+		- mull over
+		- ruminate
+		- speculate
+	- Less specific
+		- think
+		- cogitate
+		- cerebrate
+	- More specific
+		- premeditate
+		- theologize
+		- theologise
+		- introspect
+		- bethink
+		- cogitate
+		- wonder
+		- question
+		- puzzle
+		- study
+		- consider
+	- Related
+		- inquisitive
+		- speculative
+		- questioning
+		- wondering
+		- meditation
+		- speculation
+		- brooding
+		- broody
+		- contemplative
+		- meditative
+		- musing
+		- pensive
+		- pondering
+		- reflective
+		- ruminative
+		- contemplation
+		- reflection
+		- reflexion
+		- rumination
+		- musing
+		- thoughtfulness
+		- muser
+		- muller
+		- ponderer
+		- ruminator
+		- muser
+		- muller
+		- ponderer
+		- ruminator
+		- brooding
+		- broody
+		- contemplative
+		- meditative
+		- musing
+		- pensive
+		- pondering
+		- reflective
+		- ruminative
+		- reflective
+		- muse
+		- muser
+		- muller
+		- ponderer
+		- ruminator
+		- contemplation
+		- reflection
+		- reflexion
+		- rumination
+		- musing
+		- thoughtfulness
+		- brooding
+		- broody
+		- contemplative
+		- meditative
+		- musing
+		- pensive
+		- pondering
+		- reflective
+		- ruminative
+		- contemplation
+		- reflection
+		- reflexion
+		- rumination
+		- musing
+		- thoughtfulness
+		- excogitative
+		- muser
+		- muller
+		- ponderer
+		- ruminator
+		- brooding
+		- broody
+		- contemplative
+		- meditative
+		- musing
+		- pensive
+		- pondering
+		- reflective
+		- ruminative
+		- meditation
+		- speculation
+
+- [**excogitate** - LookUp](https://learnwithlookup.com/share/index.html?word=excogitate&definition=think%2520out%2520or%2520devise&data=eyJpbWFnZSI6IiIsIndvcmQiOiJleGNvZ2l0YXRlIiwiZGVmaW5pdGlvbiI6InRoaW5rIG91dCBvciBkZXZpc2UifQ%3D%3D)
+Verb
+1.	Formal think out, plan, or devise
+scholars straining to excogitate upon subjects of which they know little
+# excourse
+
+
+## Noun
+
+An EXCOURSE is a grand outgoing or exodus of people.
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1588892615608786945)
+# excourse
+
+
+## Noun
+
+An EXCOURSE is a grand outgoing or exodus of people.
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1588892615608786945)
 # exigent
 
 
@@ -1350,7 +13227,38 @@ the making or laying out of a military camp
 		- demanding
 
 
-===
+# exigent
+
+
+## Adjective
+
+1. demanding attention; “clamant needs”; “a crying need”; “regarded literary questions as exigent and momentous”- H.L.Mencken; “insistent hunger”; “an instant need”
+	- Synonyms
+		- clamant
+		- crying
+		- insistent
+		- instant
+	- Similar to
+		- imperative
+	- Related
+		- imperativeness
+		- instancy
+		- imperativeness
+		- insistence
+		- insistency
+		- press
+		- pressure
+		- exigency
+		- emergency
+		- exigency
+		- pinch
+2. requiring precise accuracy; “an exacting job”; “became more exigent over his pronunciation”
+	- Synonyms
+		- exacting
+	- Similar to
+		- demanding
+
+
 # explicate
 
 
@@ -1399,7 +13307,54 @@ the making or laying out of a military camp
 		- explication
 
 
-===
+# explicate
+
+
+## Verb
+
+1. make plain and comprehensible; “He explained the laws of physics to his students”
+	- Synonyms
+		- explain
+	- Less specific
+		- inform
+	- More specific
+		- rede
+		- interpret
+		- account for
+		- naturalize
+		- clarify
+		- clear up
+		- elucidate
+		- comment
+	- Related
+		- explication
+		- explication
+		- explanatory
+		- explanation
+2. elaborate, as of theories and hypotheses; “Could you develop the ideas in your thesis”
+	- Synonyms
+		- formulate
+		- develop
+	- Less specific
+		- speculate
+		- theorize
+		- theorise
+		- conjecture
+		- hypothesize
+		- hypothesise
+		- hypothecate
+		- suppose
+	- More specific
+		- mature
+		- redevelop
+		- reformulate
+	- Related
+		- conceptualization
+		- conceptualisation
+		- formulation
+		- explication
+
+
 # expression
 
 
@@ -1598,7 +13553,204 @@ the making or laying out of a military camp
 		- extract
 
 
-===
+# expression
+
+
+## Noun
+
+1. the feelings expressed on a person’s face; “a sad expression”; “a look of triumph”; “an angry face”
+	- Synonyms
+		- look
+		- aspect
+		- facial expression
+		- face
+	- Less specific
+		- countenance
+		- visage
+	- More specific
+		- leer
+		- sparkle
+		- twinkle
+		- spark
+		- light
+	- Related
+		- look
+		- appear
+		- seem
+		- look
+		- look
+2. expression without words; “tears are an expression of grief”; “the pulse is a reflection of the heart’s condition”
+	- Synonyms
+		- manifestation
+		- reflection
+		- reflexion
+	- Less specific
+		- demonstration
+		- demo
+	- More specific
+		- lamentation
+		- mourning
+		- act
+		- effusion
+		- gush
+		- outburst
+		- blowup
+		- ebullition
+	- Related
+		- attest
+		- certify
+		- manifest
+		- demonstrate
+		- evidence
+3. the communication (in speech or writing) of your beliefs or opinions; “expressions of good will”; “he helped me find verbal expression for my ideas”; “the idea was immediate but the verbalism took hours”
+	- Synonyms
+		- verbal expression
+		- verbalism
+	- Less specific
+		- communication
+		- communicating
+	- More specific
+		- articulation
+		- voice
+		- cold turkey
+		- congratulation
+		- felicitation
+	- Related
+		- express
+		- verbalize
+		- verbalise
+		- utter
+		- give tongue to
+4. a word or phrase that particular people use in particular situations; “pardon the expression”
+	- Synonyms
+		- saying
+		- locution
+	- Less specific
+		- speech
+		- speech communication
+		- spoken communication
+		- spoken language
+		- language
+		- voice communication
+		- oral communication
+	- More specific
+		- Beatitude
+		- logion
+		- calque
+		- calque formation
+		- loan translation
+		- advice and consent
+		- ambiguity
+		- euphemism
+		- dysphemism
+		- shucks
+		- tongue twister
+		- anatomical reference
+		- anatomical
+		- southernism
+		- motto
+		- slogan
+		- catchword
+		- shibboleth
+		- maxim
+		- axiom
+		- epigram
+		- quip
+		- proverb
+		- adage
+		- saw
+		- byword
+		- idiom
+		- idiomatic expression
+		- phrasal idiom
+		- set phrase
+		- phrase
+		- agrapha
+		- sumpsimus
+	- Related
+		- say
+5. the style of expressing yourself; “he suggested a better formulation”; “his manner of expression showed how much he cared”
+	- Synonyms
+		- formulation
+	- Less specific
+		- expressive style
+		- style
+	- More specific
+		- sentimentalism
+		- honorific
+		- archaism
+		- archaicism
+		- boilerplate
+		- colloquialism
+		- parlance
+		- idiom
+		- Americanism
+		- Anglicism
+		- Briticism
+		- Britishism
+		- wording
+		- diction
+		- phrasing
+		- phraseology
+		- choice of words
+		- verbiage
+	- Related
+		- give voice
+		- formulate
+		- word
+		- phrase
+		- articulate
+6. a group of symbols that make a mathematical statement
+	- Synonyms
+		- formula
+	- Less specific
+		- mathematical statement
+	- More specific
+		- sentential function
+		- primitive
+		- exponential expression
+	- Related
+		- formularize
+		- formularise
+	- Topic Members
+		- mathematics
+		- math
+		- maths
+7. (genetics) the process of expressing a gene
+	- Less specific
+		- organic process
+		- biological process
+	- Related
+		- express
+	- Topic Members
+		- genetics
+		- genetic science
+8. a group of words that form a constituent of a sentence and are considered as a single unit; “I concluded from his awkward constructions that he was a foreigner”
+	- Synonyms
+		- construction
+		- grammatical construction
+	- Antonyms
+		- misconstruction
+	- Less specific
+		- constituent
+		- grammatical constituent
+	- More specific
+		- adjunct
+		- clause
+		- complement
+		- involution
+		- phrase
+		- predicator
+9. the act of forcing something out by squeezing or pressing; “the expression of milk from her breast”
+	- Less specific
+		- squeeze
+		- squeezing
+	- Related
+		- press out
+		- express
+		- extract
+
+
 # expurgate
 
 
@@ -1644,7 +13796,171 @@ the making or laying out of a military camp
 		- bowdleriser
 
 
-===
+# expurgate
+
+
+## Verb
+
+1. edit by omitting or modifying parts considered indelicate; “bowdlerize a novel”
+	- Synonyms
+		- bowdlerize
+		- bowdlerise
+		- castrate
+		- shorten
+	- Less specific
+		- abridge
+		- foreshorten
+		- abbreviate
+		- shorten
+		- cut
+		- contract
+		- reduce
+	- Related
+		- expurgation
+		- castration
+		- expurgation
+		- castration
+		- expurgator
+		- bowdlerizer
+		- bowdleriser
+		- bowdlerization
+		- bowdlerisation
+		- bowdlerization
+		- bowdlerisation
+		- Bowdler
+		- Thomas Bowdler
+		- expurgator
+		- bowdlerizer
+		- bowdleriser
+		- bowdlerization
+		- bowdlerisation
+		- bowdlerization
+		- bowdlerisation
+		- expurgator
+		- bowdlerizer
+		- bowdleriser
+
+
+# extol
+
+
+## Verb
+
+1. praise, glorify, or honor; “extol the virtues of one’s children”; “glorify one’s spouse’s cooking”
+	- Synonyms
+		- laud
+		- exalt
+		- glorify
+		- proclaim
+	- Less specific
+		- praise
+	- More specific
+		- canonize
+		- canonise
+		- ensky
+		- crack up
+		- hymn
+	- Related
+		- glory
+		- glorification
+		- glorification
+		- glory
+		- glorification
+		- glory
+		- resplendence
+		- resplendency
+		- deification
+		- exaltation
+		- apotheosis
+		- laudator
+		- lauder
+		- extoller
+		- praise
+		- congratulations
+		- kudos
+		- extolment
+		- laudatory
+		- praiseful
+		- praising
+		- applaudable
+		- commendable
+		- laudable
+		- praiseworthy
+		- laudator
+		- lauder
+		- extoller
+
+
+# extol
+
+
+## Verb
+
+1. praise, glorify, or honor; “extol the virtues of one’s children”; “glorify one’s spouse’s cooking”
+	- Synonyms
+		- laud
+		- exalt
+		- glorify
+		- proclaim
+	- Less specific
+		- praise
+	- More specific
+		- canonize
+		- canonise
+		- ensky
+		- crack up
+		- hymn
+	- Related
+		- glory
+		- glorification
+		- glorification
+		- glory
+		- glorification
+		- glory
+		- resplendence
+		- resplendency
+		- deification
+		- exaltation
+		- apotheosis
+		- laudator
+		- lauder
+		- extoller
+		- praise
+		- congratulations
+		- kudos
+		- extolment
+		- laudatory
+		- praiseful
+		- praising
+		- applaudable
+		- commendable
+		- laudable
+		- praiseworthy
+		- laudator
+		- lauder
+		- extoller
+
+
+# extraordinaire
+
+
+## Adjective
+
+1. extraordinary in a particular capacity; “a woodworker extraordinaire”; “a self-starter extraordinaire”
+	- Similar to
+		- extraordinary
+
+
+# extraordinaire
+
+
+## Adjective
+
+1. extraordinary in a particular capacity; “a woodworker extraordinaire”; “a self-starter extraordinaire”
+	- Similar to
+		- extraordinary
+
+
 # farad
 
 
@@ -1661,7 +13977,22 @@ the making or laying out of a military camp
 		- abfarad
 
 
-===
+# farad
+
+
+## Noun
+
+1. the capacitance of a capacitor that has an equal and opposite charge of 1 coulomb on each plate and a voltage difference of 1 volt between the plates
+	- Synonyms
+		- F
+	- Less specific
+		- capacitance unit
+	- Parts
+		- millifarad
+	- Part of
+		- abfarad
+
+
 # farcical
 
 
@@ -1684,7 +14015,28 @@ the making or laying out of a military camp
 		- travesty
 
 
-===
+# farcical
+
+
+## Adjective
+
+1. broadly or extravagantly humorous; resembling farce; “the wild farcical exuberance of a clown”; “ludicrous green hair”
+	- Synonyms
+		- ludicrous
+		- ridiculous
+	- Similar to
+		- humorous
+		- humourous
+	- Related
+		- ridicule
+		- absurdity
+		- absurdness
+		- ridiculousness
+		- farce
+		- farce comedy
+		- travesty
+
+
 # faux pas
 
 
@@ -1710,7 +14062,53 @@ the making or laying out of a military camp
 		- boo-boo
 
 
-===
+# faux pas
+
+
+## Noun
+
+1. a socially awkward or tactless act
+	- Synonyms
+		- gaffe
+		- solecism
+		- slip
+		- gaucherie
+	- Less specific
+		- blunder
+		- blooper
+		- bloomer
+		- bungle
+		- pratfall
+		- foul-up
+		- fuckup
+		- flub
+		- botch
+		- boner
+		- boo-boo
+
+
+# flexuous
+
+
+## Adjective
+
+1. having turns or windings; “the flexuous bed of the stream”
+	- Similar to
+		- curved
+		- curving
+
+
+# flexuous
+
+
+## Adjective
+
+1. having turns or windings; “the flexuous bed of the stream”
+	- Similar to
+		- curved
+		- curving
+
+
 # foppish
 
 
@@ -1727,30 +14125,1526 @@ the making or laying out of a military camp
 		- dandyism
 
 
-===
+# foppish
+
+
+## Adjective
+
+1. affecting extreme elegance in dress and manner
+	- Synonyms
+		- dandified
+		- dandyish
+	- Similar to
+		- elegant
+	- Related
+		- foppishness
+		- dandyism
+
+
 # foregleam
 
 
 a hint or glimpse of the future.
 -[@HaggardHawks](https://twitter.com/HaggardHawks/status/1498606884818931718)
-===
+# foregleam
+
+
+a hint or glimpse of the future.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1498606884818931718)
 # forelooker
 
 
 A FORELOOKER is someone who thinks about or is concerned for the future.
 -[@HaggardHawks](https://twitter.com/HaggardHawks/status/1500166721990242308)
-===
+# forelooker
+
+
+A FORELOOKER is someone who thinks about or is concerned for the future.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1500166721990242308)
+# fortoggle
+
+
+To FORTOGGLE someone is to distract them.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1514547343143706627)
+# fortoggle
+
+
+To FORTOGGLE someone is to distract them.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1514547343143706627)
+# fugacious
+
+![fugacious LookUp](https://i.snap.as/eoytIQcd.png)
+
+
+## Adjective
+
+1. lasting a very short time; “the ephemeral joys of childhood”; “a passing fancy”; “youth’s transient beauty”; “love is transitory but it is eternal”; “fugacious blossoms”
+	- Synonyms
+		- ephemeral
+		- passing
+		- short-lived
+		- transient
+		- transitory
+	- Similar to
+		- impermanent
+		- temporary
+	- Related
+		- fugacity
+		- fugaciousness
+		- fugacity
+		- fugaciousness
+		- transience
+		- transiency
+		- transitoriness
+		- transient
+		- transient
+		- transience
+		- transiency
+		- transitoriness
+		- brevity
+		- briefness
+		- transience
+		- ephemera
+		- ephemerality
+		- ephemeralness
+		- fleetingness
+		- ephemerality
+		- ephemeralness
+		- fleetingness
+
+*From LookUp*:
+Adjective
+1.	Literary tending to disappear; fleeting
+she was acutely conscious of her fugacious youth
+# fugacious
+
+![fugacious LookUp](https://i.snap.as/eoytIQcd.png)
+
+
+## Adjective
+
+1. lasting a very short time; “the ephemeral joys of childhood”; “a passing fancy”; “youth’s transient beauty”; “love is transitory but it is eternal”; “fugacious blossoms”
+	- Synonyms
+		- ephemeral
+		- passing
+		- short-lived
+		- transient
+		- transitory
+	- Similar to
+		- impermanent
+		- temporary
+	- Related
+		- fugacity
+		- fugaciousness
+		- fugacity
+		- fugaciousness
+		- transience
+		- transiency
+		- transitoriness
+		- transient
+		- transient
+		- transience
+		- transiency
+		- transitoriness
+		- brevity
+		- briefness
+		- transience
+		- ephemera
+		- ephemerality
+		- ephemeralness
+		- fleetingness
+		- ephemerality
+		- ephemeralness
+		- fleetingness
+
+*From LookUp*:
+Adjective
+1.	Literary tending to disappear; fleeting
+she was acutely conscious of her fugacious youth
+# fulgurous
+
+![fulgurous LookUp](https://i.snap.as/87hLunqw.png)
+
+## Adjective
+
+1. amazingly impressive; suggestive of the flashing of lightning; “the skater’s dazzling virtuosic leaps”; “these great best canvases still look as astonishing and as invitingly new as they did…when…his fulgurant popularity was in full growth”- Janet Flanner; “adventures related…in a style both vivid and fulgurous”- Idwal Jones
+	- Synonyms
+		- dazzling
+		- eye-popping
+		- fulgurant
+	- Similar to
+		- impressive
+
+*From LookUp*:
+Adjective
+1.	Literary resembling or filled with lightning
+the deep fulgurous color in Rembrandt's portrait | endless purple fulgurous sky
+# fulgurous
+
+![fulgurous LookUp](https://i.snap.as/87hLunqw.png)
+
+## Adjective
+
+1. amazingly impressive; suggestive of the flashing of lightning; “the skater’s dazzling virtuosic leaps”; “these great best canvases still look as astonishing and as invitingly new as they did…when…his fulgurant popularity was in full growth”- Janet Flanner; “adventures related…in a style both vivid and fulgurous”- Idwal Jones
+	- Synonyms
+		- dazzling
+		- eye-popping
+		- fulgurant
+	- Similar to
+		- impressive
+
+*From LookUp*:
+Adjective
+1.	Literary resembling or filled with lightning
+the deep fulgurous color in Rembrandt's portrait | endless purple fulgurous sky
+# fumigate
+
+
+## Verb
+
+1. treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests
+	- Synonyms
+		- fume
+	- Less specific
+		- process
+		- treat
+	- Related
+		- smoke
+		- fume
+		- fumigation
+		- fumigant
+		- fumigator
+		- fumigator
+
+
+# fumigate
+
+
+## Verb
+
+1. treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests
+	- Synonyms
+		- fume
+	- Less specific
+		- process
+		- treat
+	- Related
+		- smoke
+		- fume
+		- fumigation
+		- fumigant
+		- fumigator
+		- fumigator
+
+
+# funkaceae
+
+
+## Noun
+
+1. one of many families or subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted; includes genus Hosta
+	- Synonyms
+		- Hostaceae
+		- family Hostaceae
+		- Funkaceae
+		- family Funkaceae
+	- Less specific
+		- liliid monocot family
+	- Member of
+		- Liliaceae
+		- family Liliaceae
+		- lily family
+
+
+# funkaceae
+
+
+## Noun
+
+1. one of many families or subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted; includes genus Hosta
+	- Synonyms
+		- Hostaceae
+		- family Hostaceae
+		- Funkaceae
+		- family Funkaceae
+	- Less specific
+		- liliid monocot family
+	- Member of
+		- Liliaceae
+		- family Liliaceae
+		- lily family
+
+
+# furore
+
+
+## Noun
+
+1. an interest followed with exaggerated zeal; “he always follows the latest fads”; “it was all the rage that season”
+	- Synonyms
+		- fad
+		- craze
+		- furor
+		- cult
+		- rage
+	- Less specific
+		- fashion
+	- Related
+		- crazy
+		- wild
+		- dotty
+		- gaga
+		- faddish
+		- faddy
+		- faddist
+2. a sudden outburst (as of protest)
+	- Synonyms
+		- furor
+	- Less specific
+		- disturbance
+	- More specific
+		- brouhaha
+
+
+# furore
+
+
+## Noun
+
+1. an interest followed with exaggerated zeal; “he always follows the latest fads”; “it was all the rage that season”
+	- Synonyms
+		- fad
+		- craze
+		- furor
+		- cult
+		- rage
+	- Less specific
+		- fashion
+	- Related
+		- crazy
+		- wild
+		- dotty
+		- gaga
+		- faddish
+		- faddy
+		- faddist
+2. a sudden outburst (as of protest)
+	- Synonyms
+		- furor
+	- Less specific
+		- disturbance
+	- More specific
+		- brouhaha
+
+
+# fursona
+
+
+> A fursona is a personalized animal character created by someone in the furry fandom. The term fursona is a portmanteau furry and persona. The vast majority of furries have fursonas; the Anthropomorphic Research Project states that nearly every furry has a fursona, and The New Science of Narcissism estimates the amount at 95%. The Anthropomorphic Research Project additionally states that the average furry has 2.12 fursonas over the course of their life.Fursonas may be anthropomorphic personas, idealized versions of their owners, fleshed out roleplay characters, or simply digital mascots. A small minority of furries express a desire to become, or already see themselves as, their fursona's species. These people may additionally identify as therians or otherkin.Individuals' fursonas are acted out primarily online, but also at furry conventions and in other public spaces. Acting out one's fursona in person may involve wearing a fursuit.
+-[Fursona - Wikipedia](https://en.wikipedia.org/wiki/Fursona)
+# fursona
+
+
+> A fursona is a personalized animal character created by someone in the furry fandom. The term fursona is a portmanteau furry and persona. The vast majority of furries have fursonas; the Anthropomorphic Research Project states that nearly every furry has a fursona, and The New Science of Narcissism estimates the amount at 95%. The Anthropomorphic Research Project additionally states that the average furry has 2.12 fursonas over the course of their life.Fursonas may be anthropomorphic personas, idealized versions of their owners, fleshed out roleplay characters, or simply digital mascots. A small minority of furries express a desire to become, or already see themselves as, their fursona's species. These people may additionally identify as therians or otherkin.Individuals' fursonas are acted out primarily online, but also at furry conventions and in other public spaces. Acting out one's fursona in person may involve wearing a fursuit.
+-[Fursona - Wikipedia](https://en.wikipedia.org/wiki/Fursona)
+# garrulous
+
+
+## Adjective
+
+1. full of trivial conversation; “kept from her housework by gabby neighbors”
+	- Synonyms
+		- chatty
+		- gabby
+		- loquacious
+		- talkative
+		- talky
+	- Similar to
+		- voluble
+	- Related
+		- talk
+		- talk of the town
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- chitchat
+		- chit-chat
+		- chit chat
+		- small talk
+		- gab
+		- gabfest
+		- gossip
+		- tittle-tattle
+		- chin wag
+		- chin-wag
+		- chin wagging
+		- chin-wagging
+		- causerie
+
+
+# garrulous
+
+
+## Adjective
+
+1. full of trivial conversation; “kept from her housework by gabby neighbors”
+	- Synonyms
+		- chatty
+		- gabby
+		- loquacious
+		- talkative
+		- talky
+	- Similar to
+		- voluble
+	- Related
+		- talk
+		- talk of the town
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- garrulity
+		- garrulousness
+		- loquaciousness
+		- loquacity
+		- talkativeness
+		- chitchat
+		- chit-chat
+		- chit chat
+		- small talk
+		- gab
+		- gabfest
+		- gossip
+		- tittle-tattle
+		- chin wag
+		- chin-wag
+		- chin wagging
+		- chin-wagging
+		- causerie
+
+
+# gelid
+
+
+## Adjective
+
+1. extremely cold; “an arctic climate”; “a frigid day”; “gelid waters of the North Atlantic”; “glacial winds”; “icy hands”; “polar weather”
+	- Synonyms
+		- arctic
+		- frigid
+		- glacial
+		- icy
+		- polar
+	- Similar to
+		- cold
+	- Related
+		- chill
+		- iciness
+		- gelidity
+
+
+# gelid
+
+
+## Adjective
+
+1. extremely cold; “an arctic climate”; “a frigid day”; “gelid waters of the North Atlantic”; “glacial winds”; “icy hands”; “polar weather”
+	- Synonyms
+		- arctic
+		- frigid
+		- glacial
+		- icy
+		- polar
+	- Similar to
+		- cold
+	- Related
+		- chill
+		- iciness
+		- gelidity
+
+
+# genius
+
+
+## Noun
+
+1. someone who has exceptional intellectual ability and originality; “Mozart was a child genius”; “he’s smart but he’s no Einstein”
+	- Synonyms
+		- mastermind
+		- brain
+		- brainiac
+		- Einstein
+	- Less specific
+		- intellectual
+		- intellect
+	- More specific
+		- prodigy
+	- Related
+		- brainy
+		- brilliant
+		- smart as a whip
+2. unusual mental ability
+	- Synonyms
+		- brilliance
+	- Less specific
+		- intelligence
+	- More specific
+		- coruscation
+		- pyrotechnics
+		- scintillation
+	- Related
+		- brainy
+		- brilliant
+		- smart as a whip
+3. someone who is dazzlingly skilled in any field
+	- Synonyms
+		- ace
+		- adept
+		- champion
+		- sensation
+		- maven
+		- mavin
+		- virtuoso
+		- hotshot
+		- star
+		- superstar
+		- whiz
+		- whizz
+		- wizard
+		- wiz
+	- Less specific
+		- expert
+	- More specific
+		- track star
+	- Related
+		- star
+		- consummate
+		- masterful
+		- masterly
+		- virtuoso
+		- adept
+		- expert
+		- good
+		- practiced
+		- proficient
+		- skillful
+		- skilful
+		- breeze through
+		- ace
+		- pass with flying colors
+		- sweep through
+		- sail through
+		- nail
+4. exceptional creative ability
+	- Synonyms
+		- wizardry
+	- Less specific
+		- creativity
+		- creativeness
+		- creative thinking
+5. a natural talent; “he has a flair for mathematics”; “he has a genius for interior decorating”
+	- Synonyms
+		- flair
+	- Less specific
+		- endowment
+		- gift
+		- talent
+		- natural endowment
+
+# genius
+
+
+## Noun
+
+1. someone who has exceptional intellectual ability and originality; “Mozart was a child genius”; “he’s smart but he’s no Einstein”
+	- Synonyms
+		- mastermind
+		- brain
+		- brainiac
+		- Einstein
+	- Less specific
+		- intellectual
+		- intellect
+	- More specific
+		- prodigy
+	- Related
+		- brainy
+		- brilliant
+		- smart as a whip
+2. unusual mental ability
+	- Synonyms
+		- brilliance
+	- Less specific
+		- intelligence
+	- More specific
+		- coruscation
+		- pyrotechnics
+		- scintillation
+	- Related
+		- brainy
+		- brilliant
+		- smart as a whip
+3. someone who is dazzlingly skilled in any field
+	- Synonyms
+		- ace
+		- adept
+		- champion
+		- sensation
+		- maven
+		- mavin
+		- virtuoso
+		- hotshot
+		- star
+		- superstar
+		- whiz
+		- whizz
+		- wizard
+		- wiz
+	- Less specific
+		- expert
+	- More specific
+		- track star
+	- Related
+		- star
+		- consummate
+		- masterful
+		- masterly
+		- virtuoso
+		- adept
+		- expert
+		- good
+		- practiced
+		- proficient
+		- skillful
+		- skilful
+		- breeze through
+		- ace
+		- pass with flying colors
+		- sweep through
+		- sail through
+		- nail
+4. exceptional creative ability
+	- Synonyms
+		- wizardry
+	- Less specific
+		- creativity
+		- creativeness
+		- creative thinking
+5. a natural talent; “he has a flair for mathematics”; “he has a genius for interior decorating”
+	- Synonyms
+		- flair
+	- Less specific
+		- endowment
+		- gift
+		- talent
+		- natural endowment
+
+# gild
+
+
+## Noun
+
+1. a formal association of people with similar interests; “he joined a golf club”; “they formed a small lunch society”; “men from the fraternal order will staff the soup kitchen today”
+	- Synonyms
+		- club
+		- social club
+		- society
+		- guild
+		- lodge
+		- order
+	- Less specific
+		- association
+	- More specific
+		- athenaeum
+		- atheneum
+		- bookclub
+		- chapter
+		- chess club
+		- country club
+		- fraternity
+		- frat
+		- glee club
+		- golf club
+		- hunt
+		- hunt club
+		- investors club
+		- jockey club
+		- racket club
+		- rowing club
+		- slate club
+		- sorority
+		- turnverein
+		- yacht club
+		- boat club
+		- service club
+	- Members
+		- club member
+	- Related
+		- ordain
+		- consecrate
+		- ordinate
+		- order
+		- clannish
+		- cliquish
+		- clubby
+		- snobbish
+		- snobby
+		- club
+		- club
+
+## Verb
+
+1. decorate with, or as if with, gold leaf or liquid gold
+	- Synonyms
+		- begild
+		- engild
+	- Less specific
+		- decorate
+		- adorn
+		- grace
+		- ornament
+		- embellish
+		- beautify
+	- Related
+		- gilder
+		- gilt
+		- gilding
+
+- [**gild** - LookUp](https://learnwithlookup.com/share/index.html?word=gild&definition=cover%2520thinly%2520with%2520gold&data=eyJpbWFnZSI6IiIsIndvcmQiOiJnaWxkIiwiZGVmaW5pdGlvbiI6ImNvdmVyIHRoaW5seSB3aXRoIGdvbGQifQ%3D%3D)
+Verb
+1.	Metallurgy cover thinly with gold
+in 1436 he gilded and painted statues for Bruges Town Hall | Figurative the first rays of the sun were gilding the grassy hillside
+
+give a specious or false brilliance to
+they gild the facts until the truth all but vanishes
+
+
+Noun
+
+Noun
+• archaic spelling of guild
+
+
+Verb
+
+Noun
+1.	Medieval History a medieval association of craftsmen or merchants, often having considerable power.
+
+an association of people for mutual aid or the pursuit of a common goal.
+
+Ecology a group of species that have similar requirements and play a similar role within a community.
+# gild
+
+
+## Noun
+
+1. a formal association of people with similar interests; “he joined a golf club”; “they formed a small lunch society”; “men from the fraternal order will staff the soup kitchen today”
+	- Synonyms
+		- club
+		- social club
+		- society
+		- guild
+		- lodge
+		- order
+	- Less specific
+		- association
+	- More specific
+		- athenaeum
+		- atheneum
+		- bookclub
+		- chapter
+		- chess club
+		- country club
+		- fraternity
+		- frat
+		- glee club
+		- golf club
+		- hunt
+		- hunt club
+		- investors club
+		- jockey club
+		- racket club
+		- rowing club
+		- slate club
+		- sorority
+		- turnverein
+		- yacht club
+		- boat club
+		- service club
+	- Members
+		- club member
+	- Related
+		- ordain
+		- consecrate
+		- ordinate
+		- order
+		- clannish
+		- cliquish
+		- clubby
+		- snobbish
+		- snobby
+		- club
+		- club
+
+## Verb
+
+1. decorate with, or as if with, gold leaf or liquid gold
+	- Synonyms
+		- begild
+		- engild
+	- Less specific
+		- decorate
+		- adorn
+		- grace
+		- ornament
+		- embellish
+		- beautify
+	- Related
+		- gilder
+		- gilt
+		- gilding
+
+- [**gild** - LookUp](https://learnwithlookup.com/share/index.html?word=gild&definition=cover%2520thinly%2520with%2520gold&data=eyJpbWFnZSI6IiIsIndvcmQiOiJnaWxkIiwiZGVmaW5pdGlvbiI6ImNvdmVyIHRoaW5seSB3aXRoIGdvbGQifQ%3D%3D)
+Verb
+1.	Metallurgy cover thinly with gold
+in 1436 he gilded and painted statues for Bruges Town Hall | Figurative the first rays of the sun were gilding the grassy hillside
+
+give a specious or false brilliance to
+they gild the facts until the truth all but vanishes
+
+
+Noun
+
+Noun
+• archaic spelling of guild
+
+
+Verb
+
+Noun
+1.	Medieval History a medieval association of craftsmen or merchants, often having considerable power.
+
+an association of people for mutual aid or the pursuit of a common goal.
+
+Ecology a group of species that have similar requirements and play a similar role within a community.
+# glib
+
+
+## Adjective
+
+1. marked by lack of intellectual depth; “glib generalizations”; “a glib response to a complex question”
+	- Similar to
+		- superficial
+	- Related
+		- glibness
+		- slickness
+2. having only superficial plausibility; “glib promises”; “a slick commercial”
+	- Synonyms
+		- pat
+		- slick
+	- Similar to
+		- plausible
+	- Related
+		- glibness
+		- slickness
+		- glibness
+		- slickness
+3. artfully persuasive in speech; “a glib tongue”; “a smooth-tongued hypocrite”
+	- Synonyms
+		- glib-tongued
+		- smooth-tongued
+	- Similar to
+		- persuasive
+	- Related
+		- glibness
+		- slickness
+
+
+# glib
+
+
+## Adjective
+
+1. marked by lack of intellectual depth; “glib generalizations”; “a glib response to a complex question”
+	- Similar to
+		- superficial
+	- Related
+		- glibness
+		- slickness
+2. having only superficial plausibility; “glib promises”; “a slick commercial”
+	- Synonyms
+		- pat
+		- slick
+	- Similar to
+		- plausible
+	- Related
+		- glibness
+		- slickness
+		- glibness
+		- slickness
+3. artfully persuasive in speech; “a glib tongue”; “a smooth-tongued hypocrite”
+	- Synonyms
+		- glib-tongued
+		- smooth-tongued
+	- Similar to
+		- persuasive
+	- Related
+		- glibness
+		- slickness
+
+
 # glisk
 
 
 A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/HaggardHawks/status/1495736768221614084)
-===
-# Greek
+# glisk
+
+
+A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/HaggardHawks/status/1495736768221614084)
+# gloaming
+
+
+## Noun
+
+1. the time of day immediately following sunset; “he loved the twilight”; “they finished before the fall of night”
+	- Synonyms
+		- twilight
+		- dusk
+		- gloam
+		- nightfall
+		- evenfall
+		- fall
+		- crepuscule
+		- crepuscle
+	- Less specific
+		- hour
+		- time of day
+	- More specific
+		- night
+	- Part of
+		- evening
+		- eve
+		- even
+		- eventide
+	- Related
+		- crepuscular
+		- crepuscular
+		- dusky
+		- twilight
+		- twilit
+
+
+# gloaming
+
+
+## Noun
+
+1. the time of day immediately following sunset; “he loved the twilight”; “they finished before the fall of night”
+	- Synonyms
+		- twilight
+		- dusk
+		- gloam
+		- nightfall
+		- evenfall
+		- fall
+		- crepuscule
+		- crepuscle
+	- Less specific
+		- hour
+		- time of day
+	- More specific
+		- night
+	- Part of
+		- evening
+		- eve
+		- even
+		- eventide
+	- Related
+		- crepuscular
+		- crepuscular
+		- dusky
+		- twilight
+		- twilit
+
+
+# globule
+
+
+## Noun
+
+1. a small globe or ball
+	- Less specific
+		- ball
+		- globe
+		- orb
+	- More specific
+		- bubble
+
+## Origin
+
+mid 17th century: from French, or from Latin globulus, diminutive of globus ‘spherical object, globe’
+# globule
+
+
+## Noun
+
+1. a small globe or ball
+	- Less specific
+		- ball
+		- globe
+		- orb
+	- More specific
+		- bubble
+
+## Origin
+
+mid 17th century: from French, or from Latin globulus, diminutive of globus ‘spherical object, globe’
+# glomerous
+
+
+Something that is GLOMEROUS is wound into a ball, like wool or string.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1516483793934336006)
+# glomerous
+
+
+Something that is GLOMEROUS is wound into a ball, like wool or string.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1516483793934336006)
+# Glossary of Fountain Pen Terminology
+Updated `10122022-061356`
+
+- [**Source**](https://www.gouletpens.com/pages/glossary-of-fountain-pen-terminology)
+- [Archive](http://web.archive.org/web/20221012080454/https://www.gouletpens.com/pages/glossary-of-fountain-pen-terminology)
+- [WTF](https://davidblue.wtf/drafts/91BFCDC1-3576-4834-B871-9991570C95F1.html)
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/91BFCDC1-3576-4834-B871-9991570C95F1.md)
+- [Gist](https://gist.github.com/extratone/4969550e8d7e3fe5e4dfd3a565247216)
+- [Ulysses](ulysses://x-callback-url/open?id=9V5Ah9SsMSlOrGWTze53gg)
+- [Simplenote Local](simplenote://note/494b70e5d9d14d0f9f7112685441ef4a)
+- [Simplenote Publish](http://simp.ly/publish/2y8HB4)
+- [Things](things:///show?id=87ZgeDxfioGGXq14w71Z1s)
+
+---
+
+<script src="https://gist.github.com/extratone/4969550e8d7e3fe5e4dfd3a565247216.js"></script>
+
+---
+
+- *Acrylic* - (aka Resin) - A common material used for making fountain pens due to durability, light weight, and ink/water resistance and resistance of staining. It's basically plastic.
+- *Aerometric* - A type of filling mechanism that uses a bladder (or sac) inside a metal cartridge; you fill by squeezing the sac. More common in vintage pens.
+- *Air Channels* - The slits cut in the feed that allow air to help draw ink through the feed.
+- *Archival* - Fountain pen ink that is fade resistant, retaining much of its original look.
+- *Baby's Bottom* - When the tip of a nib is too rounded where the two tines meet, preventing the capillary action needed for the ink to draw down to the paper. Though very smooth writing, nibs with this symptom will typically have skipping problems.
+- *Balance* - Refers to how evenly distributed the weight of the pen feels from the front and back in the hand, and it varies based on the person holding it. It can either feel evenly balanced, front (nib) heavy, or back (top) heavy.
+- *Ballpoint* - What you're probably used to, a pen with a grease or paste ink that is used by rolling the tip (with a ball) across the paper, which rotates the ball and pulls ink from the pen. These came about around the 1950's and were the disruptive technology to the fountain pen that started their decline. Though a necessary tool, they provide a less-than-ideal writing experience due to their limited ink color options, erratic flow, and high amount of pressure required to write (relative to a fountain pen).
+- *Band* - (Centerband) - The metal decorative ring that is usually placed near the bottom of the pen cap for decorative purposes, or perhaps to provide reinforcement to the cap threads.
+- *Barrel* - The long part of the main body of the pen which houses the ink reservoir.
+- *Biocide* - Chemicals used in fountain pen ink to prevent mold and other biological growths from, well, growing.
+- *Bladder* - (Sac) - The rubbery sac that houses ink in various pen filling mechanisms, such as the aerometric.
+- *Bleeding* - or *Bleedthrough* - A symptom of ink soaking through the paper so much that it crosses over to the other side of the page. This can vary based on the ink or the paper but is usually a symptom of paper that is too absorbent. It is more extreme than show-through or ghosting.
+- *Blind Cap* - A removable cap that covers a pen's filling mechanism.
+- *Blotter* - Usually made of wood or metal, this holds blotting paper that is used to soak up excess ink on a page to decrease drying time.
+- *Blotting Paper* - Special super-absorbent paper (like J. Herbin's) that is used to soak up extra ink on the page without smearing it, to decrease dry time when needed.
+- *Body* - The main part of the pen (the part without the cap), usually also called the barrel.
+- *Blue-Black* - A common designation for a dark blue ink, though there really isn't any strict way to declare a blue-black apart from an ink that is just dark blue, navy, or midnight. The original term comes from iron gall or similar inks where the ink begins as a blue color, and over time fades into a dull black color.
+- *Brassing* - When a plating wears off, exposing the underlying metal (usually brass).
+- *Breather Hole* - A hole in the nib, at the end of the nib slit, that allows air to assist in the ink flow, also called a vent hole.
+- *Breather Tube* - A small tube that is used to assist in filling certain types of pens, such as the Noodler's Ahab Flex Pen.
+- *Bulb Filler* - A simple type of filling mechanism that uses a small rubber sac at the end of a large reservoir, and fills by squeezing the sac.
+- *Bulb Syringe* - A handy tool used to either suction boogies from your baby's nose or to help flush out cartridge/converter fountain pens while cleaning
+- *Bulletproof* - A Noodler's term used to describe ink that is particularly fraud resistant and can withstand water, UV rays, bleach, oven cleaners, etc.
+- *Burping* - A symptom (particularly with eyedropper filled pens) where ink comes out in a large drip or blob out of the grip section of the pen. This is usually caused by a variance in pressure between the inside of the pen and the surrounding environment, such as on an airplane with changing pressure or with a pen that has a large reservoir that is low on ink (mostly air) where the heat from your hand while writing can increase the pressure in the pen.
+- *Button Filler* - A filling mechanism that works by pushing a button, more common in vintage pens.
+- *CA (cyanoacrylate)* - Superglue, basically.
+- *Calligraphy* - Fancy writing, often done with dip pens but can be emulated with italic nibs.
+- *Calligraphy Pens* - A term almost always used to describe italic nib fountain pens, usually in the lower price range and sold in sets to lure writers in who want to make their handwriting appear like calligraphy. True calligraphy pens are typically dip pens, which do not use a feed like fountain pens.
+- *Cap* - The part of a pen that covers the nib and attaches to the pen body.
+- *Capillary Action* - The ability of a liquid to flow in narrow spaces without the external forces like gravity. This is the basis for how a fountain pen works.
+- *Cartridge* - A small, sealed plastic reservoir that holds fountain pen ink. Many pen brands use their own proprietary style, but there is one common style called Standard International, where many pen makers use the same type of cartridge. The benefit of cartridges is the convenience, however, they are not nearly as economical as bottled pen ink and the color range is usually incredibly limited
+- *Cartridge/Converter (C/C)* - A small filling mechanism (usually a screw-piston type) that fits onto a pen that also accepts a cartridge. This allows you to use any brand's bottled ink instead of relying on limited proprietary ink cartridges.
+- *Clip* - The metal doohickey usually attached to the cap that holds your pen in your shirt pocket and also keeps it from rolling off your desk and landing nib first on the ground (why does it ALWAYS fall nib down??).
+- *Conversion* - When you are altering a pen in some way to provide an alternate filling method. The most common practice is using a 'cartridge converter' to use bottled ink in a pen in place of ink cartridges, or in filling the whole body of a pen with ink (this is the eyedropper method).
+- *Converter* - A cartridge-shaped reservoir that allows you to use bottled pen ink when a cartridge would otherwise be your only option. Pens that have this option are usually referred to as cartridge/converter or C/C.
+- *Corrosion* - When the metal parts of your pen either rust or chemically disintegrate due to chemical exposure or oxidation.
+- *Crack* - When your pen material (usually plastic) splits apart. This is usually caused by stress in some way, either due to extreme force (like dropping your pen on a hard surface) or over-tightening of certain parts.
+- *Crisp* - (Italic) - A nib ground so that the tip is flat, with very sharp edges to give a very distinct line variation from cross-stroke to downstroke. These nibs require you to write slowly and hold the pen at a very specific angle, otherwise, the sharp edges of the nib will tear the paper.
+- *Cursive* - (Italic) - A nib ground so that the tip is flat, but with slightly more rounded edges. This sacrifices a bit of line variation, for the benefit of a smoother and more forgiving writing experience than a crisp italic. This nib is sometimes called a 'stub', though a stub is typically even more rounded than the cursive italic.
+- *Demonstrator* - Transparent pens, originally developed for salesmen to show to distributors and retailers to display the inner workings of the pens' parts. Now, it is a common aesthetic design adopted across many brands. The appeal is that you can see the ink level clearly in your pen without having to take it apart.
+- *Dip Pen* - A writing instrument that doesn't have an internal ink reservoir, it instead must have its nib immersed in ink every few words to keep it writing. Dip pens typically use ink that is thicker (usually shellac-based) than fountain pen ink.
+- *Dip Test* - When you want to get an idea of how a particular color of ink will look in your fountain pen, but you don't want to draw ink all the way up into it (thus meaning you have to do a full cleaning), you instead just immerse the nib into the ink and write with it without ever drawing ink into the pen.
+- *Drawing Ink* - (India Ink) - Ink that is composed of a fine soot that is combined with water and a binding agent such as shellac. This ink is more durable and permanent than fountain pen ink, but should only be reserved for use with dip pens.
+- *Dry* - When ink does not flow very freely or heavily out of a pen. This can be either a characteristic of a pen or an ink, but both are referring to the same end result of a limited amount of ink coming out of the pen.
+- *Ebonite* - A hard rubber material commonly used in vintage (and some modern) pens.
+- *Eternal* - A term coined by Noodler's Ink to describe the properties of a fountain pen ink that is resistant to UV exposure and fading over a long period of time.
+- *Eyedropper* - Not specific to any brand, a type of filling method where the entire body of the pen is used as a reservoir for the ink.
+- *Eyedropper Conversion* - The process of modifying a fountain pen that has an existing filling mechanism (such as cartridge/converter, piston, or aerometric) so that the entire body of the pen can be used as an ink reservoir.
+- *Feathering* - A term used to describe when fountain pen ink soaks into absorbent paper, resulting in a veiny pattern that branches out from the line drawn. It can also be referred to as 'spread'.
+- *Feed* - The piece of plastic or ebonite (usually black) that hugs the back of the nib and acts as a vehicle for ink delivery from the reservoir to the nib.
+- *Feedback* - The amount of 'bite' or resistance perceived during a writing experience. This is a consequence of the relationship between the smoothness of a fountain pen nib and the smoothness of the paper being used. Also commonly referred to as 'tooth'.
+- *Feed Channel* - A very thin slit in the feed that hugs against the back of the nib and provides a route for the ink to travel through the feed. This is what helps to provide the necessary capillary action required for ink flow.
+- *Ferrogallic* - (Iron Gall) Ink - Ink made from iron salts and tannic acids. Though quite permanent and waterproof, these inks are typically known for causing chemical corrosion to metal pen parts (especially the nib) and should be used sparingly or with less-valuable pens. Modern iron gall formulations are not as harmful as the inks of the past, but extra precaution such as not leaving the ink in a pen for more than a week is strongly recommended.
+- *Filigree* - a decorative (usually precious) metal overlay with openings that show the material of the pen under it.
+- *Flex* - The ability of the tines of a fountain pen nib to spread under varying writing pressure, resulting in variation of the width of the line drawn. It's super cool.
+- *Flooding* - Forcing ink down through the feed by intentionally pushing it out of the reservoir.
+- *Flow* - The movement of ink through the pen. Often described as 'wet' or 'dry', depending on how freely the ink is willing to come out of the pen.
+- *Fluorescing* - When ink glows under blacklight.
+- *Freeze Resistant* - Ink that is formulated to resist freezing at extremely low temperatures.
+- *French-Ruled Paper* - (Séyès) - Standard 'school' paper in France, it is an 8mm x 8mm grid that is separated by 2mm horizontal lines to give guidance and structure to cursive writing.
+- *Gel Pen* - A disposable cartridge-type pen that has a gel-based ink inside it (such as Pilot G2).
+- *Ghosting* - When you can see what's written on the other side of a sheet of paper without the ink coming through the page. This isn't to be confused with bleed through, where the ink actually soaks through to the other side. This is also known as show-through or echo.
+- *Glass Pen* - A writing instrument that must be dipped in ink and provides ink delivery the paper through a series of twisted flutes on the tip....and it's glass, duh.
+- *Gold* - You know what this is. Typically used for nibs on more expensive pens or as plating for decoration on fountain pen hardware.
+- *GSM* - (aka 'g' or gm^2) grams per square meter, a measurement of a paper's weight. Though this designation is commonly used to refer to a paper's thickness, not all papers with the same GSM may be the same thickness, because there are other factors involved such as the material of the paper and the sizing used that influence how heavy it is. Generally speaking though, it is best to use papers that are 80g weight or higher for good performance with fountain pens (though there are of course always exceptions).
+- *Grip section* - The part of the pen you hold where the nib fits in, sometimes called just a 'section'.
+- *Halo* - An ink property where there is an intentional separation of dye components to give a highlighting effect.
+- *Hardware* - The metal ornamentation on a pen, usually referring to the clip, finial, and center band. Also called 'trim'.
+- *Highlighter* - Fountain pen inks that are designed to be used to highlight on top of written or printed ink.
+- *Hood(ed) Nib* - A covering that goes over the top of a nib to make it less likely that you will touch it and get ink on your fingers. Made famous by the Parker 51.
+- *India Ink* - Ink that is composed of a fine soot that is combined with water and a binding agent such as shellac. This ink is more durable and permanent than fountain pen ink, but should only be reserved for use with dip pens.
+- *Ink* - The liquid substance that you put in a fountain pen to be able to use it for more than a paperweight or a piece of jewelry.
+- *Ink Syringe* - A hypodermic needle (ideally blunt-tip) that is used to refill ink cartridges or decant the last bit of ink from a bottle.
+- *Ink Window* - a translucent section of a pen that allows you to see when your ink level is getting low.
+- *Inkwell* - A storage container used for housing liquid ink, usually made of glass.
+- *Insert* - A cone-shaped reservoir that seats inside a bottle of ink to help you fill a fountain pen when the ink level gets low.
+- *Invisible* - Fountain pen ink that is clear and is nearly invisible on paper to the naked eye when written with. These inks can be viewed later using other means, like specific lighting conditions.
+- *Iridium* - A very hard-wearing metal (usually some kind of alloy) used for tipping material on fountain pen nibs.
+- *Iridium Point Germany (IPG)* - A designation displayed on some manufacturer's nibs. Iridium refers to the hard-wearing metal used to create the ball on the tip of the nib, and the German aspect could mean a variety of things. It doesn't necessarily mean the nib was made in Germany, but just that (at least) the tipping material used for the point comes from Germany. This is quite confusing and does create some mystery about where some nibs actually come from. Brian Gray of the Edison Pen Company has a great article on the [IPG Nib designation](http://edisonpen.com/ipgnibs2).
+- *Iron Gall* - Ink made from iron salts and tannic acids. Though quite permanent and waterproof, these inks are typically known for causing chemical corrosion to metal pen parts (especially the nib) and should be used sparingly or with less-valuable pens. Modern iron gall formulations are not as harmful as the inks of the past, but extra precaution such as not leaving the ink in a pen for more than a week is strongly recommended.
+- *Italic* - (Nib) - A type of grind where the tip of the nib is flattened so that there is a distinct line variation while you write when you change from the cross-stroke to the down-stroke.
+- *Lacquer* - Clear or colored varnish that's used to provide protection and durability to a pen's surface.
+- *Limited Edition (LE)* - Pens that are designed to be made in only limited numbers. They are often engraved with a designation with which number pen it is.
+- *Lubricated* - Ink that has special additives to make it flow better in your pen, and keep the internal components operating smoothly. Noodler's American Eel series of inks are most known for this property.
+- *Maki-e* - Japanese lacquer sprinkled with precious metal powder as a decoration. There are several different methods of this technique, but all of them are extremely cool, very hard to do, and take forever to do, which makes pens with maki-e very expensive.
+- *Methyl Ethyl Ketone (MEK)* - Also known as butanone, this is used as a chemical welding agent to affix pen parts together.
+- *Mixable *\- Fountain pen inks that are designed to be mixed together to create new colors without adverse reactions between inks.
+- *Mold* - Spore growth in ink, commonly called SITB (Stuff In The Bottle). Mold is a 'four-letter-word' in the fountain pen ink world, and generally very frowned upon. It can either come up as white fuzzy stuff on the surface of the ink where you can see it as soon as you open a bottle or as sludge down inside the ink that is much harder to find until you suck it up into your pen. Though mold is quite scary, it seldom actually causes any long-term damage to a pen. Most ink companies put biocides in their inks to prevent the growth of mold, so it is rare that it occurs.
+- *Music Nib* - A type of stub/italic nib that is designed for increased ink flow. Platinum and Sailor both have nibs they call Music Nibs, and they are really little more than regular stub nibs. Traditionally these nibs have three tines (two slits).
+- *Nail* - Nibs that have no flexibility at all, that write as stiff as a....nail.
+- *Newbie (Noob)* - Someone brand new to the world of fountain pens.
+- *Nib* - The metal tip of a fountain pen that actually touches the paper.
+- *Nib Creep* - When ink comes up through the nib tines and covers part of the top of the nib. It can be a symptom of the ink or pen, but is purely aesthetic and doesn't typically have any effect on the function of a pen.
+- *NID* - New Ink Day, when your new ink shipment arrives.
+- *NPD* - New Pen Day, when your new fountain pen arrives.
+- *Oblique* - A nib grind that is like an italic, but slanted to one side (either left or right). This grind is quite rare these days and is hard to find unless you have it custom ground.
+- *O-Ring* - A rubber ring that helps to seal internal components of a pen from leaking ink.
+- *Overwriter* - Someone who writes with their hand on the page so that it sits above where the nib is writing. This term is most commonly used to describe left-handed writers, as it creates a special problem due to the fact that the hand would be rubbing directly over what's being written.
+- *Palladium* - A durable silvery-white precious metal in the platinum family used by some pen manufacturers in their pens.
+- *Permanent* - Traditionally, a fountain pen ink that is water resistant and fade resistant. In more rare cases, permanent ink can even be acid proof, UV resistant, forgery-resistant and more.
+- *Pigmented* - Fountain pen ink that is made up of finely-ground solid particles in liquid suspension, like paint. Some brands make specially-formulated pigmented ink for use in fountain pens, where the solid matter is microscopically ground to the point where it can flow through feeds.
+- *Piston* - A type of mechanism that uses a retracting plunger inside a sealed tube in fountain pens and converters to draw ink into a pen. They can either be screw or push operated, though screw pistons are the most common.
+- *Piston Filler* - A fountain pen that has a piston filling mechanism built into the body of it, so that the body of the pen acts as the ink reservoir.
+- *Plating* - When a coating of one metal goes overtop of another, usually to provide added wear protection and aesthetic appeal.
+- *Plunger* - The rod inside a piston that moves up and down to draw ink in and out of a pen (or converter).
+- *Posting* - When you put the cap of a pen onto the back end of the body (the part you hold).
+- *Precious Resin* - A marketing term, most famously used by Mont Blanc, that essentially means plastic.
+- *Prime* - When you soak a pen feed with ink to get it started. This happens as a consequence of filling a pen through its nib when filling from a bottle of ink, but you can also prime a pen by forcing ink down through the feed by reversing the filling mechanism from the way you filled it.
+- *Proprietary* - Refers to components that are designed and made to fit specifically one brand, as opposed to being universal. Examples would include LAMY nibs fitting only on LAMY pens, or Pilot ink cartridges fitting only on Pilot pens.
+- *Railroading* - When the flow of ink is broken and the result is that the tines of the nib draw two separate, parallel lines on the page. This is most common using flexible nib pens.
+- *Reservoir* - A cavity inside a pen that holds ink.
+- *Resin* - Plastic.
+- *Retractable Nib* - A pen that is designed without a cap, so that the nib itself draws into the pen body when closed. The most popular pens that do this are the Pilot Vanishing Point and Lamy Dialog 3. This is a common feature of ballpoint (click) pens, but not common in fountain pens.
+- *Rhodium* - An extremely durable (and expensive) silver-colored metal most often used for plating over stainless steel to provide added durability to pen hardware and nibs.
+- *Rocking Blotter* - A tool (usually wood) that hold sheets of specially absorbent blotting paper that is used to soak up excess ink left on paper.
+- *Rollerball* - A pen that contains a gel ink that is housed inside a replaceable cartridge.
+- *Sac* - a rubbery reservoir that houses ink. Common in many vintage pens, they're used much less often today.
+- *Saturation* - An ink term used to describe the perceived intensity of a specific color. Ink users often refer to the level of saturation of an ink by how much dye is perceived to be present in the ink. Generally speaking, the higher saturated inks have bolder colors but extended drying times on paper.
+- *Scented* - Fountain pen ink that is formulated to have a specific smell, generally corresponding with the ink name.
+- *Scratchy* - When a nib provides resistance when being moved across the paper, often caused by misaligned nib tines.
+- *Screw Cap* - A pen cap that is removed/replaced by interlocking threads on the cap and pen body that mate together with a twisting motion.
+- *Section* - The part of the pen you hold where the nib fits in, often called a 'grip section'.
+- *Semi-Flex* - When a nib bends slightly under pressure to give a soft feel when writing, not to the extreme of flex nibs where the nib tines actually separate to provide line variation.
+- *Séyès (French-Ruled) Paper* - Standard 'school' paper in France, it is an 8mm x 8mm grid that is separated by 2mm horizontal lines to give guidance and structure to cursive writing.
+- *Shading* - A common (and often desired) result of a fountain pen ink pooling in certain parts of a letter when writing, so that the color and saturation of the ink appears different within a single letter or word. This characteristic cannot be achieved with ballpoint or rollerball pens and is a very appealing aspect of fountain pen use for those particularly drawn to all the pretty ink colors.
+- *Sheen* - Characteristic of a fountain pen ink where when ink pools another color can be seen on top of the ink, especially when looked at in different light angles using certain paper types.
+- *Shimmering* - Fountain pen ink that has small particles of glitter mixed in.
+- *Show-Through* - When you can see what's written on the other side of a sheet of paper without the ink coming through the page. This isn't to be confused with bleed through, where the ink actually soaks through to the other side. This is also known as ghosting or echo.
+- *Silicone Grease* - A clear, inert grease that is used to lubricate moving parts of fountain pens, as well as seal up threads for eyedropper conversions. The appeal of this grease is that it doesn't harden over time, it is water/ink-resistant, and it will not react with fountain pen inks.
+- *SITB* - "Stuff In The Bottle", a term used to describe mold, sludge, chemical sedimentation, or some other 'strange' foreign substance present in a bottle of pen ink.
+- *Sizing *\- A coating for paper that affects its ability to absorb liquids (like ink). Heavily sized papers are typically more ideal for fountain pens because they are smoother and more ink repellant.
+- *Skipping* - When ink doesn't flow consistently from a pen, causing the ink to start and stop flowing as you write. This could be caused by the pen, paper, ink, or any combination of the three.
+- *Slit* - The very thin cut running from the tip of the nib up to the breather hole that carries the ink from the feed to the tip of the nib.
+- *Snap Cap* - A pen cap that is removed/replaced by pulling/pushing onto the pen body, usually resulting in a clicking sound.
+- *Soft* - A term used to describe a nib that is springy and somewhat flexible.
+- *Special Edition (SE)* - Similar to a limited edition, but typically without individual serial numbers. A product produced for a limited period of time.
+- *Stainless Steel* - A very common alloy used in the making of fountain pen parts, particularly nibs.
+- *Standard International* - The most commonly accepted size of fountain pen ink cartridges and converters that many manufacturers use. Many pen companies use all proprietary parts for their pens, but the only real 'common' standard for ink cartridge and converters that crosses into multiple brands is the Standard International. There are both short cartridges (most common) and long cartridges that are considered Standard International size.
+- *Stub* - A nib that is ground so that the tip is slightly wider than it is tall, resulting in a variation in line width when switching between writing on the cross-stroke and down-stroke. This is similar to an italic nib, but with more rounded edges to make writing smoother and more enjoyable for everyday use.
+- *Syringe* - A tool used to refill ink cartridges, get last bits of ink out of a bottle, clean pen parts, and fill certain pens such as eyedropper pens.
+- *Taper* - When the diameter of a pen part gradually gets smaller.
+- *Threads* - Thin grooves cut into a pen to hold parts together, especially pen caps to the pen body.
+- *Tip* - The small ball part on the end of a fountain pen nib that actually touches the paper when writing.
+- *Tipping Material* - A small bit of hard-wearing metal (usually some sort of iridium alloy) that is welded to the end of a nib and ground to a specific intended size.
+- *Tooth* - The amount of 'bite' or resistance perceived during a writing experience. This is a consequence of the relationship between the smoothness of a fountain pen nib and the smoothness of the paper being used. Also commonly referred to as 'feedback'.
+- *Translucent* - When a pen material is not entirely opaque, and you can see light coming through it. This comes in handy with fountain pens when you want to be able to see your ink level at a glance.
+- *Trim* - The metal ornamentation on a pen, usually referring to the clip, finial, and center band. Also called 'hardware'.
+- *Two-Tone* - When two different metals are used next to each other, often on a fountain pen nib. Often it is yellow gold and rhodium.
+- *Urushi* - An extremely durable and beautiful Japanese lacquer derived from Urushi trees. The urushi lacquer process is very skill and time intensive, and quite hazardous when wet since it contains urushiol, the active ingredient in poison ivy. When cured, it creates an incredibly hard and durable finish for pens and can be polished to a very high sheen.
+- *UV* - Ultra-violet, radiation that affects ink colors in particular to cause fading.
+- *Vacuum-Fill* - A design of pen that uses a combination of pressure and vacuum to create suction to fill a fountain pen with ink.
+- *Vegetal* - A type of resin that's used for making fountain pens, most notably Noodler's brand. It has a very distinct smell when manufactured, though it does weaken over time. It is also fully biodegradable when buried underground.
+- *Vent Hole* - A hole in the nib, at the end of the nib slit, that allows air to assist in the ink flow, also called a breather hole.
+- *Water Resistance* - Very rarely is an ink ever "waterproof" and is completely unaffected by water. More often than not, water resistant inks are just that: resistant in some ways to the fading effects brought on by exposure to water. Water resistance means that a portion of the ink will remain after being subjected to water. This might only be one ingredient of the ink, leaving behind a legible remnant with little or no representation of the original color.
+- *Wet* - When ink flows very freely and heavily out of a pen. This can be either a characteristic of a pen or an ink, but both are referring to the same end result of a generous amount of ink coming out of the pen.
+- *Wet Noodle* - A flexible nib pen that is incredibly flexible with even the slightest of pressure. These pens were more common around the turn of the 20th century, and are now coveted in the vintage pen market and sold at an absolute premium.
+# Glossary of Fountain Pen Terminology
+Updated `10122022-061356`
+
+- [**Source**](https://www.gouletpens.com/pages/glossary-of-fountain-pen-terminology)
+- [Archive](http://web.archive.org/web/20221012080454/https://www.gouletpens.com/pages/glossary-of-fountain-pen-terminology)
+- [WTF](https://davidblue.wtf/drafts/91BFCDC1-3576-4834-B871-9991570C95F1.html)
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/91BFCDC1-3576-4834-B871-9991570C95F1.md)
+- [Gist](https://gist.github.com/extratone/4969550e8d7e3fe5e4dfd3a565247216)
+- [Ulysses](ulysses://x-callback-url/open?id=9V5Ah9SsMSlOrGWTze53gg)
+- [Simplenote Local](simplenote://note/494b70e5d9d14d0f9f7112685441ef4a)
+- [Simplenote Publish](http://simp.ly/publish/2y8HB4)
+- [Things](things:///show?id=87ZgeDxfioGGXq14w71Z1s)
+
+---
+
+<script src="https://gist.github.com/extratone/4969550e8d7e3fe5e4dfd3a565247216.js"></script>
+
+---
+
+- *Acrylic* - (aka Resin) - A common material used for making fountain pens due to durability, light weight, and ink/water resistance and resistance of staining. It's basically plastic.
+- *Aerometric* - A type of filling mechanism that uses a bladder (or sac) inside a metal cartridge; you fill by squeezing the sac. More common in vintage pens.
+- *Air Channels* - The slits cut in the feed that allow air to help draw ink through the feed.
+- *Archival* - Fountain pen ink that is fade resistant, retaining much of its original look.
+- *Baby's Bottom* - When the tip of a nib is too rounded where the two tines meet, preventing the capillary action needed for the ink to draw down to the paper. Though very smooth writing, nibs with this symptom will typically have skipping problems.
+- *Balance* - Refers to how evenly distributed the weight of the pen feels from the front and back in the hand, and it varies based on the person holding it. It can either feel evenly balanced, front (nib) heavy, or back (top) heavy.
+- *Ballpoint* - What you're probably used to, a pen with a grease or paste ink that is used by rolling the tip (with a ball) across the paper, which rotates the ball and pulls ink from the pen. These came about around the 1950's and were the disruptive technology to the fountain pen that started their decline. Though a necessary tool, they provide a less-than-ideal writing experience due to their limited ink color options, erratic flow, and high amount of pressure required to write (relative to a fountain pen).
+- *Band* - (Centerband) - The metal decorative ring that is usually placed near the bottom of the pen cap for decorative purposes, or perhaps to provide reinforcement to the cap threads.
+- *Barrel* - The long part of the main body of the pen which houses the ink reservoir.
+- *Biocide* - Chemicals used in fountain pen ink to prevent mold and other biological growths from, well, growing.
+- *Bladder* - (Sac) - The rubbery sac that houses ink in various pen filling mechanisms, such as the aerometric.
+- *Bleeding* - or *Bleedthrough* - A symptom of ink soaking through the paper so much that it crosses over to the other side of the page. This can vary based on the ink or the paper but is usually a symptom of paper that is too absorbent. It is more extreme than show-through or ghosting.
+- *Blind Cap* - A removable cap that covers a pen's filling mechanism.
+- *Blotter* - Usually made of wood or metal, this holds blotting paper that is used to soak up excess ink on a page to decrease drying time.
+- *Blotting Paper* - Special super-absorbent paper (like J. Herbin's) that is used to soak up extra ink on the page without smearing it, to decrease dry time when needed.
+- *Body* - The main part of the pen (the part without the cap), usually also called the barrel.
+- *Blue-Black* - A common designation for a dark blue ink, though there really isn't any strict way to declare a blue-black apart from an ink that is just dark blue, navy, or midnight. The original term comes from iron gall or similar inks where the ink begins as a blue color, and over time fades into a dull black color.
+- *Brassing* - When a plating wears off, exposing the underlying metal (usually brass).
+- *Breather Hole* - A hole in the nib, at the end of the nib slit, that allows air to assist in the ink flow, also called a vent hole.
+- *Breather Tube* - A small tube that is used to assist in filling certain types of pens, such as the Noodler's Ahab Flex Pen.
+- *Bulb Filler* - A simple type of filling mechanism that uses a small rubber sac at the end of a large reservoir, and fills by squeezing the sac.
+- *Bulb Syringe* - A handy tool used to either suction boogies from your baby's nose or to help flush out cartridge/converter fountain pens while cleaning
+- *Bulletproof* - A Noodler's term used to describe ink that is particularly fraud resistant and can withstand water, UV rays, bleach, oven cleaners, etc.
+- *Burping* - A symptom (particularly with eyedropper filled pens) where ink comes out in a large drip or blob out of the grip section of the pen. This is usually caused by a variance in pressure between the inside of the pen and the surrounding environment, such as on an airplane with changing pressure or with a pen that has a large reservoir that is low on ink (mostly air) where the heat from your hand while writing can increase the pressure in the pen.
+- *Button Filler* - A filling mechanism that works by pushing a button, more common in vintage pens.
+- *CA (cyanoacrylate)* - Superglue, basically.
+- *Calligraphy* - Fancy writing, often done with dip pens but can be emulated with italic nibs.
+- *Calligraphy Pens* - A term almost always used to describe italic nib fountain pens, usually in the lower price range and sold in sets to lure writers in who want to make their handwriting appear like calligraphy. True calligraphy pens are typically dip pens, which do not use a feed like fountain pens.
+- *Cap* - The part of a pen that covers the nib and attaches to the pen body.
+- *Capillary Action* - The ability of a liquid to flow in narrow spaces without the external forces like gravity. This is the basis for how a fountain pen works.
+- *Cartridge* - A small, sealed plastic reservoir that holds fountain pen ink. Many pen brands use their own proprietary style, but there is one common style called Standard International, where many pen makers use the same type of cartridge. The benefit of cartridges is the convenience, however, they are not nearly as economical as bottled pen ink and the color range is usually incredibly limited
+- *Cartridge/Converter (C/C)* - A small filling mechanism (usually a screw-piston type) that fits onto a pen that also accepts a cartridge. This allows you to use any brand's bottled ink instead of relying on limited proprietary ink cartridges.
+- *Clip* - The metal doohickey usually attached to the cap that holds your pen in your shirt pocket and also keeps it from rolling off your desk and landing nib first on the ground (why does it ALWAYS fall nib down??).
+- *Conversion* - When you are altering a pen in some way to provide an alternate filling method. The most common practice is using a 'cartridge converter' to use bottled ink in a pen in place of ink cartridges, or in filling the whole body of a pen with ink (this is the eyedropper method).
+- *Converter* - A cartridge-shaped reservoir that allows you to use bottled pen ink when a cartridge would otherwise be your only option. Pens that have this option are usually referred to as cartridge/converter or C/C.
+- *Corrosion* - When the metal parts of your pen either rust or chemically disintegrate due to chemical exposure or oxidation.
+- *Crack* - When your pen material (usually plastic) splits apart. This is usually caused by stress in some way, either due to extreme force (like dropping your pen on a hard surface) or over-tightening of certain parts.
+- *Crisp* - (Italic) - A nib ground so that the tip is flat, with very sharp edges to give a very distinct line variation from cross-stroke to downstroke. These nibs require you to write slowly and hold the pen at a very specific angle, otherwise, the sharp edges of the nib will tear the paper.
+- *Cursive* - (Italic) - A nib ground so that the tip is flat, but with slightly more rounded edges. This sacrifices a bit of line variation, for the benefit of a smoother and more forgiving writing experience than a crisp italic. This nib is sometimes called a 'stub', though a stub is typically even more rounded than the cursive italic.
+- *Demonstrator* - Transparent pens, originally developed for salesmen to show to distributors and retailers to display the inner workings of the pens' parts. Now, it is a common aesthetic design adopted across many brands. The appeal is that you can see the ink level clearly in your pen without having to take it apart.
+- *Dip Pen* - A writing instrument that doesn't have an internal ink reservoir, it instead must have its nib immersed in ink every few words to keep it writing. Dip pens typically use ink that is thicker (usually shellac-based) than fountain pen ink.
+- *Dip Test* - When you want to get an idea of how a particular color of ink will look in your fountain pen, but you don't want to draw ink all the way up into it (thus meaning you have to do a full cleaning), you instead just immerse the nib into the ink and write with it without ever drawing ink into the pen.
+- *Drawing Ink* - (India Ink) - Ink that is composed of a fine soot that is combined with water and a binding agent such as shellac. This ink is more durable and permanent than fountain pen ink, but should only be reserved for use with dip pens.
+- *Dry* - When ink does not flow very freely or heavily out of a pen. This can be either a characteristic of a pen or an ink, but both are referring to the same end result of a limited amount of ink coming out of the pen.
+- *Ebonite* - A hard rubber material commonly used in vintage (and some modern) pens.
+- *Eternal* - A term coined by Noodler's Ink to describe the properties of a fountain pen ink that is resistant to UV exposure and fading over a long period of time.
+- *Eyedropper* - Not specific to any brand, a type of filling method where the entire body of the pen is used as a reservoir for the ink.
+- *Eyedropper Conversion* - The process of modifying a fountain pen that has an existing filling mechanism (such as cartridge/converter, piston, or aerometric) so that the entire body of the pen can be used as an ink reservoir.
+- *Feathering* - A term used to describe when fountain pen ink soaks into absorbent paper, resulting in a veiny pattern that branches out from the line drawn. It can also be referred to as 'spread'.
+- *Feed* - The piece of plastic or ebonite (usually black) that hugs the back of the nib and acts as a vehicle for ink delivery from the reservoir to the nib.
+- *Feedback* - The amount of 'bite' or resistance perceived during a writing experience. This is a consequence of the relationship between the smoothness of a fountain pen nib and the smoothness of the paper being used. Also commonly referred to as 'tooth'.
+- *Feed Channel* - A very thin slit in the feed that hugs against the back of the nib and provides a route for the ink to travel through the feed. This is what helps to provide the necessary capillary action required for ink flow.
+- *Ferrogallic* - (Iron Gall) Ink - Ink made from iron salts and tannic acids. Though quite permanent and waterproof, these inks are typically known for causing chemical corrosion to metal pen parts (especially the nib) and should be used sparingly or with less-valuable pens. Modern iron gall formulations are not as harmful as the inks of the past, but extra precaution such as not leaving the ink in a pen for more than a week is strongly recommended.
+- *Filigree* - a decorative (usually precious) metal overlay with openings that show the material of the pen under it.
+- *Flex* - The ability of the tines of a fountain pen nib to spread under varying writing pressure, resulting in variation of the width of the line drawn. It's super cool.
+- *Flooding* - Forcing ink down through the feed by intentionally pushing it out of the reservoir.
+- *Flow* - The movement of ink through the pen. Often described as 'wet' or 'dry', depending on how freely the ink is willing to come out of the pen.
+- *Fluorescing* - When ink glows under blacklight.
+- *Freeze Resistant* - Ink that is formulated to resist freezing at extremely low temperatures.
+- *French-Ruled Paper* - (Séyès) - Standard 'school' paper in France, it is an 8mm x 8mm grid that is separated by 2mm horizontal lines to give guidance and structure to cursive writing.
+- *Gel Pen* - A disposable cartridge-type pen that has a gel-based ink inside it (such as Pilot G2).
+- *Ghosting* - When you can see what's written on the other side of a sheet of paper without the ink coming through the page. This isn't to be confused with bleed through, where the ink actually soaks through to the other side. This is also known as show-through or echo.
+- *Glass Pen* - A writing instrument that must be dipped in ink and provides ink delivery the paper through a series of twisted flutes on the tip....and it's glass, duh.
+- *Gold* - You know what this is. Typically used for nibs on more expensive pens or as plating for decoration on fountain pen hardware.
+- *GSM* - (aka 'g' or gm^2) grams per square meter, a measurement of a paper's weight. Though this designation is commonly used to refer to a paper's thickness, not all papers with the same GSM may be the same thickness, because there are other factors involved such as the material of the paper and the sizing used that influence how heavy it is. Generally speaking though, it is best to use papers that are 80g weight or higher for good performance with fountain pens (though there are of course always exceptions).
+- *Grip section* - The part of the pen you hold where the nib fits in, sometimes called just a 'section'.
+- *Halo* - An ink property where there is an intentional separation of dye components to give a highlighting effect.
+- *Hardware* - The metal ornamentation on a pen, usually referring to the clip, finial, and center band. Also called 'trim'.
+- *Highlighter* - Fountain pen inks that are designed to be used to highlight on top of written or printed ink.
+- *Hood(ed) Nib* - A covering that goes over the top of a nib to make it less likely that you will touch it and get ink on your fingers. Made famous by the Parker 51.
+- *India Ink* - Ink that is composed of a fine soot that is combined with water and a binding agent such as shellac. This ink is more durable and permanent than fountain pen ink, but should only be reserved for use with dip pens.
+- *Ink* - The liquid substance that you put in a fountain pen to be able to use it for more than a paperweight or a piece of jewelry.
+- *Ink Syringe* - A hypodermic needle (ideally blunt-tip) that is used to refill ink cartridges or decant the last bit of ink from a bottle.
+- *Ink Window* - a translucent section of a pen that allows you to see when your ink level is getting low.
+- *Inkwell* - A storage container used for housing liquid ink, usually made of glass.
+- *Insert* - A cone-shaped reservoir that seats inside a bottle of ink to help you fill a fountain pen when the ink level gets low.
+- *Invisible* - Fountain pen ink that is clear and is nearly invisible on paper to the naked eye when written with. These inks can be viewed later using other means, like specific lighting conditions.
+- *Iridium* - A very hard-wearing metal (usually some kind of alloy) used for tipping material on fountain pen nibs.
+- *Iridium Point Germany (IPG)* - A designation displayed on some manufacturer's nibs. Iridium refers to the hard-wearing metal used to create the ball on the tip of the nib, and the German aspect could mean a variety of things. It doesn't necessarily mean the nib was made in Germany, but just that (at least) the tipping material used for the point comes from Germany. This is quite confusing and does create some mystery about where some nibs actually come from. Brian Gray of the Edison Pen Company has a great article on the [IPG Nib designation](http://edisonpen.com/ipgnibs2).
+- *Iron Gall* - Ink made from iron salts and tannic acids. Though quite permanent and waterproof, these inks are typically known for causing chemical corrosion to metal pen parts (especially the nib) and should be used sparingly or with less-valuable pens. Modern iron gall formulations are not as harmful as the inks of the past, but extra precaution such as not leaving the ink in a pen for more than a week is strongly recommended.
+- *Italic* - (Nib) - A type of grind where the tip of the nib is flattened so that there is a distinct line variation while you write when you change from the cross-stroke to the down-stroke.
+- *Lacquer* - Clear or colored varnish that's used to provide protection and durability to a pen's surface.
+- *Limited Edition (LE)* - Pens that are designed to be made in only limited numbers. They are often engraved with a designation with which number pen it is.
+- *Lubricated* - Ink that has special additives to make it flow better in your pen, and keep the internal components operating smoothly. Noodler's American Eel series of inks are most known for this property.
+- *Maki-e* - Japanese lacquer sprinkled with precious metal powder as a decoration. There are several different methods of this technique, but all of them are extremely cool, very hard to do, and take forever to do, which makes pens with maki-e very expensive.
+- *Methyl Ethyl Ketone (MEK)* - Also known as butanone, this is used as a chemical welding agent to affix pen parts together.
+- *Mixable *\- Fountain pen inks that are designed to be mixed together to create new colors without adverse reactions between inks.
+- *Mold* - Spore growth in ink, commonly called SITB (Stuff In The Bottle). Mold is a 'four-letter-word' in the fountain pen ink world, and generally very frowned upon. It can either come up as white fuzzy stuff on the surface of the ink where you can see it as soon as you open a bottle or as sludge down inside the ink that is much harder to find until you suck it up into your pen. Though mold is quite scary, it seldom actually causes any long-term damage to a pen. Most ink companies put biocides in their inks to prevent the growth of mold, so it is rare that it occurs.
+- *Music Nib* - A type of stub/italic nib that is designed for increased ink flow. Platinum and Sailor both have nibs they call Music Nibs, and they are really little more than regular stub nibs. Traditionally these nibs have three tines (two slits).
+- *Nail* - Nibs that have no flexibility at all, that write as stiff as a....nail.
+- *Newbie (Noob)* - Someone brand new to the world of fountain pens.
+- *Nib* - The metal tip of a fountain pen that actually touches the paper.
+- *Nib Creep* - When ink comes up through the nib tines and covers part of the top of the nib. It can be a symptom of the ink or pen, but is purely aesthetic and doesn't typically have any effect on the function of a pen.
+- *NID* - New Ink Day, when your new ink shipment arrives.
+- *NPD* - New Pen Day, when your new fountain pen arrives.
+- *Oblique* - A nib grind that is like an italic, but slanted to one side (either left or right). This grind is quite rare these days and is hard to find unless you have it custom ground.
+- *O-Ring* - A rubber ring that helps to seal internal components of a pen from leaking ink.
+- *Overwriter* - Someone who writes with their hand on the page so that it sits above where the nib is writing. This term is most commonly used to describe left-handed writers, as it creates a special problem due to the fact that the hand would be rubbing directly over what's being written.
+- *Palladium* - A durable silvery-white precious metal in the platinum family used by some pen manufacturers in their pens.
+- *Permanent* - Traditionally, a fountain pen ink that is water resistant and fade resistant. In more rare cases, permanent ink can even be acid proof, UV resistant, forgery-resistant and more.
+- *Pigmented* - Fountain pen ink that is made up of finely-ground solid particles in liquid suspension, like paint. Some brands make specially-formulated pigmented ink for use in fountain pens, where the solid matter is microscopically ground to the point where it can flow through feeds.
+- *Piston* - A type of mechanism that uses a retracting plunger inside a sealed tube in fountain pens and converters to draw ink into a pen. They can either be screw or push operated, though screw pistons are the most common.
+- *Piston Filler* - A fountain pen that has a piston filling mechanism built into the body of it, so that the body of the pen acts as the ink reservoir.
+- *Plating* - When a coating of one metal goes overtop of another, usually to provide added wear protection and aesthetic appeal.
+- *Plunger* - The rod inside a piston that moves up and down to draw ink in and out of a pen (or converter).
+- *Posting* - When you put the cap of a pen onto the back end of the body (the part you hold).
+- *Precious Resin* - A marketing term, most famously used by Mont Blanc, that essentially means plastic.
+- *Prime* - When you soak a pen feed with ink to get it started. This happens as a consequence of filling a pen through its nib when filling from a bottle of ink, but you can also prime a pen by forcing ink down through the feed by reversing the filling mechanism from the way you filled it.
+- *Proprietary* - Refers to components that are designed and made to fit specifically one brand, as opposed to being universal. Examples would include LAMY nibs fitting only on LAMY pens, or Pilot ink cartridges fitting only on Pilot pens.
+- *Railroading* - When the flow of ink is broken and the result is that the tines of the nib draw two separate, parallel lines on the page. This is most common using flexible nib pens.
+- *Reservoir* - A cavity inside a pen that holds ink.
+- *Resin* - Plastic.
+- *Retractable Nib* - A pen that is designed without a cap, so that the nib itself draws into the pen body when closed. The most popular pens that do this are the Pilot Vanishing Point and Lamy Dialog 3. This is a common feature of ballpoint (click) pens, but not common in fountain pens.
+- *Rhodium* - An extremely durable (and expensive) silver-colored metal most often used for plating over stainless steel to provide added durability to pen hardware and nibs.
+- *Rocking Blotter* - A tool (usually wood) that hold sheets of specially absorbent blotting paper that is used to soak up excess ink left on paper.
+- *Rollerball* - A pen that contains a gel ink that is housed inside a replaceable cartridge.
+- *Sac* - a rubbery reservoir that houses ink. Common in many vintage pens, they're used much less often today.
+- *Saturation* - An ink term used to describe the perceived intensity of a specific color. Ink users often refer to the level of saturation of an ink by how much dye is perceived to be present in the ink. Generally speaking, the higher saturated inks have bolder colors but extended drying times on paper.
+- *Scented* - Fountain pen ink that is formulated to have a specific smell, generally corresponding with the ink name.
+- *Scratchy* - When a nib provides resistance when being moved across the paper, often caused by misaligned nib tines.
+- *Screw Cap* - A pen cap that is removed/replaced by interlocking threads on the cap and pen body that mate together with a twisting motion.
+- *Section* - The part of the pen you hold where the nib fits in, often called a 'grip section'.
+- *Semi-Flex* - When a nib bends slightly under pressure to give a soft feel when writing, not to the extreme of flex nibs where the nib tines actually separate to provide line variation.
+- *Séyès (French-Ruled) Paper* - Standard 'school' paper in France, it is an 8mm x 8mm grid that is separated by 2mm horizontal lines to give guidance and structure to cursive writing.
+- *Shading* - A common (and often desired) result of a fountain pen ink pooling in certain parts of a letter when writing, so that the color and saturation of the ink appears different within a single letter or word. This characteristic cannot be achieved with ballpoint or rollerball pens and is a very appealing aspect of fountain pen use for those particularly drawn to all the pretty ink colors.
+- *Sheen* - Characteristic of a fountain pen ink where when ink pools another color can be seen on top of the ink, especially when looked at in different light angles using certain paper types.
+- *Shimmering* - Fountain pen ink that has small particles of glitter mixed in.
+- *Show-Through* - When you can see what's written on the other side of a sheet of paper without the ink coming through the page. This isn't to be confused with bleed through, where the ink actually soaks through to the other side. This is also known as ghosting or echo.
+- *Silicone Grease* - A clear, inert grease that is used to lubricate moving parts of fountain pens, as well as seal up threads for eyedropper conversions. The appeal of this grease is that it doesn't harden over time, it is water/ink-resistant, and it will not react with fountain pen inks.
+- *SITB* - "Stuff In The Bottle", a term used to describe mold, sludge, chemical sedimentation, or some other 'strange' foreign substance present in a bottle of pen ink.
+- *Sizing *\- A coating for paper that affects its ability to absorb liquids (like ink). Heavily sized papers are typically more ideal for fountain pens because they are smoother and more ink repellant.
+- *Skipping* - When ink doesn't flow consistently from a pen, causing the ink to start and stop flowing as you write. This could be caused by the pen, paper, ink, or any combination of the three.
+- *Slit* - The very thin cut running from the tip of the nib up to the breather hole that carries the ink from the feed to the tip of the nib.
+- *Snap Cap* - A pen cap that is removed/replaced by pulling/pushing onto the pen body, usually resulting in a clicking sound.
+- *Soft* - A term used to describe a nib that is springy and somewhat flexible.
+- *Special Edition (SE)* - Similar to a limited edition, but typically without individual serial numbers. A product produced for a limited period of time.
+- *Stainless Steel* - A very common alloy used in the making of fountain pen parts, particularly nibs.
+- *Standard International* - The most commonly accepted size of fountain pen ink cartridges and converters that many manufacturers use. Many pen companies use all proprietary parts for their pens, but the only real 'common' standard for ink cartridge and converters that crosses into multiple brands is the Standard International. There are both short cartridges (most common) and long cartridges that are considered Standard International size.
+- *Stub* - A nib that is ground so that the tip is slightly wider than it is tall, resulting in a variation in line width when switching between writing on the cross-stroke and down-stroke. This is similar to an italic nib, but with more rounded edges to make writing smoother and more enjoyable for everyday use.
+- *Syringe* - A tool used to refill ink cartridges, get last bits of ink out of a bottle, clean pen parts, and fill certain pens such as eyedropper pens.
+- *Taper* - When the diameter of a pen part gradually gets smaller.
+- *Threads* - Thin grooves cut into a pen to hold parts together, especially pen caps to the pen body.
+- *Tip* - The small ball part on the end of a fountain pen nib that actually touches the paper when writing.
+- *Tipping Material* - A small bit of hard-wearing metal (usually some sort of iridium alloy) that is welded to the end of a nib and ground to a specific intended size.
+- *Tooth* - The amount of 'bite' or resistance perceived during a writing experience. This is a consequence of the relationship between the smoothness of a fountain pen nib and the smoothness of the paper being used. Also commonly referred to as 'feedback'.
+- *Translucent* - When a pen material is not entirely opaque, and you can see light coming through it. This comes in handy with fountain pens when you want to be able to see your ink level at a glance.
+- *Trim* - The metal ornamentation on a pen, usually referring to the clip, finial, and center band. Also called 'hardware'.
+- *Two-Tone* - When two different metals are used next to each other, often on a fountain pen nib. Often it is yellow gold and rhodium.
+- *Urushi* - An extremely durable and beautiful Japanese lacquer derived from Urushi trees. The urushi lacquer process is very skill and time intensive, and quite hazardous when wet since it contains urushiol, the active ingredient in poison ivy. When cured, it creates an incredibly hard and durable finish for pens and can be polished to a very high sheen.
+- *UV* - Ultra-violet, radiation that affects ink colors in particular to cause fading.
+- *Vacuum-Fill* - A design of pen that uses a combination of pressure and vacuum to create suction to fill a fountain pen with ink.
+- *Vegetal* - A type of resin that's used for making fountain pens, most notably Noodler's brand. It has a very distinct smell when manufactured, though it does weaken over time. It is also fully biodegradable when buried underground.
+- *Vent Hole* - A hole in the nib, at the end of the nib slit, that allows air to assist in the ink flow, also called a breather hole.
+- *Water Resistance* - Very rarely is an ink ever "waterproof" and is completely unaffected by water. More often than not, water resistant inks are just that: resistant in some ways to the fading effects brought on by exposure to water. Water resistance means that a portion of the ink will remain after being subjected to water. This might only be one ingredient of the ink, leaving behind a legible remnant with little or no representation of the original color.
+- *Wet* - When ink flows very freely and heavily out of a pen. This can be either a characteristic of a pen or an ink, but both are referring to the same end result of a generous amount of ink coming out of the pen.
+- *Wet Noodle* - A flexible nib pen that is incredibly flexible with even the slightest of pressure. These pens were more common around the turn of the 20th century, and are now coveted in the vintage pen market and sold at an absolute premium.
+# goon
+
+
+## Noun
+
+1. an awkward stupid person
+	- Synonyms
+		- lout
+		- clod
+		- stumblebum
+		- oaf
+		- lubber
+		- lummox
+		- lump
+		- gawk
+	- Less specific
+		- clumsy person
+	- Related
+		- gawky
+		- clumsy
+		- clunky
+		- ungainly
+		- unwieldy
+		- lubberly
+2. an aggressive and violent young criminal
+	- Synonyms
+		- hood
+		- hoodlum
+		- punk
+		- thug
+		- tough
+		- toughie
+		- strong-armer
+	- Less specific
+		- criminal
+		- felon
+		- crook
+		- outlaw
+		- malefactor
+	- More specific
+		- bully
+	- Related
+		- strong-arm
+		- strong-arm
+
+
+# goon
+
+
+## Noun
+
+1. an awkward stupid person
+	- Synonyms
+		- lout
+		- clod
+		- stumblebum
+		- oaf
+		- lubber
+		- lummox
+		- lump
+		- gawk
+	- Less specific
+		- clumsy person
+	- Related
+		- gawky
+		- clumsy
+		- clunky
+		- ungainly
+		- unwieldy
+		- lubberly
+2. an aggressive and violent young criminal
+	- Synonyms
+		- hood
+		- hoodlum
+		- punk
+		- thug
+		- tough
+		- toughie
+		- strong-armer
+	- Less specific
+		- criminal
+		- felon
+		- crook
+		- outlaw
+		- malefactor
+	- More specific
+		- bully
+	- Related
+		- strong-arm
+		- strong-arm
+
+
+# gouache
+
+
+## Noun
+
+1. an opaque watercolor prepared with gum
+	- Less specific
+		- watercolor
+		- water-color
+		- watercolour
+		- water-colour
+2. a watercolor executed with opaque watercolors mixed with gum
+	- Less specific
+		- watercolor
+		- water-color
+		- watercolour
+		- water-colour
+
+> Gouache (; French: [ɡwaʃ]), body color, or opaque watercolor, is a water-medium paint consisting of natural pigment, water, a binding agent (usually gum arabic or dextrin), and sometimes additional inert material. Gouache is designed to be opaque. Gouache has a considerable history, having been used for at least twelve centuries. It is used most consistently by commercial artists for posters, illustrations, comics, and other design work. 
+
+> Gouache is similar to watercolor in that it can be re-wetted and dries to a matte finish, and the paint can become infused into its paper support. It is similar to acrylic or oil paints in that it is normally used in an opaque painting style and it can form a superficial layer. Many manufacturers of watercolor paints also produce gouache, and the two can easily be used together.
+-[Gouache - Wikipedia](https://en.wikipedia.org/wiki/Gouache)
+# gouache
+
+
+## Noun
+
+1. an opaque watercolor prepared with gum
+	- Less specific
+		- watercolor
+		- water-color
+		- watercolour
+		- water-colour
+2. a watercolor executed with opaque watercolors mixed with gum
+	- Less specific
+		- watercolor
+		- water-color
+		- watercolour
+		- water-colour
+
+> Gouache (; French: [ɡwaʃ]), body color, or opaque watercolor, is a water-medium paint consisting of natural pigment, water, a binding agent (usually gum arabic or dextrin), and sometimes additional inert material. Gouache is designed to be opaque. Gouache has a considerable history, having been used for at least twelve centuries. It is used most consistently by commercial artists for posters, illustrations, comics, and other design work. 
+
+> Gouache is similar to watercolor in that it can be re-wetted and dries to a matte finish, and the paint can become infused into its paper support. It is similar to acrylic or oil paints in that it is normally used in an opaque painting style and it can form a superficial layer. Many manufacturers of watercolor paints also produce gouache, and the two can easily be used together.
+-[Gouache - Wikipedia](https://en.wikipedia.org/wiki/Gouache)
+# Greek Alphabet
+Updated `07112022-034102`
+
+[WTF](https://davidblue.wtf/drafts/FE462935-3900-49E7-8FA7-B16D581B71A7.html)
+
+---
+
 - Alpha
-- Beta
-- Gamma
-- Delta
-- Epsilon
+- Beta - β
+- Gamma - γ ᴦ
+- **Delta** - ⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
+- Epsilon - ε ε
 - Zeta
 - Eta
 - Theta
@@ -1763,14 +15657,298 @@ A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/Haggar
 - Omicron
 - Pi
 - Rho
-- Sigma
+- Sigma - σ
 - Tau
 - Upsilon
 - Phi
 - Chi
 - Psi
 - Omega
-===
+# Greek Alphabet
+Updated `07112022-034102`
+
+[WTF](https://davidblue.wtf/drafts/FE462935-3900-49E7-8FA7-B16D581B71A7.html)
+
+---
+
+- Alpha
+- Beta - β
+- Gamma - γ ᴦ
+- **Delta** - ⍋⍙≜𝚫𝛅𝛥𝛿𝜟𝜹𝝙𝝳𝞓𝞭ᵟƍ
+- Epsilon - ε ε
+- Zeta
+- Eta
+- Theta
+- Iota
+- Kappa
+- Lambda
+- Mu
+- Nu
+- Xi
+- Omicron
+- Pi
+- Rho
+- Sigma - σ
+- Tau
+- Upsilon
+- Phi
+- Chi
+- Psi
+- Omega
+# gripe
+
+
+## Noun
+
+1. informal terms for objecting; “I have a gripe about the service here”
+	- Synonyms
+		- kick
+		- beef
+		- bitch
+		- squawk
+	- Less specific
+		- objection
+	- Related
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- bitchy
+		- catty
+		- cattish
+		- backbite
+		- bitch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+
+## Verb
+
+1. complain; “What was he hollering about?”
+	- Synonyms
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- crab
+		- crabby person
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+
+*From LookUp*:
+Verb
+1.	Informal [no object] complain about something in a persistent, irritating way
+“Holidays don't make any difference to Simon,” Pat griped | they gripe about the busywork
+
+2.	Archaic [with object] grasp tightly; clutch
+Hilyard griped his dagger
+
+3.	Nautical [with object] secure (a boat) with gripes.
+
+4.	Nautical [no object] (of a ship) turn to face the wind in spite of the helm.
+
+
+Noun
+1.	Informal a minor complaint
+his biggest gripe is that he has lost his sense of privacy
+
+2.	Medicine usually "gripes" gastric or intestinal pain; colic
+if your baby has gripe or is teething, we have the medication to help them
+
+3.	Archaic an act of grasping something tightly
+he seized me by the arms with a rude gripe
+
+4.	Nautical "gripes" lashings securing a boat in its place on deck or in davits.
+# gripe
+
+
+## Noun
+
+1. informal terms for objecting; “I have a gripe about the service here”
+	- Synonyms
+		- kick
+		- beef
+		- bitch
+		- squawk
+	- Less specific
+		- objection
+	- Related
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- bitchy
+		- catty
+		- cattish
+		- backbite
+		- bitch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+
+## Verb
+
+1. complain; “What was he hollering about?”
+	- Synonyms
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- crab
+		- crabby person
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+
+*From LookUp*:
+Verb
+1.	Informal [no object] complain about something in a persistent, irritating way
+“Holidays don't make any difference to Simon,” Pat griped | they gripe about the busywork
+
+2.	Archaic [with object] grasp tightly; clutch
+Hilyard griped his dagger
+
+3.	Nautical [with object] secure (a boat) with gripes.
+
+4.	Nautical [no object] (of a ship) turn to face the wind in spite of the helm.
+
+
+Noun
+1.	Informal a minor complaint
+his biggest gripe is that he has lost his sense of privacy
+
+2.	Medicine usually "gripes" gastric or intestinal pain; colic
+if your baby has gripe or is teething, we have the medication to help them
+
+3.	Archaic an act of grasping something tightly
+he seized me by the arms with a rude gripe
+
+4.	Nautical "gripes" lashings securing a boat in its place on deck or in davits.
 # grubby
 
 
@@ -1828,7 +16006,263 @@ A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/Haggar
 		- dinge
 
 
-===
+# grubby
+
+
+## Noun
+
+1. small sculpin of the coast of New England
+	- Synonyms
+		- Myxocephalus aenaeus
+	- Less specific
+		- sculpin
+	- Member of
+		- Myxocephalus
+		- genus Myxocephalus
+
+## Adjective
+
+1. infested with grubs
+	- Pertains to
+		- grub
+	- Related
+		- grub
+2. thickly covered with ingrained dirt or soot; “a miner’s begrimed face”; “dingy linen”; “grimy hands”; “grubby little fingers”; “a grungy kitchen”
+	- Synonyms
+		- begrimed
+		- dingy
+		- grimy
+		- grungy
+		- raunchy
+	- Similar to
+		- dirty
+		- soiled
+		- unclean
+	- Related
+		- dirt
+		- filth
+		- grime
+		- soil
+		- stain
+		- grease
+		- grunge
+		- griminess
+		- grubbiness
+		- dirt
+		- filth
+		- grime
+		- soil
+		- stain
+		- grease
+		- grunge
+		- griminess
+		- grubbiness
+		- dinginess
+		- dinge
+		- dinginess
+		- dinge
+
+
+# gully-fluff
+
+
+GULLY-FLUFF was 19th century slang for the dust and lint that gathers in a pocket.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1512778411227369476)
+# gully-fluff
+
+
+GULLY-FLUFF was 19th century slang for the dust and lint that gathers in a pocket.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1512778411227369476)
+# guttersnipe
+
+
+## Noun
+
+1. a child who spends most of his time in the streets especially in slum areas
+	- Synonyms
+		- street urchin
+	- Less specific
+		- urchin
+	- More specific
+		- gamine
+		- street arab
+		- gamin
+		- throwaway
+
+
+# guttersnipe
+
+
+## Noun
+
+1. a child who spends most of his time in the streets especially in slum areas
+	- Synonyms
+		- street urchin
+	- Less specific
+		- urchin
+	- More specific
+		- gamine
+		- street arab
+		- gamin
+		- throwaway
+
+
+# gyrate
+
+![gyrate LookUp](https://i.snap.as/T2XCTZDY.png)
+
+## Verb
+
+1. to wind or move in a spiral course; “the muscles and nerves of his fine drawn body were coiling for action”; “black smoke coiling up into the sky”; “the young people gyrated on the dance floor”
+	- Synonyms
+		- spiral
+		- coil
+	- Less specific
+		- turn
+	- Related
+		- coil
+		- whorl
+		- roll
+		- curl
+		- curlicue
+		- ringlet
+		- gyre
+		- scroll
+		- coil
+		- spiral
+		- volute
+		- whorl
+		- helix
+		- coil
+		- spiral
+		- volute
+		- whorl
+		- helix
+		- spiral
+		- gyration
+		- whirling
+2. revolve quickly and repeatedly around one’s own axis; “The dervishes whirl around and around without getting dizzy”
+	- Synonyms
+		- spin
+		- spin around
+		- whirl
+		- reel
+	- Less specific
+		- revolve
+		- go around
+		- rotate
+	- More specific
+		- whirligig
+	- Related
+		- rotation
+		- revolution
+		- gyration
+		- gyration
+		- whirling
+		- whirl
+		- swirl
+		- vortex
+		- convolution
+		- spin
+		- twirl
+		- twist
+		- twisting
+		- whirl
+		- whirling dervish
+		- whirler
+		- whirler
+		- spin
+		- twirl
+		- twist
+		- twisting
+		- whirl
+		- spinner
+
+*From LookUp*:
+Verb
+1.	move or cause to move in a circle or spiral, especially quickly
+their wings gyrate through the water like paddle wheels
+
+[no object] dance in a wild or suggestive manner
+strippers gyrated to rock music on a low stage
+# gyrate
+
+![gyrate LookUp](https://i.snap.as/T2XCTZDY.png)
+
+## Verb
+
+1. to wind or move in a spiral course; “the muscles and nerves of his fine drawn body were coiling for action”; “black smoke coiling up into the sky”; “the young people gyrated on the dance floor”
+	- Synonyms
+		- spiral
+		- coil
+	- Less specific
+		- turn
+	- Related
+		- coil
+		- whorl
+		- roll
+		- curl
+		- curlicue
+		- ringlet
+		- gyre
+		- scroll
+		- coil
+		- spiral
+		- volute
+		- whorl
+		- helix
+		- coil
+		- spiral
+		- volute
+		- whorl
+		- helix
+		- spiral
+		- gyration
+		- whirling
+2. revolve quickly and repeatedly around one’s own axis; “The dervishes whirl around and around without getting dizzy”
+	- Synonyms
+		- spin
+		- spin around
+		- whirl
+		- reel
+	- Less specific
+		- revolve
+		- go around
+		- rotate
+	- More specific
+		- whirligig
+	- Related
+		- rotation
+		- revolution
+		- gyration
+		- gyration
+		- whirling
+		- whirl
+		- swirl
+		- vortex
+		- convolution
+		- spin
+		- twirl
+		- twist
+		- twisting
+		- whirl
+		- whirling dervish
+		- whirler
+		- whirler
+		- spin
+		- twirl
+		- twist
+		- twisting
+		- whirl
+		- spinner
+
+*From LookUp*:
+Verb
+1.	move or cause to move in a circle or spiral, especially quickly
+their wings gyrate through the water like paddle wheels
+
+[no object] dance in a wild or suggestive manner
+strippers gyrated to rock music on a low stage
 # hack
 
 
@@ -2010,7 +16444,413 @@ A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/Haggar
 		- cough
 
 
-===
+# hack
+
+
+## Noun
+
+1. one who works hard at boring tasks
+	- Synonyms
+		- drudge
+		- hacker
+	- Less specific
+		- unskilled person
+	- More specific
+		- plodder
+		- slogger
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+2. a politician who belongs to a small clique that controls a political party for private rather than public ends
+	- Synonyms
+		- machine politician
+		- ward-heeler
+		- political hack
+	- Less specific
+		- politician
+		- politico
+		- pol
+		- political leader
+3. a mediocre and disdained writer
+	- Synonyms
+		- hack writer
+		- literary hack
+	- Less specific
+		- writer
+		- author
+	- Member of
+		- Grub Street
+4. a tool (as a hoe or pick or mattock) used for breaking up the surface of the soil
+	- Less specific
+		- tool
+	- Related
+		- hack
+		- chop
+		- hack
+5. a car driven by a person whose job is to take passengers where they want to go in exchange for money
+	- Synonyms
+		- cab
+		- taxi
+		- taxicab
+	- Less specific
+		- car
+		- auto
+		- automobile
+		- machine
+		- motorcar
+	- More specific
+		- gypsy cab
+		- minicab
+	- Member of
+		- fleet
+	- Related
+		- taxi
+		- cab
+6. an old or over-worked horse
+	- Synonyms
+		- jade
+		- nag
+		- plug
+	- Less specific
+		- horse
+		- Equus caballus
+	- Related
+		- tire
+		- wear upon
+		- tire out
+		- wear
+		- weary
+		- jade
+		- wear out
+		- outwear
+		- wear down
+		- fag out
+		- fag
+		- fatigue
+		- tire
+		- pall
+		- weary
+		- fatigue
+		- jade
+7. a horse kept for hire
+	- Less specific
+		- horse
+		- Equus caballus
+8. a saddle horse used for transportation rather than sport etc.
+	- Less specific
+		- saddle horse
+		- riding horse
+		- mount
+
+## Verb
+
+1. cut with a hacking tool
+	- Synonyms
+		- chop
+	- Less specific
+		- cut
+	- More specific
+		- axe
+		- ax
+	- See also
+		- chop down
+		- chop
+		- chop up
+		- cut off
+		- chop off
+		- lop off
+	- Related
+		- hack
+		- chopper
+		- pearly
+		- cleaver
+		- meat cleaver
+		- chopper
+2. be able to manage or manage successfully; “I can’t hack it anymore”; “she could not cut the long days in the office”
+	- Synonyms
+		- cut
+	- Less specific
+		- cope
+		- get by
+		- make out
+		- make do
+		- contend
+		- grapple
+		- deal
+		- manage
+3. cut away; “he hacked his way through the forest”
+	- Less specific
+		- cut
+	- Related
+		- hack
+4. kick on the arms
+	- Less specific
+		- foul
+	- Topic Members
+		- basketball
+		- basketball game
+		- hoops
+5. kick on the shins
+	- Less specific
+		- foul
+	- Topic Members
+		- rugby
+		- rugby football
+		- rugger
+6. fix a computer program piecemeal until it works; “I’m not very good at hacking but I’ll give it my best”
+	- Synonyms
+		- hack on
+	- Less specific
+		- program
+		- programme
+	- Related
+		- hacker
+7. significantly cut up a manuscript
+	- Synonyms
+		- cut up
+	- Less specific
+		- edit
+		- redact
+8. cough spasmodically; “The patient with emphysema is hacking all day”
+	- Synonyms
+		- whoop
+	- Less specific
+		- cough
+
+
+# hammy
+
+
+## Adjective
+
+1. affectedly dramatic; overacted
+	- Similar to
+		- dramatic
+	- Related
+		- ham
+		- ham actor
+
+- [**hammy** - LookUp](https://learnwithlookup.com/share/index.html?word=hammy&definition=(of%2520acting%2520or%2520actor)%2520exaggerated%2520or%2520overly%2520theatrical&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoYW1teSIsImRlZmluaXRpb24iOiIob2YgYWN0aW5nIG9yIGFjdG9yKSBleGFnZ2VyYXRlZCBvciBvdmVybHkgdGhlYXRyaWNhbCJ9)
+Adjective
+1.	Theatre Informal (of acting or an actor) exaggerated or overly theatrical
+there is some hammy acting
+# hammy
+
+
+## Adjective
+
+1. affectedly dramatic; overacted
+	- Similar to
+		- dramatic
+	- Related
+		- ham
+		- ham actor
+
+- [**hammy** - LookUp](https://learnwithlookup.com/share/index.html?word=hammy&definition=(of%2520acting%2520or%2520actor)%2520exaggerated%2520or%2520overly%2520theatrical&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoYW1teSIsImRlZmluaXRpb24iOiIob2YgYWN0aW5nIG9yIGFjdG9yKSBleGFnZ2VyYXRlZCBvciBvdmVybHkgdGhlYXRyaWNhbCJ9)
+Adjective
+1.	Theatre Informal (of acting or an actor) exaggerated or overly theatrical
+there is some hammy acting
+# harridan
+
+
+## Noun
+
+1. a scolding (even vicious) old woman
+	- Less specific
+		- scold
+		- scolder
+		- nag
+		- nagger
+		- common scold
+
+
+# harridan
+
+
+## Noun
+
+1. a scolding (even vicious) old woman
+	- Less specific
+		- scold
+		- scolder
+		- nag
+		- nagger
+		- common scold
+
+
+# haywire
+
+
+## Noun
+
+1. wire for tying up bales of hay
+	- Less specific
+		- wire
+
+## Adjective
+
+1. informal or slang terms for mentally irregular; “it used to drive my husband balmy”
+	- Synonyms
+		- balmy
+		- barmy
+		- bats
+		- batty
+		- bonkers
+		- buggy
+		- cracked
+		- crackers
+		- daft
+		- dotty
+		- fruity
+		- kooky
+		- kookie
+		- loco
+		- loony
+		- loopy
+		- nuts
+		- nutty
+		- round the bend
+		- around the bend
+		- wacky
+		- whacky
+	- Similar to
+		- insane
+	- Related
+		- addle-head
+		- addlehead
+		- loon
+		- birdbrain
+		- kook
+		- odd fellow
+		- odd fish
+		- queer bird
+		- queer duck
+		- odd man out
+		- craziness
+		- daftness
+		- flakiness
+2. not functioning properly; “something is amiss”; “has gone completely haywire”; “something is wrong with the engine”
+	- Synonyms
+		- amiss
+		- awry
+		- wrong
+	- Similar to
+		- malfunctioning
+		- nonfunctional
+
+- [**haywire** - LookUp](https://learnwithlookup.com/share/index.html?word=haywire&definition=erratic&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoYXl3aXJlIiwiZGVmaW5pdGlvbiI6ImVycmF0aWMifQ%3D%3D)
+Adjective
+1.	Informal erratic; out of control
+her imagination had gone haywire
+
+## Thesaurus
+Adjective
+1.	a bug that makes computers go haywire
+
+Similar Words: 	out of control    out of order    erratic    faulty    not functioning properly    chaotic    confused    crazy    wild    disorganized    disordered    topsy-turvy    on the blink    shambolic    up the spout    wonky
+
+Opposites: 	in order    under control
+# haywire
+
+
+## Noun
+
+1. wire for tying up bales of hay
+	- Less specific
+		- wire
+
+## Adjective
+
+1. informal or slang terms for mentally irregular; “it used to drive my husband balmy”
+	- Synonyms
+		- balmy
+		- barmy
+		- bats
+		- batty
+		- bonkers
+		- buggy
+		- cracked
+		- crackers
+		- daft
+		- dotty
+		- fruity
+		- kooky
+		- kookie
+		- loco
+		- loony
+		- loopy
+		- nuts
+		- nutty
+		- round the bend
+		- around the bend
+		- wacky
+		- whacky
+	- Similar to
+		- insane
+	- Related
+		- addle-head
+		- addlehead
+		- loon
+		- birdbrain
+		- kook
+		- odd fellow
+		- odd fish
+		- queer bird
+		- queer duck
+		- odd man out
+		- craziness
+		- daftness
+		- flakiness
+2. not functioning properly; “something is amiss”; “has gone completely haywire”; “something is wrong with the engine”
+	- Synonyms
+		- amiss
+		- awry
+		- wrong
+	- Similar to
+		- malfunctioning
+		- nonfunctional
+
+- [**haywire** - LookUp](https://learnwithlookup.com/share/index.html?word=haywire&definition=erratic&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoYXl3aXJlIiwiZGVmaW5pdGlvbiI6ImVycmF0aWMifQ%3D%3D)
+Adjective
+1.	Informal erratic; out of control
+her imagination had gone haywire
+
+## Thesaurus
+Adjective
+1.	a bug that makes computers go haywire
+
+Similar Words: 	out of control    out of order    erratic    faulty    not functioning properly    chaotic    confused    crazy    wild    disorganized    disordered    topsy-turvy    on the blink    shambolic    up the spout    wonky
+
+Opposites: 	in order    under control
+# hegemony
+
+
+## Noun
+
+1. the dominance or leadership of one social group or nation over others; “the hegemony of a single member state is not incompatible with a genuine confederation”; “to say they have priority is not to say they have complete hegemony”; “the consolidation of the United States’ hegemony over a new international economic system”
+	- Less specific
+		- political system
+		- form of government
+
+
+# hegemony
+
+
+## Noun
+
+1. the dominance or leadership of one social group or nation over others; “the hegemony of a single member state is not incompatible with a genuine confederation”; “to say they have priority is not to say they have complete hegemony”; “the consolidation of the United States’ hegemony over a new international economic system”
+	- Less specific
+		- political system
+		- form of government
+
+
 # henceforward
 
 
@@ -2021,7 +16861,54 @@ A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/Haggar
 		- henceforth
 
 
-===
+# henceforward
+
+
+## Adverb
+
+1. from this time forth; from now on; “henceforth she will be known as Mrs. Smith”
+	- Synonyms
+		- henceforth
+
+
+# hermitage
+
+
+## Noun
+
+1. the abode of a hermit
+	- Less specific
+		- dwelling
+		- home
+		- domicile
+		- abode
+		- habitation
+		- dwelling house
+
+“[Hermitage (religious retreat)](https://en.wikipedia.org/wiki/Hermitage_(religious_retreat))” - *Wikipedia*
+
+A hermitage most authentically refers to a place where a hermit lives in seclusion from the world, or a building or settlement where a person or a group of people lived religiously, in seclusion. Particularly as a name or part of the name of properties its meaning is often imprecise, harking to a distant period of local history, components of the building material, or recalling any former sanctuary or holy place. Secondary churches or establishments run from a monastery were often called "hermitages".
+
+In the 18th century, some owners of English country houses adorned their gardens with a "hermitage", sometimes a Gothic ruin, but sometimes, as at Painshill Park, a romantic hut which a "hermit" was recruited to occupy. The so-called Ermita de San Pelayo y San Isidoro is the ruins of a Romanesque church of Ávila, Spain that ended up several hundred miles away, to feature in the Buen Retiro Park in Madrid.
+# hermitage
+
+
+## Noun
+
+1. the abode of a hermit
+	- Less specific
+		- dwelling
+		- home
+		- domicile
+		- abode
+		- habitation
+		- dwelling house
+
+“[Hermitage (religious retreat)](https://en.wikipedia.org/wiki/Hermitage_(religious_retreat))” - *Wikipedia*
+
+A hermitage most authentically refers to a place where a hermit lives in seclusion from the world, or a building or settlement where a person or a group of people lived religiously, in seclusion. Particularly as a name or part of the name of properties its meaning is often imprecise, harking to a distant period of local history, components of the building material, or recalling any former sanctuary or holy place. Secondary churches or establishments run from a monastery were often called "hermitages".
+
+In the 18th century, some owners of English country houses adorned their gardens with a "hermitage", sometimes a Gothic ruin, but sometimes, as at Painshill Park, a romantic hut which a "hermit" was recruited to occupy. The so-called Ermita de San Pelayo y San Isidoro is the ruins of a Romanesque church of Ávila, Spain that ended up several hundred miles away, to feature in the Buen Retiro Park in Madrid.
 # hew
 
 
@@ -2049,7 +16936,913 @@ A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/Haggar
 		- hewer
 
 
-===
+# hew
+
+
+## Verb
+
+1. make or shape as with an axe; “hew out a path in the rock”
+	- Synonyms
+		- hew out
+	- Less specific
+		- carve
+	- More specific
+		- rough-hew
+		- roughcast
+	- Related
+		- hewer
+2. strike with an axe; cut down, strike; “hew an oak”
+	- Less specific
+		- strike
+	- More specific
+		- snag
+	- See also
+		- hew
+		- hew out
+	- Related
+		- hewer
+
+
+# hexa-core
+
+
+When referring to computer processors, hexa-core is a term used to describe a multi-core CPU containing six cores.
+# hexa-core
+
+
+When referring to computer processors, hexa-core is a term used to describe a multi-core CPU containing six cores.
+# hie
+
+
+## Verb
+
+1. move hurridly; “He rushed down the hall to receive his guests”; “The cars raced down the street”
+	- Synonyms
+		- rush
+		- hotfoot
+		- hasten
+		- speed
+		- race
+		- pelt along
+		- rush along
+		- cannonball along
+		- bucket along
+		- belt along
+		- step on it
+	- Antonyms
+		- linger
+		- dawdle
+	- Less specific
+		- travel
+		- go
+		- move
+		- locomote
+	- More specific
+		- barge
+		- thrust ahead
+		- push forward
+		- tear
+		- shoot
+		- shoot down
+		- charge
+		- buck
+		- dart
+		- dash
+		- scoot
+		- scud
+		- flash
+		- shoot
+	- See also
+		- accelerate
+		- speed up
+		- speed
+		- quicken
+	- Related
+		- speed
+		- velocity
+		- speed
+		- swiftness
+		- fastness
+		- speed
+		- speeding
+		- hurrying
+		- haste
+		- hurry
+		- rush
+		- rushing
+		- haste
+		- hurry
+		- rush
+		- rushing
+
+
+# hie
+
+
+## Verb
+
+1. move hurridly; “He rushed down the hall to receive his guests”; “The cars raced down the street”
+	- Synonyms
+		- rush
+		- hotfoot
+		- hasten
+		- speed
+		- race
+		- pelt along
+		- rush along
+		- cannonball along
+		- bucket along
+		- belt along
+		- step on it
+	- Antonyms
+		- linger
+		- dawdle
+	- Less specific
+		- travel
+		- go
+		- move
+		- locomote
+	- More specific
+		- barge
+		- thrust ahead
+		- push forward
+		- tear
+		- shoot
+		- shoot down
+		- charge
+		- buck
+		- dart
+		- dash
+		- scoot
+		- scud
+		- flash
+		- shoot
+	- See also
+		- accelerate
+		- speed up
+		- speed
+		- quicken
+	- Related
+		- speed
+		- velocity
+		- speed
+		- swiftness
+		- fastness
+		- speed
+		- speeding
+		- hurrying
+		- haste
+		- hurry
+		- rush
+		- rushing
+		- haste
+		- hurry
+		- rush
+		- rushing
+
+
+# hoary
+
+
+## Adjective
+
+1. showing characteristics of age, especially having grey or white hair; “whose beard with age is hoar”-Coleridge; “nodded his hoary head”
+	- Synonyms
+		- grey
+		- gray
+		- grey-haired
+		- gray-haired
+		- grey-headed
+		- gray-headed
+		- grizzly
+		- hoar
+		- white-haired
+	- Similar to
+		- old
+	- Related
+		- frostiness
+		- hoariness
+		- hoariness
+		- grizzle
+2. ancient; “hoary jokes”
+	- Synonyms
+		- rusty
+	- Similar to
+		- old
+3. covered with fine whitish hairs or down
+	- Synonyms
+		- canescent
+	- Similar to
+		- hairy
+		- haired
+		- hirsute
+	- Topic Members
+		- biology
+		- biological science
+
+- [**hoary** - LookUp](https://learnwithlookup.com/share/index.html?word=hoary&definition=greyish-white&data=eyJpbWFnZSI6IiIsIndvcmQiOiJob2FyeSIsImRlZmluaXRpb24iOiJncmV5aXNoLXdoaXRlIn0%3D)
+Adjective
+1.	grayish white
+hoary cobwebs
+
+(of a person) having gray or white hair; aged
+a hoary old fellow with a face of white stubble
+
+Zoology Botany [attributive] used in names of animals and plants covered with whitish fur or short hairs, e.g. hoary bat, hoary cress.
+
+2.	old and trite
+that hoary American notion that bigger is better
+
+## Thesaurus 
+
+Adjective
+1.	majestic old oaks and hoary willows
+
+Similar Words: 	greyish white    grey    white    silver    silvery    frost-covered    frosty    rimy
+
+2.	he began to think of himself as a hoary ancient
+
+Similar Words: 	elderly    aged    old    getting on    ancient    venerable    long in the tooth    of an advanced age    advanced in years    grey-haired    white-haired    silver-haired    silvery-haired    grizzled    grizzly    past it    over the hill    longevous    senescent
+
+Opposites: 	young
+
+3.	the hoary old adage often used by Fleet Street editors
+
+Similar Words: 	trite    hackneyed    clichéd    banal    platitudinous    vapid    ordinary    commonplace    common    stock    conventional    stereotyped    predictable    overused    overdone    overworked    stale    worn out    time-worn    tired    threadbare    hack    unimaginative    unoriginal    derivative    uninspired    prosaic    routine    pedestrian    run-of-the-mill    old hat    corny    hacky    played out    cornball    dime-store    truistic    bromidic
+
+Opposites: 	original
+# hoary
+
+
+## Adjective
+
+1. showing characteristics of age, especially having grey or white hair; “whose beard with age is hoar”-Coleridge; “nodded his hoary head”
+	- Synonyms
+		- grey
+		- gray
+		- grey-haired
+		- gray-haired
+		- grey-headed
+		- gray-headed
+		- grizzly
+		- hoar
+		- white-haired
+	- Similar to
+		- old
+	- Related
+		- frostiness
+		- hoariness
+		- hoariness
+		- grizzle
+2. ancient; “hoary jokes”
+	- Synonyms
+		- rusty
+	- Similar to
+		- old
+3. covered with fine whitish hairs or down
+	- Synonyms
+		- canescent
+	- Similar to
+		- hairy
+		- haired
+		- hirsute
+	- Topic Members
+		- biology
+		- biological science
+
+- [**hoary** - LookUp](https://learnwithlookup.com/share/index.html?word=hoary&definition=greyish-white&data=eyJpbWFnZSI6IiIsIndvcmQiOiJob2FyeSIsImRlZmluaXRpb24iOiJncmV5aXNoLXdoaXRlIn0%3D)
+Adjective
+1.	grayish white
+hoary cobwebs
+
+(of a person) having gray or white hair; aged
+a hoary old fellow with a face of white stubble
+
+Zoology Botany [attributive] used in names of animals and plants covered with whitish fur or short hairs, e.g. hoary bat, hoary cress.
+
+2.	old and trite
+that hoary American notion that bigger is better
+
+## Thesaurus 
+
+Adjective
+1.	majestic old oaks and hoary willows
+
+Similar Words: 	greyish white    grey    white    silver    silvery    frost-covered    frosty    rimy
+
+2.	he began to think of himself as a hoary ancient
+
+Similar Words: 	elderly    aged    old    getting on    ancient    venerable    long in the tooth    of an advanced age    advanced in years    grey-haired    white-haired    silver-haired    silvery-haired    grizzled    grizzly    past it    over the hill    longevous    senescent
+
+Opposites: 	young
+
+3.	the hoary old adage often used by Fleet Street editors
+
+Similar Words: 	trite    hackneyed    clichéd    banal    platitudinous    vapid    ordinary    commonplace    common    stock    conventional    stereotyped    predictable    overused    overdone    overworked    stale    worn out    time-worn    tired    threadbare    hack    unimaginative    unoriginal    derivative    uninspired    prosaic    routine    pedestrian    run-of-the-mill    old hat    corny    hacky    played out    cornball    dime-store    truistic    bromidic
+
+Opposites: 	original
+# holler
+
+
+## Noun
+
+1. a very loud utterance (like the sound of an animal); “his bellow filled the hallway”
+	- Synonyms
+		- bellow
+		- bellowing
+		- holla
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+	- Less specific
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+	- Related
+		- howl
+		- wrawl
+		- yammer
+		- yowl
+		- yowl
+		- caterwaul
+		- bellow
+		- roar
+		- thunder
+		- roar
+		- howl
+		- ululate
+		- wail
+		- roar
+		- yawl
+		- yaup
+		- roar
+		- howl
+		- howl
+		- ululate
+		- wail
+		- roar
+		- yawl
+		- yaup
+		- thunder
+		- roar
+		- hollo
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- holler
+		- hollo
+		- squall
+		- holler
+		- holler out
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- holler
+		- hollo
+		- squall
+		- holler
+		- holler out
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- holler
+		- hollo
+		- squall
+		- bellow
+		- roar
+		- bawl
+		- bellow
+		- bellow
+		- roar
+		- bawl
+		- bellow
+2. a small valley between mountains; “he built himself a cabin in a hollow high up in the Appalachians”
+	- Synonyms
+		- hollow
+	- Less specific
+		- valley
+		- vale
+	- More specific
+		- dell
+		- dingle
+	- Related
+		- hollow
+
+## Verb
+
+1. shout out; “He hollered out to surrender our weapons”
+	- Synonyms
+		- holler out
+	- Less specific
+		- shout
+	- Related
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+2. utter a sudden loud cry; “she cried with pain when the doctor inserted the needle”; “I yelled to her from the window but she couldn’t hear me”
+	- Synonyms
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- hollo
+		- squall
+	- Less specific
+		- utter
+		- emit
+		- let out
+		- let loose
+	- More specific
+		- hollo
+		- hurrah
+		- halloo
+		- whoop
+		- shriek
+		- shrill
+		- pipe up
+		- pipe
+		- howl
+		- ululate
+		- wail
+		- roar
+		- yawl
+		- yaup
+		- squawk
+		- screak
+		- skreak
+		- skreigh
+		- screech
+	- See also
+		- call out
+		- exclaim
+		- cry
+		- cry out
+		- outcry
+		- call out
+		- shout
+	- Related
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- scream
+		- screaming
+		- shriek
+		- shrieking
+		- screech
+		- screeching
+		- screamer
+		- scream
+		- screaming
+		- shriek
+		- shrieking
+		- screech
+		- screeching
+		- cry
+		- yell
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- yelling
+		- shouting
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- cry
+		- yell
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- yelling
+		- shouting
+3. complain; “What was he hollering about?”
+	- Synonyms
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- crab
+		- crabby person
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+
+
+# holler
+
+
+## Noun
+
+1. a very loud utterance (like the sound of an animal); “his bellow filled the hallway”
+	- Synonyms
+		- bellow
+		- bellowing
+		- holla
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+	- Less specific
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+	- Related
+		- howl
+		- wrawl
+		- yammer
+		- yowl
+		- yowl
+		- caterwaul
+		- bellow
+		- roar
+		- thunder
+		- roar
+		- howl
+		- ululate
+		- wail
+		- roar
+		- yawl
+		- yaup
+		- roar
+		- howl
+		- howl
+		- ululate
+		- wail
+		- roar
+		- yawl
+		- yaup
+		- thunder
+		- roar
+		- hollo
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- holler
+		- hollo
+		- squall
+		- holler
+		- holler out
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- holler
+		- hollo
+		- squall
+		- holler
+		- holler out
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- holler
+		- hollo
+		- squall
+		- bellow
+		- roar
+		- bawl
+		- bellow
+		- bellow
+		- roar
+		- bawl
+		- bellow
+2. a small valley between mountains; “he built himself a cabin in a hollow high up in the Appalachians”
+	- Synonyms
+		- hollow
+	- Less specific
+		- valley
+		- vale
+	- More specific
+		- dell
+		- dingle
+	- Related
+		- hollow
+
+## Verb
+
+1. shout out; “He hollered out to surrender our weapons”
+	- Synonyms
+		- holler out
+	- Less specific
+		- shout
+	- Related
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+2. utter a sudden loud cry; “she cried with pain when the doctor inserted the needle”; “I yelled to her from the window but she couldn’t hear me”
+	- Synonyms
+		- shout
+		- shout out
+		- cry
+		- call
+		- yell
+		- scream
+		- hollo
+		- squall
+	- Less specific
+		- utter
+		- emit
+		- let out
+		- let loose
+	- More specific
+		- hollo
+		- hurrah
+		- halloo
+		- whoop
+		- shriek
+		- shrill
+		- pipe up
+		- pipe
+		- howl
+		- ululate
+		- wail
+		- roar
+		- yawl
+		- yaup
+		- squawk
+		- screak
+		- skreak
+		- skreigh
+		- screech
+	- See also
+		- call out
+		- exclaim
+		- cry
+		- cry out
+		- outcry
+		- call out
+		- shout
+	- Related
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- bellow
+		- bellowing
+		- holla
+		- holler
+		- hollering
+		- hollo
+		- holloa
+		- roar
+		- roaring
+		- yowl
+		- scream
+		- screaming
+		- shriek
+		- shrieking
+		- screech
+		- screeching
+		- screamer
+		- scream
+		- screaming
+		- shriek
+		- shrieking
+		- screech
+		- screeching
+		- cry
+		- yell
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- yelling
+		- shouting
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- cry
+		- yell
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- cry
+		- outcry
+		- call
+		- yell
+		- shout
+		- vociferation
+		- yelling
+		- shouting
+3. complain; “What was he hollering about?”
+	- Synonyms
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- crab
+		- crabby person
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+
+
 # homunculus
 
 
@@ -2071,13 +17864,173 @@ A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/Haggar
 		- soul
 
 [homunculus](drafts://open?uuid=BF3AB34D-9CC5-40B9-819D-31974293D7A7)
-===
+# homunculus
+
+
+## Noun
+
+1. a person who is very small but who is not otherwise deformed or abnormal
+	- Synonyms
+		- manikin
+		- mannikin
+	- Less specific
+		- small person
+2. a tiny fully formed individual that (according to the discredited theory of preformation) is supposed to be present in the sperm cell
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+
+[homunculus](drafts://open?uuid=BF3AB34D-9CC5-40B9-819D-31974293D7A7)
+# How I Maintain a Vocabulary List in Drafts with Terminology
+Updated `10042022-161805`
+
+- [**The Psalms**](https://bilge.world/drafts-terminology-vocabulary)
+- [GitHub Issue](https://github.com/extratone/bilge/issues/324)
+- [WTF](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html)
+- [Vocabulary Index shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d)
+- [Lookup in Terminology action](https://directory.getdrafts.com/a/1CS)
+- [LookUp Tweet](https://twitter.com/NeoYokel/status/1477323450549219328)
+- [Drafts ⇨ Terminology ⇨ Drafts Custom Terms Workflow](https://imgur.com/gallery/Q04Kxrg)
+- [Video Demo](https://user-images.githubusercontent.com/43663476/165031796-5df78c01-faee-4fd4-84d0-f0bf95fd383f.MOV)
+- [Telegraph](https://telegra.ph/How-I-Maintain-a-Vocabulary-List-in-Drafts-with-Terminology-05-03)
+- [Medium](https://extratone.medium.com/drafts-terminology-vocabulary-25d243340036)
+
+---
+
+# How I Maintain a Vocabulary List in Drafts with Terminology
+
+![Terminology URL Scheme and Vocabulary Workspace](https://i.snap.as/EQ4GSUGH.png)
+
+<!--more-->
+
+As I wrote in [my app store review of Terminology](https://tilde.town/~extratone/appreviews/terminology) (which is not shown publicly, I’ve since learned,) I prefer it over popular dictionary apps like [LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) (which I also have and use regularly) because it allows me to *add new terms* that don’t show up in search results. Somehow, the idea that one might store words that don’t necessarily appear in any dictionary seems a foreign one to the creators of LookUp, which I’ve since found out to be the cause of [its Siri Shortcuts actions failing on me](https://twitter.com/NeoYokel/status/1477323450549219328).
+
+https://twitter.com/NeoYokel/status/1477323450549219328
+
+[Terminology](https://apps.apple.com/us/app/terminology-dictionary/id687798859) *does* support adding “custom” terms, if unintentionally, through its “notes” function. Because it’s related to Drafts (they’re from the same creator,) it was quite easy to “integrate” the two in order to form the workflow you see demonstrated in [the video below](https://user-images.githubusercontent.com/43663476/165031796-5df78c01-faee-4fd4-84d0-f0bf95fd383f.MOV).
+
+https://imgur.com/gallery/Q04Kxrg
+
+First, I use the [Lookup in Terminology action](https://directory.getdrafts.com/a/1CS) paired with a keyboard shortcut (`^⇧D`) in Drafts to search a selected word in Terminology. There, I “like” the word and - if needed - add a definition via the notes button (immediately to the left of the heart in the upper right corner.) I’ve configured a custom button - “[Drafts-definition](terminology://x-callback-url/importAction?name=Drafts-definition&shortName=Drafts&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Drafts&urlTemplate=drafts://create?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D&dispatchType=0
+terminology://x-callback-url/importAction?name=Drafts-definition&shortName=Drafts&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Drafts&urlTemplate=drafts://create?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D&dispatchType=0)” - (which you should be able to import with that hyperlink) that sends the term *including its notes* back to Drafts with the following configuration:
+
+```
+drafts://create?text=[[definitions]]%0A[[note]]
+```
+
+That button results in a new Draft in a specific format, demonstrated by this example:
+
+![Antagonistic Vocabulary Draft Example](https://i.snap.as/K0adnLf5.png)
+
+I then manually add the “Vocabulary” tag to the Draft, completing the process and placing it within the parameters defined by [my Vocabulary workspace](https://directory.getdrafts.com/w/1zN), which shows only drafts with that tag, sorted alphabetically.
+
+## Publication
+
+For the past few weeks, I’ve been wreaking havoc on NeoCities’ global activity feed using [the action group I created](https://bilge.world/using-drafts-with-neocities) on [the /drafts directory](https://davidblue.wtf/drafts) of davidblue dot wtf. Specifically, the action that uploads HTML files to that directory named by the UUID of the draft. (Here’s [the corresponding link for this post](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html), for example.) With consequent [draft_open_urls](https://docs.getdrafts.com/docs/actions/templates#identifier-tags) left in the footer of each as per my current, more or less universal [HTML template](https://tilde.town/~extratone/template/1.4.txt), I’m able to immediately open the appropriate draft locally. 
+
+![Vocabulary Index Shortcut](https://i.snap.as/2npm338t.png)
+
+In order to maintain [an updated index](https://davidblue.wtf/vocabulary) of the whole list, I’ve created [a Siri Shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d) which transforms the UUIDs of the drafts in the vocabulary workspace into markdown-formatted hyperlinks of their web-dwelling counterparts.
+
+![Terminology Favorites List](https://i.snap.as/D8GtXEd3.png)
+
+Even if you’ve no intention of publishing your personal vocabulary - or integrating it with Drafts - Terminology is still the dictionary app I’d recommend over any others.
+
+<!--comment-->
+
+#configuration #software #automation
+# How I Maintain a Vocabulary List in Drafts with Terminology
+Updated `10042022-161805`
+
+- [**The Psalms**](https://bilge.world/drafts-terminology-vocabulary)
+- [GitHub Issue](https://github.com/extratone/bilge/issues/324)
+- [WTF](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html)
+- [Vocabulary Index shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d)
+- [Lookup in Terminology action](https://directory.getdrafts.com/a/1CS)
+- [LookUp Tweet](https://twitter.com/NeoYokel/status/1477323450549219328)
+- [Drafts ⇨ Terminology ⇨ Drafts Custom Terms Workflow](https://imgur.com/gallery/Q04Kxrg)
+- [Video Demo](https://user-images.githubusercontent.com/43663476/165031796-5df78c01-faee-4fd4-84d0-f0bf95fd383f.MOV)
+- [Telegraph](https://telegra.ph/How-I-Maintain-a-Vocabulary-List-in-Drafts-with-Terminology-05-03)
+- [Medium](https://extratone.medium.com/drafts-terminology-vocabulary-25d243340036)
+
+---
+
+# How I Maintain a Vocabulary List in Drafts with Terminology
+
+![Terminology URL Scheme and Vocabulary Workspace](https://i.snap.as/EQ4GSUGH.png)
+
+<!--more-->
+
+As I wrote in [my app store review of Terminology](https://tilde.town/~extratone/appreviews/terminology) (which is not shown publicly, I’ve since learned,) I prefer it over popular dictionary apps like [LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) (which I also have and use regularly) because it allows me to *add new terms* that don’t show up in search results. Somehow, the idea that one might store words that don’t necessarily appear in any dictionary seems a foreign one to the creators of LookUp, which I’ve since found out to be the cause of [its Siri Shortcuts actions failing on me](https://twitter.com/NeoYokel/status/1477323450549219328).
+
+https://twitter.com/NeoYokel/status/1477323450549219328
+
+[Terminology](https://apps.apple.com/us/app/terminology-dictionary/id687798859) *does* support adding “custom” terms, if unintentionally, through its “notes” function. Because it’s related to Drafts (they’re from the same creator,) it was quite easy to “integrate” the two in order to form the workflow you see demonstrated in [the video below](https://user-images.githubusercontent.com/43663476/165031796-5df78c01-faee-4fd4-84d0-f0bf95fd383f.MOV).
+
+https://imgur.com/gallery/Q04Kxrg
+
+First, I use the [Lookup in Terminology action](https://directory.getdrafts.com/a/1CS) paired with a keyboard shortcut (`^⇧D`) in Drafts to search a selected word in Terminology. There, I “like” the word and - if needed - add a definition via the notes button (immediately to the left of the heart in the upper right corner.) I’ve configured a custom button - “[Drafts-definition](terminology://x-callback-url/importAction?name=Drafts-definition&shortName=Drafts&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Drafts&urlTemplate=drafts://create?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D&dispatchType=0
+terminology://x-callback-url/importAction?name=Drafts-definition&shortName=Drafts&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Drafts&urlTemplate=drafts://create?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D&dispatchType=0)” - (which you should be able to import with that hyperlink) that sends the term *including its notes* back to Drafts with the following configuration:
+
+```
+drafts://create?text=[[definitions]]%0A[[note]]
+```
+
+That button results in a new Draft in a specific format, demonstrated by this example:
+
+![Antagonistic Vocabulary Draft Example](https://i.snap.as/K0adnLf5.png)
+
+I then manually add the “Vocabulary” tag to the Draft, completing the process and placing it within the parameters defined by [my Vocabulary workspace](https://directory.getdrafts.com/w/1zN), which shows only drafts with that tag, sorted alphabetically.
+
+## Publication
+
+For the past few weeks, I’ve been wreaking havoc on NeoCities’ global activity feed using [the action group I created](https://bilge.world/using-drafts-with-neocities) on [the /drafts directory](https://davidblue.wtf/drafts) of davidblue dot wtf. Specifically, the action that uploads HTML files to that directory named by the UUID of the draft. (Here’s [the corresponding link for this post](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html), for example.) With consequent [draft_open_urls](https://docs.getdrafts.com/docs/actions/templates#identifier-tags) left in the footer of each as per my current, more or less universal [HTML template](https://tilde.town/~extratone/template/1.4.txt), I’m able to immediately open the appropriate draft locally. 
+
+![Vocabulary Index Shortcut](https://i.snap.as/2npm338t.png)
+
+In order to maintain [an updated index](https://davidblue.wtf/vocabulary) of the whole list, I’ve created [a Siri Shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d) which transforms the UUIDs of the drafts in the vocabulary workspace into markdown-formatted hyperlinks of their web-dwelling counterparts.
+
+![Terminology Favorites List](https://i.snap.as/D8GtXEd3.png)
+
+Even if you’ve no intention of publishing your personal vocabulary - or integrating it with Drafts - Terminology is still the dictionary app I’d recommend over any others.
+
+<!--comment-->
+
+#configuration #software #automation
 # huffcap
 
 
 Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 -[@HaggardHawks](https://twitter.com/HaggardHawks/status/1503627053253505034)
-===
+# huffcap
+
+
+Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1503627053253505034)
+# hundredfold
+
+
+## Adverb
+
+1. by a factor of one hundred; “they money increased a hundredfold”
+	- Synonyms
+		- a hundred times
+
+
+# hundredfold
+
+
+## Adverb
+
+1. by a factor of one hundred; “they money increased a hundredfold”
+	- Synonyms
+		- a hundred times
+
+
 # hyperbole
 
 
@@ -2110,7 +18063,362 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- amplify
 
 
-===
+# hyperbole
+
+
+## Noun
+
+1. extravagant exaggeration
+	- Synonyms
+		- exaggeration
+	- Less specific
+		- trope
+		- figure of speech
+		- figure
+		- image
+	- Related
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+		- hyperbolic
+		- inflated
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+
+
+# hyperbole
+
+
+## Noun
+
+1. extravagant exaggeration
+	- Synonyms
+		- exaggeration
+	- Less specific
+		- trope
+		- figure of speech
+		- figure
+		- image
+	- Related
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+		- hyperbolic
+		- inflated
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=hyperbole&definition=exaggerated%2520statements%2520or%2520claims%2520not%2520meant%2520to%2520be%2520taken%2520literally&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoeXBlcmJvbGUiLCJkZWZpbml0aW9uIjoiZXhhZ2dlcmF0ZWQgc3RhdGVtZW50cyBvciBjbGFpbXMgbm90IG1lYW50IHRvIGJlIHRha2VuIGxpdGVyYWxseSJ9)
+Noun
+1.	Rhetoric exaggerated statements or claims not meant to be taken literally
+he vowed revenge with oaths and hyperboles | you can't accuse us of hyperbole
+# hyperbole
+
+
+## Noun
+
+1. extravagant exaggeration
+	- Synonyms
+		- exaggeration
+	- Less specific
+		- trope
+		- figure of speech
+		- figure
+		- image
+	- Related
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+		- hyperbolic
+		- inflated
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+
+[LookUp](https://learnwithlookup.com/share/index.html?word=hyperbole&definition=exaggerated%2520statements%2520or%2520claims%2520not%2520meant%2520to%2520be%2520taken%2520literally&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoeXBlcmJvbGUiLCJkZWZpbml0aW9uIjoiZXhhZ2dlcmF0ZWQgc3RhdGVtZW50cyBvciBjbGFpbXMgbm90IG1lYW50IHRvIGJlIHRha2VuIGxpdGVyYWxseSJ9)
+Noun
+1.	Rhetoric exaggerated statements or claims not meant to be taken literally
+he vowed revenge with oaths and hyperboles | you can't accuse us of hyperbole
+# hypnagogic
+
+![hypnagogic LookUp](https://i.snap.as/Ua8V0uVG.png)
+
+
+## Adjective
+
+1. sleep inducing
+	- Synonyms
+		- soporific
+		- soporiferous
+		- somniferous
+		- somnific
+		- hypnogogic
+	- Similar to
+		- depressant
+	- Related
+		- soporific
+		- hypnotic
+
+*From LookUp*:
+Adjective
+1.	Psychology Physiology relating to the state immediately before falling asleep.
+# hypnagogic
+
+![hypnagogic LookUp](https://i.snap.as/Ua8V0uVG.png)
+
+
+## Adjective
+
+1. sleep inducing
+	- Synonyms
+		- soporific
+		- soporiferous
+		- somniferous
+		- somnific
+		- hypnogogic
+	- Similar to
+		- depressant
+	- Related
+		- soporific
+		- hypnotic
+
+*From LookUp*:
+Adjective
+1.	Psychology Physiology relating to the state immediately before falling asleep.
+# hypomnestic
+
+
+Something that is HYPOMNESTIC causes you to remember something.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1513553179455201282)
+# hypomnestic
+
+
+Something that is HYPOMNESTIC causes you to remember something.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1513553179455201282)
+# iconographic cannibalism
+
+
+iconographic cannibalism
+
+`2022.03.22 20:15` T - [bx](https://tilde.town/~bx/)
+as far as im aware "iconographic cannibalism" is a phrase
+that im gur first to put into use, i came up with it to
+describe a specific phenomenon where i dont want to eat
+things that looks too much like inocent or other wise joy
+filled human beings, this includes ginger bread people,
+some kinds of cake(m&s sells one that looks like a plump
+anropomorphised catipillar named collin) and also gur
+licorice allsort that looks like gur mascot, which is
+just a person shaped collection of licorice allsorts (and
+in gur actual pack its a smaller piece of single licorice
+shaped gur same way).
+
+ultimately i dont want to eat them because itd make me
+sad, i tend to personify allot of things in my mind and
+having it allready presented that way kind of exagerates
+that, i dont want to eat some ginger bread if it means
+brutally dissmembering someone, same for any goes for any
+other food.
+
+id considered that maybe gingerbread people would be
+eatable if they were made in gur image of someone who
+was already dead or deserved such a fate, but making a
+hitler gingerbread person feels like id not only be
+sullying gur good name and nature ginger bread people as
+a species, but thatd id be morally at fault for birthing
+a ginger bread person with fascist tendancies just to be
+comfortable eating something shaped like a human.
+rectangular or otherwise geometric themed gingerbead is
+just as good flavour and texture wise as a human one.
+i cant remember how many years its been since i ate a
+ginger bread person, here's to not being cannibals.
+# iconographic cannibalism
+
+
+iconographic cannibalism
+
+`2022.03.22 20:15` T - [bx](https://tilde.town/~bx/)
+as far as im aware "iconographic cannibalism" is a phrase
+that im gur first to put into use, i came up with it to
+describe a specific phenomenon where i dont want to eat
+things that looks too much like inocent or other wise joy
+filled human beings, this includes ginger bread people,
+some kinds of cake(m&s sells one that looks like a plump
+anropomorphised catipillar named collin) and also gur
+licorice allsort that looks like gur mascot, which is
+just a person shaped collection of licorice allsorts (and
+in gur actual pack its a smaller piece of single licorice
+shaped gur same way).
+
+ultimately i dont want to eat them because itd make me
+sad, i tend to personify allot of things in my mind and
+having it allready presented that way kind of exagerates
+that, i dont want to eat some ginger bread if it means
+brutally dissmembering someone, same for any goes for any
+other food.
+
+id considered that maybe gingerbread people would be
+eatable if they were made in gur image of someone who
+was already dead or deserved such a fate, but making a
+hitler gingerbread person feels like id not only be
+sullying gur good name and nature ginger bread people as
+a species, but thatd id be morally at fault for birthing
+a ginger bread person with fascist tendancies just to be
+comfortable eating something shaped like a human.
+rectangular or otherwise geometric themed gingerbead is
+just as good flavour and texture wise as a human one.
+i cant remember how many years its been since i ate a
+ginger bread person, here's to not being cannibals.
+# ideate
+
+
+## Verb
+
+1. form a mental image of something that is not present or that is not the case; “Can you conceive of him as the president?”
+	- Synonyms
+		- imagine
+		- conceive of
+		- envisage
+	- Less specific
+		- create by mental act
+		- create mentally
+	- More specific
+		- visualize
+		- visualise
+		- envision
+		- project
+		- fancy
+		- see
+		- figure
+		- picture
+		- image
+		- visualize
+		- visualise
+		- envision
+		- foresee
+		- fantasize
+		- fantasise
+		- prefigure
+		- think
+		- fantasy
+		- fantasize
+		- fantasise
+		- dream
+		- daydream
+		- woolgather
+		- stargaze
+	- Related
+		- idea
+		- thought
+		- ideation
+		- imaginative
+		- inventive
+		- imagination
+		- imaging
+		- imagery
+		- mental imagery
+		- imagination
+		- imaginativeness
+		- vision
+
+- [**ideate** - LookUp](https://learnwithlookup.com/share/index.html?word=ideate&definition=form%2520idea%2520of&data=eyJpbWFnZSI6IiIsIndvcmQiOiJpZGVhdGUiLCJkZWZpbml0aW9uIjoiZm9ybSBpZGVhIG9mIn0%3D)
+Verb
+1.	Psychology Formal form an idea of; imagine or conceive
+he is part of a team that ideates branding strategies | the arc whose ideated center is a nodal point in the composition
+
+Psychology [no object] form ideas; think.
+
+## Origin
+
+early 17th century: from medieval Latin ideat- ‘formed as an idea’, from the verb ideare, from Latin idea (see idea)
+# ideate
+
+
+## Verb
+
+1. form a mental image of something that is not present or that is not the case; “Can you conceive of him as the president?”
+	- Synonyms
+		- imagine
+		- conceive of
+		- envisage
+	- Less specific
+		- create by mental act
+		- create mentally
+	- More specific
+		- visualize
+		- visualise
+		- envision
+		- project
+		- fancy
+		- see
+		- figure
+		- picture
+		- image
+		- visualize
+		- visualise
+		- envision
+		- foresee
+		- fantasize
+		- fantasise
+		- prefigure
+		- think
+		- fantasy
+		- fantasize
+		- fantasise
+		- dream
+		- daydream
+		- woolgather
+		- stargaze
+	- Related
+		- idea
+		- thought
+		- ideation
+		- imaginative
+		- inventive
+		- imagination
+		- imaging
+		- imagery
+		- mental imagery
+		- imagination
+		- imaginativeness
+		- vision
+
+- [**ideate** - LookUp](https://learnwithlookup.com/share/index.html?word=ideate&definition=form%2520idea%2520of&data=eyJpbWFnZSI6IiIsIndvcmQiOiJpZGVhdGUiLCJkZWZpbml0aW9uIjoiZm9ybSBpZGVhIG9mIn0%3D)
+Verb
+1.	Psychology Formal form an idea of; imagine or conceive
+he is part of a team that ideates branding strategies | the arc whose ideated center is a nodal point in the composition
+
+Psychology [no object] form ideas; think.
+
+## Origin
+
+early 17th century: from medieval Latin ideat- ‘formed as an idea’, from the verb ideare, from Latin idea (see idea)
 # idiom
 
 
@@ -2187,7 +18495,82 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- idiomatical
 
 
-===
+# idiom
+
+
+## Noun
+
+1. a manner of speaking that is natural to native speakers of a language
+	- Synonyms
+		- parlance
+	- Less specific
+		- formulation
+		- expression
+	- Related
+		- idiomatic
+		- idiomatical
+		- idiomatic
+		- idiomatical
+2. the usage or vocabulary that is characteristic of a specific group of people; “the immigrants spoke an odd dialect of English”; “he has a strong German accent”; “it has been said that a language is a dialect with an army and navy”
+	- Synonyms
+		- dialect
+		- accent
+	- Less specific
+		- non-standard speech
+	- More specific
+		- eye dialect
+		- patois
+	- Related
+		- stress
+		- accent
+		- accentuate
+		- dialectal
+3. the style of a particular artist or school or movement; “an imaginative orchestral idiom”
+	- Synonyms
+		- artistic style
+	- Less specific
+		- manner
+		- mode
+		- style
+		- way
+		- fashion
+	- More specific
+		- baroque
+		- baroqueness
+		- classical style
+		- order
+		- rococo
+		- High Renaissance
+		- treatment
+		- neoclassicism
+		- classicism
+		- classicalism
+		- Romanticism
+		- Romantic Movement
+4. an expression whose meanings cannot be inferred from the meanings of the words that make it up
+	- Synonyms
+		- idiomatic expression
+		- phrasal idiom
+		- set phrase
+		- phrase
+	- Less specific
+		- saying
+		- expression
+		- locution
+	- More specific
+		- ruralism
+		- rusticism
+	- Related
+		- phrasal
+		- give voice
+		- formulate
+		- word
+		- phrase
+		- articulate
+		- idiomatic
+		- idiomatical
+
+
 # idiomatic
 
 
@@ -2213,7 +18596,31 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- phrase
 
 
-===
+# idiomatic
+
+
+## Adjective
+
+1. of or relating to or conforming to idiom; “idiomatic English”
+	- Synonyms
+		- idiomatical
+	- Pertains to
+		- parlance
+		- idiom
+		- parlance
+		- idiom
+	- Related
+		- parlance
+		- idiom
+		- parlance
+		- idiom
+		- idiom
+		- idiomatic expression
+		- phrasal idiom
+		- set phrase
+		- phrase
+
+
 # impecunious
 
 
@@ -2245,7 +18652,173 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- penuriousness
 
 
-===
+# impecunious
+
+
+## Adjective
+
+1. not having enough money to pay for necessities
+	- Synonyms
+		- hard up
+		- in straitened circumstances
+		- penniless
+		- penurious
+		- pinched
+	- Similar to
+		- poor
+	- Related
+		- indigence
+		- need
+		- penury
+		- pauperism
+		- pauperization
+		- impecuniousness
+		- pennilessness
+		- penuriousness
+		- impecuniousness
+		- pennilessness
+		- penuriousness
+		- impecuniousness
+		- pennilessness
+		- penuriousness
+
+
+# impluvious
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To be IMPLUVIOUS is to be soaked with rain.</p>&mdash; Haggard Hawks 🦅 (@HaggardHawks) <a href="https://twitter.com/HaggardHawks/status/1578310380551516161?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+To be IMPLUVIOUS is to be soaked with rain.
+- [HaggardHawks](https://twitter.com/HaggardHawks/status/1578310380551516161)
+# impluvious
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To be IMPLUVIOUS is to be soaked with rain.</p>&mdash; Haggard Hawks 🦅 (@HaggardHawks) <a href="https://twitter.com/HaggardHawks/status/1578310380551516161?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+To be IMPLUVIOUS is to be soaked with rain.
+- [HaggardHawks](https://twitter.com/HaggardHawks/status/1578310380551516161)
+# imprimatur
+
+
+## Noun
+
+1. formal and explicit approval; “a Democrat usually gets the union’s endorsement”
+	- Synonyms
+		- sanction
+		- countenance
+		- endorsement
+		- indorsement
+		- warrant
+	- Less specific
+		- approval
+		- commendation
+	- More specific
+		- O
+		- OK
+		- okay
+		- okey
+		- okeh
+		- visa
+		- nihil obstat
+	- Related
+		- certify
+		- endorse
+		- indorse
+		- certify
+		- endorse
+		- indorse
+		- permit
+		- allow
+		- let
+		- countenance
+		- sanction
+		- approve
+		- O
+		- okay
+		- sanction
+
+
+# imprimatur
+
+
+## Noun
+
+1. formal and explicit approval; “a Democrat usually gets the union’s endorsement”
+	- Synonyms
+		- sanction
+		- countenance
+		- endorsement
+		- indorsement
+		- warrant
+	- Less specific
+		- approval
+		- commendation
+	- More specific
+		- O
+		- OK
+		- okay
+		- okey
+		- okeh
+		- visa
+		- nihil obstat
+	- Related
+		- certify
+		- endorse
+		- indorse
+		- certify
+		- endorse
+		- indorse
+		- permit
+		- allow
+		- let
+		- countenance
+		- sanction
+		- approve
+		- O
+		- okay
+		- sanction
+
+
+# indissoluble
+
+
+## Adjective
+
+1. (of a substance) incapable of being dissolved
+	- Synonyms
+		- insoluble
+	- Antonyms
+		- soluble
+	- Similar to
+		- water-insoluble
+		- non-water-soluble
+	- Related
+		- insolubility
+2. used of decisions and contracts
+	- Similar to
+		- permanent
+		- lasting
+
+
+# indissoluble
+
+
+## Adjective
+
+1. (of a substance) incapable of being dissolved
+	- Synonyms
+		- insoluble
+	- Antonyms
+		- soluble
+	- Similar to
+		- water-insoluble
+		- non-water-soluble
+	- Related
+		- insolubility
+2. used of decisions and contracts
+	- Similar to
+		- permanent
+		- lasting
+
+
 # inexorable
 ## Adjective
 
@@ -2300,12 +18873,848 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- unyieldingness
 
 
-===
+# inexorable
+## Adjective
+
+1. not to be placated or appeased or moved by entreaty; “grim determination”; “grim necessity”; “Russia’s final hour, it seemed, approached with inexorable certainty”; “relentless persecution”; “the stern demands of parenthood”
+	- Synonyms
+		- grim
+		- relentless
+		- stern
+		- unappeasable
+		- unforgiving
+		- unrelenting
+	- Similar to
+		- implacable
+	- Related
+		- sternness
+		- strictness
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- asperity
+		- grimness
+		- hardship
+		- rigor
+		- rigour
+		- severity
+		- severeness
+		- rigorousness
+		- rigourousness
+2. impervious to pleas, persuasion, requests, reason; “he is adamant in his refusal to change his mind”; “Cynthia was inexorable; she would have none of him”- W.Churchill; “an intransigent conservative opposed to every liberal tendency”
+	- Synonyms
+		- adamant
+		- adamantine
+		- intransigent
+	- Similar to
+		- inflexible
+	- Related
+		- intransigency
+		- intransigence
+		- intransigency
+		- intransigence
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- adamance
+		- obduracy
+		- unyieldingness
+
+
+# inimatable
+
+
+*From LookUp*:
+Adjective
+1.	so good or unusual as to be impossible to copy; unique
+the inimitable ambience of Hawaii
+# inimatable
+
+
+*From LookUp*:
+Adjective
+1.	so good or unusual as to be impossible to copy; unique
+the inimitable ambience of Hawaii
+# inimical
+
+
+## Adjective
+
+1. not friendly; “an unfriendly act of aggression”; “an inimical critic”
+	- Synonyms
+		- unfriendly
+	- Similar to
+		- hostile
+	- Related
+		- hostility
+		- enmity
+		- antagonism
+		- hostility
+		- enmity
+		- ill will
+		- unfriendliness
+
+- [**inimical** - LookUp](https://learnwithlookup.com/share/index.html?word=inimical&definition=tending%2520to%2520obstruct%2520or%2520harm&data=eyJpbWFnZSI6IiIsIndvcmQiOiJpbmltaWNhbCIsImRlZmluaXRpb24iOiJ0ZW5kaW5nIHRvIG9ic3RydWN0IG9yIGhhcm0ifQ%3D%3D)
+Adjective
+1.	tending to obstruct or harm
+actions inimical to our interests
+
+unfriendly; hostile
+an inimical alien power
+
+## Origin
+early 16th century: from late Latin inimicalis, from Latin inimicus (see enemy)
+
+## Thesaurus
+Adjective
+1.	actions inimical to our interests
+
+Similar Words: 	harmful    injurious    detrimental    deleterious    pernicious    damaging    hurtful    dangerous    destructive    ruinous    calamitous    antagonistic    contrary    antipathetic    unfavourable    adverse    opposed    hostile    at odds    not conducive    prejudicial    malefic    maleficent
+
+Opposites: 	helpful    advantageous
+
+2.	he fixed her with an inimical gaze
+
+Similar Words: 	hostile    unfriendly    antagonistic    ill-disposed    unkind    unsympathetic    malevolent    malign    inhospitable    unwelcoming    cold    icy    frosty    glacial
+
+Opposites: 	friendly    warm
+# inimical
+
+
+## Adjective
+
+1. not friendly; “an unfriendly act of aggression”; “an inimical critic”
+	- Synonyms
+		- unfriendly
+	- Similar to
+		- hostile
+	- Related
+		- hostility
+		- enmity
+		- antagonism
+		- hostility
+		- enmity
+		- ill will
+		- unfriendliness
+
+- [**inimical** - LookUp](https://learnwithlookup.com/share/index.html?word=inimical&definition=tending%2520to%2520obstruct%2520or%2520harm&data=eyJpbWFnZSI6IiIsIndvcmQiOiJpbmltaWNhbCIsImRlZmluaXRpb24iOiJ0ZW5kaW5nIHRvIG9ic3RydWN0IG9yIGhhcm0ifQ%3D%3D)
+Adjective
+1.	tending to obstruct or harm
+actions inimical to our interests
+
+unfriendly; hostile
+an inimical alien power
+
+## Origin
+early 16th century: from late Latin inimicalis, from Latin inimicus (see enemy)
+
+## Thesaurus
+Adjective
+1.	actions inimical to our interests
+
+Similar Words: 	harmful    injurious    detrimental    deleterious    pernicious    damaging    hurtful    dangerous    destructive    ruinous    calamitous    antagonistic    contrary    antipathetic    unfavourable    adverse    opposed    hostile    at odds    not conducive    prejudicial    malefic    maleficent
+
+Opposites: 	helpful    advantageous
+
+2.	he fixed her with an inimical gaze
+
+Similar Words: 	hostile    unfriendly    antagonistic    ill-disposed    unkind    unsympathetic    malevolent    malign    inhospitable    unwelcoming    cold    icy    frosty    glacial
+
+Opposites: 	friendly    warm
 # injuredly
 
 
 [@breadotop on Twitter](https://twitter.com/breadotop/status/1498369261261053952)
-===
+# injuredly
+
+
+[@breadotop on Twitter](https://twitter.com/breadotop/status/1498369261261053952)
+# innumerable
+
+
+## Adjective
+
+1. too numerous to be counted; “countless hours”; “an infinite number of reasons”; “innumerable difficulties”; “the multitudinous seas”; “myriad stars”
+	- Synonyms
+		- countless
+		- infinite
+		- innumerous
+		- multitudinous
+		- myriad
+		- numberless
+		- uncounted
+		- unnumberable
+		- unnumbered
+		- unnumerable
+	- Similar to
+		- incalculable
+	- Related
+		- myriad
+		- battalion
+		- large number
+		- multitude
+		- plurality
+		- pack
+		- multitudinousness
+		- innumerableness
+		- countlessness
+		- infiniteness
+		- infinitude
+		- unboundedness
+		- boundlessness
+		- limitlessness
+		- innumerableness
+		- countlessness
+# innumerable
+
+
+## Adjective
+
+1. too numerous to be counted; “countless hours”; “an infinite number of reasons”; “innumerable difficulties”; “the multitudinous seas”; “myriad stars”
+	- Synonyms
+		- countless
+		- infinite
+		- innumerous
+		- multitudinous
+		- myriad
+		- numberless
+		- uncounted
+		- unnumberable
+		- unnumbered
+		- unnumerable
+	- Similar to
+		- incalculable
+	- Related
+		- myriad
+		- battalion
+		- large number
+		- multitude
+		- plurality
+		- pack
+		- multitudinousness
+		- innumerableness
+		- countlessness
+		- infiniteness
+		- infinitude
+		- unboundedness
+		- boundlessness
+		- limitlessness
+		- innumerableness
+		- countlessness
+# insidious
+
+
+## Adjective
+
+1. beguiling but harmful; “insidious pleasures”
+	- Similar to
+		- seductive
+	- Related
+		- insidiousness
+2. intended to entrap
+	- Similar to
+		- dangerous
+		- unsafe
+	- Related
+		- insidiousness
+3. working or spreading in a hidden and usually injurious way; “glaucoma is an insidious disease”; “a subtle poison”
+	- Synonyms
+		- pernicious
+		- subtle
+	- Similar to
+		- harmful
+	- Related
+		- perniciousness
+		- toxicity
+		- insidiousness
+
+
+# insidious
+
+
+## Adjective
+
+1. beguiling but harmful; “insidious pleasures”
+	- Similar to
+		- seductive
+	- Related
+		- insidiousness
+2. intended to entrap
+	- Similar to
+		- dangerous
+		- unsafe
+	- Related
+		- insidiousness
+3. working or spreading in a hidden and usually injurious way; “glaucoma is an insidious disease”; “a subtle poison”
+	- Synonyms
+		- pernicious
+		- subtle
+	- Similar to
+		- harmful
+	- Related
+		- perniciousness
+		- toxicity
+		- insidiousness
+
+
+# interdict
+
+![interdict LookUp](https://i.snap.as/9xgFsRK8.png)
+
+## Noun
+
+1. an ecclesiastical censure by the Roman Catholic Church withdrawing certain sacraments and Christian burial from a person or all persons in a particular district
+	- Less specific
+		- censure
+		- animadversion
+2. a court order prohibiting a party from doing a certain activity
+	- Synonyms
+		- interdiction
+	- Less specific
+		- court order
+		- prohibition
+		- ban
+		- proscription
+	- Related
+		- forbid
+		- prohibit
+		- interdict
+		- proscribe
+		- veto
+		- disallow
+		- nix
+	- Topic Members
+		- law
+		- jurisprudence
+
+## Verb
+
+1. destroy by firepower, such as an enemy’s line of communication
+	- Less specific
+		- destroy
+		- destruct
+2. command against; “I forbid you to call me late at night”; “Mother vetoed the trip to the chocolate store”; “Dad nixed our plans”
+	- Synonyms
+		- forbid
+		- prohibit
+		- proscribe
+		- veto
+		- disallow
+		- nix
+	- Antonyms
+		- permit
+		- allow
+		- let
+		- countenance
+		- permit
+		- allow
+		- let
+		- countenance
+	- Less specific
+		- command
+		- require
+	- More specific
+		- ban
+		- bar
+		- debar
+		- exclude
+		- enjoin
+		- outlaw
+		- criminalize
+		- criminalise
+		- illegalize
+		- illegalise
+	- Related
+		- veto
+		- prohibition
+		- ban
+		- proscription
+		- banishment
+		- proscription
+		- interdict
+		- interdiction
+		- interdiction
+		- prohibition
+		- inhibition
+		- forbiddance
+		- ban
+		- banning
+		- forbiddance
+		- forbidding
+		- ban
+		- banning
+		- forbiddance
+		- forbidding
+		- prohibition
+		- inhibition
+		- forbiddance
+
+*From LookUp*:
+Noun
+1.	an authoritative prohibition
+an interdict against marriage of those of close kin
+
+Roman Catholic Church (in the Roman Catholic Church) a sentence barring a person, or especially a place, from ecclesiastical functions and privileges
+a papal interdict
+
+
+Verb
+1.	North American prohibit or forbid (something)
+society will never interdict sex
+
+"interdict someone from" prohibit someone from (doing something)
+I have not been interdicted from consuming or holding alcoholic beverages
+
+2.	North American intercept and prevent the movement of (a prohibited commodity or person)
+the police established roadblocks throughout the country for interdicting drugs
+
+Military impede (an enemy force), especially by aerial bombing of lines of communication or supply.
+# interdict
+
+![interdict LookUp](https://i.snap.as/9xgFsRK8.png)
+
+## Noun
+
+1. an ecclesiastical censure by the Roman Catholic Church withdrawing certain sacraments and Christian burial from a person or all persons in a particular district
+	- Less specific
+		- censure
+		- animadversion
+2. a court order prohibiting a party from doing a certain activity
+	- Synonyms
+		- interdiction
+	- Less specific
+		- court order
+		- prohibition
+		- ban
+		- proscription
+	- Related
+		- forbid
+		- prohibit
+		- interdict
+		- proscribe
+		- veto
+		- disallow
+		- nix
+	- Topic Members
+		- law
+		- jurisprudence
+
+## Verb
+
+1. destroy by firepower, such as an enemy’s line of communication
+	- Less specific
+		- destroy
+		- destruct
+2. command against; “I forbid you to call me late at night”; “Mother vetoed the trip to the chocolate store”; “Dad nixed our plans”
+	- Synonyms
+		- forbid
+		- prohibit
+		- proscribe
+		- veto
+		- disallow
+		- nix
+	- Antonyms
+		- permit
+		- allow
+		- let
+		- countenance
+		- permit
+		- allow
+		- let
+		- countenance
+	- Less specific
+		- command
+		- require
+	- More specific
+		- ban
+		- bar
+		- debar
+		- exclude
+		- enjoin
+		- outlaw
+		- criminalize
+		- criminalise
+		- illegalize
+		- illegalise
+	- Related
+		- veto
+		- prohibition
+		- ban
+		- proscription
+		- banishment
+		- proscription
+		- interdict
+		- interdiction
+		- interdiction
+		- prohibition
+		- inhibition
+		- forbiddance
+		- ban
+		- banning
+		- forbiddance
+		- forbidding
+		- ban
+		- banning
+		- forbiddance
+		- forbidding
+		- prohibition
+		- inhibition
+		- forbiddance
+
+*From LookUp*:
+Noun
+1.	an authoritative prohibition
+an interdict against marriage of those of close kin
+
+Roman Catholic Church (in the Roman Catholic Church) a sentence barring a person, or especially a place, from ecclesiastical functions and privileges
+a papal interdict
+
+
+Verb
+1.	North American prohibit or forbid (something)
+society will never interdict sex
+
+"interdict someone from" prohibit someone from (doing something)
+I have not been interdicted from consuming or holding alcoholic beverages
+
+2.	North American intercept and prevent the movement of (a prohibited commodity or person)
+the police established roadblocks throughout the country for interdicting drugs
+
+Military impede (an enemy force), especially by aerial bombing of lines of communication or supply.
+# interdigitate
+
+
+*From LookUp*:
+
+Verb
+1.	(of two or more things) interlock like the fingers of two clasped hands
+the scales at the shell margins of opposing valves frequently interdigitate
+
+"Word of the Day: INTERDIGITATE (v.) to interlock the fingers"
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1539850742869020672)
+# interdigitate
+
+
+*From LookUp*:
+
+Verb
+1.	(of two or more things) interlock like the fingers of two clasped hands
+the scales at the shell margins of opposing valves frequently interdigitate
+
+"Word of the Day: INTERDIGITATE (v.) to interlock the fingers"
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1539850742869020672)
+# interlocutor
+
+
+## Noun
+
+1. the performer in the middle of a minstrel line who engages the others in talk
+	- Synonyms
+		- middleman
+	- Less specific
+		- minstrel
+	- Member of
+		- minstrel show
+2. a person who takes part in a conversation
+	- Synonyms
+		- conversational partner
+	- Less specific
+		- conversationalist
+		- conversationist
+		- schmoozer
+
+
+# interlocutor
+
+
+## Noun
+
+1. the performer in the middle of a minstrel line who engages the others in talk
+	- Synonyms
+		- middleman
+	- Less specific
+		- minstrel
+	- Member of
+		- minstrel show
+2. a person who takes part in a conversation
+	- Synonyms
+		- conversational partner
+	- Less specific
+		- conversationalist
+		- conversationist
+		- schmoozer
+
+
+# intonation
+
+
+## Noun
+
+1. rise and fall of the voice pitch
+	- Synonyms
+		- modulation
+		- pitch contour
+	- Less specific
+		- prosody
+		- inflection
+	- More specific
+		- intonation pattern
+		- monotone
+		- drone
+		- droning
+		- singsong
+	- Related
+		- tone
+		- inflect
+		- modulate
+		- intonate
+		- intone
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- intonate
+		- intone
+		- chant
+		- intone
+		- intonate
+		- cantillate
+2. singing by a soloist of the opening piece of plainsong
+	- Less specific
+		- singing
+		- vocalizing
+	- Related
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- chant
+		- intone
+		- intonate
+		- cantillate
+3. the act of singing in a monotonous tone
+	- Synonyms
+		- chanting
+	- Less specific
+		- singing
+		- vocalizing
+	- More specific
+		- cantillation
+	- Related
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- tone
+		- chant
+		- intone
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- chant
+		- intone
+		- intonate
+		- cantillate
+4. the production of musical tones (by voice or instrument); especially the exactitude of the pitch relations
+	- Less specific
+		- music
+	- More specific
+		- fixed intonation
+	- Related
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- chant
+		- intone
+		- intonate
+		- cantillate
+
+*From LookUp*
+Noun
+1.	the rise and fall of the voice in speaking
+she spoke English with a German intonation
+
+the action of intoning or reciting in a singing voice.
+
+2.	Music accuracy of pitch in playing or singing, or on a stringed instrument such as a guitar
+poor woodwind intonation at the opening
+
+3.	Music the opening phrase of a plainsong melody.
+# intonation
+
+
+## Noun
+
+1. rise and fall of the voice pitch
+	- Synonyms
+		- modulation
+		- pitch contour
+	- Less specific
+		- prosody
+		- inflection
+	- More specific
+		- intonation pattern
+		- monotone
+		- drone
+		- droning
+		- singsong
+	- Related
+		- tone
+		- inflect
+		- modulate
+		- intonate
+		- intone
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- intonate
+		- intone
+		- chant
+		- intone
+		- intonate
+		- cantillate
+2. singing by a soloist of the opening piece of plainsong
+	- Less specific
+		- singing
+		- vocalizing
+	- Related
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- chant
+		- intone
+		- intonate
+		- cantillate
+3. the act of singing in a monotonous tone
+	- Synonyms
+		- chanting
+	- Less specific
+		- singing
+		- vocalizing
+	- More specific
+		- cantillation
+	- Related
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- tone
+		- chant
+		- intone
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- chant
+		- intone
+		- intonate
+		- cantillate
+4. the production of musical tones (by voice or instrument); especially the exactitude of the pitch relations
+	- Less specific
+		- music
+	- More specific
+		- fixed intonation
+	- Related
+		- chant
+		- intone
+		- intonate
+		- cantillate
+		- chant
+		- intone
+		- intonate
+		- cantillate
+
+*From LookUp*
+Noun
+1.	the rise and fall of the voice in speaking
+she spoke English with a German intonation
+
+the action of intoning or reciting in a singing voice.
+
+2.	Music accuracy of pitch in playing or singing, or on a stringed instrument such as a guitar
+poor woodwind intonation at the opening
+
+3.	Music the opening phrase of a plainsong melody.
+# intrepid
+
+
+## Adjective
+
+1. invulnerable to fear or intimidation; “audacious explorers”; “fearless reporters and photographers”; “intrepid pioneers”
+	- Synonyms
+		- audacious
+		- brave
+		- dauntless
+		- fearless
+		- hardy
+		- unfearing
+	- Similar to
+		- bold
+	- Related
+		- dauntlessness
+		- intrepidity
+		- fearlessness
+		- bravery
+		- dauntlessness
+		- intrepidity
+		- courage
+		- courageousness
+		- bravery
+		- braveness
+		- audacity
+		- audaciousness
+		- temerity
+		- audacity
+		- audaciousness
+		- temerity
+		- fearlessness
+
+
+# intrepid
+
+
+## Adjective
+
+1. invulnerable to fear or intimidation; “audacious explorers”; “fearless reporters and photographers”; “intrepid pioneers”
+	- Synonyms
+		- audacious
+		- brave
+		- dauntless
+		- fearless
+		- hardy
+		- unfearing
+	- Similar to
+		- bold
+	- Related
+		- dauntlessness
+		- intrepidity
+		- fearlessness
+		- bravery
+		- dauntlessness
+		- intrepidity
+		- courage
+		- courageousness
+		- bravery
+		- braveness
+		- audacity
+		- audaciousness
+		- temerity
+		- audacity
+		- audaciousness
+		- temerity
+		- fearlessness
+
+
 # invidious
 
 
@@ -2323,7 +19732,111 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- single out
 
 
-===
+# invidious
+
+
+## Adjective
+
+1. containing or implying a slight or showing prejudice; “discriminatory attitudes and practices”; “invidious comparisons”
+	- Synonyms
+		- discriminatory
+	- Similar to
+		- unfavorable
+		- unfavourable
+	- Related
+		- discriminate
+		- separate
+		- single out
+
+
+# itinerant
+
+
+## Noun
+
+1. a laborer who moves from place to place as demanded by employment; “itinerant traders”
+	- Synonyms
+		- gypsy
+		- gipsy
+	- Less specific
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+	- More specific
+		- swagman
+		- swagger
+		- swaggie
+		- tinker
+	- Related
+		- itinerant
+
+## Adjective
+
+1. traveling from place to place to work; “itinerant labor”; “an itinerant judge”
+	- Similar to
+		- unsettled
+	- Related
+		- itinerant
+		- gypsy
+		- gipsy
+		- itinerate
+
+- [**itinerant** - LookUp](https://learnwithlookup.com/share/index.html?word=itinerant&definition=travelling%2520from%2520place%2520to%2520place&data=eyJpbWFnZSI6IiIsIndvcmQiOiJpdGluZXJhbnQiLCJkZWZpbml0aW9uIjoidHJhdmVsbGluZyBmcm9tIHBsYWNlIHRvIHBsYWNlIn0%3D)
+Adjective
+1.	traveling from place to place
+itinerant traders
+
+
+Noun
+1.	a person who travels from place to place.
+
+## Origin
+late 16th century (used to describe a judge traveling on a circuit): from late Latin itinerant- ‘traveling’, from the verb itinerari, from Latin iter, itiner- ‘journey, road’
+# itinerant
+
+
+## Noun
+
+1. a laborer who moves from place to place as demanded by employment; “itinerant traders”
+	- Synonyms
+		- gypsy
+		- gipsy
+	- Less specific
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+	- More specific
+		- swagman
+		- swagger
+		- swaggie
+		- tinker
+	- Related
+		- itinerant
+
+## Adjective
+
+1. traveling from place to place to work; “itinerant labor”; “an itinerant judge”
+	- Similar to
+		- unsettled
+	- Related
+		- itinerant
+		- gypsy
+		- gipsy
+		- itinerate
+
+- [**itinerant** - LookUp](https://learnwithlookup.com/share/index.html?word=itinerant&definition=travelling%2520from%2520place%2520to%2520place&data=eyJpbWFnZSI6IiIsIndvcmQiOiJpdGluZXJhbnQiLCJkZWZpbml0aW9uIjoidHJhdmVsbGluZyBmcm9tIHBsYWNlIHRvIHBsYWNlIn0%3D)
+Adjective
+1.	traveling from place to place
+itinerant traders
+
+
+Noun
+1.	a person who travels from place to place.
+
+## Origin
+late 16th century (used to describe a judge traveling on a circuit): from late Latin itinerant- ‘traveling’, from the verb itinerari, from Latin iter, itiner- ‘journey, road’
 # jejune
 
 
@@ -2395,7 +19908,77 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- insipidity
 
 
-===
+# jejune
+
+
+## Adjective
+
+1. of insufficient quantity to meet a need; “an inadequate income”; “a poor salary”; “money is short”; “on short rations”; “food is in short supply”; “short on experience”; “the jejune diets of the very poor”
+	- Synonyms
+		- inadequate
+		- poor
+		- short
+	- Similar to
+		- insufficient
+		- deficient
+	- Related
+		- jejunity
+		- jejuneness
+		- jejunity
+		- jejuneness
+		- shortness
+		- meagerness
+		- meagreness
+		- leanness
+		- poorness
+		- scantiness
+		- scantness
+		- exiguity
+		- inadequacy
+		- inadequateness
+2. displaying or suggesting a lack of maturity; “adolescent insecurity”; “jejune responses to our problems”; “their behavior was juvenile”; “puerile jokes”
+	- Synonyms
+		- adolescent
+		- juvenile
+		- puerile
+	- Similar to
+		- immature
+	- Related
+		- childhood
+		- puerility
+		- callowness
+		- jejuneness
+		- juvenility
+		- callowness
+		- jejuneness
+		- juvenility
+		- jejunity
+		- jejuneness
+		- tameness
+		- vapidity
+		- vapidness
+3. lacking interest or significance or impact; “an insipid personality”; “jejune novel”
+	- Synonyms
+		- insipid
+	- Similar to
+		- uninteresting
+	- Related
+		- jejunity
+		- jejuneness
+		- tameness
+		- vapidity
+		- vapidness
+		- jejunity
+		- jejuneness
+		- tameness
+		- vapidity
+		- vapidness
+		- boringness
+		- dreariness
+		- insipidness
+		- insipidity
+
+
 # jig
 
 
@@ -2435,7 +20018,113 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- gigue
 
 
-===
+# jig
+
+
+## Noun
+
+1. music in three-four time for dancing a jig
+	- Synonyms
+		- gigue
+	- Less specific
+		- dance music
+	- Related
+		- jig
+2. a fisherman’s lure with one or more hooks that is jerked up and down in the water
+	- Less specific
+		- fisherman's lure
+		- fish lure
+3. a device that holds a piece of machine work and guides the tools operating on it
+	- Less specific
+		- device
+4. any of various old rustic dances involving kicking and leaping
+	- Less specific
+		- folk dancing
+		- folk dance
+	- Related
+		- jig
+
+## Verb
+
+1. dance a quick dance with leaping and kicking motions
+	- Less specific
+		- dance
+		- trip the light fantastic
+		- trip the light fantastic toe
+	- Related
+		- jig
+		- jig
+		- gigue
+
+
+# jounce
+
+
+## Noun
+
+1. a sudden jarring impact; “the door closed with a jolt”; “all the jars and jolts were smoothed out by the shock absorbers”
+	- Synonyms
+		- jolt
+		- jar
+		- shock
+	- Less specific
+		- blow
+		- bump
+	- Related
+		- jolt
+		- jar
+		- jolt
+		- jar
+
+## Verb
+
+1. move up and down repeatedly
+	- Synonyms
+		- bounce
+	- Less specific
+		- travel
+		- go
+		- move
+		- locomote
+	- Related
+		- bounce
+		- bouncing
+
+
+# jounce
+
+
+## Noun
+
+1. a sudden jarring impact; “the door closed with a jolt”; “all the jars and jolts were smoothed out by the shock absorbers”
+	- Synonyms
+		- jolt
+		- jar
+		- shock
+	- Less specific
+		- blow
+		- bump
+	- Related
+		- jolt
+		- jar
+		- jolt
+		- jar
+
+## Verb
+
+1. move up and down repeatedly
+	- Synonyms
+		- bounce
+	- Less specific
+		- travel
+		- go
+		- move
+		- locomote
+	- Related
+		- bounce
+		- bouncing
+
+
 # junket
 
 
@@ -2533,7 +20222,631 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- banqueting
 
 
-===
+# junket
+
+
+## Noun
+
+1. dessert made of sweetened milk coagulated with rennet
+	- Less specific
+		- dessert
+		- sweet
+		- afters
+2. a journey taken for pleasure; “many summer excursions to the shore”; “it was merely a pleasure trip”; “after cautious sashays into the field”
+	- Synonyms
+		- excursion
+		- jaunt
+		- outing
+		- pleasure trip
+		- expedition
+		- sashay
+	- Less specific
+		- journey
+		- journeying
+	- More specific
+		- airing
+		- field trip
+	- Related
+		- junketeer
+		- junket
+		- travel
+		- trip
+		- jaunt
+		- sightseer
+		- excursionist
+		- tripper
+		- rubberneck
+3. a trip taken by an official at public expense
+	- Less specific
+		- trip
+
+## Verb
+
+1. go on a pleasure trip
+	- Synonyms
+		- junketeer
+	- Less specific
+		- travel
+		- trip
+		- jaunt
+	- Related
+		- excursion
+		- jaunt
+		- outing
+		- junket
+		- pleasure trip
+		- expedition
+		- sashay
+		- junketing
+2. provide a feast or banquet for
+	- Synonyms
+		- feast
+		- banquet
+	- Less specific
+		- host
+	- Related
+		- banquet
+		- feast
+		- banquet
+		- feast
+		- spread
+		- fete
+		- feast
+		- fiesta
+		- banquet
+		- feast
+		- spread
+		- banquet
+		- feast
+3. partake in a feast or banquet
+	- Synonyms
+		- feast
+		- banquet
+	- Less specific
+		- eat
+	- More specific
+		- wine and dine
+	- Related
+		- fete
+		- feast
+		- fiesta
+		- banquet
+		- feast
+		- spread
+		- banquet
+		- feast
+		- feasting
+		- banqueting
+
+
+# kibosh
+
+
+## Verb
+
+1. stop from happening or developing; “Block his election”; “Halt the process”
+	- Synonyms
+		- stop
+		- halt
+		- block
+	- Less specific
+		- prevent
+		- forestall
+		- foreclose
+		- preclude
+		- forbid
+	- More specific
+		- embargo
+		- stay
+	- Related
+		- blockage
+		- closure
+		- occlusion
+		- freeze
+		- halt
+		- stop
+		- halt
+		- stop
+		- stoppage
+
+
+# kibosh
+
+
+## Verb
+
+1. stop from happening or developing; “Block his election”; “Halt the process”
+	- Synonyms
+		- stop
+		- halt
+		- block
+	- Less specific
+		- prevent
+		- forestall
+		- foreclose
+		- preclude
+		- forbid
+	- More specific
+		- embargo
+		- stay
+	- Related
+		- blockage
+		- closure
+		- occlusion
+		- freeze
+		- halt
+		- stop
+		- halt
+		- stop
+		- stoppage
+
+
+# kvetch
+
+
+## Noun
+
+1. (Yiddish) a constant complainer
+	- Less specific
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+	- Topic Members
+		- Yiddish
+2. (Yiddish) a nagging complaint
+	- Less specific
+		- complaint
+	- Topic Members
+		- Yiddish
+
+## Verb
+
+1. express complaints, discontent, displeasure, or unhappiness; “My mother complains all day”; “She has a lot to kick about”
+	- Synonyms
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+	- Antonyms
+		- cheer
+		- cheer up
+		- chirk up
+	- More specific
+		- nag
+		- peck
+		- hen-peck
+		- backbite
+		- bitch
+		- whine
+		- grizzle
+		- yammer
+		- yawp
+		- murmur
+		- mutter
+		- grumble
+		- croak
+		- gnarl
+		- grouch
+		- grumble
+		- scold
+		- protest
+		- repine
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- rail
+		- inveigh
+		- deplore
+		- lament
+		- bewail
+		- bemoan
+		- report
+		- bleat
+	- Related
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- complaint
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+
+*From LookUp*:
+Noun
+1.	Informal North American a person who complains a great deal
+she emerges as something of a kvetch, constantly nagging Rick
+
+a complaint
+“They don't make 'em like they used to” has become an all-purpose kvetch
+
+
+Verb
+1.	Informal North American complain
+Jane's kvetching about her crummy existence
+# kvetch
+
+
+## Noun
+
+1. (Yiddish) a constant complainer
+	- Less specific
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+	- Topic Members
+		- Yiddish
+2. (Yiddish) a nagging complaint
+	- Less specific
+		- complaint
+	- Topic Members
+		- Yiddish
+
+## Verb
+
+1. express complaints, discontent, displeasure, or unhappiness; “My mother complains all day”; “She has a lot to kick about”
+	- Synonyms
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+	- Antonyms
+		- cheer
+		- cheer up
+		- chirk up
+	- More specific
+		- nag
+		- peck
+		- hen-peck
+		- backbite
+		- bitch
+		- whine
+		- grizzle
+		- yammer
+		- yawp
+		- murmur
+		- mutter
+		- grumble
+		- croak
+		- gnarl
+		- grouch
+		- grumble
+		- scold
+		- protest
+		- repine
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- rail
+		- inveigh
+		- deplore
+		- lament
+		- bewail
+		- bemoan
+		- report
+		- bleat
+	- Related
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- complaint
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+
+*From LookUp*:
+Noun
+1.	Informal North American a person who complains a great deal
+she emerges as something of a kvetch, constantly nagging Rick
+
+a complaint
+“They don't make 'em like they used to” has become an all-purpose kvetch
+
+
+Verb
+1.	Informal North American complain
+Jane's kvetching about her crummy existence
+# labile
+
+
+## Adjective
+
+1. (chemistry, physics, biology) readily undergoing change or breakdown
+	- Similar to
+		- reactive
+	- Topic Members
+		- biology
+		- biological science
+2. liable to change; “an emotionally labile person”
+	- Similar to
+		- unbalanced
+		- imbalanced
+
+- [**labile** - LookUp](https://learnwithlookup.com/share/index.html?word=labile&definition=liable%2520to%2520change&data=eyJpbWFnZSI6IiIsIndvcmQiOiJsYWJpbGUiLCJkZWZpbml0aW9uIjoibGlhYmxlIHRvIGNoYW5nZSJ9)
+Adjective
+1.	Technical liable to change; easily altered
+persons whose blood pressure is more labile will carry an enhanced risk of heart attack | we may be the most labile culture in all history
+
+Psychology of or characterized by emotions that are easily aroused or freely expressed, and that tend to alter quickly and spontaneously; emotionally unstable
+mood seemed generally appropriate, but the patient was often labile
+
+Chemistry easily broken down or displaced
+the breakage of labile bonds | a heat-labile protein
+# labile
+
+
+## Adjective
+
+1. (chemistry, physics, biology) readily undergoing change or breakdown
+	- Similar to
+		- reactive
+	- Topic Members
+		- biology
+		- biological science
+2. liable to change; “an emotionally labile person”
+	- Similar to
+		- unbalanced
+		- imbalanced
+
+- [**labile** - LookUp](https://learnwithlookup.com/share/index.html?word=labile&definition=liable%2520to%2520change&data=eyJpbWFnZSI6IiIsIndvcmQiOiJsYWJpbGUiLCJkZWZpbml0aW9uIjoibGlhYmxlIHRvIGNoYW5nZSJ9)
+Adjective
+1.	Technical liable to change; easily altered
+persons whose blood pressure is more labile will carry an enhanced risk of heart attack | we may be the most labile culture in all history
+
+Psychology of or characterized by emotions that are easily aroused or freely expressed, and that tend to alter quickly and spontaneously; emotionally unstable
+mood seemed generally appropriate, but the patient was often labile
+
+Chemistry easily broken down or displaced
+the breakage of labile bonds | a heat-labile protein
+# lacustrine
+
+
+## Adjective
+
+1. of or relating to or living near lakes
+	- Pertains to
+		- lake
+
+- [**lacustrine** - LookUp](https://learnwithlookup.com/share/index.html?word=lacustrine&definition=relating%2520to%2520or%2520associated%2520with%2520lakes&data=eyJpbWFnZSI6IiIsIndvcmQiOiJsYWN1c3RyaW5lIiwiZGVmaW5pdGlvbiI6InJlbGF0aW5nIHRvIG9yIGFzc29jaWF0ZWQgd2l0aCBsYWtlcyJ9)
+Adjective
+1.	Ecology Geology Technical Literary relating to or associated with lakes
+fluvial and lacustrine deposits | the boulders were beautiful in their lacustrine tranquillity
+
+## Origin
+early 19th century: from Latin lacus ‘lake’ (the stem lacustr- influenced by Latin palustris ‘marshy’) + -ine–
+# lacustrine
+
+
+## Adjective
+
+1. of or relating to or living near lakes
+	- Pertains to
+		- lake
+
+- [**lacustrine** - LookUp](https://learnwithlookup.com/share/index.html?word=lacustrine&definition=relating%2520to%2520or%2520associated%2520with%2520lakes&data=eyJpbWFnZSI6IiIsIndvcmQiOiJsYWN1c3RyaW5lIiwiZGVmaW5pdGlvbiI6InJlbGF0aW5nIHRvIG9yIGFzc29jaWF0ZWQgd2l0aCBsYWtlcyJ9)
+Adjective
+1.	Ecology Geology Technical Literary relating to or associated with lakes
+fluvial and lacustrine deposits | the boulders were beautiful in their lacustrine tranquillity
+
+## Origin
+early 19th century: from Latin lacus ‘lake’ (the stem lacustr- influenced by Latin palustris ‘marshy’) + -ine–
+# lambaste
+
+
+## Verb
+
+1. beat with a cane
+	- Synonyms
+		- cane
+		- flog
+		- lambast
+	- Less specific
+		- beat
+		- beat up
+		- work over
+	- Related
+		- whipping
+		- tanning
+		- flogging
+		- lashing
+		- flagellation
+		- cane
+2. censure severely or angrily; “The mother scolded the child for entering a stranger’s car”; “The deputy ragged the Prime Minister”; “The customer dressed down the waiter for bringing cold soup”
+	- Synonyms
+		- call on the carpet
+		- take to task
+		- rebuke
+		- rag
+		- trounce
+		- lecture
+		- reprimand
+		- jaw
+		- dress down
+		- call down
+		- scold
+		- chide
+		- berate
+		- bawl out
+		- remonstrate
+		- chew out
+		- chew up
+		- have words
+		- lambast
+	- Less specific
+		- knock
+		- criticize
+		- criticise
+		- pick apart
+	- More specific
+		- chastise
+		- castigate
+		- objurgate
+		- chasten
+		- correct
+		- tell off
+		- brush down
+	- Related
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- scold
+		- scolder
+		- nag
+		- nagger
+		- common scold
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- lecture
+		- speech
+		- talking to
+		- upbraider
+		- reprover
+		- reproacher
+		- rebuker
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+
+- [From LookUp](https://learnwithlookup.com/share/index.html?word=lambaste&definition=criticize%2520person%2520or%2520thing%2520harshly&data=eyJpbWFnZSI6IiIsIndvcmQiOiJsYW1iYXN0ZSIsImRlZmluaXRpb24iOiJjcml0aWNpemUgcGVyc29uIG9yIHRoaW5nIGhhcnNobHkifQ%3D%3D)
+Verb
+1.	criticize (someone or something) harshly
+they lambasted the report as a gross distortion of the truth
+# lambaste
+
+
+## Verb
+
+1. beat with a cane
+	- Synonyms
+		- cane
+		- flog
+		- lambast
+	- Less specific
+		- beat
+		- beat up
+		- work over
+	- Related
+		- whipping
+		- tanning
+		- flogging
+		- lashing
+		- flagellation
+		- cane
+2. censure severely or angrily; “The mother scolded the child for entering a stranger’s car”; “The deputy ragged the Prime Minister”; “The customer dressed down the waiter for bringing cold soup”
+	- Synonyms
+		- call on the carpet
+		- take to task
+		- rebuke
+		- rag
+		- trounce
+		- lecture
+		- reprimand
+		- jaw
+		- dress down
+		- call down
+		- scold
+		- chide
+		- berate
+		- bawl out
+		- remonstrate
+		- chew out
+		- chew up
+		- have words
+		- lambast
+	- Less specific
+		- knock
+		- criticize
+		- criticise
+		- pick apart
+	- More specific
+		- chastise
+		- castigate
+		- objurgate
+		- chasten
+		- correct
+		- tell off
+		- brush down
+	- Related
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- scold
+		- scolder
+		- nag
+		- nagger
+		- common scold
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- lecture
+		- speech
+		- talking to
+		- upbraider
+		- reprover
+		- reproacher
+		- rebuker
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+
+- [From LookUp](https://learnwithlookup.com/share/index.html?word=lambaste&definition=criticize%2520person%2520or%2520thing%2520harshly&data=eyJpbWFnZSI6IiIsIndvcmQiOiJsYW1iYXN0ZSIsImRlZmluaXRpb24iOiJjcml0aWNpemUgcGVyc29uIG9yIHRoaW5nIGhhcnNobHkifQ%3D%3D)
+Verb
+1.	criticize (someone or something) harshly
+they lambasted the report as a gross distortion of the truth
 # languor
 
 
@@ -2595,7 +20908,67 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- languorous
 
 
-===
+# languor
+
+
+## Noun
+
+1. a relaxed comfortable feeling
+	- Synonyms
+		- dreaminess
+	- Less specific
+		- easiness
+		- relaxation
+	- Related
+		- dreamy
+		- lackadaisical
+		- languid
+		- languorous
+		- dreamy
+		- moony
+		- woolgathering
+2. oppressively still air; “the afternoon was hot, quiet, and heavy with languor”; “Summer shows all the languor of a hot, breezeless day as the dancer lazily brushes her hand over her brow”
+	- Less specific
+		- wind
+		- air current
+		- current of air
+3. a feeling of lack of interest or energy
+	- Synonyms
+		- lassitude
+		- listlessness
+	- Less specific
+		- apathy
+	- Related
+		- dispirited
+		- listless
+		- listless
+4. inactivity; showing an unusual lack of energy; “the general appearance of sluggishness alarmed his friends”
+	- Synonyms
+		- lethargy
+		- sluggishness
+		- phlegm
+		- flatness
+	- Less specific
+		- inactiveness
+		- inactivity
+		- inertia
+	- Related
+		- phlegmatic
+		- phlegmatical
+		- phlegmatic
+		- phlegmatical
+		- inert
+		- sluggish
+		- soggy
+		- torpid
+		- lethargic
+		- unenergetic
+		- dreamy
+		- lackadaisical
+		- languid
+		- languorous
+
+
 # lapse
 
 
@@ -2778,7 +21151,188 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- lapse
 
 
-===
+# lapse
+
+
+## Noun
+
+1. a mistake resulting from inattention
+	- Synonyms
+		- oversight
+	- Less specific
+		- mistake
+		- error
+		- fault
+2. a break or intermission in the occurrence of something; “a lapse of three weeks between letters”
+	- Less specific
+		- pause
+		- intermission
+		- break
+		- interruption
+		- suspension
+	- Related
+		- elapse
+		- lapse
+		- pass
+		- slip by
+		- glide by
+		- slip away
+		- go by
+		- slide by
+		- go along
+		- lapse
+		- lapse
+3. a failure to maintain a higher state
+	- Synonyms
+		- backsliding
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+	- Less specific
+		- failure
+	- More specific
+		- recidivism
+	- Related
+		- revert
+		- return
+		- retrovert
+		- regress
+		- turn back
+		- relapse
+		- lapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+		- relapse
+		- lapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+		- get worse
+		- relapse
+		- relapse
+		- lapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+		- lapse
+		- backslide
+
+## Verb
+
+1. pass into a specified state or condition; “He sank into nirvana”
+	- Synonyms
+		- sink
+		- pass
+	- Less specific
+		- move
+	- Related
+		- passage
+		- transition
+2. end, at least for a long time; “The correspondence lapsed”
+	- Less specific
+		- end
+		- stop
+		- finish
+		- terminate
+		- cease
+	- Related
+		- lapse
+3. drop to a lower level, as in one’s morals or standards
+	- Synonyms
+		- backslide
+	- Less specific
+		- slip
+		- drop off
+		- drop away
+		- fall away
+	- Related
+		- recidivist
+		- backslider
+		- reversionist
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+4. go back to bad behavior; “Those who recidivate are often minor criminals”
+	- Synonyms
+		- relapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+	- Less specific
+		- revert
+		- return
+		- retrovert
+		- regress
+		- turn back
+	- Related
+		- recidivism
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+5. let slip; “He lapsed his membership”
+	- Less specific
+		- forfeit
+		- give up
+		- throw overboard
+		- waive
+		- forgo
+		- forego
+	- Related
+		- lapse
+6. pass by; “three years elapsed”
+	- Synonyms
+		- elapse
+		- pass
+		- slip by
+		- glide by
+		- slip away
+		- go by
+		- slide by
+		- go along
+	- Less specific
+		- advance
+		- progress
+		- pass on
+		- move on
+		- march on
+		- go on
+	- More specific
+		- fly
+		- fell
+		- vanish
+	- Related
+		- lapse
+
+
 # legerdemain
 
 
@@ -2820,7 +21374,613 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- illusionist
 
 
-===
+# legerdemain
+
+
+## Noun
+
+1. an illusory feat; considered magical by naive observers
+	- Synonyms
+		- magic trick
+		- conjuring trick
+		- trick
+		- magic
+		- conjuration
+		- thaumaturgy
+		- illusion
+		- deception
+	- Less specific
+		- performance
+	- More specific
+		- card trick
+		- prestidigitation
+		- sleight of hand
+	- Related
+		- magician
+		- prestidigitator
+		- conjurer
+		- conjuror
+		- illusionist
+		- charming
+		- magic
+		- magical
+		- sorcerous
+		- witching
+		- wizard
+		- wizardly
+		- magician
+		- prestidigitator
+		- conjurer
+		- conjuror
+		- illusionist
+
+
+# lexicographer
+
+
+## Noun
+
+1. a compiler or writer of a dictionary; a student of the lexical component of language
+	- Synonyms
+		- lexicologist
+	- Less specific
+		- compiler
+		- linguist
+		- linguistic scientist
+	- More specific
+		- etymologist
+		- neologist
+		- synonymist
+	- Examples
+		- Bailey
+		- Nathan Bailey
+		- Nathaniel Bailey
+		- Craigie
+		- William A
+		- Sir William Alexander Craigie
+		- Florio
+		- John Florio
+		- Fowler
+		- Henry Watson Fowler
+		- Johnson
+		- Samuel Johnson
+		- Dr
+		- Larousse
+		- Pierre Larousse
+		- Pierre Athanase Larousse
+		- Littre
+		- Maximilien Paul Emile Littre
+		- Murray
+		- James Murray
+		- James Augustus Murray
+		- James Augustus Henry Murray
+		- Sir James Murray
+		- Sir James Augustus Murray
+		- Sir James Augustus Henry Murray
+		- Webster
+		- Noah Webster
+		- Worcester
+		- Joseph Emerson Worcester
+	- Related
+		- lexicology
+		- lexicography
+
+
+# lexicographer
+
+
+## Noun
+
+1. a compiler or writer of a dictionary; a student of the lexical component of language
+	- Synonyms
+		- lexicologist
+	- Less specific
+		- compiler
+		- linguist
+		- linguistic scientist
+	- More specific
+		- etymologist
+		- neologist
+		- synonymist
+	- Examples
+		- Bailey
+		- Nathan Bailey
+		- Nathaniel Bailey
+		- Craigie
+		- William A
+		- Sir William Alexander Craigie
+		- Florio
+		- John Florio
+		- Fowler
+		- Henry Watson Fowler
+		- Johnson
+		- Samuel Johnson
+		- Dr
+		- Larousse
+		- Pierre Larousse
+		- Pierre Athanase Larousse
+		- Littre
+		- Maximilien Paul Emile Littre
+		- Murray
+		- James Murray
+		- James Augustus Murray
+		- James Augustus Henry Murray
+		- Sir James Murray
+		- Sir James Augustus Murray
+		- Sir James Augustus Henry Murray
+		- Webster
+		- Noah Webster
+		- Worcester
+		- Joseph Emerson Worcester
+	- Related
+		- lexicology
+		- lexicography
+
+
+# limn
+
+
+## Verb
+
+1. trace the shape of
+	- Synonyms
+		- delineate
+		- outline
+	- Less specific
+		- draw
+	- More specific
+		- lipstick
+		- contour
+	- Related
+		- outline
+		- lineation
+		- delineative
+		- depictive
+		- delineation
+		- depiction
+		- limning
+		- line drawing
+		- depiction
+		- delineation
+		- portrayal
+2. make a portrait of; “Goya wanted to portray his mistress, the Duchess of Alba”
+	- Synonyms
+		- portray
+		- depict
+	- Less specific
+		- represent
+		- interpret
+	- Related
+		- portraitist
+		- portrait painter
+		- portrayer
+		- limner
+		- delineative
+		- depictive
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+		- painting
+		- picture
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+		- portraitist
+		- portrait painter
+		- portrayer
+		- limner
+		- portraiture
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+	- Topic Members
+		- art
+		- artistic creation
+		- artistic production
+
+*From LookUp*:
+Verb
+1.	Art Literary depict or describe in painting or words
+Miss Read limns a gentler world in her novels
+
+suffuse or highlight (something) with a bright color or light
+a crescent moon limned each shred with white gold
+# limn
+
+
+## Verb
+
+1. trace the shape of
+	- Synonyms
+		- delineate
+		- outline
+	- Less specific
+		- draw
+	- More specific
+		- lipstick
+		- contour
+	- Related
+		- outline
+		- lineation
+		- delineative
+		- depictive
+		- delineation
+		- depiction
+		- limning
+		- line drawing
+		- depiction
+		- delineation
+		- portrayal
+2. make a portrait of; “Goya wanted to portray his mistress, the Duchess of Alba”
+	- Synonyms
+		- portray
+		- depict
+	- Less specific
+		- represent
+		- interpret
+	- Related
+		- portraitist
+		- portrait painter
+		- portrayer
+		- limner
+		- delineative
+		- depictive
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+		- painting
+		- picture
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+		- portraitist
+		- portrait painter
+		- portrayer
+		- limner
+		- portraiture
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+		- depicting
+		- depiction
+		- portraying
+		- portrayal
+	- Topic Members
+		- art
+		- artistic creation
+		- artistic production
+
+*From LookUp*:
+Verb
+1.	Art Literary depict or describe in painting or words
+Miss Read limns a gentler world in her novels
+
+suffuse or highlight (something) with a bright color or light
+a crescent moon limned each shred with white gold
+# LookUp URL Shortcut
+Updated `10032022-054750`
+
+- [GitHub Issue](https://github.com/extratone/i/issues/269)
+- [**RoutineHub Page**](https://routinehub.co/shortcut/13065)
+- [David Blue’s RoutineHub Library](drafts://open?uuid=CA94DF33-CAB9-40A0-836E-806225D5B600)
+- [iCloud Share Link](https://www.icloud.com/shortcuts/1cea805567be4ad49c431f60e13c3255)
+- [Working Copy](working-copy://open?repo=i&path=shortcuts&mode=content)
+- [Source Repo File](https://github.com/extratone/i/blob/main/shortcuts/.shortcut)
+- [WTF](https://davidblue.wtf/drafts/5021AAD7-EFB8-4BDE-81F9-8A3AF88E38A5.html)
+- [Things](things:///show?id=7h8hveWbdZTgeVq6DdJYqf)
+
+---
+
+## Social
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made a simple Siri Shortcut for reformatting <a href="https://twitter.com/lookup_ios?ref_src=twsrc%5Etfw">@lookup_ios</a> share URLs to markdown. <a href="https://t.co/LqUXwmMfyR">https://t.co/LqUXwmMfyR</a> <a href="https://t.co/if8jdoCk1C">pic.twitter.com/if8jdoCk1C</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1576457057011654657?ref_src=twsrc%5Etfw">October 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I made a simple Siri Shortcut for reformatting @lookup_ios share URLs to markdown. https://routinehub.co/shortcut/13065
+
+- Telegram
+- [Twitter](https://twitter.com/NeoYokel/status/1576457057011654657)
+- [MacStories Discord](https://discord.com/channels/836622115435184162/846858725386092544/1026015612687892480)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/lookup_ios?ref_src=twsrc%5Etfw">@lookup_ios</a> it&#39;d be so amazing if this worked. or is there another way of batch importing a list of terms to a collection? <a href="https://t.co/QBASeQzyXO">pic.twitter.com/QBASeQzyXO</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1477323450549219328?ref_src=twsrc%5Etfw">January 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+just in case you want further thoughts from me (lol...) 
+
+I have been intermittently noodling on the whole concept of automated dictionary interaction for the past year - my very first API call was to Merriam-Webster just ~18 months ago and well... I'm sure you have some idea of just how hard it is to figure out a format/schema for automation when interacting with such ... varying API responses. I think LookUp's magic/greatest potential lies in the fact that you've figured out a way to present a wide variety of results from a fairly diverse set of sources in a truly usable manner. I think the opportunity to be a bridge/filter/parser between often impractical/untenable/overwhelming academic data and like... normal, reasonable, working, but still curious users is very exciting! honestly the elegance you've managed to achieve in that vein is extraordinary.
+
+*but*
+
+maybe - in the form of Siri Shortcuts actions, specifically - you could experiment with being just a bit less discriminating in terms of the data from your sources you're willing to provide to the user since one could argue that the use of automation sort of by its nature is explicit consent to/desire for more verbosity. I know it certainly is in my case.
+
+also, I can't believe it took me this long to recall that I actually took the time to describe my vocabulary workflow not so long ago, if you're curious. https://bilge.world/drafts-terminology-vocabulary
+
+oh and! here's my published vocabulary index. https://davidblue.wtf/vocabulary
+
+---
+
+[10032022-054646](https://discord.com/channels/836622115435184162/846858725386092544/1026445110742880276)
+> honestly, that's a big offer!
+> 
+> generally, being able to add custom terms with metadata/details and being able to retrieve more details would certainly benefit *my* workflow significantly. one of my very first hiccups with LookUp (and still sorta the reason I store my primary vocabulary list in Terminology (https://apps.apple.com/us/app/terminology-dictionary/id687798859) instead) is the fact that the `Add Word to Collection` action will fail (and interrupt a repeat loop) if passed a term that does not show up in search results.
+> 
+> that was the issue with this Tweet, btw: https://twitter.com/neoyokel/status/1477323450549219328
+> 
+---
+
+[10022022-171200](https://discord.com/channels/836622115435184162/846858725386092544/1026255372949930004)
+> Wow! This is Really useful! Please let me know if you'd like me to add specific Actions that'll help you improve this shortcut. Will Add them to Shortcuts.
+
+---
+
+## Quickly copy markdown-formatted LookUp share hyperlinks from the share sheet.
+
+![LookUp URL Shortcut](https://user-images.githubusercontent.com/43663476/193440666-579af32d-66c3-4859-b275-63efc3724a54.png)
+
+This shortcut anticipates the upcoming addition of individual term share URLs to [**LookUp**](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) for iOS/iPadOS/macOS (and therefore requires one currently be running a [Testflight build](https://testflight.apple.com/join/L8DSerhw).)
+
+By default, it should be present in the share sheet, from which it receives URLs, extracts the term from the URL format, formats the results as a markdown hyperlink, which it then copies to the system clipboard. 
+
+### Example Input
+
+`https://learnwithlookup.com/share/index.html?word=hyperlink&definition=link%2520from%2520hypertext%2520document%2520to%2520another%2520location,%2520activated%2520by%2520clicking%2520on%2520highlighted%2520word%2520or%2520image&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoeXBlcmxpbmsiLCJkZWZpbml0aW9uIjoibGluayBmcm9tIGh5cGVydGV4dCBkb2N1bWVudCB0byBhbm90aGVyIGxvY2F0aW9uLCBhY3RpdmF0ZWQgYnkgY2xpY2tpbmcgb24gaGlnaGxpZ2h0ZWQgd29yZCBvciBpbWFnZSJ9`
+
+### Example Output
+
+```
+- [**hyperlink** - LookUp](https://learnwithlookup.com/share/index.html?word=hyperlink&definition=link%2520from%2520hypertext%2520document%2520to%2520another%2520location,%2520activated%2520by%2520clicking%2520on%2520highlighted%2520word%2520or%2520image&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoeXBlcmxpbmsiLCJkZWZpbml0aW9uIjoibGluayBmcm9tIGh5cGVydGV4dCBkb2N1bWVudCB0byBhbm90aGVyIGxvY2F0aW9uLCBhY3RpdmF0ZWQgYnkgY2xpY2tpbmcgb24gaGlnaGxpZ2h0ZWQgd29yZCBvciBpbWFnZSJ9)
+```
+# LookUp URL Shortcut
+Updated `10032022-054750`
+
+- [GitHub Issue](https://github.com/extratone/i/issues/269)
+- [**RoutineHub Page**](https://routinehub.co/shortcut/13065)
+- [David Blue’s RoutineHub Library](drafts://open?uuid=CA94DF33-CAB9-40A0-836E-806225D5B600)
+- [iCloud Share Link](https://www.icloud.com/shortcuts/1cea805567be4ad49c431f60e13c3255)
+- [Working Copy](working-copy://open?repo=i&path=shortcuts&mode=content)
+- [Source Repo File](https://github.com/extratone/i/blob/main/shortcuts/.shortcut)
+- [WTF](https://davidblue.wtf/drafts/5021AAD7-EFB8-4BDE-81F9-8A3AF88E38A5.html)
+- [Things](things:///show?id=7h8hveWbdZTgeVq6DdJYqf)
+
+---
+
+## Social
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made a simple Siri Shortcut for reformatting <a href="https://twitter.com/lookup_ios?ref_src=twsrc%5Etfw">@lookup_ios</a> share URLs to markdown. <a href="https://t.co/LqUXwmMfyR">https://t.co/LqUXwmMfyR</a> <a href="https://t.co/if8jdoCk1C">pic.twitter.com/if8jdoCk1C</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1576457057011654657?ref_src=twsrc%5Etfw">October 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I made a simple Siri Shortcut for reformatting @lookup_ios share URLs to markdown. https://routinehub.co/shortcut/13065
+
+- Telegram
+- [Twitter](https://twitter.com/NeoYokel/status/1576457057011654657)
+- [MacStories Discord](https://discord.com/channels/836622115435184162/846858725386092544/1026015612687892480)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/lookup_ios?ref_src=twsrc%5Etfw">@lookup_ios</a> it&#39;d be so amazing if this worked. or is there another way of batch importing a list of terms to a collection? <a href="https://t.co/QBASeQzyXO">pic.twitter.com/QBASeQzyXO</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1477323450549219328?ref_src=twsrc%5Etfw">January 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+just in case you want further thoughts from me (lol...) 
+
+I have been intermittently noodling on the whole concept of automated dictionary interaction for the past year - my very first API call was to Merriam-Webster just ~18 months ago and well... I'm sure you have some idea of just how hard it is to figure out a format/schema for automation when interacting with such ... varying API responses. I think LookUp's magic/greatest potential lies in the fact that you've figured out a way to present a wide variety of results from a fairly diverse set of sources in a truly usable manner. I think the opportunity to be a bridge/filter/parser between often impractical/untenable/overwhelming academic data and like... normal, reasonable, working, but still curious users is very exciting! honestly the elegance you've managed to achieve in that vein is extraordinary.
+
+*but*
+
+maybe - in the form of Siri Shortcuts actions, specifically - you could experiment with being just a bit less discriminating in terms of the data from your sources you're willing to provide to the user since one could argue that the use of automation sort of by its nature is explicit consent to/desire for more verbosity. I know it certainly is in my case.
+
+also, I can't believe it took me this long to recall that I actually took the time to describe my vocabulary workflow not so long ago, if you're curious. https://bilge.world/drafts-terminology-vocabulary
+
+oh and! here's my published vocabulary index. https://davidblue.wtf/vocabulary
+
+---
+
+[10032022-054646](https://discord.com/channels/836622115435184162/846858725386092544/1026445110742880276)
+> honestly, that's a big offer!
+> 
+> generally, being able to add custom terms with metadata/details and being able to retrieve more details would certainly benefit *my* workflow significantly. one of my very first hiccups with LookUp (and still sorta the reason I store my primary vocabulary list in Terminology (https://apps.apple.com/us/app/terminology-dictionary/id687798859) instead) is the fact that the `Add Word to Collection` action will fail (and interrupt a repeat loop) if passed a term that does not show up in search results.
+> 
+> that was the issue with this Tweet, btw: https://twitter.com/neoyokel/status/1477323450549219328
+> 
+---
+
+[10022022-171200](https://discord.com/channels/836622115435184162/846858725386092544/1026255372949930004)
+> Wow! This is Really useful! Please let me know if you'd like me to add specific Actions that'll help you improve this shortcut. Will Add them to Shortcuts.
+
+---
+
+## Quickly copy markdown-formatted LookUp share hyperlinks from the share sheet.
+
+![LookUp URL Shortcut](https://user-images.githubusercontent.com/43663476/193440666-579af32d-66c3-4859-b275-63efc3724a54.png)
+
+This shortcut anticipates the upcoming addition of individual term share URLs to [**LookUp**](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) for iOS/iPadOS/macOS (and therefore requires one currently be running a [Testflight build](https://testflight.apple.com/join/L8DSerhw).)
+
+By default, it should be present in the share sheet, from which it receives URLs, extracts the term from the URL format, formats the results as a markdown hyperlink, which it then copies to the system clipboard. 
+
+### Example Input
+
+`https://learnwithlookup.com/share/index.html?word=hyperlink&definition=link%2520from%2520hypertext%2520document%2520to%2520another%2520location,%2520activated%2520by%2520clicking%2520on%2520highlighted%2520word%2520or%2520image&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoeXBlcmxpbmsiLCJkZWZpbml0aW9uIjoibGluayBmcm9tIGh5cGVydGV4dCBkb2N1bWVudCB0byBhbm90aGVyIGxvY2F0aW9uLCBhY3RpdmF0ZWQgYnkgY2xpY2tpbmcgb24gaGlnaGxpZ2h0ZWQgd29yZCBvciBpbWFnZSJ9`
+
+### Example Output
+
+```
+- [**hyperlink** - LookUp](https://learnwithlookup.com/share/index.html?word=hyperlink&definition=link%2520from%2520hypertext%2520document%2520to%2520another%2520location,%2520activated%2520by%2520clicking%2520on%2520highlighted%2520word%2520or%2520image&data=eyJpbWFnZSI6IiIsIndvcmQiOiJoeXBlcmxpbmsiLCJkZWZpbml0aW9uIjoibGluayBmcm9tIGh5cGVydGV4dCBkb2N1bWVudCB0byBhbm90aGVyIGxvY2F0aW9uLCBhY3RpdmF0ZWQgYnkgY2xpY2tpbmcgb24gaGlnaGxpZ2h0ZWQgd29yZCBvciBpbWFnZSJ9)
+```
+# lope
+
+
+## Noun
+
+1. a slow pace of running
+	- Synonyms
+		- jog
+		- trot
+	- Less specific
+		- locomotion
+		- travel
+	- More specific
+		- dogtrot
+	- Related
+		- lope
+		- trot
+		- jog
+		- clip
+		- trot
+		- jog
+		- clip
+		- jog
+2. a smooth three-beat gait; between a trot and a gallop
+	- Synonyms
+		- canter
+	- Less specific
+		- gait
+	- Related
+		- lope
+		- canter
+		- canter
+		- canter
+
+## Verb
+
+1. run easily
+	- Less specific
+		- run
+	- Related
+		- jog
+		- trot
+		- lope
+		- canter
+		- lope
+
+*From LookUp*:
+Verb
+[no object, with adverbial of direction] 
+
+1.	run or move with a long bounding stride
+the dog was loping along by his side
+
+
+Noun
+[in singular] 
+
+1.	a long bounding stride
+they set off at a fast lope
+# lope
+
+
+## Noun
+
+1. a slow pace of running
+	- Synonyms
+		- jog
+		- trot
+	- Less specific
+		- locomotion
+		- travel
+	- More specific
+		- dogtrot
+	- Related
+		- lope
+		- trot
+		- jog
+		- clip
+		- trot
+		- jog
+		- clip
+		- jog
+2. a smooth three-beat gait; between a trot and a gallop
+	- Synonyms
+		- canter
+	- Less specific
+		- gait
+	- Related
+		- lope
+		- canter
+		- canter
+		- canter
+
+## Verb
+
+1. run easily
+	- Less specific
+		- run
+	- Related
+		- jog
+		- trot
+		- lope
+		- canter
+		- lope
+
+*From LookUp*:
+Verb
+[no object, with adverbial of direction] 
+
+1.	run or move with a long bounding stride
+the dog was loping along by his side
+
+
+Noun
+[in singular] 
+
+1.	a long bounding stride
+they set off at a fast lope
+# lox
+
+
+## Noun
+
+1. a bluish translucent magnetic liquid obtained by compressing gaseous oxygen and then cooling it below its boiling point; used as an oxidizer in rocket propellants
+	- Synonyms
+		- liquid oxygen
+		- LOX
+	- Less specific
+		- oxygen
+		- O
+		- atomic number 8
+2. brine-cured salmon that is lightly smoked
+	- Less specific
+		- smoked salmon
+	- More specific
+		- Scandinavian lox
+		- Nova Scotia lox
+		- Nova lox
+		- Nova Scotia salmon
+		- Nova salmon
+		- Nova style salmon
+
+
+# lox
+
+
+## Noun
+
+1. a bluish translucent magnetic liquid obtained by compressing gaseous oxygen and then cooling it below its boiling point; used as an oxidizer in rocket propellants
+	- Synonyms
+		- liquid oxygen
+		- LOX
+	- Less specific
+		- oxygen
+		- O
+		- atomic number 8
+2. brine-cured salmon that is lightly smoked
+	- Less specific
+		- smoked salmon
+	- More specific
+		- Scandinavian lox
+		- Nova Scotia lox
+		- Nova lox
+		- Nova Scotia salmon
+		- Nova salmon
+		- Nova style salmon
+
+
 # lucre
 
 
@@ -2898,7 +22058,165 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- clear
 
 
-===
+# lucre
+
+
+## Noun
+
+1. informal terms for money
+	- Synonyms
+		- boodle
+		- bread
+		- cabbage
+		- clams
+		- dinero
+		- dough
+		- gelt
+		- kale
+		- lettuce
+		- lolly
+		- loot
+		- moolah
+		- pelf
+		- scratch
+		- shekels
+		- simoleons
+		- sugar
+		- wampum
+	- Less specific
+		- money
+	- Related
+		- pilfer
+		- cabbage
+		- purloin
+		- pinch
+		- abstract
+		- snarf
+		- swipe
+		- hook
+		- sneak
+		- filch
+		- nobble
+		- lift
+2. the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
+	- Synonyms
+		- net income
+		- net
+		- net profit
+		- profit
+		- profits
+		- earnings
+	- Less specific
+		- income
+	- More specific
+		- earning per share
+		- windfall profit
+		- killing
+		- cleanup
+		- fast buck
+		- quick buck
+		- filthy lucre
+		- gross profit
+		- gross profit margin
+		- margin
+		- markup
+		- accumulation
+		- dividend
+	- Parts
+		- share
+		- portion
+		- part
+		- percentage
+	- Related
+		- profiteer
+		- profit
+		- turn a profit
+		- net
+		- clear
+
+
+# lucubatory
+
+
+A LUCUBATORY is a room used for nighttime study.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1512495563706613772)
+# lucubatory
+
+
+A LUCUBATORY is a room used for nighttime study.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1512495563706613772)
+# lupine
+
+
+## Noun
+
+1. any plant of the genus Lupinus; bearing erect spikes of usually purplish-blue flowers
+	- Synonyms
+		- lupin
+	- Less specific
+		- woody plant
+		- ligneous plant
+	- More specific
+		- white lupine
+		- field lupine
+		- wolf bean
+		- Egyptian lupine
+		- Lupinus albus
+		- yellow lupine
+		- Lupinus luteus
+		- bluebonnet
+		- buffalo clover
+		- Texas bluebonnet
+		- Lupinus subcarnosus
+		- Texas bluebonnet
+		- Lupinus texensis
+	- Member of
+		- Lupinus
+		- genus Lupinus
+
+## Adjective
+
+1. of or relating to or characteristic of wolves
+	- Pertains to
+		- wolf
+
+
+# lupine
+
+
+## Noun
+
+1. any plant of the genus Lupinus; bearing erect spikes of usually purplish-blue flowers
+	- Synonyms
+		- lupin
+	- Less specific
+		- woody plant
+		- ligneous plant
+	- More specific
+		- white lupine
+		- field lupine
+		- wolf bean
+		- Egyptian lupine
+		- Lupinus albus
+		- yellow lupine
+		- Lupinus luteus
+		- bluebonnet
+		- buffalo clover
+		- Texas bluebonnet
+		- Lupinus subcarnosus
+		- Texas bluebonnet
+		- Lupinus texensis
+	- Member of
+		- Lupinus
+		- genus Lupinus
+
+## Adjective
+
+1. of or relating to or characteristic of wolves
+	- Pertains to
+		- wolf
+
+
 # macro
 
 
@@ -2921,12 +22239,874 @@ Word of the Day: HUFFCAP (n.) a swaggering, overbearing blusterer
 		- big
 
 
-===
+# macro
+
+
+## Noun
+
+1. a single computer instruction that results in a series of instructions in machine language
+	- Synonyms
+		- macro instruction
+	- Less specific
+		- instruction
+		- command
+		- statement
+		- program line
+
+## Adjective
+
+1. very large in scale or scope or capability
+	- Similar to
+		- large
+		- big
+
+
+# maculate
+
+![maculate LookUp](https://i.snap.as/aCqCoaah.png)
+
+## Verb
+
+1. make dirty or spotty, as by exposure to air; also used metaphorically; “The silver was tarnished by the long exposure to the air”; “Her reputation was sullied after the affair with a married man”
+	- Synonyms
+		- tarnish
+		- stain
+		- sully
+		- defile
+	- Less specific
+		- spot
+		- fleck
+		- blob
+		- blot
+	- More specific
+		- darken
+	- Related
+		- macule
+		- macula
+		- staining
+		- spotting
+		- maculation
+		- mark
+		- stigma
+		- brand
+		- stain
+		- blot
+		- smear
+		- smirch
+		- spot
+		- stain
+		- tarnish
+2. spot, stain, or pollute; “The townspeople defiled the river by emptying raw sewage into it”
+	- Synonyms
+		- foul
+		- befoul
+		- defile
+	- Less specific
+		- dishonor
+		- disgrace
+		- dishonour
+		- attaint
+		- shame
+	- Related
+		- macule
+		- macula
+		- staining
+		- spotting
+		- maculation
+		- befoulment
+		- defilement
+		- pollution
+		- polluter
+		- defiler
+		- befoulment
+		- defilement
+		- pollution
+
+## Adjective
+
+1. morally blemished; stained or impure
+	- Synonyms
+		- defiled
+	- Similar to
+		- impure
+2. spotted or blotched
+	- Similar to
+		- dirty
+		- soiled
+		- unclean
+
+*From LookUp*:
+Adjective
+1.	Literary spotted or stained.
+
+
+Verb
+1.	Literary mark with a spot or spots; stain
+a dirty white T-shirt maculated with barbecue sauce
+# maculate
+
+![maculate LookUp](https://i.snap.as/aCqCoaah.png)
+
+## Verb
+
+1. make dirty or spotty, as by exposure to air; also used metaphorically; “The silver was tarnished by the long exposure to the air”; “Her reputation was sullied after the affair with a married man”
+	- Synonyms
+		- tarnish
+		- stain
+		- sully
+		- defile
+	- Less specific
+		- spot
+		- fleck
+		- blob
+		- blot
+	- More specific
+		- darken
+	- Related
+		- macule
+		- macula
+		- staining
+		- spotting
+		- maculation
+		- mark
+		- stigma
+		- brand
+		- stain
+		- blot
+		- smear
+		- smirch
+		- spot
+		- stain
+		- tarnish
+2. spot, stain, or pollute; “The townspeople defiled the river by emptying raw sewage into it”
+	- Synonyms
+		- foul
+		- befoul
+		- defile
+	- Less specific
+		- dishonor
+		- disgrace
+		- dishonour
+		- attaint
+		- shame
+	- Related
+		- macule
+		- macula
+		- staining
+		- spotting
+		- maculation
+		- befoulment
+		- defilement
+		- pollution
+		- polluter
+		- defiler
+		- befoulment
+		- defilement
+		- pollution
+
+## Adjective
+
+1. morally blemished; stained or impure
+	- Synonyms
+		- defiled
+	- Similar to
+		- impure
+2. spotted or blotched
+	- Similar to
+		- dirty
+		- soiled
+		- unclean
+
+*From LookUp*:
+Adjective
+1.	Literary spotted or stained.
+
+
+Verb
+1.	Literary mark with a spot or spots; stain
+a dirty white T-shirt maculated with barbecue sauce
 # madecassee
 
 
 Of or pertaining to Madagascar or its inhabitants.
-===
+
+---
+
+### itty.bitty
+
+```
+https://itty.bitty.site/#madecassee.html/data:text/html;format=gz;base64,eNq1Vktv4zYQvvtXsCoKbADLkp9NbFmN46xPTbdA08MeR+LIIkyJKkk7yRb730tJ1tNeILtAfZClmW9eH2dIej89fto+f/7zI4l1wv2Bl/8RyuTagqMWlj8wIgTqDwjxNNMc/QQohqAUoueUklyXoAYSxiAV6rX19/POvrUaRQoJrq0Tw5dMSG2RUKQaUwN8YVTHa4onFqJdfAwJS5lmwG0VAsf1uHSj9FsZiZD7cxhiHXVkwqwGhXgphdDk3+KdENtOgKV2sLdDwYVckp9d85svVl19pYwivA1oowSuUaagse1hHLruZHwN1LiJZtiPEQhJUTaY2TSaTipMjuIsPdTq6SKii2mp/lpWdp8gZUA+ZBIjlKqEGnpiTHBJKMjDTV13l4VrPHRzvGAip2kRtNVXuTBeKH4Ddp2v9/JxwUgU5TlVgK9tZopurYqNTFPZin0xnIxd95dVWxxBwvjbktiQZRxt9aY0JkPykAd6gvCv4ntnkENixchPqFlo2haPaA1JLRgSKQKhxZCkxdNSuBdIjsyAQJqeHRIFqbIVShZV8U0ItGNk+1ibxEazztIGgr7VBSQg9yxdkrrWDChl6d6YYVLJAggPeymOKa0IOoH80Fvmmwp9CWnre/2VwKvdHsUlmd262atprj7Q+OkDxwWwSrJdVlNYvqWsWtLXynzhmjhXVzjgIjz8cxQae+uc7wdLwjRwFq56BI5Hc0zIpCHte4i8bPfrbPb6vUsp1Nl2bJq+ruFFerKpjjKVcTCtWlReRRYnlBEXL0uiQik4r+Rn/tr9/gN11fQUvLU4qgk1YrdTYChok/P/Q2VvdJ8w5WbmtuIoGcprk1aXMcleybRqqHPCGgKOF6NWdko9cOXWZMTGgRKc0c5wtfatm65FLuSQKdOR1Vs3eFxHbrie5KHz+Jcr9w4CvzfVKhP6rkx+zDlL9i2G6+m+q5oz73bPOR/lnlNeLAZevlsUh3w87twuzKfRZv6niAhJMpTahDcZEy3IE1DYg7kiyFzHtDLXhhgCsx+kWo08J8tNndLzwIvMoYjSz515QGJzjq6tWOtMLR1HvzBtlKNQJM4fKD6LA3LLfy6lngM+scmFUQJKCyrSkRKh2fed+0c4MfrAzXnhP51137LVowQdmuODAv+MHPcSkj6eSoh0biAyTH87Hhldb7abh/lmvrU3j7uNPXu429gPi7ux/bibze82u4/u1v3V8n8X5uaUeyto8Jy6eqe45P0Hmrfkwg
+```
+# madecassee
+
+
+Of or pertaining to Madagascar or its inhabitants.
+
+---
+
+### itty.bitty
+
+```
+https://itty.bitty.site/#madecassee.html/data:text/html;format=gz;base64,eNq1Vktv4zYQvvtXsCoKbADLkp9NbFmN46xPTbdA08MeR+LIIkyJKkk7yRb730tJ1tNeILtAfZClmW9eH2dIej89fto+f/7zI4l1wv2Bl/8RyuTagqMWlj8wIgTqDwjxNNMc/QQohqAUoueUklyXoAYSxiAV6rX19/POvrUaRQoJrq0Tw5dMSG2RUKQaUwN8YVTHa4onFqJdfAwJS5lmwG0VAsf1uHSj9FsZiZD7cxhiHXVkwqwGhXgphdDk3+KdENtOgKV2sLdDwYVckp9d85svVl19pYwivA1oowSuUaagse1hHLruZHwN1LiJZtiPEQhJUTaY2TSaTipMjuIsPdTq6SKii2mp/lpWdp8gZUA+ZBIjlKqEGnpiTHBJKMjDTV13l4VrPHRzvGAip2kRtNVXuTBeKH4Ddp2v9/JxwUgU5TlVgK9tZopurYqNTFPZin0xnIxd95dVWxxBwvjbktiQZRxt9aY0JkPykAd6gvCv4ntnkENixchPqFlo2haPaA1JLRgSKQKhxZCkxdNSuBdIjsyAQJqeHRIFqbIVShZV8U0ItGNk+1ibxEazztIGgr7VBSQg9yxdkrrWDChl6d6YYVLJAggPeymOKa0IOoH80Fvmmwp9CWnre/2VwKvdHsUlmd262atprj7Q+OkDxwWwSrJdVlNYvqWsWtLXynzhmjhXVzjgIjz8cxQae+uc7wdLwjRwFq56BI5Hc0zIpCHte4i8bPfrbPb6vUsp1Nl2bJq+ruFFerKpjjKVcTCtWlReRRYnlBEXL0uiQik4r+Rn/tr9/gN11fQUvLU4qgk1YrdTYChok/P/Q2VvdJ8w5WbmtuIoGcprk1aXMcleybRqqHPCGgKOF6NWdko9cOXWZMTGgRKc0c5wtfatm65FLuSQKdOR1Vs3eFxHbrie5KHz+Jcr9w4CvzfVKhP6rkx+zDlL9i2G6+m+q5oz73bPOR/lnlNeLAZevlsUh3w87twuzKfRZv6niAhJMpTahDcZEy3IE1DYg7kiyFzHtDLXhhgCsx+kWo08J8tNndLzwIvMoYjSz515QGJzjq6tWOtMLR1HvzBtlKNQJM4fKD6LA3LLfy6lngM+scmFUQJKCyrSkRKh2fed+0c4MfrAzXnhP51137LVowQdmuODAv+MHPcSkj6eSoh0biAyTH87Hhldb7abh/lmvrU3j7uNPXu429gPi7ux/bibze82u4/u1v3V8n8X5uaUeyto8Jy6eqe45P0Hmrfkwg
+```
+# malcontent
+
+
+## Noun
+
+1. a person who is discontented or disgusted
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+	- More specific
+		- quibbler
+		- caviller
+		- caviler
+		- pettifogger
+		- sorehead
+		- squabbler
+	- Related
+		- disaffected
+		- ill-affected
+		- malcontent
+		- rebellious
+
+## Adjective
+
+1. discontented as toward authority
+	- Synonyms
+		- disaffected
+		- ill-affected
+		- rebellious
+	- Similar to
+		- discontented
+		- discontent
+	- Related
+		- rebellion
+		- rebellion
+		- insurrection
+		- revolt
+		- rising
+		- uprising
+		- defiance
+		- rebelliousness
+		- malcontent
+
+- [**malcontent** - LookUp](https://learnwithlookup.com/share/index.html?word=malcontent&definition=person%2520who%2520is%2520dissatisfied%2520and%2520rebellious&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtYWxjb250ZW50IiwiZGVmaW5pdGlvbiI6InBlcnNvbiB3aG8gaXMgZGlzc2F0aXNmaWVkIGFuZCByZWJlbGxpb3VzIn0%3D)
+Noun
+1.	a person who is dissatisfied and rebellious
+it was too late to stop the malcontents with a show of force
+
+
+Adjective
+1.	dissatisfied and complaining or making trouble
+the malcontent generals saw their role as leaders of this counterrevolution
+
+## Origin
+
+late 16th century: from French, from mal ‘badly, ill’ + content ‘pleased’
+
+## Wikipedia
+
+The malcontent is a character type that often appeared in early modern drama. The character is discontented with the social structure and other characters in the play, and is often an outsider who observes and comments on the action, and may even acknowledge they are in a play. Shakespeare's Richard III, Iago in Othello, and Jaques in As You Like It are typical malcontents.
+
+The role is usually both political and dramatic, with the malcontent voicing dissatisfaction with the usually Machiavellian political atmosphere and often using asides to build up a kind of self-consciousness and awareness of the text itself that other characters in the play lack.Important malcontents include Bosola in Webster's The Duchess of Malfi, Vindice in Middleton's The Revenger's Tragedy, Malevole in Marston's The Malcontent, and Hamlet in Shakespeare's Hamlet.
+
+The morality and sympathy of the malcontent is highly variable, as in the examples above. Sometimes, as in Hamlet and The Malcontent, they are the sympathetic centre of the play, whereas Iago is a very unsympathetic character. The most important thing about the malcontent is that the character is malcontent—unhappy, unsettled, displeased with the world of the play, eager to change it somehow, or to dispute with it.The malcontent is an objective or quasi-objective voice that comments on the play's concerns as though somehow above or beyond them. The concept has much to do with the Renaissance idea of humorism and a surfeit of "black bile" which caused melancholy.There is an ontological argument regarding Iago: if a malcontent is dissatisfied due to a displacement from their place in the social order, then Iago does not fit. His scheming and disaffection is not clearly motivated by resentment stemming from an injustice done to him.
+# malefic
+
+
+## Adjective
+
+1. having or exerting a malignant influence; “malevolent stars”; “a malefic force”
+	- Synonyms
+		- malevolent
+		- malign
+		- evil
+	- Similar to
+		- maleficent
+	- Related
+		- malignity
+		- malignancy
+		- malignance
+		- malevolence
+		- malevolency
+		- malice
+		- malevolence
+		- malevolency
+		- malice
+
+
+# malefic
+
+
+## Adjective
+
+1. having or exerting a malignant influence; “malevolent stars”; “a malefic force”
+	- Synonyms
+		- malevolent
+		- malign
+		- evil
+	- Similar to
+		- maleficent
+	- Related
+		- malignity
+		- malignancy
+		- malignance
+		- malevolence
+		- malevolency
+		- malice
+		- malevolence
+		- malevolency
+		- malice
+
+
+# malevolent
+
+
+## Adjective
+
+1. wishing or appearing to wish evil to others; arising from intense ill will or hatred; “a gossipy malevolent old woman”; “failure made him malevolent toward those who were successful”
+	- Similar to
+		- malicious
+	- Related
+		- malevolence
+		- malignity
+2. having or exerting a malignant influence; “malevolent stars”; “a malefic force”
+	- Synonyms
+		- malefic
+		- malign
+		- evil
+	- Similar to
+		- maleficent
+	- Related
+		- malignity
+		- malignancy
+		- malignance
+		- malevolence
+		- malevolency
+		- malice
+		- malevolence
+		- malevolency
+		- malice
+
+
+# malevolent
+
+
+## Adjective
+
+1. wishing or appearing to wish evil to others; arising from intense ill will or hatred; “a gossipy malevolent old woman”; “failure made him malevolent toward those who were successful”
+	- Similar to
+		- malicious
+	- Related
+		- malevolence
+		- malignity
+2. having or exerting a malignant influence; “malevolent stars”; “a malefic force”
+	- Synonyms
+		- malefic
+		- malign
+		- evil
+	- Similar to
+		- maleficent
+	- Related
+		- malignity
+		- malignancy
+		- malignance
+		- malevolence
+		- malevolency
+		- malice
+		- malevolence
+		- malevolency
+		- malice
+
+
+# maneuver
+
+
+## Noun
+
+1. a military training exercise
+	- Synonyms
+		- manoeuvre
+		- simulated military operation
+	- Less specific
+		- operation
+		- military operation
+	- Part of
+		- military training
+	- Related
+		- manoeuver
+		- maneuver
+		- manoeuvre
+		- operate
+		- manoeuver
+		- maneuver
+		- manoeuvre
+		- operate
+	- Topic Members
+		- military
+		- armed forces
+		- armed services
+		- military machine
+		- war machine
+2. a plan for attaining a particular goal
+	- Synonyms
+		- tactic
+		- tactics
+		- manoeuvre
+	- Less specific
+		- plan of action
+	- Related
+		- maneuver
+		- manoeuver
+		- manoeuvre
+		- tactical
+		- tactician
+		- tactical
+3. a deliberate coordinated movement requiring dexterity and skill; “he made a great maneuver”; “the runner was out on a play by the shortstop”
+	- Synonyms
+		- manoeuvre
+		- play
+	- Less specific
+		- motion
+		- movement
+		- move
+	- More specific
+		- takeaway
+		- figure
+		- completion
+		- pass completion
+		- ball hawking
+		- assist
+		- icing
+		- icing the puck
+		- jugglery
+		- obstruction
+		- baseball play
+		- footwork
+		- stroke
+		- shot
+		- safety blitz
+		- linebacker blitzing
+		- blitz
+		- mousetrap
+		- trap play
+	- Part of
+		- athletic game
+	- Related
+		- play
+		- play
+		- steer
+		- maneuver
+		- manoeuver
+		- manoeuvre
+		- direct
+		- point
+		- head
+		- guide
+		- channelize
+		- channelise
+4. a move made to gain a tactical end
+	- Synonyms
+		- manoeuvre
+		- tactical maneuver
+		- tactical manoeuvre
+	- Less specific
+		- move
+	- More specific
+		- parking
+		- device
+		- gimmick
+		- twist
+		- feint
+		- footwork
+		- ploy
+		- gambit
+		- stratagem
+		- ruse
+		- artifice
+		- measure
+		- step
+5. an action aimed at evading an opponent
+	- Synonyms
+		- manoeuvre
+		- evasive action
+	- Less specific
+		- evasion
+	- More specific
+		- clinch
+		- flight maneuver
+		- airplane maneuver
+		- straight-arm
+
+## Verb
+
+1. direct the course; determine the direction of travelling
+	- Synonyms
+		- steer
+		- manoeuver
+		- manoeuvre
+		- direct
+		- point
+		- head
+		- guide
+		- channelize
+		- channelise
+	- Less specific
+		- control
+		- command
+	- More specific
+		- dock
+		- sheer
+		- pull over
+		- helm
+		- crab
+		- navigate
+		- stand out
+		- starboard
+		- conn
+		- navigate
+		- pilot
+		- channel
+		- corner
+		- tree
+		- park
+	- Related
+		- channelization
+		- channelisation
+		- canalization
+		- canalisation
+		- usher
+		- guide
+		- guide
+		- forefront
+		- head
+		- head
+		- headway
+		- head
+		- bearing
+		- heading
+		- aim
+		- maneuver
+		- manoeuvre
+		- play
+		- maneuverable
+		- manoeuvrable
+		- maneuverer
+		- manoeuvrer
+		- helmsman
+		- steersman
+		- steerer
+		- steering
+		- steerage
+		- steering
+		- steerage
+		- guidance
+		- steering
+2. act in order to achieve a certain goal; “He maneuvered to get the chairmanship”; “She maneuvered herself into the directorship”
+	- Synonyms
+		- manoeuver
+		- manoeuvre
+	- Less specific
+		- act
+		- move
+	- Related
+		- tactic
+		- tactics
+		- maneuver
+		- manoeuvre
+3. perform a movement in military or naval tactics in order to secure an advantage in attack or defense
+	- Synonyms
+		- manoeuver
+		- manoeuvre
+		- operate
+	- Less specific
+		- move
+		- go
+	- More specific
+		- jockey
+	- Related
+		- operation
+		- military operation
+		- maneuver
+		- manoeuvre
+		- simulated military operation
+		- maneuver
+		- manoeuvre
+		- simulated military operation
+
+*From *LookUp*
+
+maneuvers
+Noun
+1.	a movement or series of moves requiring skill and care
+spectacular jumps and other daring maneuvers
+
+a carefully planned scheme or action, especially one involving deception
+shady financial maneuvers
+
+the fact or process of taking carefully planned or deceptive action
+the economic policy provided no room for maneuver
+
+2.	Military "maneuvers" a large-scale military exercise of troops, warships, and other forces
+the vessel was on maneuvers
+
+
+Verb
+1.	move skillfully or carefully
+the truck was unable to maneuver comfortably in the narrow street | I'm maneuvering a loaded tray around the floor
+
+2.	[with object and adverbial] carefully guide or manipulate (someone or something) in order to achieve an end
+they were maneuvering him into a betrayal of his countryman
+
+[no object] carefully manipulate a situation to achieve an end
+two decades of political maneuvering
+# maneuver
+
+
+## Noun
+
+1. a military training exercise
+	- Synonyms
+		- manoeuvre
+		- simulated military operation
+	- Less specific
+		- operation
+		- military operation
+	- Part of
+		- military training
+	- Related
+		- manoeuver
+		- maneuver
+		- manoeuvre
+		- operate
+		- manoeuver
+		- maneuver
+		- manoeuvre
+		- operate
+	- Topic Members
+		- military
+		- armed forces
+		- armed services
+		- military machine
+		- war machine
+2. a plan for attaining a particular goal
+	- Synonyms
+		- tactic
+		- tactics
+		- manoeuvre
+	- Less specific
+		- plan of action
+	- Related
+		- maneuver
+		- manoeuver
+		- manoeuvre
+		- tactical
+		- tactician
+		- tactical
+3. a deliberate coordinated movement requiring dexterity and skill; “he made a great maneuver”; “the runner was out on a play by the shortstop”
+	- Synonyms
+		- manoeuvre
+		- play
+	- Less specific
+		- motion
+		- movement
+		- move
+	- More specific
+		- takeaway
+		- figure
+		- completion
+		- pass completion
+		- ball hawking
+		- assist
+		- icing
+		- icing the puck
+		- jugglery
+		- obstruction
+		- baseball play
+		- footwork
+		- stroke
+		- shot
+		- safety blitz
+		- linebacker blitzing
+		- blitz
+		- mousetrap
+		- trap play
+	- Part of
+		- athletic game
+	- Related
+		- play
+		- play
+		- steer
+		- maneuver
+		- manoeuver
+		- manoeuvre
+		- direct
+		- point
+		- head
+		- guide
+		- channelize
+		- channelise
+4. a move made to gain a tactical end
+	- Synonyms
+		- manoeuvre
+		- tactical maneuver
+		- tactical manoeuvre
+	- Less specific
+		- move
+	- More specific
+		- parking
+		- device
+		- gimmick
+		- twist
+		- feint
+		- footwork
+		- ploy
+		- gambit
+		- stratagem
+		- ruse
+		- artifice
+		- measure
+		- step
+5. an action aimed at evading an opponent
+	- Synonyms
+		- manoeuvre
+		- evasive action
+	- Less specific
+		- evasion
+	- More specific
+		- clinch
+		- flight maneuver
+		- airplane maneuver
+		- straight-arm
+
+## Verb
+
+1. direct the course; determine the direction of travelling
+	- Synonyms
+		- steer
+		- manoeuver
+		- manoeuvre
+		- direct
+		- point
+		- head
+		- guide
+		- channelize
+		- channelise
+	- Less specific
+		- control
+		- command
+	- More specific
+		- dock
+		- sheer
+		- pull over
+		- helm
+		- crab
+		- navigate
+		- stand out
+		- starboard
+		- conn
+		- navigate
+		- pilot
+		- channel
+		- corner
+		- tree
+		- park
+	- Related
+		- channelization
+		- channelisation
+		- canalization
+		- canalisation
+		- usher
+		- guide
+		- guide
+		- forefront
+		- head
+		- head
+		- headway
+		- head
+		- bearing
+		- heading
+		- aim
+		- maneuver
+		- manoeuvre
+		- play
+		- maneuverable
+		- manoeuvrable
+		- maneuverer
+		- manoeuvrer
+		- helmsman
+		- steersman
+		- steerer
+		- steering
+		- steerage
+		- steering
+		- steerage
+		- guidance
+		- steering
+2. act in order to achieve a certain goal; “He maneuvered to get the chairmanship”; “She maneuvered herself into the directorship”
+	- Synonyms
+		- manoeuver
+		- manoeuvre
+	- Less specific
+		- act
+		- move
+	- Related
+		- tactic
+		- tactics
+		- maneuver
+		- manoeuvre
+3. perform a movement in military or naval tactics in order to secure an advantage in attack or defense
+	- Synonyms
+		- manoeuver
+		- manoeuvre
+		- operate
+	- Less specific
+		- move
+		- go
+	- More specific
+		- jockey
+	- Related
+		- operation
+		- military operation
+		- maneuver
+		- manoeuvre
+		- simulated military operation
+		- maneuver
+		- manoeuvre
+		- simulated military operation
+
+*From *LookUp*
+
+maneuvers
+Noun
+1.	a movement or series of moves requiring skill and care
+spectacular jumps and other daring maneuvers
+
+a carefully planned scheme or action, especially one involving deception
+shady financial maneuvers
+
+the fact or process of taking carefully planned or deceptive action
+the economic policy provided no room for maneuver
+
+2.	Military "maneuvers" a large-scale military exercise of troops, warships, and other forces
+the vessel was on maneuvers
+
+
+Verb
+1.	move skillfully or carefully
+the truck was unable to maneuver comfortably in the narrow street | I'm maneuvering a loaded tray around the floor
+
+2.	[with object and adverbial] carefully guide or manipulate (someone or something) in order to achieve an end
+they were maneuvering him into a betrayal of his countryman
+
+[no object] carefully manipulate a situation to achieve an end
+two decades of political maneuvering
 # marginalia
 
 
@@ -2940,7 +23120,901 @@ Of or pertaining to Madagascar or its inhabitants.
 		- scholia
 
 
-===
+# marginalia
+
+
+## Noun
+
+1. notes written in the margin
+	- Less specific
+		- note
+	- More specific
+		- scholium
+		- scholia
+
+
+# markedly
+
+
+## Adverb
+
+1. in a clearly noticeable manner; “sales of luxury cars dropped markedly”
+	- Pertains to
+		- marked
+		- pronounced
+
+
+# markedly
+
+
+## Adverb
+
+1. in a clearly noticeable manner; “sales of luxury cars dropped markedly”
+	- Pertains to
+		- marked
+		- pronounced
+
+
+# matrilineal
+
+
+## Adjective
+
+1. based on or tracing descent through the female line; “matrilineal inheritance”
+	- Synonyms
+		- matrilinear
+	- Similar to
+		- lineal
+		- direct
+
+
+# matrilineal
+
+
+## Adjective
+
+1. based on or tracing descent through the female line; “matrilineal inheritance”
+	- Synonyms
+		- matrilinear
+	- Similar to
+		- lineal
+		- direct
+
+
+# maw
+
+![maw LookUp](https://i.snap.as/epg8nvJf.png)
+
+## Noun
+
+1. informal terms for the mouth
+	- Synonyms
+		- trap
+		- cakehole
+		- hole
+		- yap
+		- gob
+	- Less specific
+		- mouth
+		- oral cavity
+		- oral fissure
+		- rima oris
+
+*From LookUp*:
+Noun
+1.	the jaws or throat of a voracious animal
+a gigantic wolfhound with a fearful, gaping maw
+
+Informal the mouth or gullet of a greedy person
+I was cramming large pieces of toast and cheese down my maw
+# maw
+
+![maw LookUp](https://i.snap.as/epg8nvJf.png)
+
+## Noun
+
+1. informal terms for the mouth
+	- Synonyms
+		- trap
+		- cakehole
+		- hole
+		- yap
+		- gob
+	- Less specific
+		- mouth
+		- oral cavity
+		- oral fissure
+		- rima oris
+
+*From LookUp*:
+Noun
+1.	the jaws or throat of a voracious animal
+a gigantic wolfhound with a fearful, gaping maw
+
+Informal the mouth or gullet of a greedy person
+I was cramming large pieces of toast and cheese down my maw
+# mawkish
+
+
+## Adjective
+
+1. effusively or insincerely emotional; “a bathetic novel”; “maudlin expressions of sympathy”; “mushy effusiveness”; “a schmaltzy song”; “sentimental soap operas”; “slushy poetry”
+	- Synonyms
+		- bathetic
+		- drippy
+		- hokey
+		- maudlin
+		- kitschy
+		- mushy
+		- schmaltzy
+		- schmalzy
+		- sentimental
+		- sappy
+		- soppy
+		- soupy
+		- slushy
+	- Similar to
+		- emotional
+	- Related
+		- sentiment
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+		- mawkishness
+		- bathos
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+
+
+# mawkish
+
+
+## Adjective
+
+1. effusively or insincerely emotional; “a bathetic novel”; “maudlin expressions of sympathy”; “mushy effusiveness”; “a schmaltzy song”; “sentimental soap operas”; “slushy poetry”
+	- Synonyms
+		- bathetic
+		- drippy
+		- hokey
+		- maudlin
+		- kitschy
+		- mushy
+		- schmaltzy
+		- schmalzy
+		- sentimental
+		- sappy
+		- soppy
+		- soupy
+		- slushy
+	- Similar to
+		- emotional
+	- Related
+		- sentiment
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+		- mawkishness
+		- bathos
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+		- mawkishness
+		- sentimentality
+		- drippiness
+		- mushiness
+		- soupiness
+		- sloppiness
+
+
+# meliorism
+
+
+## Noun
+
+1. the belief that the world can be made better by human effort
+	- Less specific
+		- belief
+	- Related
+		- reformer
+		- reformist
+		- crusader
+		- social reformer
+		- meliorist
+
+- [**meliorism** - LookUp](https://learnwithlookup.com/share/index.html?word=meliorism&definition=belief%2520that%2520world%2520can%2520be%2520made%2520better%2520by%2520human%2520effort&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtZWxpb3Jpc20iLCJkZWZpbml0aW9uIjoiYmVsaWVmIHRoYXQgd29ybGQgY2FuIGJlIG1hZGUgYmV0dGVyIGJ5IGh1bWFuIGVmZm9ydCJ9)
+
+## Wiki
+Meliorism (Latin melior, better) is the idea that progress is a real concept leading to an improvement of the world. It holds that humans can, through their interference with processes that would otherwise be natural, produce an outcome which is an improvement over the aforementioned natural one.
+
+Meliorism, as a conception of the person and society, is at the foundation of contemporary liberal democracy and human rights and is a basic component of liberalism.Another important understanding of the meliorist tradition comes from the American Pragmatic tradition.  One can read about it in the works of Lester Frank Ward, William James, and John Dewey. In James' works, however, meliorism does not pinpoint to progressivism and/or optimism. For James   meliorism stands in the middle between optimism and pessimism, and treats the salvation of the world as a probability rather than a certainty or impossibility. In the case of a meliorist praxis, the activist contemporary of the Pragmatists Jane Addams  stripped progressive ideals of any elitist privilege calling for a "lateral progress" whose concern was squarely with the common people.Meliorism has also been used by Arthur Caplan to describe positions in bioethics that are in favor of ameliorating conditions which cause suffering, even if the conditions have long existed (e.g. being in favor of cures for common diseases, being in favor of serious anti-aging therapies as they are developed).
+
+A closely related concept discussed by Jean-Jacques Rousseau and Marquis de Condorcet is that of perfectibility of man. 
+
+Condorcet's statement, "Such is the object of the work I have undertaken; the result of which will be to show, from reasoning and from facts, that no bounds have been fixed to the improvement of the human faculties; that the perfectibility of man is absolutely indefinite; that the progress of this perfectibility, henceforth above the control of every power that would impede it, has no other limit than the duration of the globe upon which nature has placed us." anticipates James' meliorism.
+
+Rousseau's treatment is somewhat weaker.Modern thinkers in this tradition are Hans Rosling and Max Roser. Roser expressed a melioristic position in the mission statement for Our World in Data. He said that all three statements are true at the same time "The world is much better. The world is awful. The world can be much better." Like William James before him Rosling held a halfway position between optimism and pessimism that emphasized humanity's capacity to improve their world.
+# meliorism
+
+
+## Noun
+
+1. the belief that the world can be made better by human effort
+	- Less specific
+		- belief
+	- Related
+		- reformer
+		- reformist
+		- crusader
+		- social reformer
+		- meliorist
+
+- [**meliorism** - LookUp](https://learnwithlookup.com/share/index.html?word=meliorism&definition=belief%2520that%2520world%2520can%2520be%2520made%2520better%2520by%2520human%2520effort&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtZWxpb3Jpc20iLCJkZWZpbml0aW9uIjoiYmVsaWVmIHRoYXQgd29ybGQgY2FuIGJlIG1hZGUgYmV0dGVyIGJ5IGh1bWFuIGVmZm9ydCJ9)
+
+## Wiki
+Meliorism (Latin melior, better) is the idea that progress is a real concept leading to an improvement of the world. It holds that humans can, through their interference with processes that would otherwise be natural, produce an outcome which is an improvement over the aforementioned natural one.
+
+Meliorism, as a conception of the person and society, is at the foundation of contemporary liberal democracy and human rights and is a basic component of liberalism.Another important understanding of the meliorist tradition comes from the American Pragmatic tradition.  One can read about it in the works of Lester Frank Ward, William James, and John Dewey. In James' works, however, meliorism does not pinpoint to progressivism and/or optimism. For James   meliorism stands in the middle between optimism and pessimism, and treats the salvation of the world as a probability rather than a certainty or impossibility. In the case of a meliorist praxis, the activist contemporary of the Pragmatists Jane Addams  stripped progressive ideals of any elitist privilege calling for a "lateral progress" whose concern was squarely with the common people.Meliorism has also been used by Arthur Caplan to describe positions in bioethics that are in favor of ameliorating conditions which cause suffering, even if the conditions have long existed (e.g. being in favor of cures for common diseases, being in favor of serious anti-aging therapies as they are developed).
+
+A closely related concept discussed by Jean-Jacques Rousseau and Marquis de Condorcet is that of perfectibility of man. 
+
+Condorcet's statement, "Such is the object of the work I have undertaken; the result of which will be to show, from reasoning and from facts, that no bounds have been fixed to the improvement of the human faculties; that the perfectibility of man is absolutely indefinite; that the progress of this perfectibility, henceforth above the control of every power that would impede it, has no other limit than the duration of the globe upon which nature has placed us." anticipates James' meliorism.
+
+Rousseau's treatment is somewhat weaker.Modern thinkers in this tradition are Hans Rosling and Max Roser. Roser expressed a melioristic position in the mission statement for Our World in Data. He said that all three statements are true at the same time "The world is much better. The world is awful. The world can be much better." Like William James before him Rosling held a halfway position between optimism and pessimism that emphasized humanity's capacity to improve their world.
+# meme
+
+
+## Noun
+
+1. a cultural unit (an idea or value or pattern of behavior) that is passed from one person to another by non-genetic means (as by imitation); “memes are the cultural counterpart of genes”
+	- Less specific
+		- acculturation
+		- culture
+	- Topic Members
+		- biology
+		- biological science
+
+*From LookUp*:
+Noun
+1.	Computing an image, video, piece of text, etc., typically humorous in nature, that is copied and spread rapidly by internet users, often with slight variations
+celebrity gossip and memes often originate on the site | the concept originally started as an internet meme
+
+2.	Sociology an element of a culture or system of behavior passed from one individual to another by imitation or other nongenetic means.
+
+
+Verb
+1.	Computing create an internet meme from (an image, video, piece of text, etc.)
+there's always one audience reaction shot at the Oscars that gets memed | on social media she was mocked and memed
+# meme
+
+
+## Noun
+
+1. a cultural unit (an idea or value or pattern of behavior) that is passed from one person to another by non-genetic means (as by imitation); “memes are the cultural counterpart of genes”
+	- Less specific
+		- acculturation
+		- culture
+	- Topic Members
+		- biology
+		- biological science
+
+*From LookUp*:
+Noun
+1.	Computing an image, video, piece of text, etc., typically humorous in nature, that is copied and spread rapidly by internet users, often with slight variations
+celebrity gossip and memes often originate on the site | the concept originally started as an internet meme
+
+2.	Sociology an element of a culture or system of behavior passed from one individual to another by imitation or other nongenetic means.
+
+
+Verb
+1.	Computing create an internet meme from (an image, video, piece of text, etc.)
+there's always one audience reaction shot at the Oscars that gets memed | on social media she was mocked and memed
+# Merriam-Webster Saved Words
+
+
+- [Aesthete Definition &amp; Meaning - Merriam-Webster]([Aesthete Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/aesthete))
+- [Affable Definition &amp; Meaning - Merriam-Webster]([Affable Definition &amp; Meaning - Merriam-Webster]([Affable Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/affable)))
+- [Apologia Definition &amp; Meaning - Merriam-Webster]([Apologia Definition &amp; Meaning - Merriam-Webster]([Apologia Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/apologia)))
+- [Archon Definition &amp; Meaning - Merriam-Webster]([Archon Definition &amp; Meaning - Merriam-Webster]([Archon Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/archon)))
+- [Asinine Definition &amp; Meaning - Merriam-Webster]([Asinine Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/asinine))
+- [Atavism Definition &amp; Meaning - Merriam-Webster]([Atavism Definition &amp; Meaning - Merriam-Webster]([Atavism Definition &amp; Meaning - Merriam-Webster]([Atavism Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/atavism))))
+- [Bamboozle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bamboozle)
+- [Bemuse Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bemuse)
+- [Imprimatur Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/imprimatur)
+- [Misimprove Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/misimprove)
+- [Mollify Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/mollify)
+- [Quip Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/quip)
+- [Salt Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/salt) junk
+- [Voluble Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/voluble)
+- [Winsome Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/winsome)
+- [Ziggurat Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/ziggurat)
+- [Antwerp Definition &amp; Meaning - Merriam-Webster]([Antwerp Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/Antwerp))
+- https://www.merriam-webster.com/dictionary/aesthete
+- https://www.merriam-webster.com/dictionary/affable
+- https://www.merriam-webster.com/dictionary/apologia
+- https://www.merriam-webster.com/dictionary/archon
+- https://www.merriam-webster.com/dictionary/asinine
+- https://www.merriam-webster.com/dictionary/atavism
+- [Banal Definition &amp; Meaning - Merriam-Webster]([Banal Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/banal))
+- [Banality Definition &amp; Meaning - Merriam-Webster]([Banality Definition &amp; Meaning - Merriam-Webster]([Banality Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/banality)))
+- [Bauble Definition &amp; Meaning - Merriam-Webster]([Bauble Definition &amp; Meaning - Merriam-Webster]([Bauble Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bauble)))
+- [Bemoan Definition &amp; Meaning - Merriam-Webster]([Bemoan Definition &amp; Meaning - Merriam-Webster]([Bemoan Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bemoan)))
+- [Benthic Definition &amp; Meaning - Merriam-Webster]([Benthic Definition &amp; Meaning - Merriam-Webster]([Benthic Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/benthic)))
+- [Bibelot Definition &amp; Meaning - Merriam-Webster]([Bibelot Definition &amp; Meaning - Merriam-Webster]([Bibelot Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bibelot)))
+- [Bijou Definition &amp; Meaning - Merriam-Webster]([Bijou Definition &amp; Meaning - Merriam-Webster]([Bijou Definition &amp; Meaning - Merriam-Webster]([Bijou Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bijou))))
+- [Bilge Definition &amp; Meaning - Merriam-Webster]([Bilge Definition &amp; Meaning - Merriam-Webster]([Bilge Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bilge)))
+- [undefined]([undefined]([undefined]([undefined]([undefined](https://www.merriam-webster.com/dictionary/blasé)))))
+- https://www.merriam-webster.com/dictionary/Antwerp
+- https://www.merriam-webster.com/dictionary/affable
+- [Anodyne Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/anodyne)
+- [Anomaly Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/anomaly)
+- https://www.merriam-webster.com/dictionary/apologia
+- https://www.merriam-webster.com/dictionary/archon
+- https://www.merriam-webster.com/dictionary/atavism
+- [Au Definition &amp; Meaning - Merriam-Webster]([Au Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/au)) courant
+- https://www.merriam-webster.com/dictionary/banal
+- https://www.merriam-webster.com/dictionary/banality
+- https://www.merriam-webster.com/dictionary/bauble
+- [Belletrist Definition &amp; Meaning - Merriam-Webster]([Belletrist Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/belletrist))
+- https://www.merriam-webster.com/dictionary/bemoan
+- https://www.merriam-webster.com/dictionary/benthic
+- https://www.merriam-webster.com/dictionary/bijou
+- https://www.merriam-webster.com/dictionary/blasé
+- https://www.merriam-webster.com/dictionary/atavism
+- https://www.merriam-webster.com/dictionary/au courant
+- https://www.merriam-webster.com/dictionary/banality
+- https://www.merriam-webster.com/dictionary/bauble
+- https://www.merriam-webster.com/dictionary/belletrist
+- https://www.merriam-webster.com/dictionary/bemoan
+- https://www.merriam-webster.com/dictionary/benthic
+- https://www.merriam-webster.com/dictionary/bibelot
+- https://www.merriam-webster.com/dictionary/bijou
+- https://www.merriam-webster.com/dictionary/bilge
+- https://www.merriam-webster.com/dictionary/blasé
+- [Boilerplate Definition &amp; Meaning - Merriam-Webster]([Boilerplate Definition &amp; Meaning - Merriam-Webster]([Boilerplate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/boilerplate)))
+- [Borked Definition &amp; Meaning - Merriam-Webster]([Borked Definition &amp; Meaning - Merriam-Webster]([Borked Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/borked)))
+- [Bowdlerize Definition &amp; Meaning - Merriam-Webster]([Bowdlerize Definition &amp; Meaning - Merriam-Webster]([Bowdlerize Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bowdlerize)))
+- [Bruit Definition &amp; Meaning - Merriam-Webster]([Bruit Definition &amp; Meaning - Merriam-Webster]([Bruit Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bruit)))
+- [Bumbershoot Definition &amp; Meaning - Merriam-Webster]([Bumbershoot Definition &amp; Meaning - Merriam-Webster]([Bumbershoot Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bumbershoot)))
+- https://www.merriam-webster.com/dictionary/bibelot
+- https://www.merriam-webster.com/dictionary/bijou
+- https://www.merriam-webster.com/dictionary/bilge
+- https://www.merriam-webster.com/dictionary/blasé
+- https://www.merriam-webster.com/dictionary/boilerplate
+- https://www.merriam-webster.com/dictionary/borked
+- https://www.merriam-webster.com/dictionary/bowdlerize
+- https://www.merriam-webster.com/dictionary/bruit
+- [Bugbear Definition &amp; Meaning - Merriam-Webster]([Bugbear Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bugbear))
+- https://www.merriam-webster.com/dictionary/bumbershoot
+- [Bumptious Definition &amp; Meaning - Merriam-Webster]([Bumptious Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bumptious))
+- [Buttonhole Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/buttonhole)
+- [Cahoot Definition &amp; Meaning - Merriam-Webster]([Cahoot Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/cahoot))
+- [Capitulate Definition &amp; Meaning - Merriam-Webster]([Capitulate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/capitulate))
+- [Caste Definition &amp; Meaning - Merriam-Webster]([Caste Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/caste))
+- [Chouse Definition &amp; Meaning - Merriam-Webster]([Chouse Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/chouse))
+- https://www.merriam-webster.com/dictionary/blasé
+- https://www.merriam-webster.com/dictionary/boilerplate
+- https://www.merriam-webster.com/dictionary/borked
+- https://www.merriam-webster.com/dictionary/bowdlerize
+- [Bricolage Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bricolage)
+- https://www.merriam-webster.com/dictionary/bruit
+- https://www.merriam-webster.com/dictionary/bugbear
+- https://www.merriam-webster.com/dictionary/bumbershoot
+- https://www.merriam-webster.com/dictionary/bumptious
+- https://www.merriam-webster.com/dictionary/cahoot
+- https://www.merriam-webster.com/dictionary/capitulate
+- [Carceral Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/carceral)
+- https://www.merriam-webster.com/dictionary/caste
+- [Choler Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/choler)
+- https://www.merriam-webster.com/dictionary/chouse
+- [Cudgel Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/cudgel)
+- [Inveigle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/inveigle)
+- [Jeremiad Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jeremiad)
+- [Jibe Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jibe)
+- [Jink Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jink)
+- [Jostle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jostle)
+- [Kettle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/kettle) of fish
+- [Kvell Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/kvell)
+- [Lachrymose Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/lachrymose)
+- [Lexical Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/lexical)
+- [Malfeasance Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/malfeasance)
+- [Metonymy Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/metonymy)
+- [Miasma Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/miasma)
+- [Milquetoast Definition &amp; Meaning - Merriam-Webster]([Milquetoast Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/milquetoast))
+- [Minatory Definition &amp; Meaning - Merriam-Webster]([Minatory Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/minatory))
+- [NIMBY Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/NIMBY)
+- https://www.merriam-webster.com/dictionary/milquetoast
+- https://www.merriam-webster.com/dictionary/minatory
+- [Misbegotten Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/misbegotten)
+- [Morass Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/morass)
+- [Moribund Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/moribund)
+- [Navel-gazing Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/navel-gazing)
+- [Neologism Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/neologism)
+- [Obfuscate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/obfuscate)
+- [Obsequious Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/obsequious)
+- [Oeuvre Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/oeuvre)
+- [Onomatopoeia Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/onomatopoeia)
+- [Ossify Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/ossify)
+- [Oviparity Definition &amp; Meaning | Merriam-Webster Medical](https://www.merriam-webster.com/dictionary/oviparity)
+- [Oviparous Definition &amp; Meaning - Merriam-Webster]([Oviparous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/oviparous))
+- [Palimpsest Definition &amp; Meaning - Merriam-Webster]([Palimpsest Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/palimpsest))
+- ttps://www.merriam-webster.com/dictionary/Pollyanna
+- https://www.merriam-webster.com/dictionary/oviparous
+- https://www.merriam-webster.com/dictionary/palimpsest
+- [Palliative Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/palliative)
+- [Panopticon Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/panopticon)
+- [Pernicious Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pernicious)
+- [Peroration Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/peroration)
+- [Piquant Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/piquant)
+- [Plaudit Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/plaudit)
+- [Pogrom Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pogrom)
+- [Pontificate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pontificate)
+- [Portmanteau Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/portmanteau)
+- [Praecognitum Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/praecognitum)
+- [Prescience Definition &amp; Meaning - Merriam-Webster]([Prescience Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/prescience))
+- [Prelapsarian Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/prelapsarian)
+- https://www.merriam-webster.com/dictionary/prescience
+- [Presuppose Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/presuppose)
+- [Procrustean Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/procrustean)
+- [Profligate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/profligate)
+- [Prothalamion Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/prothalamion)
+- [Pulchritude Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pulchritude)
+- [Quotidian Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/quotidian)
+- [Raison | Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/raison) d’être
+- [Refusenik Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/refusenik)
+- [Render Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/render)
+- [Roister Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/roister)
+- [Rookery Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/rookery)
+- [Sartorial Definition &amp; Meaning - Merriam-Webster]([Sartorial Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/sartorial))
+- https://www.merriam-webster.com/dictionary/sartorial
+- [Skeigh Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/skeigh)
+- [Smorgasbord Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/smorgasbord)
+- [Sobriquet Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/sobriquet)
+- [Syllabic Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/syllabic)
+- [Syllabify Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/syllabify)
+- [Trepidation Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/trepidation)
+- [Tripartite Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/tripartite)
+- [Turbid Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/turbid)
+- [Ubiquitous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/ubiquitous)
+- [Umbrage Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/umbrage)
+- [Unctuous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/unctuous)
+- [Undulant Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/undulant)
+- [Unmet Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/unmet)
+- [Valence Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/valence)
+- [Verbose Definition &amp; Meaning - Merriam-Webster]([Verbose Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/verbose))
+- [Hobnob Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/hobnob)
+- [Umpteen Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/umpteen)
+- [Verbiage Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/verbiage)
+- https://www.merriam-webster.com/dictionary/verbose
+- [Verity Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/verity)
+- [Vestigial Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/vestigial)
+- [Violate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/violate)
+- [Vociferous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/vociferous)
+- [Whilom Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/whilom)
+- [Williwaw Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/williwaw)
+- [Zaftig Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/zaftig)
+# Merriam-Webster Saved Words
+
+
+- [Aesthete Definition &amp; Meaning - Merriam-Webster]([Aesthete Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/aesthete))
+- [Affable Definition &amp; Meaning - Merriam-Webster]([Affable Definition &amp; Meaning - Merriam-Webster]([Affable Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/affable)))
+- [Apologia Definition &amp; Meaning - Merriam-Webster]([Apologia Definition &amp; Meaning - Merriam-Webster]([Apologia Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/apologia)))
+- [Archon Definition &amp; Meaning - Merriam-Webster]([Archon Definition &amp; Meaning - Merriam-Webster]([Archon Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/archon)))
+- [Asinine Definition &amp; Meaning - Merriam-Webster]([Asinine Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/asinine))
+- [Atavism Definition &amp; Meaning - Merriam-Webster]([Atavism Definition &amp; Meaning - Merriam-Webster]([Atavism Definition &amp; Meaning - Merriam-Webster]([Atavism Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/atavism))))
+- [Bamboozle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bamboozle)
+- [Bemuse Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bemuse)
+- [Imprimatur Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/imprimatur)
+- [Misimprove Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/misimprove)
+- [Mollify Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/mollify)
+- [Quip Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/quip)
+- [Salt Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/salt) junk
+- [Voluble Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/voluble)
+- [Winsome Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/winsome)
+- [Ziggurat Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/ziggurat)
+- [Antwerp Definition &amp; Meaning - Merriam-Webster]([Antwerp Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/Antwerp))
+- https://www.merriam-webster.com/dictionary/aesthete
+- https://www.merriam-webster.com/dictionary/affable
+- https://www.merriam-webster.com/dictionary/apologia
+- https://www.merriam-webster.com/dictionary/archon
+- https://www.merriam-webster.com/dictionary/asinine
+- https://www.merriam-webster.com/dictionary/atavism
+- [Banal Definition &amp; Meaning - Merriam-Webster]([Banal Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/banal))
+- [Banality Definition &amp; Meaning - Merriam-Webster]([Banality Definition &amp; Meaning - Merriam-Webster]([Banality Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/banality)))
+- [Bauble Definition &amp; Meaning - Merriam-Webster]([Bauble Definition &amp; Meaning - Merriam-Webster]([Bauble Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bauble)))
+- [Bemoan Definition &amp; Meaning - Merriam-Webster]([Bemoan Definition &amp; Meaning - Merriam-Webster]([Bemoan Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bemoan)))
+- [Benthic Definition &amp; Meaning - Merriam-Webster]([Benthic Definition &amp; Meaning - Merriam-Webster]([Benthic Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/benthic)))
+- [Bibelot Definition &amp; Meaning - Merriam-Webster]([Bibelot Definition &amp; Meaning - Merriam-Webster]([Bibelot Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bibelot)))
+- [Bijou Definition &amp; Meaning - Merriam-Webster]([Bijou Definition &amp; Meaning - Merriam-Webster]([Bijou Definition &amp; Meaning - Merriam-Webster]([Bijou Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bijou))))
+- [Bilge Definition &amp; Meaning - Merriam-Webster]([Bilge Definition &amp; Meaning - Merriam-Webster]([Bilge Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bilge)))
+- [undefined]([undefined]([undefined]([undefined]([undefined](https://www.merriam-webster.com/dictionary/blasé)))))
+- https://www.merriam-webster.com/dictionary/Antwerp
+- https://www.merriam-webster.com/dictionary/affable
+- [Anodyne Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/anodyne)
+- [Anomaly Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/anomaly)
+- https://www.merriam-webster.com/dictionary/apologia
+- https://www.merriam-webster.com/dictionary/archon
+- https://www.merriam-webster.com/dictionary/atavism
+- [Au Definition &amp; Meaning - Merriam-Webster]([Au Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/au)) courant
+- https://www.merriam-webster.com/dictionary/banal
+- https://www.merriam-webster.com/dictionary/banality
+- https://www.merriam-webster.com/dictionary/bauble
+- [Belletrist Definition &amp; Meaning - Merriam-Webster]([Belletrist Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/belletrist))
+- https://www.merriam-webster.com/dictionary/bemoan
+- https://www.merriam-webster.com/dictionary/benthic
+- https://www.merriam-webster.com/dictionary/bijou
+- https://www.merriam-webster.com/dictionary/blasé
+- https://www.merriam-webster.com/dictionary/atavism
+- https://www.merriam-webster.com/dictionary/au courant
+- https://www.merriam-webster.com/dictionary/banality
+- https://www.merriam-webster.com/dictionary/bauble
+- https://www.merriam-webster.com/dictionary/belletrist
+- https://www.merriam-webster.com/dictionary/bemoan
+- https://www.merriam-webster.com/dictionary/benthic
+- https://www.merriam-webster.com/dictionary/bibelot
+- https://www.merriam-webster.com/dictionary/bijou
+- https://www.merriam-webster.com/dictionary/bilge
+- https://www.merriam-webster.com/dictionary/blasé
+- [Boilerplate Definition &amp; Meaning - Merriam-Webster]([Boilerplate Definition &amp; Meaning - Merriam-Webster]([Boilerplate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/boilerplate)))
+- [Borked Definition &amp; Meaning - Merriam-Webster]([Borked Definition &amp; Meaning - Merriam-Webster]([Borked Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/borked)))
+- [Bowdlerize Definition &amp; Meaning - Merriam-Webster]([Bowdlerize Definition &amp; Meaning - Merriam-Webster]([Bowdlerize Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bowdlerize)))
+- [Bruit Definition &amp; Meaning - Merriam-Webster]([Bruit Definition &amp; Meaning - Merriam-Webster]([Bruit Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bruit)))
+- [Bumbershoot Definition &amp; Meaning - Merriam-Webster]([Bumbershoot Definition &amp; Meaning - Merriam-Webster]([Bumbershoot Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bumbershoot)))
+- https://www.merriam-webster.com/dictionary/bibelot
+- https://www.merriam-webster.com/dictionary/bijou
+- https://www.merriam-webster.com/dictionary/bilge
+- https://www.merriam-webster.com/dictionary/blasé
+- https://www.merriam-webster.com/dictionary/boilerplate
+- https://www.merriam-webster.com/dictionary/borked
+- https://www.merriam-webster.com/dictionary/bowdlerize
+- https://www.merriam-webster.com/dictionary/bruit
+- [Bugbear Definition &amp; Meaning - Merriam-Webster]([Bugbear Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bugbear))
+- https://www.merriam-webster.com/dictionary/bumbershoot
+- [Bumptious Definition &amp; Meaning - Merriam-Webster]([Bumptious Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bumptious))
+- [Buttonhole Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/buttonhole)
+- [Cahoot Definition &amp; Meaning - Merriam-Webster]([Cahoot Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/cahoot))
+- [Capitulate Definition &amp; Meaning - Merriam-Webster]([Capitulate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/capitulate))
+- [Caste Definition &amp; Meaning - Merriam-Webster]([Caste Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/caste))
+- [Chouse Definition &amp; Meaning - Merriam-Webster]([Chouse Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/chouse))
+- https://www.merriam-webster.com/dictionary/blasé
+- https://www.merriam-webster.com/dictionary/boilerplate
+- https://www.merriam-webster.com/dictionary/borked
+- https://www.merriam-webster.com/dictionary/bowdlerize
+- [Bricolage Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/bricolage)
+- https://www.merriam-webster.com/dictionary/bruit
+- https://www.merriam-webster.com/dictionary/bugbear
+- https://www.merriam-webster.com/dictionary/bumbershoot
+- https://www.merriam-webster.com/dictionary/bumptious
+- https://www.merriam-webster.com/dictionary/cahoot
+- https://www.merriam-webster.com/dictionary/capitulate
+- [Carceral Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/carceral)
+- https://www.merriam-webster.com/dictionary/caste
+- [Choler Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/choler)
+- https://www.merriam-webster.com/dictionary/chouse
+- [Cudgel Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/cudgel)
+- [Inveigle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/inveigle)
+- [Jeremiad Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jeremiad)
+- [Jibe Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jibe)
+- [Jink Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jink)
+- [Jostle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/jostle)
+- [Kettle Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/kettle) of fish
+- [Kvell Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/kvell)
+- [Lachrymose Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/lachrymose)
+- [Lexical Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/lexical)
+- [Malfeasance Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/malfeasance)
+- [Metonymy Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/metonymy)
+- [Miasma Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/miasma)
+- [Milquetoast Definition &amp; Meaning - Merriam-Webster]([Milquetoast Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/milquetoast))
+- [Minatory Definition &amp; Meaning - Merriam-Webster]([Minatory Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/minatory))
+- [NIMBY Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/NIMBY)
+- https://www.merriam-webster.com/dictionary/milquetoast
+- https://www.merriam-webster.com/dictionary/minatory
+- [Misbegotten Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/misbegotten)
+- [Morass Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/morass)
+- [Moribund Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/moribund)
+- [Navel-gazing Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/navel-gazing)
+- [Neologism Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/neologism)
+- [Obfuscate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/obfuscate)
+- [Obsequious Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/obsequious)
+- [Oeuvre Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/oeuvre)
+- [Onomatopoeia Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/onomatopoeia)
+- [Ossify Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/ossify)
+- [Oviparity Definition &amp; Meaning | Merriam-Webster Medical](https://www.merriam-webster.com/dictionary/oviparity)
+- [Oviparous Definition &amp; Meaning - Merriam-Webster]([Oviparous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/oviparous))
+- [Palimpsest Definition &amp; Meaning - Merriam-Webster]([Palimpsest Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/palimpsest))
+- ttps://www.merriam-webster.com/dictionary/Pollyanna
+- https://www.merriam-webster.com/dictionary/oviparous
+- https://www.merriam-webster.com/dictionary/palimpsest
+- [Palliative Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/palliative)
+- [Panopticon Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/panopticon)
+- [Pernicious Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pernicious)
+- [Peroration Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/peroration)
+- [Piquant Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/piquant)
+- [Plaudit Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/plaudit)
+- [Pogrom Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pogrom)
+- [Pontificate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pontificate)
+- [Portmanteau Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/portmanteau)
+- [Praecognitum Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/praecognitum)
+- [Prescience Definition &amp; Meaning - Merriam-Webster]([Prescience Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/prescience))
+- [Prelapsarian Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/prelapsarian)
+- https://www.merriam-webster.com/dictionary/prescience
+- [Presuppose Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/presuppose)
+- [Procrustean Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/procrustean)
+- [Profligate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/profligate)
+- [Prothalamion Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/prothalamion)
+- [Pulchritude Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/pulchritude)
+- [Quotidian Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/quotidian)
+- [Raison | Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/raison) d’être
+- [Refusenik Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/refusenik)
+- [Render Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/render)
+- [Roister Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/roister)
+- [Rookery Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/rookery)
+- [Sartorial Definition &amp; Meaning - Merriam-Webster]([Sartorial Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/sartorial))
+- https://www.merriam-webster.com/dictionary/sartorial
+- [Skeigh Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/skeigh)
+- [Smorgasbord Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/smorgasbord)
+- [Sobriquet Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/sobriquet)
+- [Syllabic Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/syllabic)
+- [Syllabify Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/syllabify)
+- [Trepidation Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/trepidation)
+- [Tripartite Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/tripartite)
+- [Turbid Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/turbid)
+- [Ubiquitous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/ubiquitous)
+- [Umbrage Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/umbrage)
+- [Unctuous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/unctuous)
+- [Undulant Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/undulant)
+- [Unmet Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/unmet)
+- [Valence Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/valence)
+- [Verbose Definition &amp; Meaning - Merriam-Webster]([Verbose Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/verbose))
+- [Hobnob Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/hobnob)
+- [Umpteen Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/umpteen)
+- [Verbiage Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/verbiage)
+- https://www.merriam-webster.com/dictionary/verbose
+- [Verity Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/verity)
+- [Vestigial Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/vestigial)
+- [Violate Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/violate)
+- [Vociferous Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/vociferous)
+- [Whilom Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/whilom)
+- [Williwaw Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/williwaw)
+- [Zaftig Definition &amp; Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/zaftig)
+# mesmeric
+
+
+## Adjective
+
+1. attracting and holding interest as if by a spell; “read the bedtime story in a hypnotic voice”; “she had a warm mesmeric charm”; “the sheer force of his presence was mesmerizing”; “a spellbinding description of life in ancient Rome”
+	- Synonyms
+		- hypnotic
+		- mesmerizing
+		- spellbinding
+	- Similar to
+		- attractive
+	- Related
+		- hypnotism
+		- mesmerism
+		- suggestion
+		- hypnosis
+
+
+# mesmeric
+
+
+## Adjective
+
+1. attracting and holding interest as if by a spell; “read the bedtime story in a hypnotic voice”; “she had a warm mesmeric charm”; “the sheer force of his presence was mesmerizing”; “a spellbinding description of life in ancient Rome”
+	- Synonyms
+		- hypnotic
+		- mesmerizing
+		- spellbinding
+	- Similar to
+		- attractive
+	- Related
+		- hypnotism
+		- mesmerism
+		- suggestion
+		- hypnosis
+
+
+# metadata
+
+
+## Noun
+
+1. data about data; “a library catalog is metadata because it describes publications”
+	- Less specific
+		- data
+		- information
+
+- [**metadata** - LookUp](https://learnwithlookup.com/share/index.html?word=metadata&definition=set%2520of%2520data%2520that%2520describes%2520and%2520gives%2520information%2520about%2520other%2520data&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtZXRhZGF0YSIsImRlZmluaXRpb24iOiJzZXQgb2YgZGF0YSB0aGF0IGRlc2NyaWJlcyBhbmQgZ2l2ZXMgaW5mb3JtYXRpb24gYWJvdXQgb3RoZXIgZGF0YSJ9)
+Noun
+1.	Statistics Computing a set of data that describes and gives information about other data.
+
+## Wikipedia
+
+Metadata is "data that provides information about other data", but not the content of the data, such as the text of a message or the image itself. There are many distinct types of metadata, including:
+Descriptive metadata – the descriptive information about a resource. It is used for discovery and identification. It includes elements such as title, abstract, author, and keywords.
+Structural metadata – metadata about containers of data and indicates how compound objects are put together, for example, how pages are ordered to form chapters. It describes the types, versions, relationships, and other characteristics of digital materials.
+
+Administrative metadata – the information to help manage a resource, like resource type, permissions, and when and how it was created.
+
+Reference metadata – the information about the contents and quality of statistical data.
+
+Statistical metadata – also called process data, may describe processes that collect, process, or produce statistical data.
+
+Legal metadata – provides information about the creator, copyright holder, and public licensing, if provided.Metadata is not strictly bounded to one of these categories, as it can describe a piece of data in many other ways.
+# metadata
+
+
+## Noun
+
+1. data about data; “a library catalog is metadata because it describes publications”
+	- Less specific
+		- data
+		- information
+
+- [**metadata** - LookUp](https://learnwithlookup.com/share/index.html?word=metadata&definition=set%2520of%2520data%2520that%2520describes%2520and%2520gives%2520information%2520about%2520other%2520data&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtZXRhZGF0YSIsImRlZmluaXRpb24iOiJzZXQgb2YgZGF0YSB0aGF0IGRlc2NyaWJlcyBhbmQgZ2l2ZXMgaW5mb3JtYXRpb24gYWJvdXQgb3RoZXIgZGF0YSJ9)
+Noun
+1.	Statistics Computing a set of data that describes and gives information about other data.
+
+## Wikipedia
+
+Metadata is "data that provides information about other data", but not the content of the data, such as the text of a message or the image itself. There are many distinct types of metadata, including:
+Descriptive metadata – the descriptive information about a resource. It is used for discovery and identification. It includes elements such as title, abstract, author, and keywords.
+Structural metadata – metadata about containers of data and indicates how compound objects are put together, for example, how pages are ordered to form chapters. It describes the types, versions, relationships, and other characteristics of digital materials.
+
+Administrative metadata – the information to help manage a resource, like resource type, permissions, and when and how it was created.
+
+Reference metadata – the information about the contents and quality of statistical data.
+
+Statistical metadata – also called process data, may describe processes that collect, process, or produce statistical data.
+
+Legal metadata – provides information about the creator, copyright holder, and public licensing, if provided.Metadata is not strictly bounded to one of these categories, as it can describe a piece of data in many other ways.
+# metaphor
+
+
+## Noun
+
+1. a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity
+	- Less specific
+		- trope
+		- figure of speech
+		- figure
+		- image
+	- More specific
+		- dead metaphor
+		- frozen metaphor
+		- mixed metaphor
+		- synesthetic metaphor
+	- Related
+		- metaphorical
+		- metaphoric
+		- metaphorical
+		- metaphoric
+
+
+# metaphor
+
+
+## Noun
+
+1. a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity
+	- Less specific
+		- trope
+		- figure of speech
+		- figure
+		- image
+	- More specific
+		- dead metaphor
+		- frozen metaphor
+		- mixed metaphor
+		- synesthetic metaphor
+	- Related
+		- metaphorical
+		- metaphoric
+		- metaphorical
+		- metaphoric
+
+
+# mettlesome
+
+
+## Adjective
+
+1. having a proud and unbroken spirit
+	- Similar to
+		- spirited
+	- Related
+		- mettlesomeness
+2. willing to face danger
+	- Synonyms
+		- game
+		- gamy
+		- gamey
+		- gritty
+		- spirited
+		- spunky
+	- Similar to
+		- brave
+		- courageous
+	- Related
+		- heart
+		- mettle
+		- nerve
+		- spunk
+		- mettlesomeness
+		- backbone
+		- grit
+		- guts
+		- moxie
+		- sand
+		- gumption
+
+
+# mettlesome
+
+
+## Adjective
+
+1. having a proud and unbroken spirit
+	- Similar to
+		- spirited
+	- Related
+		- mettlesomeness
+2. willing to face danger
+	- Synonyms
+		- game
+		- gamy
+		- gamey
+		- gritty
+		- spirited
+		- spunky
+	- Similar to
+		- brave
+		- courageous
+	- Related
+		- heart
+		- mettle
+		- nerve
+		- spunk
+		- mettlesomeness
+		- backbone
+		- grit
+		- guts
+		- moxie
+		- sand
+		- gumption
+
+
 # miasma
 
 
@@ -2972,7 +24046,145 @@ Of or pertaining to Madagascar or its inhabitants.
 		- vapourous
 
 
-===
+# miasma
+
+
+## Noun
+
+1. an unwholesome atmosphere; “the novel spun a miasma of death and decay”
+	- Synonyms
+		- miasm
+	- Less specific
+		- atmosphere
+		- ambiance
+		- ambience
+	- Related
+		- miasmic
+		- mephitic
+2. unhealthy vapors rising from the ground or other sources; “the miasma of the marshes”; “a miasma of cigar smoke”
+	- Synonyms
+		- miasm
+	- Less specific
+		- air pollution
+	- Related
+		- miasmal
+		- miasmic
+		- vaporous
+		- vapourous
+		- miasmal
+		- miasmic
+		- vaporous
+		- vapourous
+
+
+# milieu
+
+
+## Noun
+
+1. the environmental condition
+	- Synonyms
+		- surroundings
+	- Less specific
+		- environment
+
+*From LookUp*:
+
+Noun
+1.	a person's social environment
+he grew up in a military milieu
+# milieu
+
+
+## Noun
+
+1. the environmental condition
+	- Synonyms
+		- surroundings
+	- Less specific
+		- environment
+
+*From LookUp*:
+
+Noun
+1.	a person's social environment
+he grew up in a military milieu
+# minatory
+
+
+## Adjective
+
+1. threatening or foreshadowing evil or tragic developments; “a baleful look”; “forbidding thunderclouds”; “his tone became menacing”; “ominous rumblings of discontent”; “sinister storm clouds”; “a sinister smile”; “his threatening behavior”; “ugly black clouds”; “the situation became ugly”
+	- Synonyms
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- ominous
+		- sinister
+		- threatening
+	- Similar to
+		- alarming
+	- Related
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- maleficence
+		- mischief
+		- balefulness
+
+- [**minatory** - LookUp](https://learnwithlookup.com/share/index.html?word=minatory&definition=expressing%2520or%2520conveying%2520threat&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtaW5hdG9yeSIsImRlZmluaXRpb24iOiJleHByZXNzaW5nIG9yIGNvbnZleWluZyB0aHJlYXQifQ%3D%3D)
+
+# minatory
+
+
+## Adjective
+
+1. threatening or foreshadowing evil or tragic developments; “a baleful look”; “forbidding thunderclouds”; “his tone became menacing”; “ominous rumblings of discontent”; “sinister storm clouds”; “a sinister smile”; “his threatening behavior”; “ugly black clouds”; “the situation became ugly”
+	- Synonyms
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- ominous
+		- sinister
+		- threatening
+	- Similar to
+		- alarming
+	- Related
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- maleficence
+		- mischief
+		- balefulness
+
+- [**minatory** - LookUp](https://learnwithlookup.com/share/index.html?word=minatory&definition=expressing%2520or%2520conveying%2520threat&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtaW5hdG9yeSIsImRlZmluaXRpb24iOiJleHByZXNzaW5nIG9yIGNvbnZleWluZyB0aHJlYXQifQ%3D%3D)
+
+# misimprove
+
+
+## Transitive Verb
+
+1 : to use wrongly : make an improper use of : ABUSE
+has misimproved and wasted his talents
+2 archaic : to make worse in an attempt to improve
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1505438996217827328)
+# misimprove
+
+
+## Transitive Verb
+
+1 : to use wrongly : make an improper use of : ABUSE
+has misimproved and wasted his talents
+2 archaic : to make worse in an attempt to improve
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1505438996217827328)
 # missive
 
 
@@ -3020,7 +24232,53 @@ Of or pertaining to Madagascar or its inhabitants.
 		- mail
 
 
-===
+# missive
+
+
+## Noun
+
+1. a written message addressed to a person or organization; “mailed an indignant letter to the editor”
+	- Synonyms
+		- letter
+	- Less specific
+		- text
+		- textual matter
+		- document
+	- More specific
+		- business letter
+		- covering letter
+		- cover letter
+		- crank letter
+		- encyclical
+		- encyclical letter
+		- fan letter
+		- personal letter
+		- form letter
+		- open letter
+		- chain letter
+		- pastoral
+		- round robin
+		- airmail letter
+		- air letter
+		- aerogram
+		- aerogramme
+		- epistle
+		- dead letter
+		- dead mail
+		- letter of intent
+		- invitation
+	- Parts
+		- postscript
+		- PS
+		- address
+		- destination
+		- name and address
+		- line
+	- Part of
+		- correspondence
+		- mail
+
+
 # modal
 
 
@@ -3068,7 +24326,1907 @@ Of or pertaining to Madagascar or its inhabitants.
 		- modality
 
 
-===
+# modal
+
+
+## Noun
+
+1. an auxiliary verb (such as `can’ or `will’) that is used to express modality
+	- Synonyms
+		- modal auxiliary verb
+		- modal auxiliary
+		- modal verb
+	- Less specific
+		- auxiliary verb
+
+## Adjective
+
+1. relating to or constituting the most frequent value in a distribution; “the modal age at which American novelists reach their peak is 30”
+	- Synonyms
+		- modal
+		- average
+	- Similar to
+		- normal
+	- Related
+		- mode
+		- modal value
+	- Topic Members
+		- statistics
+2. of or relating to a musical mode; especially written in an ecclesiastical mode
+	- Pertains to
+		- mode
+		- musical mode
+	- Related
+		- mode
+		- musical mode
+3. relating to or expressing the mood of a verb; “modal auxiliary”
+	- Pertains to
+		- mood
+		- mode
+		- modality
+	- Related
+		- mood
+		- mode
+		- modality
+		- mood
+		- mode
+		- modality
+
+
+# modal
+
+
+## Noun
+
+1. an auxiliary verb (such as `can’ or `will’) that is used to express modality
+	- Synonyms
+		- modal auxiliary verb
+		- modal auxiliary
+		- modal verb
+	- Less specific
+		- auxiliary verb
+
+## Adjective
+
+1. relating to or constituting the most frequent value in a distribution; “the modal age at which American novelists reach their peak is 30”
+	- Synonyms
+		- modal
+		- average
+	- Similar to
+		- normal
+	- Related
+		- mode
+		- modal value
+	- Topic Members
+		- statistics
+2. of or relating to a musical mode; especially written in an ecclesiastical mode
+	- Pertains to
+		- mode
+		- musical mode
+	- Related
+		- mode
+		- musical mode
+3. relating to or expressing the mood of a verb; “modal auxiliary”
+	- Pertains to
+		- mood
+		- mode
+		- modality
+	- Related
+		- mood
+		- mode
+		- modality
+		- mood
+		- mode
+		- modality
+
+
+# modal
+
+
+## Noun
+
+1. an auxiliary verb (such as `can’ or `will’) that is used to express modality
+	- Synonyms
+		- modal auxiliary verb
+		- modal auxiliary
+		- modal verb
+	- Less specific
+		- auxiliary verb
+
+## Adjective
+
+1. relating to or constituting the most frequent value in a distribution; “the modal age at which American novelists reach their peak is 30”
+	- Synonyms
+		- modal
+		- average
+	- Similar to
+		- normal
+	- Related
+		- mode
+		- modal value
+	- Topic Members
+		- statistics
+2. of or relating to a musical mode; especially written in an ecclesiastical mode
+	- Pertains to
+		- mode
+		- musical mode
+	- Related
+		- mode
+		- musical mode
+3. relating to or expressing the mood of a verb; “modal auxiliary”
+	- Pertains to
+		- mood
+		- mode
+		- modality
+	- Related
+		- mood
+		- mode
+		- modality
+		- mood
+		- mode
+		- modality
+
+
+# modality
+
+
+## Noun
+
+1. a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+	- Synonyms
+		- mode
+	- Less specific
+		- logical relation
+2. verb inflections that express how the action or state is conceived by the speaker
+	- Synonyms
+		- mood
+		- mode
+	- Less specific
+		- grammatical relation
+	- More specific
+		- indicative mood
+		- indicative
+		- declarative mood
+		- declarative
+		- common mood
+		- fact mood
+		- subjunctive mood
+		- subjunctive
+		- optative mood
+		- optative
+		- imperative mood
+		- imperative
+		- jussive mood
+		- imperative form
+		- interrogative mood
+		- interrogative
+	- Related
+		- modal
+		- modal
+3. a particular sense
+	- Synonyms
+		- sense modality
+		- sensory system
+	- Less specific
+		- sense
+		- sensation
+		- sentience
+		- sentiency
+		- sensory faculty
+	- More specific
+		- sight
+		- vision
+		- visual sense
+		- visual modality
+		- somatosense
+		- hearing
+		- audition
+		- auditory sense
+		- sense of hearing
+		- auditory modality
+		- taste
+		- gustation
+		- sense of taste
+		- gustatory modality
+		- smell
+		- sense of smell
+		- olfaction
+		- olfactory modality
+4. a method of therapy that involves physical or electrical therapeutic treatment
+	- Less specific
+		- treatment
+		- intervention
+	- More specific
+		- diathermy
+	- Part of
+		- physical therapy
+		- physiotherapy
+		- physiatrics
+
+
+# modality
+
+
+## Noun
+
+1. a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+	- Synonyms
+		- mode
+	- Less specific
+		- logical relation
+2. verb inflections that express how the action or state is conceived by the speaker
+	- Synonyms
+		- mood
+		- mode
+	- Less specific
+		- grammatical relation
+	- More specific
+		- indicative mood
+		- indicative
+		- declarative mood
+		- declarative
+		- common mood
+		- fact mood
+		- subjunctive mood
+		- subjunctive
+		- optative mood
+		- optative
+		- imperative mood
+		- imperative
+		- jussive mood
+		- imperative form
+		- interrogative mood
+		- interrogative
+	- Related
+		- modal
+		- modal
+3. a particular sense
+	- Synonyms
+		- sense modality
+		- sensory system
+	- Less specific
+		- sense
+		- sensation
+		- sentience
+		- sentiency
+		- sensory faculty
+	- More specific
+		- sight
+		- vision
+		- visual sense
+		- visual modality
+		- somatosense
+		- hearing
+		- audition
+		- auditory sense
+		- sense of hearing
+		- auditory modality
+		- taste
+		- gustation
+		- sense of taste
+		- gustatory modality
+		- smell
+		- sense of smell
+		- olfaction
+		- olfactory modality
+4. a method of therapy that involves physical or electrical therapeutic treatment
+	- Less specific
+		- treatment
+		- intervention
+	- More specific
+		- diathermy
+	- Part of
+		- physical therapy
+		- physiotherapy
+		- physiatrics
+
+
+# moribund
+
+
+## Adjective
+
+1. not growing or changing; without force or vitality
+	- Synonyms
+		- stagnant
+	- Similar to
+		- undynamic
+		- adynamic
+	- Related
+		- stagnation
+		- stagnancy
+		- doldrums
+		- stagnate
+2. being on the point of death; breathing your last; “a moribund patient”
+	- Similar to
+		- dying
+
+- [LookUp](https://learnwithlookup.com/share/index.html?word=moribund&definition=at%2520point%2520of%2520death&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtb3JpYnVuZCIsImRlZmluaXRpb24iOiJhdCBwb2ludCBvZiBkZWF0aCJ9):
+Adjective
+1.	(of a person) at the point of death
+on examination she was moribund and dehydrated
+
+(of a thing) in terminal decline; lacking vitality or vigor
+the moribund commercial property market
+
+## Thesaurus
+Adjective
+1.	the patient was moribund
+
+Similar Words: 	dying    expiring    on one's deathbed    near death    near the end    at death's door    breathing one's last    fading fast    sinking fast    not long for this world    failing rapidly    on one's last legs    in extremis    with one foot in the grave
+
+Opposites: 	thriving    recovering
+
+2.	the country's moribund shipbuilding industry
+
+Similar Words: 	declining    in decline    on the decline    waning    dying    stagnating    stagnant    decaying    crumbling    atrophying    obsolescent    on its last legs    on the way out
+
+Opposites: 	flourishing
+# moribund
+
+
+## Adjective
+
+1. not growing or changing; without force or vitality
+	- Synonyms
+		- stagnant
+	- Similar to
+		- undynamic
+		- adynamic
+	- Related
+		- stagnation
+		- stagnancy
+		- doldrums
+		- stagnate
+2. being on the point of death; breathing your last; “a moribund patient”
+	- Similar to
+		- dying
+
+- [LookUp](https://learnwithlookup.com/share/index.html?word=moribund&definition=at%2520point%2520of%2520death&data=eyJpbWFnZSI6IiIsIndvcmQiOiJtb3JpYnVuZCIsImRlZmluaXRpb24iOiJhdCBwb2ludCBvZiBkZWF0aCJ9):
+Adjective
+1.	(of a person) at the point of death
+on examination she was moribund and dehydrated
+
+(of a thing) in terminal decline; lacking vitality or vigor
+the moribund commercial property market
+
+## Thesaurus
+Adjective
+1.	the patient was moribund
+
+Similar Words: 	dying    expiring    on one's deathbed    near death    near the end    at death's door    breathing one's last    fading fast    sinking fast    not long for this world    failing rapidly    on one's last legs    in extremis    with one foot in the grave
+
+Opposites: 	thriving    recovering
+
+2.	the country's moribund shipbuilding industry
+
+Similar Words: 	declining    in decline    on the decline    waning    dying    stagnating    stagnant    decaying    crumbling    atrophying    obsolescent    on its last legs    on the way out
+
+Opposites: 	flourishing
+# moxie
+
+
+## Noun
+
+1. fortitude and determination; “he didn’t have the guts to try it”
+	- Synonyms
+		- backbone
+		- grit
+		- guts
+		- sand
+		- gumption
+	- Less specific
+		- fortitude
+	- Related
+		- gutsy
+		- plucky
+		- game
+		- gamy
+		- gamey
+		- gritty
+		- mettlesome
+		- spirited
+		- spunky
+
+
+# moxie
+
+
+## Noun
+
+1. fortitude and determination; “he didn’t have the guts to try it”
+	- Synonyms
+		- backbone
+		- grit
+		- guts
+		- sand
+		- gumption
+	- Less specific
+		- fortitude
+	- Related
+		- gutsy
+		- plucky
+		- game
+		- gamy
+		- gamey
+		- gritty
+		- mettlesome
+		- spirited
+		- spunky
+
+
+# multifarious
+
+
+## Adjective
+
+1. having many aspects or qualities; “a many-sided subject”; “a multifaceted undertaking”; “multifarious interests”; “the multifarious noise of a great city”; “a miscellaneous crowd”
+	- Synonyms
+		- many-sided
+		- multifaceted
+		- miscellaneous
+	- Similar to
+		- varied
+	- Related
+		- diverseness
+		- diversity
+		- multifariousness
+		- variety
+
+
+- [multifarious](https://chaff.writeas.com/multifarious)
+# multifarious
+
+
+## Adjective
+
+1. having many aspects or qualities; “a many-sided subject”; “a multifaceted undertaking”; “multifarious interests”; “the multifarious noise of a great city”; “a miscellaneous crowd”
+	- Synonyms
+		- many-sided
+		- multifaceted
+		- miscellaneous
+	- Similar to
+		- varied
+	- Related
+		- diverseness
+		- diversity
+		- multifariousness
+		- variety
+
+
+- [multifarious](https://chaff.writeas.com/multifarious)
+# myopic
+
+
+## Adjective
+
+1. unable to see distant objects clearly
+	- Synonyms
+		- nearsighted
+		- shortsighted
+	- Antonyms
+		- farsighted
+		- presbyopic
+	- Related
+		- myopia
+		- nearsightedness
+		- shortsightedness
+		- myopia
+		- nearsightedness
+		- shortsightedness
+		- myopia
+		- nearsightedness
+		- shortsightedness
+2. lacking foresight or scope; “a short view of the problem”; “shortsighted policies”; “shortsighted critics derided the plan”; “myopic thinking”
+	- Synonyms
+		- short
+		- shortsighted
+		- unforesightful
+	- Similar to
+		- improvident
+	- Related
+		- improvidence
+		- shortsightedness
+
+
+# myopic
+
+
+## Adjective
+
+1. unable to see distant objects clearly
+	- Synonyms
+		- nearsighted
+		- shortsighted
+	- Antonyms
+		- farsighted
+		- presbyopic
+	- Related
+		- myopia
+		- nearsightedness
+		- shortsightedness
+		- myopia
+		- nearsightedness
+		- shortsightedness
+		- myopia
+		- nearsightedness
+		- shortsightedness
+2. lacking foresight or scope; “a short view of the problem”; “shortsighted policies”; “shortsighted critics derided the plan”; “myopic thinking”
+	- Synonyms
+		- short
+		- shortsighted
+		- unforesightful
+	- Similar to
+		- improvident
+	- Related
+		- improvidence
+		- shortsightedness
+
+
+# myopic
+
+
+## Adjective
+
+1. unable to see distant objects clearly
+	- Synonyms
+		- nearsighted
+		- shortsighted
+	- Antonyms
+		- farsighted
+		- presbyopic
+	- Related
+		- myopia
+		- nearsightedness
+		- shortsightedness
+		- myopia
+		- nearsightedness
+		- shortsightedness
+		- myopia
+		- nearsightedness
+		- shortsightedness
+2. lacking foresight or scope; “a short view of the problem”; “shortsighted policies”; “shortsighted critics derided the plan”; “myopic thinking”
+	- Synonyms
+		- short
+		- shortsighted
+		- unforesightful
+	- Similar to
+		- improvident
+	- Related
+		- improvidence
+		- shortsightedness
+
+- [**myopic** - LookUp](https://learnwithlookup.com/share/index.html?word=myopic&definition=short-sighted&data=eyJpbWFnZSI6IiIsIndvcmQiOiJteW9waWMiLCJkZWZpbml0aW9uIjoic2hvcnQtc2lnaHRlZCJ9)
+Adjective
+1.	Medicine nearsighted.
+
+lacking imagination, foresight, or intellectual insight
+the government still has a myopic attitude to public spending
+
+## Thesaurus
+
+Adjective
+1.	thick lenses may restrict a myopic patient's field of view
+
+Similar Words: 	short-sighted    nearsighted    as blind as a bat    purblind
+
+Opposites: 	long-sighted
+
+2.	the government still has a myopic attitude to public spending
+
+Similar Words: 	unimaginative    uncreative    unadventurous    narrow-minded    lacking foresight    small-minded    short-term    narrow    insular    parochial    provincial
+
+Opposites: 	farsighted
+# nadir
+
+
+## Noun
+
+1. an extreme state of adversity; the lowest point of anything
+	- Synonyms
+		- low-water mark
+	- Less specific
+		- adversity
+		- hardship
+		- hard knocks
+2. the point below the observer that is directly opposite the zenith on the imaginary sphere against which celestial bodies appear to be projected
+	- Antonyms
+		- zenith
+	- Less specific
+		- celestial point
+	- Part of
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+
+
+# nadir
+
+
+## Noun
+
+1. an extreme state of adversity; the lowest point of anything
+	- Synonyms
+		- low-water mark
+	- Less specific
+		- adversity
+		- hardship
+		- hard knocks
+2. the point below the observer that is directly opposite the zenith on the imaginary sphere against which celestial bodies appear to be projected
+	- Antonyms
+		- zenith
+	- Less specific
+		- celestial point
+	- Part of
+		- celestial sphere
+		- sphere
+		- empyrean
+		- firmament
+		- heavens
+		- vault of heaven
+		- welkin
+
+
+# neophyte
+
+
+## Noun
+
+1. a plant that is found in an area where it had not been recorded previously
+	- Less specific
+		- plant
+		- flora
+		- plant life
+2. any new participant in some activity
+	- Synonyms
+		- newcomer
+		- fledgling
+		- fledgeling
+		- starter
+		- freshman
+		- newbie
+		- entrant
+	- Less specific
+		- novice
+		- beginner
+		- tyro
+		- tiro
+		- initiate
+	- More specific
+		- recruit
+		- enlistee
+	- Related
+		- originate
+		- initiate
+		- start
+		- get down
+		- begin
+		- get
+		- start out
+		- start
+		- set about
+		- set out
+		- commence
+		- fledgling
+		- unfledged
+		- callow
+3. a new convert being taught the principles of Christianity by a catechist
+	- Synonyms
+		- catechumen
+	- Less specific
+		- student
+		- pupil
+		- educatee
+
+
+# neophyte
+
+
+## Noun
+
+1. a plant that is found in an area where it had not been recorded previously
+	- Less specific
+		- plant
+		- flora
+		- plant life
+2. any new participant in some activity
+	- Synonyms
+		- newcomer
+		- fledgling
+		- fledgeling
+		- starter
+		- freshman
+		- newbie
+		- entrant
+	- Less specific
+		- novice
+		- beginner
+		- tyro
+		- tiro
+		- initiate
+	- More specific
+		- recruit
+		- enlistee
+	- Related
+		- originate
+		- initiate
+		- start
+		- get down
+		- begin
+		- get
+		- start out
+		- start
+		- set about
+		- set out
+		- commence
+		- fledgling
+		- unfledged
+		- callow
+3. a new convert being taught the principles of Christianity by a catechist
+	- Synonyms
+		- catechumen
+	- Less specific
+		- student
+		- pupil
+		- educatee
+
+
+# nepotism
+
+
+## Noun
+
+1. favoritism shown to relatives or close friends by those in power (as by giving them jobs)
+	- Less specific
+		- discrimination
+		- favoritism
+		- favouritism
+
+
+# nepotism
+
+
+## Noun
+
+1. favoritism shown to relatives or close friends by those in power (as by giving them jobs)
+	- Less specific
+		- discrimination
+		- favoritism
+		- favouritism
+
+
+# nettlesome
+
+
+## Adjective
+
+1. causing irritation or annoyance; “tapping an annoying rhythm on his glass with his fork”; “aircraft noise is particularly bothersome near the airport”; “found it galling to have to ask permission”; “an irritating delay”; “nettlesome paperwork”; “a pesky mosquito”; “swarms of pestering gnats”; “a plaguey newfangled safety catch”; “a teasing and persistent thought annoyed him”; “a vexatious child”; “it is vexing to have to admit you are wrong”
+	- Synonyms
+		- annoying
+		- bothersome
+		- galling
+		- irritating
+		- pesky
+		- pestering
+		- pestiferous
+		- plaguy
+		- plaguey
+		- teasing
+		- vexatious
+		- vexing
+	- Similar to
+		- disagreeable
+	- Related
+		- plague
+		- plague
+2. easily irritated or annoyed; “an incorrigibly fractious young man”; “not the least nettlesome of his countrymen”
+	- Synonyms
+		- cranky
+		- fractious
+		- irritable
+		- peevish
+		- peckish
+		- pettish
+		- petulant
+		- scratchy
+		- testy
+		- tetchy
+		- techy
+	- Similar to
+		- ill-natured
+	- Related
+		- testiness
+		- touchiness
+		- tetchiness
+		- testiness
+		- touchiness
+		- tetchiness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+		- grouch
+		- grump
+		- crank
+		- churl
+		- crosspatch
+		- crankiness
+		- crotchetiness
+		- contrariness
+		- grumpiness
+
+
+# nettlesome
+
+
+## Adjective
+
+1. causing irritation or annoyance; “tapping an annoying rhythm on his glass with his fork”; “aircraft noise is particularly bothersome near the airport”; “found it galling to have to ask permission”; “an irritating delay”; “nettlesome paperwork”; “a pesky mosquito”; “swarms of pestering gnats”; “a plaguey newfangled safety catch”; “a teasing and persistent thought annoyed him”; “a vexatious child”; “it is vexing to have to admit you are wrong”
+	- Synonyms
+		- annoying
+		- bothersome
+		- galling
+		- irritating
+		- pesky
+		- pestering
+		- pestiferous
+		- plaguy
+		- plaguey
+		- teasing
+		- vexatious
+		- vexing
+	- Similar to
+		- disagreeable
+	- Related
+		- plague
+		- plague
+2. easily irritated or annoyed; “an incorrigibly fractious young man”; “not the least nettlesome of his countrymen”
+	- Synonyms
+		- cranky
+		- fractious
+		- irritable
+		- peevish
+		- peckish
+		- pettish
+		- petulant
+		- scratchy
+		- testy
+		- tetchy
+		- techy
+	- Similar to
+		- ill-natured
+	- Related
+		- testiness
+		- touchiness
+		- tetchiness
+		- testiness
+		- touchiness
+		- tetchiness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+		- grouch
+		- grump
+		- crank
+		- churl
+		- crosspatch
+		- crankiness
+		- crotchetiness
+		- contrariness
+		- grumpiness
+
+
+# noisome
+
+![noisome LookUp Image](https://i.snap.as/MxIdETwr.png)
+
+
+## Adjective
+
+1. causing or able to cause nausea; “a nauseating smell”; “nauseous offal”; “a sickening stench”
+	- Synonyms
+		- nauseating
+		- nauseous
+		- queasy
+		- loathsome
+		- offensive
+		- sickening
+		- vile
+	- Similar to
+		- unwholesome
+	- Related
+		- loathsomeness
+		- repulsiveness
+		- sliminess
+		- vileness
+		- lousiness
+		- wickedness
+		- disgustingness
+		- distastefulness
+		- nauseatingness
+		- sickeningness
+		- unsavoriness
+		- offensiveness
+		- odiousness
+		- distastefulness
+		- shock
+		- offend
+		- scandalize
+		- scandalise
+		- appal
+		- appall
+		- outrage
+		- loathsomeness
+		- repulsiveness
+		- sliminess
+		- vileness
+		- lousiness
+		- wickedness
+		- harmfulness
+		- noisomeness
+		- noxiousness
+		- nausea
+		- disgustingness
+		- distastefulness
+		- nauseatingness
+		- sickeningness
+		- unsavoriness
+2. offensively malodorous; “a foul odor”; “the kitchen smelled really funky”
+	- Synonyms
+		- fetid
+		- foetid
+		- foul
+		- foul-smelling
+		- funky
+		- smelly
+		- stinking
+		- ill-scented
+	- Similar to
+		- malodorous
+		- malodourous
+		- unpleasant-smelling
+		- ill-smelling
+		- stinky
+	- Related
+		- olfactory property
+		- smell
+		- aroma
+		- odor
+		- odour
+		- scent
+		- harmfulness
+		- noisomeness
+		- noxiousness
+		- malodorousness
+		- stinkiness
+		- foulness
+		- rankness
+		- fetidness
+		- malodorousness
+		- stinkiness
+		- foulness
+		- rankness
+		- fetidness
+
+*From LookUp*:
+Adjective
+1.	Literary having an extremely offensive smell
+noisome vapors from the smoldering waste
+
+disagreeable; unpleasant
+noisome scandals
+# noisome
+
+![noisome LookUp Image](https://i.snap.as/MxIdETwr.png)
+
+
+## Adjective
+
+1. causing or able to cause nausea; “a nauseating smell”; “nauseous offal”; “a sickening stench”
+	- Synonyms
+		- nauseating
+		- nauseous
+		- queasy
+		- loathsome
+		- offensive
+		- sickening
+		- vile
+	- Similar to
+		- unwholesome
+	- Related
+		- loathsomeness
+		- repulsiveness
+		- sliminess
+		- vileness
+		- lousiness
+		- wickedness
+		- disgustingness
+		- distastefulness
+		- nauseatingness
+		- sickeningness
+		- unsavoriness
+		- offensiveness
+		- odiousness
+		- distastefulness
+		- shock
+		- offend
+		- scandalize
+		- scandalise
+		- appal
+		- appall
+		- outrage
+		- loathsomeness
+		- repulsiveness
+		- sliminess
+		- vileness
+		- lousiness
+		- wickedness
+		- harmfulness
+		- noisomeness
+		- noxiousness
+		- nausea
+		- disgustingness
+		- distastefulness
+		- nauseatingness
+		- sickeningness
+		- unsavoriness
+2. offensively malodorous; “a foul odor”; “the kitchen smelled really funky”
+	- Synonyms
+		- fetid
+		- foetid
+		- foul
+		- foul-smelling
+		- funky
+		- smelly
+		- stinking
+		- ill-scented
+	- Similar to
+		- malodorous
+		- malodourous
+		- unpleasant-smelling
+		- ill-smelling
+		- stinky
+	- Related
+		- olfactory property
+		- smell
+		- aroma
+		- odor
+		- odour
+		- scent
+		- harmfulness
+		- noisomeness
+		- noxiousness
+		- malodorousness
+		- stinkiness
+		- foulness
+		- rankness
+		- fetidness
+		- malodorousness
+		- stinkiness
+		- foulness
+		- rankness
+		- fetidness
+
+*From LookUp*:
+Adjective
+1.	Literary having an extremely offensive smell
+noisome vapors from the smoldering waste
+
+disagreeable; unpleasant
+noisome scandals
+# nosh
+
+
+## Noun
+
+1. (Yiddish) a snack or light meal
+	- Less specific
+		- bite
+		- collation
+		- snack
+	- Related
+		- nosh
+		- snack
+	- Topic Members
+		- Yiddish
+
+## Verb
+
+1. eat a snack; eat lightly; “She never loses weight because she snacks between meals”
+	- Synonyms
+		- snack
+	- Less specific
+		- eat
+	- More specific
+		- browse
+		- graze
+	- Related
+		- nosher
+		- snacker
+		- bite
+		- collation
+		- snack
+		- nosher
+		- snacker
+		- nosh
+
+*From LookUp*:
+
+Noun
+1.	Informal British food
+filling the freezer with all kinds of nosh
+
+North American a snack or small item of food
+have plenty of noshes and nibbles conveniently placed
+
+
+Verb
+1.	Informal eat food enthusiastically or greedily
+there are several restaurants, so you can nosh to your heart's content | there I sat, noshing my favorite food
+
+North American eat between meals
+today's grazing is different from what we used to call noshing or snacking
+# nosh
+
+
+## Noun
+
+1. (Yiddish) a snack or light meal
+	- Less specific
+		- bite
+		- collation
+		- snack
+	- Related
+		- nosh
+		- snack
+	- Topic Members
+		- Yiddish
+
+## Verb
+
+1. eat a snack; eat lightly; “She never loses weight because she snacks between meals”
+	- Synonyms
+		- snack
+	- Less specific
+		- eat
+	- More specific
+		- browse
+		- graze
+	- Related
+		- nosher
+		- snacker
+		- bite
+		- collation
+		- snack
+		- nosher
+		- snacker
+		- nosh
+
+*From LookUp*:
+
+Noun
+1.	Informal British food
+filling the freezer with all kinds of nosh
+
+North American a snack or small item of food
+have plenty of noshes and nibbles conveniently placed
+
+
+Verb
+1.	Informal eat food enthusiastically or greedily
+there are several restaurants, so you can nosh to your heart's content | there I sat, noshing my favorite food
+
+North American eat between meals
+today's grazing is different from what we used to call noshing or snacking
+# noumenon
+
+
+## Noun
+
+1. the intellectual conception of a thing as it is in itself, not as it is known through perception
+	- Synonyms
+		- thing-in-itself
+	- Less specific
+		- content
+		- cognitive content
+		- mental object
+
+- [**noumenon** - LookUp](https://learnwithlookup.com/share/index.html?word=noumenon&definition=(in%2520Kantian%2520philosophy)%2520thing%2520as%2520it%2520is%2520in%2520itself,%2520as%2520distinct%2520from%2520thing%2520as%2520it%2520is%2520knowable%2520by%2520senses%2520through%2520phenomenal%2520attributes&data=eyJpbWFnZSI6IiIsIndvcmQiOiJub3VtZW5vbiIsImRlZmluaXRpb24iOiIoaW4gS2FudGlhbiBwaGlsb3NvcGh5KSB0aGluZyBhcyBpdCBpcyBpbiBpdHNlbGYsIGFzIGRpc3RpbmN0IGZyb20gdGhpbmcgYXMgaXQgaXMga25vd2FibGUgYnkgc2Vuc2VzIHRocm91Z2ggcGhlbm9tZW5hbCBhdHRyaWJ1dGVzIn0%3D)
+Noun
+1.	Philosophy (in Kantian philosophy) a thing as it is in itself, as distinct from a thing as it is knowable by the senses through phenomenal attributes.
+
+## Wikipedia 
+
+In philosophy, a noumenon (, ; from Ancient Greek  νoούμενον; plural noumena) is knowledge posited as an object that exists independently of human sense. The term noumenon is generally used in contrast with, or in relation to, the term phenomenon, which refers to any object of the senses. Immanuel Kant first developed the notion of the noumenon as part of his transcendental idealism, suggesting that while we know the noumenal world to exist because human sensibility is merely receptive, it is not itself sensible and must therefore remain otherwise unknowable to us. In Kantian philosophy, the noumenon is often associated with the unknowable "thing-in-itself" (German: Ding an sich). However, the nature of the relationship between the two is not made explicit in Kant's work, and remains a subject of debate among Kant scholars as a result.
+# numinous
+
+
+## Adjective
+
+1. evincing the presence of a deity; “a numinous wood”; “the most numinous moment in the Mass”
+	- Similar to
+		- sacred
+	- Related
+		- numen
+2. of or relating to or characteristic of a numen
+	- Pertains to
+		- numen
+	- Related
+		- numen
+
+- [**numinous** - LookUp](https://learnwithlookup.com/share/index.html?word=numinous&definition=having%2520strong%2520religious%2520or%2520spiritual%2520quality&data=eyJpbWFnZSI6IiIsIndvcmQiOiJudW1pbm91cyIsImRlZmluaXRpb24iOiJoYXZpbmcgc3Ryb25nIHJlbGlnaW91cyBvciBzcGlyaXR1YWwgcXVhbGl0eSJ9)
+Adjective
+1.	having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity
+the strange, numinous beauty of this ancient landmark
+
+## Origin
+
+mid 17th century: from Latin numen, numin- ‘divine will’+ -ous
+
+## Wikipedia
+
+Numinous () is a term derived from the Latin numen, meaning "arousing spiritual or religious emotion; mysterious or awe-inspiring." The term was given its present sense by the German theologian and philosopher Rudolf Otto in his influential 1917 German book The Idea of the Holy. He also used the phrase mysterium tremendum as another description for the phenomenon. Otto's concept of the numinous influenced thinkers including Carl Jung, Mircea Eliade, and C. S. Lewis. It has been applied to theology, psychology, religious studies, literary analysis, and descriptions of psychedelic experiences.
+
+## Thesaurus
+
+Adjective
+1.	the strange, numinous beauty of this ancient landmark
+
+Similar Words: 	spiritual    religious    divine    holy    sacred    mysterious    other-worldly    unearthly    awe-inspiring    transcendent
+# numinous
+
+
+## Adjective
+
+1. evincing the presence of a deity; “a numinous wood”; “the most numinous moment in the Mass”
+	- Similar to
+		- sacred
+	- Related
+		- numen
+2. of or relating to or characteristic of a numen
+	- Pertains to
+		- numen
+	- Related
+		- numen
+
+- [**numinous** - LookUp](https://learnwithlookup.com/share/index.html?word=numinous&definition=having%2520strong%2520religious%2520or%2520spiritual%2520quality&data=eyJpbWFnZSI6IiIsIndvcmQiOiJudW1pbm91cyIsImRlZmluaXRpb24iOiJoYXZpbmcgc3Ryb25nIHJlbGlnaW91cyBvciBzcGlyaXR1YWwgcXVhbGl0eSJ9)
+Adjective
+1.	having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity
+the strange, numinous beauty of this ancient landmark
+
+## Origin
+
+mid 17th century: from Latin numen, numin- ‘divine will’+ -ous
+
+## Wikipedia
+
+Numinous () is a term derived from the Latin numen, meaning "arousing spiritual or religious emotion; mysterious or awe-inspiring." The term was given its present sense by the German theologian and philosopher Rudolf Otto in his influential 1917 German book The Idea of the Holy. He also used the phrase mysterium tremendum as another description for the phenomenon. Otto's concept of the numinous influenced thinkers including Carl Jung, Mircea Eliade, and C. S. Lewis. It has been applied to theology, psychology, religious studies, literary analysis, and descriptions of psychedelic experiences.
+
+## Thesaurus
+
+Adjective
+1.	the strange, numinous beauty of this ancient landmark
+
+Similar Words: 	spiritual    religious    divine    holy    sacred    mysterious    other-worldly    unearthly    awe-inspiring    transcendent
+# objurgate
+
+
+## Verb
+
+1. express strong disapproval of; “We condemn the racism in South Africa”; “These ideas were reprobated”
+	- Synonyms
+		- condemn
+		- reprobate
+		- decry
+		- excoriate
+	- Less specific
+		- denounce
+	- Related
+		- excoriation
+		- reprobation
+		- condemnatory
+		- condemning
+		- condemnation
+		- disapprobation
+		- condemnation
+2. censure severely; “She chastised him for his insensitive remarks”
+	- Synonyms
+		- chastise
+		- castigate
+		- chasten
+		- correct
+	- Less specific
+		- call on the carpet
+		- take to task
+		- rebuke
+		- rag
+		- trounce
+		- lecture
+		- reprimand
+		- jaw
+		- dress down
+		- call down
+		- scold
+		- chide
+		- berate
+		- bawl out
+		- remonstrate
+		- chew out
+		- chew up
+		- have words
+		- lambaste
+		- lambast
+	- More specific
+		- flame
+	- Related
+		- corrective
+		- disciplinary
+		- disciplinal
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- castigation
+		- earful
+		- bawling out
+		- chewing out
+		- upbraiding
+		- going-over
+		- dressing down
+		- castigation
+		- chastisement
+		- correction
+		- chastening
+		- chastisement
+		- castigation
+		- chastisement
+
+
+# objurgate
+
+
+## Verb
+
+1. express strong disapproval of; “We condemn the racism in South Africa”; “These ideas were reprobated”
+	- Synonyms
+		- condemn
+		- reprobate
+		- decry
+		- excoriate
+	- Less specific
+		- denounce
+	- Related
+		- excoriation
+		- reprobation
+		- condemnatory
+		- condemning
+		- condemnation
+		- disapprobation
+		- condemnation
+2. censure severely; “She chastised him for his insensitive remarks”
+	- Synonyms
+		- chastise
+		- castigate
+		- chasten
+		- correct
+	- Less specific
+		- call on the carpet
+		- take to task
+		- rebuke
+		- rag
+		- trounce
+		- lecture
+		- reprimand
+		- jaw
+		- dress down
+		- call down
+		- scold
+		- chide
+		- berate
+		- bawl out
+		- remonstrate
+		- chew out
+		- chew up
+		- have words
+		- lambaste
+		- lambast
+	- More specific
+		- flame
+	- Related
+		- corrective
+		- disciplinary
+		- disciplinal
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- castigation
+		- earful
+		- bawling out
+		- chewing out
+		- upbraiding
+		- going-over
+		- dressing down
+		- castigation
+		- chastisement
+		- correction
+		- chastening
+		- chastisement
+		- castigation
+		- chastisement
+
+
+# obloquy
+
+
+## Noun
+
+1. state of disgrace resulting from public abuse
+	- Synonyms
+		- opprobrium
+	- Less specific
+		- shame
+		- disgrace
+		- ignominy
+2. a false accusation of an offense or a malicious misrepresentation of someone’s words or actions
+	- Synonyms
+		- defamation
+		- calumny
+		- calumniation
+		- traducement
+		- hatchet job
+	- Less specific
+		- disparagement
+		- depreciation
+		- derogation
+	- More specific
+		- character assassination
+		- assassination
+		- blackwash
+		- smear
+		- vilification
+		- malignment
+		- libel
+		- slander
+		- name calling
+		- names
+		- name
+		- epithet
+	- Related
+		- badmouth
+		- malign
+		- traduce
+		- drag through the mud
+		- calumniatory
+		- calumnious
+		- defamatory
+		- denigrative
+		- denigrating
+		- denigratory
+		- libellous
+		- libelous
+		- slanderous
+		- defame
+		- slander
+		- smirch
+		- asperse
+		- denigrate
+		- calumniate
+		- smear
+		- sully
+		- besmirch
+		- defame
+		- slander
+		- smirch
+		- asperse
+		- denigrate
+		- calumniate
+		- smear
+		- sully
+		- besmirch
+
+
+# obloquy
+
+
+## Noun
+
+1. state of disgrace resulting from public abuse
+	- Synonyms
+		- opprobrium
+	- Less specific
+		- shame
+		- disgrace
+		- ignominy
+2. a false accusation of an offense or a malicious misrepresentation of someone’s words or actions
+	- Synonyms
+		- defamation
+		- calumny
+		- calumniation
+		- traducement
+		- hatchet job
+	- Less specific
+		- disparagement
+		- depreciation
+		- derogation
+	- More specific
+		- character assassination
+		- assassination
+		- blackwash
+		- smear
+		- vilification
+		- malignment
+		- libel
+		- slander
+		- name calling
+		- names
+		- name
+		- epithet
+	- Related
+		- badmouth
+		- malign
+		- traduce
+		- drag through the mud
+		- calumniatory
+		- calumnious
+		- defamatory
+		- denigrative
+		- denigrating
+		- denigratory
+		- libellous
+		- libelous
+		- slanderous
+		- defame
+		- slander
+		- smirch
+		- asperse
+		- denigrate
+		- calumniate
+		- smear
+		- sully
+		- besmirch
+		- defame
+		- slander
+		- smirch
+		- asperse
+		- denigrate
+		- calumniate
+		- smear
+		- sully
+		- besmirch
+
+
+# obsequious
+
+
+## Adjective
+
+1. attempting to win favor from influential people by flattery
+	- Synonyms
+		- bootlicking
+		- fawning
+		- sycophantic
+		- toadyish
+	- Similar to
+		- insincere
+	- Related
+		- sycophant
+		- toady
+		- crawler
+		- lackey
+		- ass-kisser
+		- obsequiousness
+		- servility
+		- subservience
+2. attentive in an ingratiating or servile manner; “obsequious shop assistants”
+	- Similar to
+		- servile
+	- Related
+		- obsequiousness
+		- servility
+		- subservience
+
+
+# obsequious
+
+
+## Adjective
+
+1. attempting to win favor from influential people by flattery
+	- Synonyms
+		- bootlicking
+		- fawning
+		- sycophantic
+		- toadyish
+	- Similar to
+		- insincere
+	- Related
+		- sycophant
+		- toady
+		- crawler
+		- lackey
+		- ass-kisser
+		- obsequiousness
+		- servility
+		- subservience
+2. attentive in an ingratiating or servile manner; “obsequious shop assistants”
+	- Similar to
+		- servile
+	- Related
+		- obsequiousness
+		- servility
+		- subservience
+
+
+# obstreperous
+
+
+## Adjective
+
+1. noisily and stubbornly defiant; “obstreperous boys”
+	- Similar to
+		- defiant
+		- noncompliant
+	- Related
+		- obstreperousness
+2. boisterously and noisily aggressive; “kept up an obstreperous clamor”
+	- Similar to
+		- aggressive
+	- Related
+		- obstreperousness
+
+
+# obstreperous
+
+
+## Adjective
+
+1. noisily and stubbornly defiant; “obstreperous boys”
+	- Similar to
+		- defiant
+		- noncompliant
+	- Related
+		- obstreperousness
+2. boisterously and noisily aggressive; “kept up an obstreperous clamor”
+	- Similar to
+		- aggressive
+	- Related
+		- obstreperousness
+
+
+# obviate
+
+
+## Verb
+
+1. do away with
+	- Synonyms
+		- rid of
+		- eliminate
+	- Antonyms
+		- necessitate
+		- ask
+		- postulate
+		- need
+		- require
+		- take
+		- involve
+		- call for
+		- demand
+	- More specific
+		- preclude
+		- rule out
+		- close out
+	- Related
+		- obviation
+		- forestalling
+		- preclusion
+2. prevent the occurrence of; prevent from happening; “Let’s avoid a confrontation”; “head off a confrontation”; “avert a strike”
+	- Synonyms
+		- debar
+		- forefend
+		- forfend
+		- deflect
+		- avert
+		- head off
+		- stave off
+		- fend off
+		- avoid
+		- ward off
+	- Less specific
+		- prevent
+		- forestall
+		- foreclose
+		- preclude
+		- forbid
+	- Related
+		- evitable
+		- avoidable
+		- avertible
+		- avertable
+		- evitable
+		- avoidable
+		- avertible
+		- avertable
+		- evitable
+		- avoidable
+		- avertible
+		- avertable
+		- obviation
+		- forestalling
+		- preclusion
+
+
+# obviate
+
+
+## Verb
+
+1. do away with
+	- Synonyms
+		- rid of
+		- eliminate
+	- Antonyms
+		- necessitate
+		- ask
+		- postulate
+		- need
+		- require
+		- take
+		- involve
+		- call for
+		- demand
+	- More specific
+		- preclude
+		- rule out
+		- close out
+	- Related
+		- obviation
+		- forestalling
+		- preclusion
+2. prevent the occurrence of; prevent from happening; “Let’s avoid a confrontation”; “head off a confrontation”; “avert a strike”
+	- Synonyms
+		- debar
+		- forefend
+		- forfend
+		- deflect
+		- avert
+		- head off
+		- stave off
+		- fend off
+		- avoid
+		- ward off
+	- Less specific
+		- prevent
+		- forestall
+		- foreclose
+		- preclude
+		- forbid
+	- Related
+		- evitable
+		- avoidable
+		- avertible
+		- avertable
+		- evitable
+		- avoidable
+		- avertible
+		- avertable
+		- evitable
+		- avoidable
+		- avertible
+		- avertable
+		- obviation
+		- forestalling
+		- preclusion
+
+
+# oeuvre
+
+
+## Noun
+
+1. the total output of a writer or artist (or a substantial part of it); “he studied the entire Wagnerian oeuvre”; “Picasso’s work can be divided into periods”
+	- Synonyms
+		- work
+		- body of work
+	- Less specific
+		- end product
+		- output
+	- More specific
+		- writing
+
+
+# oeuvre
+
+
+## Noun
+
+1. the total output of a writer or artist (or a substantial part of it); “he studied the entire Wagnerian oeuvre”; “Picasso’s work can be divided into periods”
+	- Synonyms
+		- work
+		- body of work
+	- Less specific
+		- end product
+		- output
+	- More specific
+		- writing
+
+
 # oleophilic
 
 
@@ -3085,7 +26243,536 @@ Of or pertaining to Madagascar or its inhabitants.
 		- chemical science
 
 
-===
+# oleophilic
+
+
+## Adjective
+
+1. having a strong affinity for oils rather than water
+	- Antonyms
+		- oleophobic
+	- Similar to
+		- lipophilic
+		- lipotropic
+	- Topic Members
+		- chemistry
+		- chemical science
+
+
+# oligopoly
+
+
+## Noun
+
+1. (economics) a market in which control over the supply of a commodity is in the hands of a small number of producers and each one can influence prices and affect competitors
+	- Less specific
+		- market
+		- marketplace
+		- market place
+	- Topic Members
+		- economics
+		- economic science
+		- political economy
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Oligopoly)
+
+An oligopoly (from Greek ὀλίγος, oligos "few" and πωλεῖν, polein "to sell") is a market structure in which a market or industry is dominated by a small number of large sellers or producers. Oligopolies often result from the desire to maximize profits, leading to collusion between companies. This reduces competition, leading to higher prices for consumers and lower wages for employees.
+
+Many industries have been cited as oligopolistic, including civil aviation, electricity providers, the telecommunications sector, Rail freight markets, food processing, funeral services, sugar refining, beer making, pulp and paper making, and automobile manufacturing.
+
+Most countries have laws outlawing anti-competitive behavior. EU competition law prohibits anti-competitive practices such as price-fixing and manipulating market supply and trade among competitors. In the US, the United States Department of Justice Antitrust Division and the Federal Trade Commission are tasked with stopping collusion. However, corporations can evade legal consequences through tacit collusion, as collusion can only be proven through actual and direct communication between companies. 
+
+It is possible for oligopolies to develop without collusion and in the presence of fierce competition among market participants. This is a situation similar to perfect competition, where oligopolists have their own market structure. In this situation, each company in the oligopoly has a large share in the industry and plays a pivotal, unique role.
+- [extratone-12879](https://t.me/extratone/12879)
+# oligopoly
+
+
+## Noun
+
+1. (economics) a market in which control over the supply of a commodity is in the hands of a small number of producers and each one can influence prices and affect competitors
+	- Less specific
+		- market
+		- marketplace
+		- market place
+	- Topic Members
+		- economics
+		- economic science
+		- political economy
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Oligopoly)
+
+An oligopoly (from Greek ὀλίγος, oligos "few" and πωλεῖν, polein "to sell") is a market structure in which a market or industry is dominated by a small number of large sellers or producers. Oligopolies often result from the desire to maximize profits, leading to collusion between companies. This reduces competition, leading to higher prices for consumers and lower wages for employees.
+
+Many industries have been cited as oligopolistic, including civil aviation, electricity providers, the telecommunications sector, Rail freight markets, food processing, funeral services, sugar refining, beer making, pulp and paper making, and automobile manufacturing.
+
+Most countries have laws outlawing anti-competitive behavior. EU competition law prohibits anti-competitive practices such as price-fixing and manipulating market supply and trade among competitors. In the US, the United States Department of Justice Antitrust Division and the Federal Trade Commission are tasked with stopping collusion. However, corporations can evade legal consequences through tacit collusion, as collusion can only be proven through actual and direct communication between companies. 
+
+It is possible for oligopolies to develop without collusion and in the presence of fierce competition among market participants. This is a situation similar to perfect competition, where oligopolists have their own market structure. In this situation, each company in the oligopoly has a large share in the industry and plays a pivotal, unique role.
+- [extratone-12879](https://t.me/extratone/12879)
+# onomastics
+
+
+## Noun
+
+1. the branch of lexicology that studies the forms and origins of proper names
+	- Less specific
+		- lexicology
+	- Related
+		- onomastic
+
+*From LookUp*:
+Onomastics (or, in older texts, onomatology) is the study of the etymology, history, and use of proper names. An orthonym is the proper name of the object in question, the object of onomastic study.
+
+Onomastics can be helpful in data mining, with applications such as named-entity recognition, or recognition of the origin of names. It is a popular approach in historical research, where it can be used to identify ethnic minorities within wider populations and for the purpose of prosopography.
+# onomastics
+
+
+## Noun
+
+1. the branch of lexicology that studies the forms and origins of proper names
+	- Less specific
+		- lexicology
+	- Related
+		- onomastic
+
+*From LookUp*:
+Onomastics (or, in older texts, onomatology) is the study of the etymology, history, and use of proper names. An orthonym is the proper name of the object in question, the object of onomastic study.
+
+Onomastics can be helpful in data mining, with applications such as named-entity recognition, or recognition of the origin of names. It is a popular approach in historical research, where it can be used to identify ethnic minorities within wider populations and for the purpose of prosopography.
+# opprobrious
+
+
+## Adjective
+
+1. expressing offensive reproach
+	- Synonyms
+		- abusive
+		- scurrilous
+	- Similar to
+		- offensive
+	- Related
+		- scurrility
+		- billingsgate
+		- abuse
+		- clapperclaw
+		- blackguard
+		- shout
+2. (used of conduct or character) deserving or bringing disgrace or shame; “Man…has written one of his blackest records as a destroyer on the oceanic islands”- Rachel Carson; “an ignominious retreat”; “inglorious defeat”; “an opprobrious monument to human greed”; “a shameful display of cowardice”
+	- Synonyms
+		- black
+		- disgraceful
+		- ignominious
+		- inglorious
+		- shameful
+	- Similar to
+		- dishonorable
+		- dishonourable
+	- Related
+		- shamefulness
+		- disgracefulness
+		- ignominiousness
+		- infamy
+		- opprobrium
+		- shame
+		- disgrace
+		- ignominy
+		- shamefulness
+		- disgracefulness
+		- ignominiousness
+		- shamefulness
+		- disgracefulness
+		- ignominiousness
+
+
+# opprobrious
+
+
+## Adjective
+
+1. expressing offensive reproach
+	- Synonyms
+		- abusive
+		- scurrilous
+	- Similar to
+		- offensive
+	- Related
+		- scurrility
+		- billingsgate
+		- abuse
+		- clapperclaw
+		- blackguard
+		- shout
+2. (used of conduct or character) deserving or bringing disgrace or shame; “Man…has written one of his blackest records as a destroyer on the oceanic islands”- Rachel Carson; “an ignominious retreat”; “inglorious defeat”; “an opprobrious monument to human greed”; “a shameful display of cowardice”
+	- Synonyms
+		- black
+		- disgraceful
+		- ignominious
+		- inglorious
+		- shameful
+	- Similar to
+		- dishonorable
+		- dishonourable
+	- Related
+		- shamefulness
+		- disgracefulness
+		- ignominiousness
+		- infamy
+		- opprobrium
+		- shame
+		- disgrace
+		- ignominy
+		- shamefulness
+		- disgracefulness
+		- ignominiousness
+		- shamefulness
+		- disgracefulness
+		- ignominiousness
+
+
+# outmoded
+
+
+## Adjective
+
+1. out of fashion; “a suit of rather antique appearance”; “demode (or outmoded) attire”; “outmoded ideas”
+	- Synonyms
+		- antique
+		- demode
+		- ex
+		- old-fashioned
+		- old-hat
+		- passe
+		- passee
+	- Similar to
+		- unfashionable
+		- unstylish
+	- Related
+		- old-fashionedness
+# outmoded
+
+
+## Adjective
+
+1. out of fashion; “a suit of rather antique appearance”; “demode (or outmoded) attire”; “outmoded ideas”
+	- Synonyms
+		- antique
+		- demode
+		- ex
+		- old-fashioned
+		- old-hat
+		- passe
+		- passee
+	- Similar to
+		- unfashionable
+		- unstylish
+	- Related
+		- old-fashionedness
+# paradigm
+
+
+## Noun
+
+1. systematic arrangement of all the inflected forms of a word
+	- Less specific
+		- inflection
+		- inflexion
+	- Related
+		- paradigmatic
+2. a standard or typical example; “he is the prototype of good breeding”; “he provided America with an image of the good father”
+	- Synonyms
+		- prototype
+		- epitome
+		- image
+	- Less specific
+		- model
+		- example
+	- More specific
+		- concentrate
+		- imago
+	- Related
+		- typify
+		- epitomize
+		- epitomise
+		- typify
+		- epitomize
+		- epitomise
+		- paradigmatic
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+3. the class of all items that can be substituted into the same position (or slot) in a grammatical sentence (are in paradigmatic relation with one another)
+	- Synonyms
+		- substitution class
+	- Less specific
+		- class
+		- category
+		- family
+	- Related
+		- paradigmatic
+4. the generally accepted perspective of a particular discipline at a given time; “he framed the problem within the psychoanalytic paradigm”
+	- Less specific
+		- position
+		- view
+		- perspective
+
+
+# paradigm
+
+
+## Noun
+
+1. systematic arrangement of all the inflected forms of a word
+	- Less specific
+		- inflection
+		- inflexion
+	- Related
+		- paradigmatic
+2. a standard or typical example; “he is the prototype of good breeding”; “he provided America with an image of the good father”
+	- Synonyms
+		- prototype
+		- epitome
+		- image
+	- Less specific
+		- model
+		- example
+	- More specific
+		- concentrate
+		- imago
+	- Related
+		- typify
+		- epitomize
+		- epitomise
+		- typify
+		- epitomize
+		- epitomise
+		- paradigmatic
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+3. the class of all items that can be substituted into the same position (or slot) in a grammatical sentence (are in paradigmatic relation with one another)
+	- Synonyms
+		- substitution class
+	- Less specific
+		- class
+		- category
+		- family
+	- Related
+		- paradigmatic
+4. the generally accepted perspective of a particular discipline at a given time; “he framed the problem within the psychoanalytic paradigm”
+	- Less specific
+		- position
+		- view
+		- perspective
+
+
+# paradigm
+
+
+## Noun
+
+1. systematic arrangement of all the inflected forms of a word
+	- Less specific
+		- inflection
+		- inflexion
+	- Related
+		- paradigmatic
+2. a standard or typical example; “he is the prototype of good breeding”; “he provided America with an image of the good father”
+	- Synonyms
+		- prototype
+		- epitome
+		- image
+	- Less specific
+		- model
+		- example
+	- More specific
+		- concentrate
+		- imago
+	- Related
+		- typify
+		- epitomize
+		- epitomise
+		- typify
+		- epitomize
+		- epitomise
+		- paradigmatic
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+3. the class of all items that can be substituted into the same position (or slot) in a grammatical sentence (are in paradigmatic relation with one another)
+	- Synonyms
+		- substitution class
+	- Less specific
+		- class
+		- category
+		- family
+	- Related
+		- paradigmatic
+4. the generally accepted perspective of a particular discipline at a given time; “he framed the problem within the psychoanalytic paradigm”
+	- Less specific
+		- position
+		- view
+		- perspective
+
+*From LookUp*:
+
+Noun
+1.	Philosophy a typical example or pattern of something; a model
+there is a new paradigm for public art in this country
+
+Philosophy a worldview underlying the theories and methodology of a particular scientific subject
+the discovery of universal gravitation became the paradigm of successful science
+
+2.	Grammar a set of linguistic items that form mutually exclusive choices in particular syntactic roles 	• Often contrasted with syntagm
+English determiners form a paradigm: we can say “a book” or “his book” but not “a his book.”
+
+3.	Grammar (in the traditional grammar of Latin, Greek, and other inflected languages) a table of all the inflected forms of a particular verb, noun, or adjective, serving as a model for other words of the same conjugation or declension.
+# paradigm
+
+
+## Noun
+
+1. systematic arrangement of all the inflected forms of a word
+	- Less specific
+		- inflection
+		- inflexion
+	- Related
+		- paradigmatic
+2. a standard or typical example; “he is the prototype of good breeding”; “he provided America with an image of the good father”
+	- Synonyms
+		- prototype
+		- epitome
+		- image
+	- Less specific
+		- model
+		- example
+	- More specific
+		- concentrate
+		- imago
+	- Related
+		- typify
+		- epitomize
+		- epitomise
+		- typify
+		- epitomize
+		- epitomise
+		- paradigmatic
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+		- archetypal
+		- archetypical
+		- prototypal
+		- prototypic
+		- prototypical
+3. the class of all items that can be substituted into the same position (or slot) in a grammatical sentence (are in paradigmatic relation with one another)
+	- Synonyms
+		- substitution class
+	- Less specific
+		- class
+		- category
+		- family
+	- Related
+		- paradigmatic
+4. the generally accepted perspective of a particular discipline at a given time; “he framed the problem within the psychoanalytic paradigm”
+	- Less specific
+		- position
+		- view
+		- perspective
+
+*From LookUp*:
+
+Noun
+1.	Philosophy a typical example or pattern of something; a model
+there is a new paradigm for public art in this country
+
+Philosophy a worldview underlying the theories and methodology of a particular scientific subject
+the discovery of universal gravitation became the paradigm of successful science
+
+2.	Grammar a set of linguistic items that form mutually exclusive choices in particular syntactic roles 	• Often contrasted with syntagm
+English determiners form a paradigm: we can say “a book” or “his book” but not “a his book.”
+
+3.	Grammar (in the traditional grammar of Latin, Greek, and other inflected languages) a table of all the inflected forms of a particular verb, noun, or adjective, serving as a model for other words of the same conjugation or declension.
+# paralipsis
+
+
+## Noun
+
+1. suggesting by deliberately concise treatment that much of significance is omitted
+	- Synonyms
+		- paralepsis
+		- paraleipsis
+		- preterition
+	- Less specific
+		- rhetorical device
+
+---
+
+## LookUp Addendum
+
+Noun
+1.	Rhetoric the device of giving emphasis by professing to say little or nothing about a subject, as in not to mention their unpaid debts of several million.
+# paralipsis
+
+
+## Noun
+
+1. suggesting by deliberately concise treatment that much of significance is omitted
+	- Synonyms
+		- paralepsis
+		- paraleipsis
+		- preterition
+	- Less specific
+		- rhetorical device
+
+---
+
+## LookUp Addendum
+
+Noun
+1.	Rhetoric the device of giving emphasis by professing to say little or nothing about a subject, as in not to mention their unpaid debts of several million.
 # parlance
 
 
@@ -3104,7 +26791,24 @@ Of or pertaining to Madagascar or its inhabitants.
 		- idiomatical
 
 
-===
+# parlance
+
+
+## Noun
+
+1. a manner of speaking that is natural to native speakers of a language
+	- Synonyms
+		- idiom
+	- Less specific
+		- formulation
+		- expression
+	- Related
+		- idiomatic
+		- idiomatical
+		- idiomatic
+		- idiomatical
+
+
 # parlous
 
 
@@ -3134,7 +26838,97 @@ Of or pertaining to Madagascar or its inhabitants.
 		- perilousness
 
 
-===
+# parlous
+
+
+## Adjective
+
+1. fraught with danger; “dangerous waters”; “a parlous journey on stormy seas”; “a perilous voyage across the Atlantic in a small boat”; “the precarious life of an undersea diver”; “dangerous surgery followed by a touch-and-go recovery”
+	- Synonyms
+		- perilous
+		- precarious
+		- touch-and-go
+	- Similar to
+		- dangerous
+		- unsafe
+	- Related
+		- precariousness
+		- riskiness
+		- peril
+		- hazard
+		- jeopardy
+		- peril
+		- risk
+		- endangerment
+		- risk
+		- peril
+		- danger
+		- hazardousness
+		- perilousness
+
+
+# paroxysm
+
+
+## Noun
+
+1. a sudden uncontrollable attack; “a paroxysm of giggling”; “a fit of coughing”; “convulsions of laughter”
+	- Synonyms
+		- fit
+		- convulsion
+	- Less specific
+		- attack
+	- Related
+		- paroxysmal
+
+- [**paroxysm** - LookUp](https://learnwithlookup.com/share/index.html?word=paroxysm&definition=sudden%2520attack%2520or%2520outburst%2520of%2520particular%2520emotion%2520or%2520activity&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwYXJveHlzbSIsImRlZmluaXRpb24iOiJzdWRkZW4gYXR0YWNrIG9yIG91dGJ1cnN0IG9mIHBhcnRpY3VsYXIgZW1vdGlvbiBvciBhY3Rpdml0eSJ9)
+Noun
+1.	a sudden attack or violent expression of a particular emotion or activity
+
+              a paroxysm of weeping
+
+Medicine a sudden recurrence or attack of a disease; a sudden worsening of symptoms
+paroxysms of ataxia and shaking
+
+## Origin
+late Middle English: from French paroxysme, via medieval Latin from Greek paroxusmos, from paroxunein ‘exasperate’, from para- ‘beyond’ + oxunein ‘sharpen’ (from oxus ‘sharp’)
+
+## Thesaurus
+Noun
+1.	violent paroxysms of coughing | a paroxysm of rage
+
+Similar Words: 	spasm    attack    fit    burst    bout    convulsion    seizure    outburst    outbreak    eruption    explosion    flare-up    access    throes    ebullition    boutade
+# paroxysm
+
+
+## Noun
+
+1. a sudden uncontrollable attack; “a paroxysm of giggling”; “a fit of coughing”; “convulsions of laughter”
+	- Synonyms
+		- fit
+		- convulsion
+	- Less specific
+		- attack
+	- Related
+		- paroxysmal
+
+- [**paroxysm** - LookUp](https://learnwithlookup.com/share/index.html?word=paroxysm&definition=sudden%2520attack%2520or%2520outburst%2520of%2520particular%2520emotion%2520or%2520activity&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwYXJveHlzbSIsImRlZmluaXRpb24iOiJzdWRkZW4gYXR0YWNrIG9yIG91dGJ1cnN0IG9mIHBhcnRpY3VsYXIgZW1vdGlvbiBvciBhY3Rpdml0eSJ9)
+Noun
+1.	a sudden attack or violent expression of a particular emotion or activity
+
+              a paroxysm of weeping
+
+Medicine a sudden recurrence or attack of a disease; a sudden worsening of symptoms
+paroxysms of ataxia and shaking
+
+## Origin
+late Middle English: from French paroxysme, via medieval Latin from Greek paroxusmos, from paroxunein ‘exasperate’, from para- ‘beyond’ + oxunein ‘sharpen’ (from oxus ‘sharp’)
+
+## Thesaurus
+Noun
+1.	violent paroxysms of coughing | a paroxysm of rage
+
+Similar Words: 	spasm    attack    fit    burst    bout    convulsion    seizure    outburst    outbreak    eruption    explosion    flare-up    access    throes    ebullition    boutade
 # patois
 
 
@@ -3163,7 +26957,708 @@ Of or pertaining to Madagascar or its inhabitants.
 		- accent
 
 
-===
+# patois
+
+
+## Noun
+
+1. a characteristic language of a particular group (as among thieves); “they don’t speak our lingo”
+	- Synonyms
+		- slang
+		- cant
+		- jargon
+		- lingo
+		- argot
+		- vernacular
+	- Less specific
+		- non-standard speech
+	- More specific
+		- street name
+		- rhyming slang
+	- Related
+		- slangy
+		- slang
+2. a regional dialect of a language (especially French); usually considered substandard
+	- Less specific
+		- dialect
+		- idiom
+		- accent
+
+
+# patron
+
+
+## Noun
+
+1. a regular customer
+	- Synonyms
+		- frequenter
+	- Less specific
+		- customer
+		- client
+	- More specific
+		- operagoer
+		- regular
+		- habitue
+		- fixture
+	- Related
+		- patronize
+		- patronise
+		- shop
+		- shop at
+		- buy at
+		- frequent
+		- sponsor
+		- frequent
+		- haunt
+		- patronize
+		- patronise
+		- shop
+		- shop at
+		- buy at
+		- frequent
+		- sponsor
+		- patronize
+		- patronise
+		- patronage
+		- support
+		- keep going
+		- patronize
+		- patronise
+		- shop
+		- shop at
+		- buy at
+		- frequent
+		- sponsor
+		- patronize
+		- patronise
+		- patronage
+		- support
+		- keep going
+2. the proprietor of an inn
+	- Less specific
+		- owner
+		- proprietor
+	- More specific
+		- host
+		- innkeeper
+		- boniface
+	- Region
+		- France
+		- French Republic
+3. someone who supports or champions something
+	- Synonyms
+		- sponsor
+		- supporter
+	- Less specific
+		- benefactor
+		- helper
+	- More specific
+		- angel
+		- backer
+		- godfather
+		- godparent
+		- guarantor
+		- surety
+		- warrantor
+		- warranter
+		- patroness
+		- patronne
+		- tower of strength
+		- pillar of strength
+	- Related
+		- support
+		- back up
+		- patronize
+		- patronise
+		- patronage
+		- support
+		- keep going
+		- defend
+		- support
+		- fend for
+		- sponsorship
+		- sponsor
+		- sponsor
+		- patronize
+		- patronise
+		- sponsor
+		- patronize
+		- patronise
+		- sponsor
+		- patronize
+		- patronise
+
+*From LookUp*:
+Noun
+1.	a person who gives financial or other support to a person, organization, cause, or activity
+a celebrated patron of the arts | Charles became a patron of Rubens and van Dyck
+
+2.	Retail Restaurants a customer, especially a regular one, of a store, restaurant, or theater
+we surveyed the plushness of the hotel and its sleek, well-dressed patrons
+
+3.	Roman History (in ancient Rome) a patrician in relation to a client. 	• See also client (sense 3)
+
+Roman History (in ancient Rome) the former owner and (frequently) protector of a freed slave.
+
+4.	Ecclesiastical Historical British a person or institution with the right to grant a benefice to a member of the clergy.
+
+• short for patron saint
+# patron
+
+
+## Noun
+
+1. a regular customer
+	- Synonyms
+		- frequenter
+	- Less specific
+		- customer
+		- client
+	- More specific
+		- operagoer
+		- regular
+		- habitue
+		- fixture
+	- Related
+		- patronize
+		- patronise
+		- shop
+		- shop at
+		- buy at
+		- frequent
+		- sponsor
+		- frequent
+		- haunt
+		- patronize
+		- patronise
+		- shop
+		- shop at
+		- buy at
+		- frequent
+		- sponsor
+		- patronize
+		- patronise
+		- patronage
+		- support
+		- keep going
+		- patronize
+		- patronise
+		- shop
+		- shop at
+		- buy at
+		- frequent
+		- sponsor
+		- patronize
+		- patronise
+		- patronage
+		- support
+		- keep going
+2. the proprietor of an inn
+	- Less specific
+		- owner
+		- proprietor
+	- More specific
+		- host
+		- innkeeper
+		- boniface
+	- Region
+		- France
+		- French Republic
+3. someone who supports or champions something
+	- Synonyms
+		- sponsor
+		- supporter
+	- Less specific
+		- benefactor
+		- helper
+	- More specific
+		- angel
+		- backer
+		- godfather
+		- godparent
+		- guarantor
+		- surety
+		- warrantor
+		- warranter
+		- patroness
+		- patronne
+		- tower of strength
+		- pillar of strength
+	- Related
+		- support
+		- back up
+		- patronize
+		- patronise
+		- patronage
+		- support
+		- keep going
+		- defend
+		- support
+		- fend for
+		- sponsorship
+		- sponsor
+		- sponsor
+		- patronize
+		- patronise
+		- sponsor
+		- patronize
+		- patronise
+		- sponsor
+		- patronize
+		- patronise
+
+*From LookUp*:
+Noun
+1.	a person who gives financial or other support to a person, organization, cause, or activity
+a celebrated patron of the arts | Charles became a patron of Rubens and van Dyck
+
+2.	Retail Restaurants a customer, especially a regular one, of a store, restaurant, or theater
+we surveyed the plushness of the hotel and its sleek, well-dressed patrons
+
+3.	Roman History (in ancient Rome) a patrician in relation to a client. 	• See also client (sense 3)
+
+Roman History (in ancient Rome) the former owner and (frequently) protector of a freed slave.
+
+4.	Ecclesiastical Historical British a person or institution with the right to grant a benefice to a member of the clergy.
+
+• short for patron saint
+# patronymic
+
+
+## Noun
+
+1. a family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in English or O’- in Irish) added to the name of your father or a paternal ancestor)
+	- Synonyms
+		- patronym
+	- Less specific
+		- name
+	- Related
+		- patronymic
+		- patronymic
+	- Region
+		- Ireland
+		- Hibernia
+		- Emerald Isle
+
+## Adjective
+
+1. of or derived from a personal or family name
+	- Pertains to
+		- patronymic
+		- patronym
+	- Related
+		- patronymic
+		- patronym
+		- patronymic
+		- patronym
+
+
+# patronymic
+
+
+## Noun
+
+1. a family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in English or O’- in Irish) added to the name of your father or a paternal ancestor)
+	- Synonyms
+		- patronym
+	- Less specific
+		- name
+	- Related
+		- patronymic
+		- patronymic
+	- Region
+		- Ireland
+		- Hibernia
+		- Emerald Isle
+
+## Adjective
+
+1. of or derived from a personal or family name
+	- Pertains to
+		- patronymic
+		- patronym
+	- Related
+		- patronymic
+		- patronym
+		- patronymic
+		- patronym
+
+
+# patzer
+
+
+## Noun
+
+1. a poor chess player
+	- Less specific
+		- chess player
+
+- [**patzer** - LookUp](https://learnwithlookup.com/share/index.html?word=patzer&definition=poor%2520player%2520at%2520chess&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwYXR6ZXIiLCJkZWZpbml0aW9uIjoicG9vciBwbGF5ZXIgYXQgY2hlc3MifQ%3D%3D)
+Noun
+1.	Chess Informal a poor chess player
+I won a low-level tournament of patzers
+
+## Origin
+1940s: perhaps related to German patzen ‘to bungle’
+# patzer
+
+
+## Noun
+
+1. a poor chess player
+	- Less specific
+		- chess player
+
+- [**patzer** - LookUp](https://learnwithlookup.com/share/index.html?word=patzer&definition=poor%2520player%2520at%2520chess&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwYXR6ZXIiLCJkZWZpbml0aW9uIjoicG9vciBwbGF5ZXIgYXQgY2hlc3MifQ%3D%3D)
+Noun
+1.	Chess Informal a poor chess player
+I won a low-level tournament of patzers
+
+## Origin
+1940s: perhaps related to German patzen ‘to bungle’
+# pelf
+
+
+## Noun
+
+1. informal terms for money
+	- Synonyms
+		- boodle
+		- bread
+		- cabbage
+		- clams
+		- dinero
+		- dough
+		- gelt
+		- kale
+		- lettuce
+		- lolly
+		- lucre
+		- loot
+		- moolah
+		- scratch
+		- shekels
+		- simoleons
+		- sugar
+		- wampum
+	- Less specific
+		- money
+	- Related
+		- pilfer
+		- cabbage
+		- purloin
+		- pinch
+		- abstract
+		- snarf
+		- swipe
+		- hook
+		- sneak
+		- filch
+		- nobble
+		- lift
+
+*From LookUp*:
+Noun
+1.	Archaic money, especially when gained in a dishonest or dishonorable way
+damnation dog thee and thy wretched pelf!
+# pelf
+
+
+## Noun
+
+1. informal terms for money
+	- Synonyms
+		- boodle
+		- bread
+		- cabbage
+		- clams
+		- dinero
+		- dough
+		- gelt
+		- kale
+		- lettuce
+		- lolly
+		- lucre
+		- loot
+		- moolah
+		- scratch
+		- shekels
+		- simoleons
+		- sugar
+		- wampum
+	- Less specific
+		- money
+	- Related
+		- pilfer
+		- cabbage
+		- purloin
+		- pinch
+		- abstract
+		- snarf
+		- swipe
+		- hook
+		- sneak
+		- filch
+		- nobble
+		- lift
+
+*From LookUp*:
+Noun
+1.	Archaic money, especially when gained in a dishonest or dishonorable way
+damnation dog thee and thy wretched pelf!
+# pentasyllabic
+
+
+## Adjective
+
+1. having or characterized by or consisting of five syllables
+	- Similar to
+		- syllabic
+
+
+# pentasyllabic
+
+
+## Adjective
+
+1. having or characterized by or consisting of five syllables
+	- Similar to
+		- syllabic
+
+
+# perambulate
+
+
+## Verb
+
+1. make an official inspection on foot of (the bounds of a property); “Selectmen are required by law to perambulate the bounds every five years”
+	- Less specific
+		- inspect
+	- Related
+		- perambulation
+2. walk with no particular goal; “we were walking around in the garden”; “after breakfast, she walked about in the park”
+	- Synonyms
+		- walk about
+		- walk around
+	- Less specific
+		- walk
+	- Related
+		- walkabout
+		- amble
+		- promenade
+		- saunter
+		- stroll
+		- perambulation
+		- amble
+		- promenade
+		- saunter
+		- stroll
+		- perambulation
+
+- [**perambulate** - LookUp](https://learnwithlookup.com/share/index.html?word=perambulate&definition=walk%2520or%2520travel%2520through%2520or%2520round%2520place&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwZXJhbWJ1bGF0ZSIsImRlZmluaXRpb24iOiJ3YWxrIG9yIHRyYXZlbCB0aHJvdWdoIG9yIHJvdW5kIHBsYWNlIn0%3D)
+Verb
+1.	Formal Humorous walk or travel through or around a place or area, especially for pleasure and in a leisurely way
+she perambulated the square | he grew weary of perambulating over rough countryside in bad weather
+
+Law Historical British [with object] walk around (a parish, forest, etc.) in order to officially assert and record its boundaries.
+# perambulate
+
+
+## Verb
+
+1. make an official inspection on foot of (the bounds of a property); “Selectmen are required by law to perambulate the bounds every five years”
+	- Less specific
+		- inspect
+	- Related
+		- perambulation
+2. walk with no particular goal; “we were walking around in the garden”; “after breakfast, she walked about in the park”
+	- Synonyms
+		- walk about
+		- walk around
+	- Less specific
+		- walk
+	- Related
+		- walkabout
+		- amble
+		- promenade
+		- saunter
+		- stroll
+		- perambulation
+		- amble
+		- promenade
+		- saunter
+		- stroll
+		- perambulation
+
+- [**perambulate** - LookUp](https://learnwithlookup.com/share/index.html?word=perambulate&definition=walk%2520or%2520travel%2520through%2520or%2520round%2520place&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwZXJhbWJ1bGF0ZSIsImRlZmluaXRpb24iOiJ3YWxrIG9yIHRyYXZlbCB0aHJvdWdoIG9yIHJvdW5kIHBsYWNlIn0%3D)
+Verb
+1.	Formal Humorous walk or travel through or around a place or area, especially for pleasure and in a leisurely way
+she perambulated the square | he grew weary of perambulating over rough countryside in bad weather
+
+Law Historical British [with object] walk around (a parish, forest, etc.) in order to officially assert and record its boundaries.
+# percipient
+
+
+## Noun
+
+1. a person who becomes aware (of things or events) through the senses
+	- Synonyms
+		- perceiver
+		- observer
+		- beholder
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+	- More specific
+		- eyeglass wearer
+		- finder
+		- discoverer
+		- spotter
+		- hearer
+		- listener
+		- auditor
+		- attender
+		- audile
+		- motile
+		- noticer
+		- seer
+		- spectator
+		- witness
+		- viewer
+		- watcher
+		- looker
+		- visualizer
+		- visualiser
+		- witness
+		- witnesser
+		- informant
+	- Related
+		- behold
+		- lay eyes on
+		- watch
+		- observe
+		- follow
+		- watch over
+		- keep an eye on
+		- detect
+		- observe
+		- find
+		- discover
+		- notice
+		- note
+		- take note
+		- observe
+		- perceive
+		- comprehend
+
+## Adjective
+
+1. characterized by ease and quickness in perceiving; “clear mind”; “a percipient author”
+	- Synonyms
+		- clear
+	- Similar to
+		- discerning
+	- Related
+		- perceive
+		- clarity
+		- lucidity
+		- lucidness
+		- pellucidity
+		- clearness
+		- limpidity
+
+
+# percipient
+
+
+## Noun
+
+1. a person who becomes aware (of things or events) through the senses
+	- Synonyms
+		- perceiver
+		- observer
+		- beholder
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+	- More specific
+		- eyeglass wearer
+		- finder
+		- discoverer
+		- spotter
+		- hearer
+		- listener
+		- auditor
+		- attender
+		- audile
+		- motile
+		- noticer
+		- seer
+		- spectator
+		- witness
+		- viewer
+		- watcher
+		- looker
+		- visualizer
+		- visualiser
+		- witness
+		- witnesser
+		- informant
+	- Related
+		- behold
+		- lay eyes on
+		- watch
+		- observe
+		- follow
+		- watch over
+		- keep an eye on
+		- detect
+		- observe
+		- find
+		- discover
+		- notice
+		- note
+		- take note
+		- observe
+		- perceive
+		- comprehend
+
+## Adjective
+
+1. characterized by ease and quickness in perceiving; “clear mind”; “a percipient author”
+	- Synonyms
+		- clear
+	- Similar to
+		- discerning
+	- Related
+		- perceive
+		- clarity
+		- lucidity
+		- lucidness
+		- pellucidity
+		- clearness
+		- limpidity
+
+
+# percontation
+
+
+- [**percontation** - LookUp](https://learnwithlookup.com/share/index.html?word=percontation&definition=&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwZXJjb250YXRpb24iLCJkZWZpbml0aW9uIjoiIn0%3D)
+Noun
+1.	Rare A question or inquiry which requires more than a ‘yes’ or ‘no’ answer.
+
+## Origin
+
+early 17th century; earliest use found in Henry Cockeram (fl. 1623–1658), lexicographer. From classical Latin percontatiōn-, percontatiō action of questioning, particular question from percontāt-, past participial stem of percontārī (also percontāre) to inquire, interrogate (from per- + contus boat-pole) + -iō
 # peregrinate
 
 
@@ -3178,7 +27673,198 @@ Of or pertaining to Madagascar or its inhabitants.
 		- peregrination
 
 
-===
+# peregrinate
+
+
+## Verb
+
+1. travel around, through, or over, especially on foot; “peregrinate the bridge”
+	- Less specific
+		- travel
+		- trip
+		- jaunt
+	- Related
+		- peregrination
+
+
+# peripatetic
+
+![LookUp Photo](https://i.snap.as/cKAO0ZVD.png)
+
+## Noun
+
+1. a person who walks from place to place
+	- Less specific
+		- pedestrian
+		- walker
+		- footer
+2. a follower of Aristotle or an adherent of Aristotelianism
+	- Synonyms
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+	- Less specific
+		- disciple
+		- adherent
+	- Related
+		- Aristotelianism
+		- peripateticism
+		- peripatetic
+		- wayfaring
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+		- peripatetic
+		- Aristotelianism
+		- peripateticism
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+		- peripatetic
+		- Aristotelianism
+		- peripateticism
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+		- peripatetic
+
+## Adjective
+
+1. of or relating to Aristotle or his philosophy; “Aristotelean logic”
+	- Synonyms
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+	- Pertains to
+		- Aristotle
+		- Aristotle
+		- Aristotle
+		- Aristotle
+	- Related
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+		- Aristotle
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+		- Aristotle
+2. traveling especially on foot; “peripatetic country preachers”; “a poor wayfaring stranger”
+	- Synonyms
+		- wayfaring
+	- Similar to
+		- unsettled
+	- Related
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+
+*From LookUp*:
+
+Adjective
+1.	traveling from place to place, in particular working or based in various places for relatively short periods
+the peripatetic nature of military life
+
+2.	Philosophy (also Peripatetic) Aristotelian.
+
+
+Noun
+1.	a person who travels from place to place
+peripatetics have been cut under local management of schools
+
+2.	Philosophy (also Peripatetic) an Aristotelian philosopher.
+# peripatetic
+
+![LookUp Photo](https://i.snap.as/cKAO0ZVD.png)
+
+## Noun
+
+1. a person who walks from place to place
+	- Less specific
+		- pedestrian
+		- walker
+		- footer
+2. a follower of Aristotle or an adherent of Aristotelianism
+	- Synonyms
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+	- Less specific
+		- disciple
+		- adherent
+	- Related
+		- Aristotelianism
+		- peripateticism
+		- peripatetic
+		- wayfaring
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+		- peripatetic
+		- Aristotelianism
+		- peripateticism
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+		- peripatetic
+		- Aristotelianism
+		- peripateticism
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+		- peripatetic
+
+## Adjective
+
+1. of or relating to Aristotle or his philosophy; “Aristotelean logic”
+	- Synonyms
+		- Aristotelian
+		- Aristotelean
+		- Aristotelic
+	- Pertains to
+		- Aristotle
+		- Aristotle
+		- Aristotle
+		- Aristotle
+	- Related
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+		- Aristotle
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+		- Aristotle
+2. traveling especially on foot; “peripatetic country preachers”; “a poor wayfaring stranger”
+	- Synonyms
+		- wayfaring
+	- Similar to
+		- unsettled
+	- Related
+		- Aristotelian
+		- Aristotelean
+		- Peripatetic
+
+*From LookUp*:
+
+Adjective
+1.	traveling from place to place, in particular working or based in various places for relatively short periods
+the peripatetic nature of military life
+
+2.	Philosophy (also Peripatetic) Aristotelian.
+
+
+Noun
+1.	a person who travels from place to place
+peripatetics have been cut under local management of schools
+
+2.	Philosophy (also Peripatetic) an Aristotelian philosopher.
 # pertinent
 
 
@@ -3224,7 +27910,341 @@ Of or pertaining to Madagascar or its inhabitants.
 		- appositeness
 
 
-===
+# pertinent
+
+
+## Adjective
+
+1. having precise or logical relevance to the matter at hand; “a list of articles pertinent to the discussion”; “remarks that were to the point”
+	- Similar to
+		- relevant
+	- Related
+		- applicability
+		- pertinence
+		- pertinency
+		- applicability
+		- pertinence
+		- pertinency
+		- pertain
+		- appertain
+2. being of striking appropriateness and pertinence; “the successful copywriter is a master of apposite and evocative verbal images”; “an apt reply”
+	- Synonyms
+		- apposite
+		- apt
+	- Similar to
+		- apropos
+	- Related
+		- applicability
+		- pertinence
+		- pertinency
+		- applicability
+		- pertinence
+		- pertinency
+		- refer
+		- pertain
+		- relate
+		- concern
+		- come to
+		- bear on
+		- touch
+		- touch on
+		- have to do with
+		- aptness
+		- appositeness
+		- aptness
+		- appositeness
+
+
+# phlegethontic
+
+
+*From LookUp*:
+Adjective
+1.	Poetic Rare Of, relating to, or resembling the mythical fiery river Phlegethon; specifically blazing, burning.
+# phlegethontic
+
+
+*From LookUp*:
+Adjective
+1.	Poetic Rare Of, relating to, or resembling the mythical fiery river Phlegethon; specifically blazing, burning.
+# phlegm
+
+
+## Noun
+
+1. apathy demonstrated by an absence of emotional reactions
+	- Synonyms
+		- emotionlessness
+		- impassivity
+		- impassiveness
+		- indifference
+		- stolidity
+		- unemotionality
+	- Less specific
+		- apathy
+	- Related
+		- impassive
+		- stolid
+		- phlegmatic
+		- phlegmatical
+		- phlegmatic
+		- phlegmatical
+		- impassive
+		- stolid
+		- deadpan
+		- expressionless
+		- impassive
+		- poker-faced
+		- unexpressive
+		- impassive
+		- stolid
+		- emotionless
+		- passionless
+2. expectorated matter; saliva mixed with discharges from the respiratory passages; in ancient and medieval physiology it was believed to cause sluggishness
+	- Synonyms
+		- sputum
+	- Less specific
+		- mucus
+		- mucous secretion
+	- Related
+		- phlegmy
+3. inactivity; showing an unusual lack of energy; “the general appearance of sluggishness alarmed his friends”
+	- Synonyms
+		- languor
+		- lethargy
+		- sluggishness
+		- flatness
+	- Less specific
+		- inactiveness
+		- inactivity
+		- inertia
+	- Related
+		- phlegmatic
+		- phlegmatical
+		- phlegmatic
+		- phlegmatical
+		- inert
+		- sluggish
+		- soggy
+		- torpid
+		- lethargic
+		- unenergetic
+		- dreamy
+		- lackadaisical
+		- languid
+		- languorous
+
+
+# phlegm
+
+
+## Noun
+
+1. apathy demonstrated by an absence of emotional reactions
+	- Synonyms
+		- emotionlessness
+		- impassivity
+		- impassiveness
+		- indifference
+		- stolidity
+		- unemotionality
+	- Less specific
+		- apathy
+	- Related
+		- impassive
+		- stolid
+		- phlegmatic
+		- phlegmatical
+		- phlegmatic
+		- phlegmatical
+		- impassive
+		- stolid
+		- deadpan
+		- expressionless
+		- impassive
+		- poker-faced
+		- unexpressive
+		- impassive
+		- stolid
+		- emotionless
+		- passionless
+2. expectorated matter; saliva mixed with discharges from the respiratory passages; in ancient and medieval physiology it was believed to cause sluggishness
+	- Synonyms
+		- sputum
+	- Less specific
+		- mucus
+		- mucous secretion
+	- Related
+		- phlegmy
+3. inactivity; showing an unusual lack of energy; “the general appearance of sluggishness alarmed his friends”
+	- Synonyms
+		- languor
+		- lethargy
+		- sluggishness
+		- flatness
+	- Less specific
+		- inactiveness
+		- inactivity
+		- inertia
+	- Related
+		- phlegmatic
+		- phlegmatical
+		- phlegmatic
+		- phlegmatical
+		- inert
+		- sluggish
+		- soggy
+		- torpid
+		- lethargic
+		- unenergetic
+		- dreamy
+		- lackadaisical
+		- languid
+		- languorous
+
+
+# phlogiston
+
+
+## Noun
+
+1. a hypothetical substance once believed to be present in all combustible materials and to be released during burning
+	- Less specific
+		- substance
+
+
+# phlogiston
+
+
+## Noun
+
+1. a hypothetical substance once believed to be present in all combustible materials and to be released during burning
+	- Less specific
+		- substance
+
+
+# phoneme
+
+
+## Noun
+
+1. (linguistics) one of a small set of speech sounds that are distinguished by the speakers of a particular language
+	- Less specific
+		- phone
+		- speech sound
+		- sound
+	- More specific
+		- allophone
+	- Related
+		- phonemic
+	- Topic Members
+		- linguistics
+
+- [From LookUp](https://learnwithlookup.com/share/index.html?word=phoneme&definition=any%2520of%2520distinct%2520units%2520of%2520sound%2520in%2520language&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwaG9uZW1lIiwiZGVmaW5pdGlvbiI6ImFueSBvZiBkaXN0aW5jdCB1bml0cyBvZiBzb3VuZCBpbiBsYW5ndWFnZSJ9)
+Noun
+1.	Phonetics any of the perceptually distinct units of sound in a specified language that distinguish one word from another, for example p, b, d, and t in the English words pad, pat, bad, and bat. 	• Compare with allophone
+# phoneme
+
+
+## Noun
+
+1. (linguistics) one of a small set of speech sounds that are distinguished by the speakers of a particular language
+	- Less specific
+		- phone
+		- speech sound
+		- sound
+	- More specific
+		- allophone
+	- Related
+		- phonemic
+	- Topic Members
+		- linguistics
+
+- [From LookUp](https://learnwithlookup.com/share/index.html?word=phoneme&definition=any%2520of%2520distinct%2520units%2520of%2520sound%2520in%2520language&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwaG9uZW1lIiwiZGVmaW5pdGlvbiI6ImFueSBvZiBkaXN0aW5jdCB1bml0cyBvZiBzb3VuZCBpbiBsYW5ndWFnZSJ9)
+Noun
+1.	Phonetics any of the perceptually distinct units of sound in a specified language that distinguish one word from another, for example p, b, d, and t in the English words pad, pat, bad, and bat. 	• Compare with allophone
+# phonoaestheme
+
+
+A PHONOAESTHEME is a pattern of sounds in a language that has come to be associated with a particular meaning. In English, for instance, the sequence SL– is associated with ease of movement (slip, slide, slick), while GL– is associated with light (glitter, glisten, gleam, glow).
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1505149728891224065)
+# phonoaestheme
+
+
+A PHONOAESTHEME is a pattern of sounds in a language that has come to be associated with a particular meaning. In English, for instance, the sequence SL– is associated with ease of movement (slip, slide, slick), while GL– is associated with light (glitter, glisten, gleam, glow).
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1505149728891224065)
+# phume
+## Verb
+as in *fumigate* with ***furious*** fucking phlegm.
+# phume
+## Verb
+as in *fumigate* with ***furious*** fucking phlegm.
+# pied
+
+
+## Adjective
+
+1. having sections or patches colored differently and usually brightly; “a jester dressed in motley”; “the painted desert”; “a particolored dress”; “a piebald horse”; “pied daisies”
+	- Synonyms
+		- motley
+		- calico
+		- multicolor
+		- multi-color
+		- multicolour
+		- multi-colour
+		- multicolored
+		- multi-colored
+		- multicoloured
+		- multi-coloured
+		- painted
+		- particolored
+		- particoloured
+		- piebald
+		- varicolored
+		- varicoloured
+	- Similar to
+		- colored
+		- coloured
+		- colorful
+	- Related
+		- calico
+		- motley
+		- motley
+
+
+# pied
+
+
+## Adjective
+
+1. having sections or patches colored differently and usually brightly; “a jester dressed in motley”; “the painted desert”; “a particolored dress”; “a piebald horse”; “pied daisies”
+	- Synonyms
+		- motley
+		- calico
+		- multicolor
+		- multi-color
+		- multicolour
+		- multi-colour
+		- multicolored
+		- multi-colored
+		- multicoloured
+		- multi-coloured
+		- painted
+		- particolored
+		- particoloured
+		- piebald
+		- varicolored
+		- varicoloured
+	- Similar to
+		- colored
+		- coloured
+		- colorful
+	- Related
+		- calico
+		- motley
+		- motley
+
+
 # pious
 
 
@@ -3259,7 +28279,634 @@ Of or pertaining to Madagascar or its inhabitants.
 		- piousness
 
 
-===
+# pious
+
+
+## Adjective
+
+1. having or showing or expressing reverence for a deity; “pious readings”
+	- Antonyms
+		- impious
+	- Similar to
+		- devotional
+		- godly
+		- reverent
+		- worshipful
+		- holier-than-thou
+		- pietistic
+		- pietistical
+		- pharisaic
+		- pharisaical
+		- sanctimonious
+		- self-righteous
+		- prayerful
+	- See also
+		- religious
+		- sacred
+		- unworldly
+		- virtuous
+	- Attributes
+		- piety
+		- piousness
+	- Related
+		- piety
+		- piousness
+
+
+# placate
+
+
+## Verb
+
+1. cause to be more favorably inclined; gain the good will of; “She managed to mollify the angry customer”
+	- Synonyms
+		- pacify
+		- lenify
+		- conciliate
+		- assuage
+		- appease
+		- mollify
+		- gentle
+		- gruntle
+	- Less specific
+		- calm
+		- calm down
+		- quiet
+		- tranquilize
+		- tranquillize
+		- tranquillise
+		- quieten
+		- lull
+		- still
+	- Related
+		- appeasing
+		- placating
+		- placative
+		- placatory
+		- appeasing
+		- placating
+		- placative
+		- placatory
+		- placation
+		- conciliation
+		- propitiation
+		- mollification
+		- pacification
+		- mollification
+		- appeasable
+		- conciliable
+		- conciliatory
+		- conciliative
+		- conciliation
+		- placation
+		- conciliation
+		- propitiation
+		- conciliator
+		- make-peace
+		- pacifier
+		- peacemaker
+		- reconciler
+		- pacification
+		- mollification
+		- peace
+		- peace
+		- peacefulness
+		- peace of mind
+		- repose
+		- serenity
+		- heartsease
+		- ataraxis
+		- comforter
+		- pacifier
+		- baby's dummy
+		- teething ring
+
+
+# placate
+
+
+## Verb
+
+1. cause to be more favorably inclined; gain the good will of; “She managed to mollify the angry customer”
+	- Synonyms
+		- pacify
+		- lenify
+		- conciliate
+		- assuage
+		- appease
+		- mollify
+		- gentle
+		- gruntle
+	- Less specific
+		- calm
+		- calm down
+		- quiet
+		- tranquilize
+		- tranquillize
+		- tranquillise
+		- quieten
+		- lull
+		- still
+	- Related
+		- appeasing
+		- placating
+		- placative
+		- placatory
+		- appeasing
+		- placating
+		- placative
+		- placatory
+		- placation
+		- conciliation
+		- propitiation
+		- mollification
+		- pacification
+		- mollification
+		- appeasable
+		- conciliable
+		- conciliatory
+		- conciliative
+		- conciliation
+		- placation
+		- conciliation
+		- propitiation
+		- conciliator
+		- make-peace
+		- pacifier
+		- peacemaker
+		- reconciler
+		- pacification
+		- mollification
+		- peace
+		- peace
+		- peacefulness
+		- peace of mind
+		- repose
+		- serenity
+		- heartsease
+		- ataraxis
+		- comforter
+		- pacifier
+		- baby's dummy
+		- teething ring
+
+
+# plethora
+
+
+## Noun
+
+1. extreme excess; “an embarrassment of riches”
+	- Synonyms
+		- overplus
+		- superfluity
+		- embarrassment
+	- Less specific
+		- excess
+		- excessiveness
+		- inordinateness
+	- More specific
+		- redundancy
+		- redundance
+	- Related
+		- excess
+		- extra
+		- redundant
+		- spare
+		- supererogatory
+		- superfluous
+		- supernumerary
+		- surplus
+		- overabundant
+		- plethoric
+		- rife
+
+
+# plethora
+
+
+## Noun
+
+1. extreme excess; “an embarrassment of riches”
+	- Synonyms
+		- overplus
+		- superfluity
+		- embarrassment
+	- Less specific
+		- excess
+		- excessiveness
+		- inordinateness
+	- More specific
+		- redundancy
+		- redundance
+	- Related
+		- excess
+		- extra
+		- redundant
+		- spare
+		- supererogatory
+		- superfluous
+		- supernumerary
+		- surplus
+		- overabundant
+		- plethoric
+		- rife
+
+
+# plume
+
+
+## Noun
+
+1. anything that resembles a feather in shape or lightness; “a plume of smoke”; “grass with large plumes”
+	- Less specific
+		- shape
+		- form
+2. a feather or cluster of feathers worn as an ornament
+	- Less specific
+		- adornment
+	- More specific
+		- aigrette
+		- aigret
+		- panache
+	- Related
+		- plume
+3. the light horny waterproof structure forming the external covering of birds
+	- Synonyms
+		- feather
+		- plumage
+	- Less specific
+		- body covering
+		- animal material
+	- More specific
+		- down
+		- down feather
+		- aftershaft
+		- contour feather
+		- bastard wing
+		- alula
+		- spurious wing
+		- marabou
+		- hackle
+		- flight feather
+		- pinion
+		- quill
+		- quill feather
+		- scapular
+	- Parts
+		- vane
+		- web
+		- quill
+		- calamus
+		- shaft
+	- Part of
+		- bird
+	- Contains
+		- keratin
+		- ceratin
+		- melanin
+	- Related
+		- plume
+		- preen
+		- plume
+		- featherlike
+		- feathery
+		- feathery
+		- feathery
+		- feathered
+		- plumy
+		- feather
+		- fledge
+		- feather
+
+## Verb
+
+1. rip off; ask an unreasonable price
+	- Synonyms
+		- overcharge
+		- soak
+		- surcharge
+		- gazump
+		- fleece
+		- pluck
+		- rob
+		- hook
+	- Antonyms
+		- undercharge
+	- Less specific
+		- cheat
+		- rip off
+		- chisel
+	- More specific
+		- extort
+		- squeeze
+		- rack
+		- gouge
+		- wring
+	- Entailments
+		- charge
+		- bill
+	- Related
+		- overcharge
+2. be proud of; “He prides himself on making it into law school”
+	- Synonyms
+		- pride
+		- congratulate
+	- Less specific
+		- feel
+		- experience
+	- Related
+		- congratulatory
+		- gratulatory
+		- congratulation
+		- felicitation
+		- pride
+3. deck with a plume; “a plumed helmet”
+	- Less specific
+		- deck
+		- bedight
+		- bedeck
+	- Related
+		- plume
+		- feather
+		- plume
+		- plumage
+4. clean with one’s bill; “The birds preened”
+	- Synonyms
+		- preen
+	- Less specific
+		- arrange
+		- set up
+		- clean
+		- make clean
+	- Related
+		- feather
+		- plume
+		- plumage
+5. form a plume; “The chimneys were pluming the sky”; “The engine was pluming black smoke”
+	- Less specific
+		- shape
+		- form
+6. dress or groom with elaborate care; “She likes to dress when going to the opera”
+	- Synonyms
+		- preen
+		- primp
+		- dress
+	- Less specific
+		- overdress
+		- dress up
+		- fig out
+		- fig up
+		- deck up
+		- gussy up
+		- fancy up
+		- trick up
+		- deck out
+		- trick out
+		- prink
+		- attire
+		- get up
+		- rig out
+		- tog up
+		- tog out
+	- Related
+		- apparel
+		- wearing apparel
+		- dress
+		- clothes
+		- primping
+
+- [LookUp](https://learnwithlookup.com/share/index.html?word=plume&definition=long%2520feather%2520used%2520by%2520bird%2520for%2520display%2520or%2520worn%2520as%2520ornament&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwbHVtZSIsImRlZmluaXRpb24iOiJsb25nIGZlYXRoZXIgdXNlZCBieSBiaXJkIGZvciBkaXNwbGF5IG9yIHdvcm4gYXMgb3JuYW1lbnQifQ%3D%3D)
+Noun
+1.	Zoology a long, soft feather or arrangement of feathers used by a bird for display or worn by a person for ornament
+a hat with a jaunty ostrich plume
+
+Zoology a part of an animal's body that resembles a feather
+the antennae are divided into large feathery plumes
+
+a long cloud of smoke or vapor resembling a feather as it spreads from its point of origin
+as he spoke, the word was accompanied by a white plume of breath
+
+a mass of material, typically a pollutant, spreading from a source
+a radioactive plume
+
+Geology (also mantle plume) a localized column of hot magma rising by convection in the mantle, believed to cause volcanic activity in hot spots, such as the Hawaiian Islands, away from plate margins.
+
+
+Verb
+1.	[no object] spread out in a shape resembling a feather
+smoke plumed from the chimneys
+
+[with object] decorate with or as if with feathers
+I plumed the hat with a couple of soft feathers from the tail of a hawk
+
+2.	Zoology Archaic "plume oneself" (of a bird) preen itself.
+
+feel a great sense of self-satisfaction about something
+she plumed herself on being cosmopolitan
+# plume
+
+
+## Noun
+
+1. anything that resembles a feather in shape or lightness; “a plume of smoke”; “grass with large plumes”
+	- Less specific
+		- shape
+		- form
+2. a feather or cluster of feathers worn as an ornament
+	- Less specific
+		- adornment
+	- More specific
+		- aigrette
+		- aigret
+		- panache
+	- Related
+		- plume
+3. the light horny waterproof structure forming the external covering of birds
+	- Synonyms
+		- feather
+		- plumage
+	- Less specific
+		- body covering
+		- animal material
+	- More specific
+		- down
+		- down feather
+		- aftershaft
+		- contour feather
+		- bastard wing
+		- alula
+		- spurious wing
+		- marabou
+		- hackle
+		- flight feather
+		- pinion
+		- quill
+		- quill feather
+		- scapular
+	- Parts
+		- vane
+		- web
+		- quill
+		- calamus
+		- shaft
+	- Part of
+		- bird
+	- Contains
+		- keratin
+		- ceratin
+		- melanin
+	- Related
+		- plume
+		- preen
+		- plume
+		- featherlike
+		- feathery
+		- feathery
+		- feathery
+		- feathered
+		- plumy
+		- feather
+		- fledge
+		- feather
+
+## Verb
+
+1. rip off; ask an unreasonable price
+	- Synonyms
+		- overcharge
+		- soak
+		- surcharge
+		- gazump
+		- fleece
+		- pluck
+		- rob
+		- hook
+	- Antonyms
+		- undercharge
+	- Less specific
+		- cheat
+		- rip off
+		- chisel
+	- More specific
+		- extort
+		- squeeze
+		- rack
+		- gouge
+		- wring
+	- Entailments
+		- charge
+		- bill
+	- Related
+		- overcharge
+2. be proud of; “He prides himself on making it into law school”
+	- Synonyms
+		- pride
+		- congratulate
+	- Less specific
+		- feel
+		- experience
+	- Related
+		- congratulatory
+		- gratulatory
+		- congratulation
+		- felicitation
+		- pride
+3. deck with a plume; “a plumed helmet”
+	- Less specific
+		- deck
+		- bedight
+		- bedeck
+	- Related
+		- plume
+		- feather
+		- plume
+		- plumage
+4. clean with one’s bill; “The birds preened”
+	- Synonyms
+		- preen
+	- Less specific
+		- arrange
+		- set up
+		- clean
+		- make clean
+	- Related
+		- feather
+		- plume
+		- plumage
+5. form a plume; “The chimneys were pluming the sky”; “The engine was pluming black smoke”
+	- Less specific
+		- shape
+		- form
+6. dress or groom with elaborate care; “She likes to dress when going to the opera”
+	- Synonyms
+		- preen
+		- primp
+		- dress
+	- Less specific
+		- overdress
+		- dress up
+		- fig out
+		- fig up
+		- deck up
+		- gussy up
+		- fancy up
+		- trick up
+		- deck out
+		- trick out
+		- prink
+		- attire
+		- get up
+		- rig out
+		- tog up
+		- tog out
+	- Related
+		- apparel
+		- wearing apparel
+		- dress
+		- clothes
+		- primping
+
+- [LookUp](https://learnwithlookup.com/share/index.html?word=plume&definition=long%2520feather%2520used%2520by%2520bird%2520for%2520display%2520or%2520worn%2520as%2520ornament&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwbHVtZSIsImRlZmluaXRpb24iOiJsb25nIGZlYXRoZXIgdXNlZCBieSBiaXJkIGZvciBkaXNwbGF5IG9yIHdvcm4gYXMgb3JuYW1lbnQifQ%3D%3D)
+Noun
+1.	Zoology a long, soft feather or arrangement of feathers used by a bird for display or worn by a person for ornament
+a hat with a jaunty ostrich plume
+
+Zoology a part of an animal's body that resembles a feather
+the antennae are divided into large feathery plumes
+
+a long cloud of smoke or vapor resembling a feather as it spreads from its point of origin
+as he spoke, the word was accompanied by a white plume of breath
+
+a mass of material, typically a pollutant, spreading from a source
+a radioactive plume
+
+Geology (also mantle plume) a localized column of hot magma rising by convection in the mantle, believed to cause volcanic activity in hot spots, such as the Hawaiian Islands, away from plate margins.
+
+
+Verb
+1.	[no object] spread out in a shape resembling a feather
+smoke plumed from the chimneys
+
+[with object] decorate with or as if with feathers
+I plumed the hat with a couple of soft feathers from the tail of a hawk
+
+2.	Zoology Archaic "plume oneself" (of a bird) preen itself.
+
+feel a great sense of self-satisfaction about something
+she plumed herself on being cosmopolitan
+# poiesos
+
+
+*From LookUp*:
+Noun
+1.	Literary Creative production, especially of a work of art; an instance of this.
+# poiesos
+
+
+*From LookUp*:
+Noun
+1.	Literary Creative production, especially of a work of art; an instance of this.
 # portent
 
 
@@ -3357,7 +29004,103 @@ Of or pertaining to Madagascar or its inhabitants.
 		- predict
 
 
-===
+# portent
+
+
+## Noun
+
+1. a sign of something about to happen; “he looked for an omen before going into battle”
+	- Synonyms
+		- omen
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+	- Less specific
+		- augury
+		- sign
+		- foretoken
+		- preindication
+	- More specific
+		- auspice
+		- foreboding
+		- death knell
+	- Related
+		- portentous
+		- prodigious
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- predictive
+		- prognostic
+		- prognosticative
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- portentous
+		- prodigious
+		- fateful
+		- foreboding
+		- portentous
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- ill
+		- inauspicious
+		- ominous
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- minatory
+		- ominous
+		- sinister
+		- threatening
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+
+
 # portmanteau
 
 
@@ -3383,7 +29126,61 @@ Of or pertaining to Madagascar or its inhabitants.
 		- suitcase
 
 
-===
+# portmanteau
+
+
+## Noun
+
+1. a new word formed by joining two others and combining their meanings; “`smog’ is a blend of `smoke’ and `fog’”; “`motel’ is a portmanteau word made by combining `motor’ and `hotel’”; “`brunch’ is a well-known portmanteau”
+	- Synonyms
+		- blend
+		- portmanteau word
+	- Less specific
+		- neologism
+		- neology
+		- coinage
+2. a large travelling bag made of stiff leather
+	- Synonyms
+		- Gladstone
+		- Gladstone bag
+	- Less specific
+		- bag
+		- traveling bag
+		- travelling bag
+		- grip
+		- suitcase
+
+
+# posterity
+
+
+## Noun
+
+1. all of the offspring of a given progenitor; “we must secure the benefits of freedom for ourselves and our posterity”
+	- Synonyms
+		- descendants
+	- Less specific
+		- biological group
+2. all future generations
+	- Less specific
+		- generation
+
+
+# posterity
+
+
+## Noun
+
+1. all of the offspring of a given progenitor; “we must secure the benefits of freedom for ourselves and our posterity”
+	- Synonyms
+		- descendants
+	- Less specific
+		- biological group
+2. all future generations
+	- Less specific
+		- generation
+
+
 # posy
 
 
@@ -3399,7 +29196,1383 @@ Of or pertaining to Madagascar or its inhabitants.
 		- floral arrangement
 
 
-===
+# posy
+
+
+## Noun
+
+1. an arrangement of flowers that is usually given as a present
+	- Synonyms
+		- bouquet
+		- corsage
+		- nosegay
+	- Less specific
+		- flower arrangement
+		- floral arrangement
+
+
+# precis
+
+
+## Noun
+
+1. a sketchy summary of the main points of an argument or theory
+	- Synonyms
+		- outline
+		- synopsis
+		- abstract
+	- Less specific
+		- summary
+		- sum-up
+	- More specific
+		- brief
+		- apercu
+		- epitome
+	- Related
+		- precis
+		- abstract
+		- synoptic
+		- sketch
+		- outline
+		- adumbrate
+
+## Verb
+
+1. make a summary (of)
+	- Less specific
+		- sum up
+		- summarize
+		- summarise
+		- resume
+	- Related
+		- outline
+		- synopsis
+		- abstract
+		- precis
+
+
+# precis
+
+
+## Noun
+
+1. a sketchy summary of the main points of an argument or theory
+	- Synonyms
+		- outline
+		- synopsis
+		- abstract
+	- Less specific
+		- summary
+		- sum-up
+	- More specific
+		- brief
+		- apercu
+		- epitome
+	- Related
+		- precis
+		- abstract
+		- synoptic
+		- sketch
+		- outline
+		- adumbrate
+
+## Verb
+
+1. make a summary (of)
+	- Less specific
+		- sum up
+		- summarize
+		- summarise
+		- resume
+	- Related
+		- outline
+		- synopsis
+		- abstract
+		- precis
+
+
+# premise
+
+
+## Noun
+
+1. a statement that is assumed to be true and from which a conclusion can be drawn; “on the assumption that he has been injured we can infer that he will not play”
+	- Synonyms
+		- premiss
+		- assumption
+	- Less specific
+		- postulate
+		- posit
+	- More specific
+		- major premise
+		- major premiss
+		- minor premise
+		- minor premiss
+		- subsumption
+		- thesis
+		- condition
+		- precondition
+		- stipulation
+		- scenario
+	- Related
+		- assume
+		- presume
+		- take for granted
+		- premise
+		- premiss
+		- premise
+		- premiss
+
+## Verb
+
+1. set forth beforehand, often as an explanation; “He premised these remarks so that his readers might understand”
+	- Less specific
+		- set forth
+		- expound
+		- exposit
+2. furnish with a preface or introduction; “She always precedes her lectures with a joke”; “He prefaced his lecture with a critical remark about the institution”
+	- Synonyms
+		- precede
+		- preface
+		- introduce
+	- Less specific
+		- state
+		- say
+		- tell
+	- More specific
+		- preamble
+		- prologize
+		- prologuize
+		- prologise
+	- Related
+		- introductory
+		- prefatorial
+		- prefatory
+		- introductory
+		- foreword
+		- preface
+		- prolusion
+3. take something as preexisting and given
+	- Synonyms
+		- premiss
+	- Less specific
+		- presuppose
+		- suppose
+	- Related
+		- premise
+		- premiss
+		- assumption
+		- premise
+		- premiss
+		- assumption
+
+
+# premise
+
+
+## Noun
+
+1. a statement that is assumed to be true and from which a conclusion can be drawn; “on the assumption that he has been injured we can infer that he will not play”
+	- Synonyms
+		- premiss
+		- assumption
+	- Less specific
+		- postulate
+		- posit
+	- More specific
+		- major premise
+		- major premiss
+		- minor premise
+		- minor premiss
+		- subsumption
+		- thesis
+		- condition
+		- precondition
+		- stipulation
+		- scenario
+	- Related
+		- assume
+		- presume
+		- take for granted
+		- premise
+		- premiss
+		- premise
+		- premiss
+
+## Verb
+
+1. set forth beforehand, often as an explanation; “He premised these remarks so that his readers might understand”
+	- Less specific
+		- set forth
+		- expound
+		- exposit
+2. furnish with a preface or introduction; “She always precedes her lectures with a joke”; “He prefaced his lecture with a critical remark about the institution”
+	- Synonyms
+		- precede
+		- preface
+		- introduce
+	- Less specific
+		- state
+		- say
+		- tell
+	- More specific
+		- preamble
+		- prologize
+		- prologuize
+		- prologise
+	- Related
+		- introductory
+		- prefatorial
+		- prefatory
+		- introductory
+		- foreword
+		- preface
+		- prolusion
+3. take something as preexisting and given
+	- Synonyms
+		- premiss
+	- Less specific
+		- presuppose
+		- suppose
+	- Related
+		- premise
+		- premiss
+		- assumption
+		- premise
+		- premiss
+		- assumption
+
+
+# presage
+
+
+## Noun
+
+1. a foreboding about what is about to happen
+	- Less specific
+		- foreboding
+		- premonition
+		- presentiment
+		- boding
+2. a sign of something about to happen; “he looked for an omen before going into battle”
+	- Synonyms
+		- omen
+		- portent
+		- prognostic
+		- prognostication
+		- prodigy
+	- Less specific
+		- augury
+		- sign
+		- foretoken
+		- preindication
+	- More specific
+		- auspice
+		- foreboding
+		- death knell
+	- Related
+		- portentous
+		- prodigious
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- predictive
+		- prognostic
+		- prognosticative
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- portentous
+		- prodigious
+		- fateful
+		- foreboding
+		- portentous
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- ill
+		- inauspicious
+		- ominous
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- minatory
+		- ominous
+		- sinister
+		- threatening
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+
+## Verb
+
+1. indicate, as with a sign or an omen; “These signs bode bad news”
+	- Synonyms
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+	- Less specific
+		- bespeak
+		- betoken
+		- indicate
+		- point
+		- signal
+	- More specific
+		- threaten
+		- foreshow
+	- Related
+		- predictive
+		- prognostic
+		- prognosticative
+		- prognosis
+		- forecast
+		- adumbrative
+		- foreshadowing
+		- prefigurative
+		- augur
+		- auspex
+		- prefiguration
+		- foreshadowing
+		- adumbration
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- prognosis
+		- forecast
+		- auspice
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+
+
+# presage
+
+
+## Noun
+
+1. a foreboding about what is about to happen
+	- Less specific
+		- foreboding
+		- premonition
+		- presentiment
+		- boding
+2. a sign of something about to happen; “he looked for an omen before going into battle”
+	- Synonyms
+		- omen
+		- portent
+		- prognostic
+		- prognostication
+		- prodigy
+	- Less specific
+		- augury
+		- sign
+		- foretoken
+		- preindication
+	- More specific
+		- auspice
+		- foreboding
+		- death knell
+	- Related
+		- portentous
+		- prodigious
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- predictive
+		- prognostic
+		- prognosticative
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- portentous
+		- prodigious
+		- fateful
+		- foreboding
+		- portentous
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- ill
+		- inauspicious
+		- ominous
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- minatory
+		- ominous
+		- sinister
+		- threatening
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+
+## Verb
+
+1. indicate, as with a sign or an omen; “These signs bode bad news”
+	- Synonyms
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+	- Less specific
+		- bespeak
+		- betoken
+		- indicate
+		- point
+		- signal
+	- More specific
+		- threaten
+		- foreshow
+	- Related
+		- predictive
+		- prognostic
+		- prognosticative
+		- prognosis
+		- forecast
+		- adumbrative
+		- foreshadowing
+		- prefigurative
+		- augur
+		- auspex
+		- prefiguration
+		- foreshadowing
+		- adumbration
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+		- prognosis
+		- forecast
+		- auspice
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+
+
+# probabilistic
+
+
+## Adjective
+
+1. of or relating to the Roman Catholic philosophy of probabilism
+	- Pertains to
+		- probabilism
+	- Related
+		- probabilism
+2. of or relating to or based on probability; “probabilistic quantum theory”
+	- Pertains to
+		- probability
+		- chance
+	- Related
+		- probability
+		- chance
+		- probability
+		- probabilism
+
+
+# probabilistic
+
+
+## Adjective
+
+1. of or relating to the Roman Catholic philosophy of probabilism
+	- Pertains to
+		- probabilism
+	- Related
+		- probabilism
+2. of or relating to or based on probability; “probabilistic quantum theory”
+	- Pertains to
+		- probability
+		- chance
+	- Related
+		- probability
+		- chance
+		- probability
+		- probabilism
+
+
+# profligate
+
+
+## Noun
+
+1. a dissolute man in fashionable society
+	- Synonyms
+		- rake
+		- rakehell
+		- rip
+		- blood
+		- roue
+	- Less specific
+		- libertine
+		- debauchee
+		- rounder
+	- Related
+		- debauched
+		- degenerate
+		- degraded
+		- dissipated
+		- dissolute
+		- libertine
+		- profligate
+		- riotous
+		- fast
+2. a recklessly extravagant consumer
+	- Synonyms
+		- prodigal
+		- squanderer
+	- Less specific
+		- consumer
+	- More specific
+		- spendthrift
+		- spend-all
+		- spender
+		- scattergood
+		- wastrel
+		- waster
+	- Related
+		- consume
+		- squander
+		- waste
+		- ware
+		- waste
+		- blow
+		- squander
+		- extravagant
+		- prodigal
+		- profligate
+		- spendthrift
+		- extravagant
+		- prodigal
+		- profligate
+		- spendthrift
+
+## Adjective
+
+1. recklessly wasteful; “prodigal in their expenditures”
+	- Synonyms
+		- extravagant
+		- prodigal
+		- spendthrift
+	- Similar to
+		- wasteful
+	- Related
+		- prodigal
+		- profligate
+		- squanderer
+		- prodigal
+		- profligate
+		- squanderer
+		- extravagance
+		- prodigality
+		- lavishness
+		- highlife
+		- high life
+		- extravagance
+		- prodigality
+		- profligacy
+		- extravagance
+		- prodigality
+		- profligacy
+		- extravagance
+		- prodigality
+		- lavishness
+		- highlife
+		- high life
+2. unrestrained by convention or morality; “Congreve draws a debauched aristocratic society”; “deplorably dissipated and degraded”; “riotous living”; “fast women”
+	- Synonyms
+		- debauched
+		- degenerate
+		- degraded
+		- dissipated
+		- dissolute
+		- libertine
+		- riotous
+		- fast
+	- Similar to
+		- immoral
+	- Related
+		- orgy
+		- debauch
+		- debauchery
+		- saturnalia
+		- riot
+		- bacchanal
+		- bacchanalia
+		- drunken revelry
+		- rake
+		- rakehell
+		- profligate
+		- rip
+		- blood
+		- roue
+		- libertine
+		- debauchee
+		- rounder
+		- dissoluteness
+		- incontinence
+		- self-gratification
+		- pervert
+		- deviant
+		- deviate
+		- degenerate
+
+
+# profligate
+
+
+## Noun
+
+1. a dissolute man in fashionable society
+	- Synonyms
+		- rake
+		- rakehell
+		- rip
+		- blood
+		- roue
+	- Less specific
+		- libertine
+		- debauchee
+		- rounder
+	- Related
+		- debauched
+		- degenerate
+		- degraded
+		- dissipated
+		- dissolute
+		- libertine
+		- profligate
+		- riotous
+		- fast
+2. a recklessly extravagant consumer
+	- Synonyms
+		- prodigal
+		- squanderer
+	- Less specific
+		- consumer
+	- More specific
+		- spendthrift
+		- spend-all
+		- spender
+		- scattergood
+		- wastrel
+		- waster
+	- Related
+		- consume
+		- squander
+		- waste
+		- ware
+		- waste
+		- blow
+		- squander
+		- extravagant
+		- prodigal
+		- profligate
+		- spendthrift
+		- extravagant
+		- prodigal
+		- profligate
+		- spendthrift
+
+## Adjective
+
+1. recklessly wasteful; “prodigal in their expenditures”
+	- Synonyms
+		- extravagant
+		- prodigal
+		- spendthrift
+	- Similar to
+		- wasteful
+	- Related
+		- prodigal
+		- profligate
+		- squanderer
+		- prodigal
+		- profligate
+		- squanderer
+		- extravagance
+		- prodigality
+		- lavishness
+		- highlife
+		- high life
+		- extravagance
+		- prodigality
+		- profligacy
+		- extravagance
+		- prodigality
+		- profligacy
+		- extravagance
+		- prodigality
+		- lavishness
+		- highlife
+		- high life
+2. unrestrained by convention or morality; “Congreve draws a debauched aristocratic society”; “deplorably dissipated and degraded”; “riotous living”; “fast women”
+	- Synonyms
+		- debauched
+		- degenerate
+		- degraded
+		- dissipated
+		- dissolute
+		- libertine
+		- riotous
+		- fast
+	- Similar to
+		- immoral
+	- Related
+		- orgy
+		- debauch
+		- debauchery
+		- saturnalia
+		- riot
+		- bacchanal
+		- bacchanalia
+		- drunken revelry
+		- rake
+		- rakehell
+		- profligate
+		- rip
+		- blood
+		- roue
+		- libertine
+		- debauchee
+		- rounder
+		- dissoluteness
+		- incontinence
+		- self-gratification
+		- pervert
+		- deviant
+		- deviate
+		- degenerate
+
+
+# prognostication
+
+
+## Noun
+
+1. a sign of something about to happen; “he looked for an omen before going into battle”
+	- Synonyms
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prodigy
+	- Less specific
+		- augury
+		- sign
+		- foretoken
+		- preindication
+	- More specific
+		- auspice
+		- foreboding
+		- death knell
+	- Related
+		- portentous
+		- prodigious
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- predictive
+		- prognostic
+		- prognosticative
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- portentous
+		- prodigious
+		- fateful
+		- foreboding
+		- portentous
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- ill
+		- inauspicious
+		- ominous
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- minatory
+		- ominous
+		- sinister
+		- threatening
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+2. a statement made about the future
+	- Synonyms
+		- prediction
+		- foretelling
+		- forecasting
+	- Less specific
+		- statement
+	- More specific
+		- extropy
+		- fortunetelling
+		- horoscope
+		- meteorology
+		- weather forecasting
+		- prognosis
+		- forecast
+		- prophecy
+		- divination
+	- Related
+		- predict
+		- foretell
+		- prognosticate
+		- call
+		- forebode
+		- anticipate
+		- promise
+		- forecast
+		- calculate
+		- predict
+		- foretell
+		- prognosticate
+		- call
+		- forebode
+		- anticipate
+		- promise
+3. knowledge of the future (usually said to be obtained from a divine source)
+	- Synonyms
+		- prophecy
+		- vaticination
+	- Less specific
+		- prediction
+		- anticipation
+		- prevision
+	- More specific
+		- crystal gazing
+		- divination
+		- foretelling
+		- soothsaying
+		- fortune telling
+	- Related
+		- vaticinate
+		- prophesy
+		- vaticinate
+		- predict
+		- foretell
+		- prognosticate
+		- call
+		- forebode
+		- anticipate
+		- promise
+		- prophetic
+		- prophetical
+		- prophetic
+		- prophetical
+
+- [**prognostication** - LookUp](https://learnwithlookup.com/share/index.html?word=prognostication&definition=action%2520of%2520prophesying%2520future%2520events&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwcm9nbm9zdGljYXRpb24iLCJkZWZpbml0aW9uIjoiYWN0aW9uIG9mIHByb3BoZXN5aW5nIGZ1dHVyZSBldmVudHMifQ%3D%3D)
+Noun
+1.	the action of foretelling or prophesying future events
+an unprecedented amount of soul-searching and prognostication
+
+a prophecy
+these gloomy prognostications proved to be unfounded
+
+## Origin
+
+late Middle English: from Old French prognosticacion, from medieval Latin prognosticatio(n-), from the verb prognosticare (see prognosticate)
+
+## Thesaurus
+
+Noun
+1.	their prognostications had proved remarkably accurate
+
+Similar Words: 	prediction    forecast    prophecy    divination    prognosis    projection    vaticination    auspication    prognostic
+# prognostication
+
+
+## Noun
+
+1. a sign of something about to happen; “he looked for an omen before going into battle”
+	- Synonyms
+		- omen
+		- portent
+		- presage
+		- prognostic
+		- prodigy
+	- Less specific
+		- augury
+		- sign
+		- foretoken
+		- preindication
+	- More specific
+		- auspice
+		- foreboding
+		- death knell
+	- Related
+		- portentous
+		- prodigious
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- predictive
+		- prognostic
+		- prognosticative
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- portentous
+		- prodigious
+		- fateful
+		- foreboding
+		- portentous
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- ill
+		- inauspicious
+		- ominous
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- minatory
+		- ominous
+		- sinister
+		- threatening
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+2. a statement made about the future
+	- Synonyms
+		- prediction
+		- foretelling
+		- forecasting
+	- Less specific
+		- statement
+	- More specific
+		- extropy
+		- fortunetelling
+		- horoscope
+		- meteorology
+		- weather forecasting
+		- prognosis
+		- forecast
+		- prophecy
+		- divination
+	- Related
+		- predict
+		- foretell
+		- prognosticate
+		- call
+		- forebode
+		- anticipate
+		- promise
+		- forecast
+		- calculate
+		- predict
+		- foretell
+		- prognosticate
+		- call
+		- forebode
+		- anticipate
+		- promise
+3. knowledge of the future (usually said to be obtained from a divine source)
+	- Synonyms
+		- prophecy
+		- vaticination
+	- Less specific
+		- prediction
+		- anticipation
+		- prevision
+	- More specific
+		- crystal gazing
+		- divination
+		- foretelling
+		- soothsaying
+		- fortune telling
+	- Related
+		- vaticinate
+		- prophesy
+		- vaticinate
+		- predict
+		- foretell
+		- prognosticate
+		- call
+		- forebode
+		- anticipate
+		- promise
+		- prophetic
+		- prophetical
+		- prophetic
+		- prophetical
+
+- [**prognostication** - LookUp](https://learnwithlookup.com/share/index.html?word=prognostication&definition=action%2520of%2520prophesying%2520future%2520events&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwcm9nbm9zdGljYXRpb24iLCJkZWZpbml0aW9uIjoiYWN0aW9uIG9mIHByb3BoZXN5aW5nIGZ1dHVyZSBldmVudHMifQ%3D%3D)
+Noun
+1.	the action of foretelling or prophesying future events
+an unprecedented amount of soul-searching and prognostication
+
+a prophecy
+these gloomy prognostications proved to be unfounded
+
+## Origin
+
+late Middle English: from Old French prognosticacion, from medieval Latin prognosticatio(n-), from the verb prognosticare (see prognosticate)
+
+## Thesaurus
+
+Noun
+1.	their prognostications had proved remarkably accurate
+
+Similar Words: 	prediction    forecast    prophecy    divination    prognosis    projection    vaticination    auspication    prognostic
+# prolix
+
+
+## Adjective
+
+1. tediously prolonged or tending to speak or write at great length; “editing a prolix manuscript”; “a prolix lecturer telling you more than you want to know”
+	- Antonyms
+		- concise
+	- Similar to
+		- diffuse
+		- long-winded
+		- tedious
+		- verbose
+		- windy
+		- wordy
+		- verbal
+		- pleonastic
+		- redundant
+		- tautologic
+		- tautological
+	- See also
+		- voluble
+	- Attributes
+		- prolixity
+		- prolixness
+		- windiness
+		- long-windedness
+		- wordiness
+	- Related
+		- prolixity
+		- prolixness
+		- windiness
+		- long-windedness
+		- wordiness
+		- prolixity
+		- prolixness
+		- windiness
+		- long-windedness
+		- wordiness
+
+- [**prolix** - LookUp](https://learnwithlookup.com/share/index.html?word=prolix&definition=using%2520or%2520containing%2520too%2520many%2520words&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwcm9saXgiLCJkZWZpbml0aW9uIjoidXNpbmcgb3IgY29udGFpbmluZyB0b28gbWFueSB3b3JkcyJ9)
+Adjective
+1.	(of speech or writing) using or containing too many words; tediously lengthy
+he found the narrative too prolix and discursive
+
+## Origin
+
+late Middle English: from Old French prolixe or Latin prolixus ‘poured forth, extended’, from pro- ‘outward’ + liquere ‘be liquid’
+
+## Thesaurus
+
+Adjective
+1.	his prolix speeches could often be tiresome
+
+- Similar Words: 	lengthy    long-winded    long-drawn-out    overlong    prolonged    protracted    interminable    laborious    ponderous    endless    unending    verbose    wordy    full of verbiage    verbal    diffuse    discursive    digressive    rambling    wandering    circuitous    meandering    maundering    periphrastic    circumlocutory    windy    ambagious    pleonastic    circumlocutionary    logorrhoeic
+# prolix
+
+
+## Adjective
+
+1. tediously prolonged or tending to speak or write at great length; “editing a prolix manuscript”; “a prolix lecturer telling you more than you want to know”
+	- Antonyms
+		- concise
+	- Similar to
+		- diffuse
+		- long-winded
+		- tedious
+		- verbose
+		- windy
+		- wordy
+		- verbal
+		- pleonastic
+		- redundant
+		- tautologic
+		- tautological
+	- See also
+		- voluble
+	- Attributes
+		- prolixity
+		- prolixness
+		- windiness
+		- long-windedness
+		- wordiness
+	- Related
+		- prolixity
+		- prolixness
+		- windiness
+		- long-windedness
+		- wordiness
+		- prolixity
+		- prolixness
+		- windiness
+		- long-windedness
+		- wordiness
+
+- [**prolix** - LookUp](https://learnwithlookup.com/share/index.html?word=prolix&definition=using%2520or%2520containing%2520too%2520many%2520words&data=eyJpbWFnZSI6IiIsIndvcmQiOiJwcm9saXgiLCJkZWZpbml0aW9uIjoidXNpbmcgb3IgY29udGFpbmluZyB0b28gbWFueSB3b3JkcyJ9)
+Adjective
+1.	(of speech or writing) using or containing too many words; tediously lengthy
+he found the narrative too prolix and discursive
+
+## Origin
+
+late Middle English: from Old French prolixe or Latin prolixus ‘poured forth, extended’, from pro- ‘outward’ + liquere ‘be liquid’
+
+## Thesaurus
+
+Adjective
+1.	his prolix speeches could often be tiresome
+
+- Similar Words: 	lengthy    long-winded    long-drawn-out    overlong    prolonged    protracted    interminable    laborious    ponderous    endless    unending    verbose    wordy    full of verbiage    verbal    diffuse    discursive    digressive    rambling    wandering    circuitous    meandering    maundering    periphrastic    circumlocutory    windy    ambagious    pleonastic    circumlocutionary    logorrhoeic
+# propinquity
+
+
+## Noun
+
+1. the property of being close together
+	- Synonyms
+		- proximity
+	- Less specific
+		- nearness
+		- closeness
+	- Related
+		- proximal
+
+
+# propinquity
+
+
+## Noun
+
+1. the property of being close together
+	- Synonyms
+		- proximity
+	- Less specific
+		- nearness
+		- closeness
+	- Related
+		- proximal
+
+
 # propitious
 
 
@@ -3427,7 +30600,791 @@ Of or pertaining to Madagascar or its inhabitants.
 		- propitiousness
 
 
-===
+# propitious
+
+
+## Adjective
+
+1. presenting favorable circumstances; likely to result in or show signs of success; “propitious omens”; “propitious gales speeded us along”; “a propitious alignment of planets for space exploration”
+	- Antonyms
+		- unpropitious
+	- Similar to
+		- golden
+		- favorable
+		- favourable
+		- lucky
+		- prosperous
+		- gracious
+	- See also
+		- auspicious
+		- favorable
+		- favourable
+	- Attributes
+		- auspiciousness
+		- propitiousness
+	- Related
+		- auspiciousness
+		- propitiousness
+
+
+# propound
+
+
+## Verb
+
+1. put forward, as of an idea
+	- Less specific
+		- rede
+		- advise
+		- counsel
+	- Related
+		- advocate
+		- advocator
+		- proponent
+		- exponent
+
+
+# propound
+
+
+## Verb
+
+1. put forward, as of an idea
+	- Less specific
+		- rede
+		- advise
+		- counsel
+	- Related
+		- advocate
+		- advocator
+		- proponent
+		- exponent
+
+
+# psychopomp
+
+
+## Noun
+
+1. a conductor of souls to the afterworld; “Hermes was their psychopomp”
+	- Less specific
+		- imaginary being
+		- imaginary creature
+
+
+# psychopomp
+
+
+## Noun
+
+1. a conductor of souls to the afterworld; “Hermes was their psychopomp”
+	- Less specific
+		- imaginary being
+		- imaginary creature
+
+
+# pungle
+
+![pungle LookUp](https://i.snap.as/Hjfym5su.png)
+
+
+*From LookUp*:
+Verb
+1.	Informal Dialect Us To hand over or come up with (money); to ‘shell out’. Also without object. Usually with down or up.
+
+Origin
+mid 19th century; earliest use found in Alta California (San Francisco). From Spanish póngale put it (sc the money) down from ponga, 3rd person present subjunctive of poner to put, to place, to wager, to bet + le, 3rd person singular direct object pronoun (now nonstandard with reference to non-human objects: see note)
+# pungle
+
+![pungle LookUp](https://i.snap.as/Hjfym5su.png)
+
+
+*From LookUp*:
+Verb
+1.	Informal Dialect Us To hand over or come up with (money); to ‘shell out’. Also without object. Usually with down or up.
+
+Origin
+mid 19th century; earliest use found in Alta California (San Francisco). From Spanish póngale put it (sc the money) down from ponga, 3rd person present subjunctive of poner to put, to place, to wager, to bet + le, 3rd person singular direct object pronoun (now nonstandard with reference to non-human objects: see note)
+# quaternary
+
+
+## Noun
+
+1. last 2 million years
+	- Synonyms
+		- Quaternary
+		- Quaternary period
+		- Age of Man
+	- Parts
+		- Holocene
+		- Holocene epoch
+		- Recent
+		- Recent epoch
+		- Pleistocene
+		- Pleistocene epoch
+		- Glacial epoch
+	- Part of
+		- Cenozoic
+		- Cenozoic era
+		- Age of Mammals
+	- Is a
+		- period
+		- geological period
+2. the cardinal number that is the sum of three and one
+	- Synonyms
+		- four
+		- 4
+		- IV
+		- tetrad
+		- quatern
+		- quaternion
+		- quaternity
+		- quartet
+		- quadruplet
+		- foursome
+		- Little Joe
+	- Less specific
+		- digit
+		- figure
+
+## Adjective
+
+1. consisting of or especially arranged in sets of four; “quaternate leaves”; “a quaternary compound”
+	- Synonyms
+		- quaternate
+	- Similar to
+		- multiple
+2. coming next after the third and just before the fifth in position or time or degree or magnitude; “the quaternary period of geologic time extends from the end of the tertiary period to the present”
+	- Synonyms
+		- fourth
+		- 4th
+	- Similar to
+		- ordinal
+
+- [**quaternary** - LookUp](https://learnwithlookup.com/share/index.html?word=quaternary&definition=fourth%2520in%2520order%2520or%2520rank&data=eyJpbWFnZSI6IiIsIndvcmQiOiJxdWF0ZXJuYXJ5IiwiZGVmaW5pdGlvbiI6ImZvdXJ0aCBpbiBvcmRlciBvciByYW5rIn0%3D)
+Adjective
+1.	fourth in order or rank; belonging to the fourth order.
+
+2.	Geology Palaeontology (also Quaternary) relating to or denoting the most recent period in the Cenozoic era, following the Tertiary period and comprising the Pleistocene and Holocene epochs (and thus including the present).
+
+3.	Chemistry denoting an ammonium compound containing a cation of the form NR₄⁺, where R represents organic groups or atoms other than hydrogen.
+
+Chemistry (of a carbon atom) bonded to four other carbon atoms.
+
+
+Noun
+"the Quaternary" 
+
+1.	Geology Palaeontology the Quaternary period or the system of deposits laid down during it.
+
+Note: The Quaternary began about 1,640,000 years ago. Humans and other mammals evolved into their present forms and were strongly affected by the ice ages of the Pleistocene
+
+## Origin
+
+late Middle English (as a noun denoting a set of four): from Latin quaternarius, from quaterni ‘four at once’, from quater ‘four times’, from quattuor ‘four’
+
+## Wikipedia 
+
+The Quaternary ( kwə-TUR-nə-ree, KWOT-ər-nerr-ee) is the current and most recent of the three periods of the Cenozoic Era in the geologic time scale of the International Commission on Stratigraphy (ICS). It follows the Neogene Period and spans from 2.58 million years ago to the present. The Quaternary Period is divided into two epochs: the Pleistocene (2.58 million years ago to 11.7 thousand years ago) and the Holocene (11.7 thousand years ago to today, although a third epoch, the Anthropocene, has been proposed but is not yet officially recognised by the ICS).The Quaternary Period is typically defined by the cyclic growth and decay of continental ice sheets related to the Milankovitch cycles and the associated climate and environmental changes that they caused.
+# quaternary
+
+
+## Noun
+
+1. last 2 million years
+	- Synonyms
+		- Quaternary
+		- Quaternary period
+		- Age of Man
+	- Parts
+		- Holocene
+		- Holocene epoch
+		- Recent
+		- Recent epoch
+		- Pleistocene
+		- Pleistocene epoch
+		- Glacial epoch
+	- Part of
+		- Cenozoic
+		- Cenozoic era
+		- Age of Mammals
+	- Is a
+		- period
+		- geological period
+2. the cardinal number that is the sum of three and one
+	- Synonyms
+		- four
+		- 4
+		- IV
+		- tetrad
+		- quatern
+		- quaternion
+		- quaternity
+		- quartet
+		- quadruplet
+		- foursome
+		- Little Joe
+	- Less specific
+		- digit
+		- figure
+
+## Adjective
+
+1. consisting of or especially arranged in sets of four; “quaternate leaves”; “a quaternary compound”
+	- Synonyms
+		- quaternate
+	- Similar to
+		- multiple
+2. coming next after the third and just before the fifth in position or time or degree or magnitude; “the quaternary period of geologic time extends from the end of the tertiary period to the present”
+	- Synonyms
+		- fourth
+		- 4th
+	- Similar to
+		- ordinal
+
+- [**quaternary** - LookUp](https://learnwithlookup.com/share/index.html?word=quaternary&definition=fourth%2520in%2520order%2520or%2520rank&data=eyJpbWFnZSI6IiIsIndvcmQiOiJxdWF0ZXJuYXJ5IiwiZGVmaW5pdGlvbiI6ImZvdXJ0aCBpbiBvcmRlciBvciByYW5rIn0%3D)
+Adjective
+1.	fourth in order or rank; belonging to the fourth order.
+
+2.	Geology Palaeontology (also Quaternary) relating to or denoting the most recent period in the Cenozoic era, following the Tertiary period and comprising the Pleistocene and Holocene epochs (and thus including the present).
+
+3.	Chemistry denoting an ammonium compound containing a cation of the form NR₄⁺, where R represents organic groups or atoms other than hydrogen.
+
+Chemistry (of a carbon atom) bonded to four other carbon atoms.
+
+
+Noun
+"the Quaternary" 
+
+1.	Geology Palaeontology the Quaternary period or the system of deposits laid down during it.
+
+Note: The Quaternary began about 1,640,000 years ago. Humans and other mammals evolved into their present forms and were strongly affected by the ice ages of the Pleistocene
+
+## Origin
+
+late Middle English (as a noun denoting a set of four): from Latin quaternarius, from quaterni ‘four at once’, from quater ‘four times’, from quattuor ‘four’
+
+## Wikipedia 
+
+The Quaternary ( kwə-TUR-nə-ree, KWOT-ər-nerr-ee) is the current and most recent of the three periods of the Cenozoic Era in the geologic time scale of the International Commission on Stratigraphy (ICS). It follows the Neogene Period and spans from 2.58 million years ago to the present. The Quaternary Period is divided into two epochs: the Pleistocene (2.58 million years ago to 11.7 thousand years ago) and the Holocene (11.7 thousand years ago to today, although a third epoch, the Anthropocene, has been proposed but is not yet officially recognised by the ICS).The Quaternary Period is typically defined by the cyclic growth and decay of continental ice sheets related to the Milankovitch cycles and the associated climate and environmental changes that they caused.
+# quidnunc
+
+
+## Noun
+
+1. a person who meddles in the affairs of others
+	- Synonyms
+		- busybody
+		- nosy-parker
+		- nosey-parker
+	- Less specific
+		- meddler
+
+
+# quidnunc
+
+
+## Noun
+
+1. a person who meddles in the affairs of others
+	- Synonyms
+		- busybody
+		- nosy-parker
+		- nosey-parker
+	- Less specific
+		- meddler
+
+
+# race incident
+
+
+A **race incident** is something that is the result of the inherently chaotic nature of auto racing, rather than the result of a blatant mistake or an intentional attack. In a racing incident, neither driver bears the majority of the blame.
+# race incident
+
+
+A **race incident** is something that is the result of the inherently chaotic nature of auto racing, rather than the result of a blatant mistake or an intentional attack. In a racing incident, neither driver bears the majority of the blame.
+# racialist
+
+
+## Noun
+
+1. a person with a prejudiced belief that one racial group is superior to others
+	- Synonyms
+		- racist
+	- Less specific
+		- bigot
+	- Related
+		- racism
+		- racialism
+		- racial discrimination
+		- racism
+		- racism
+		- racialism
+		- racial discrimination
+
+
+# racialist
+
+
+## Noun
+
+1. a person with a prejudiced belief that one racial group is superior to others
+	- Synonyms
+		- racist
+	- Less specific
+		- bigot
+	- Related
+		- racism
+		- racialism
+		- racial discrimination
+		- racism
+		- racism
+		- racialism
+		- racial discrimination
+
+
+# rambunctious
+
+
+## Adjective
+
+1. noisy and lacking in restraint or discipline; “a boisterous crowd”; “a social gathering that became rambunctious and out of hand”; “a robustious group of teenagers”; “beneath the rumbustious surface of his paintings is sympathy for the vulnerability of ordinary human beings”; “an unruly class”
+	- Synonyms
+		- boisterous
+		- robustious
+		- rumbustious
+		- unruly
+	- Similar to
+		- disorderly
+	- Related
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+		- boisterousness
+
+*From LookUp*:
+
+Adjective
+1.	Informal North American uncontrollably exuberant; boisterous
+a rambunctious tyke
+# rambunctious
+
+
+## Adjective
+
+1. noisy and lacking in restraint or discipline; “a boisterous crowd”; “a social gathering that became rambunctious and out of hand”; “a robustious group of teenagers”; “beneath the rumbustious surface of his paintings is sympathy for the vulnerability of ordinary human beings”; “an unruly class”
+	- Synonyms
+		- boisterous
+		- robustious
+		- rumbustious
+		- unruly
+	- Similar to
+		- disorderly
+	- Related
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+		- boisterousness
+
+*From LookUp*:
+
+Adjective
+1.	Informal North American uncontrollably exuberant; boisterous
+a rambunctious tyke
+# ramify
+
+
+## Verb
+
+1. have or develop complicating consequences; “These actions will ramify”
+	- Synonyms
+		- complexify
+	- Less specific
+		- change
+	- Related
+		- complication
+		- ramification
+2. grow and send out branches or branch-like structures; “these plants ramify early and get to be very large”
+	- Synonyms
+		- branch
+	- Less specific
+		- grow
+	- Related
+		- branch
+		- leg
+		- ramification
+		- ramification
+		- branching
+		- ramification
+		- fork
+		- forking
+3. divide into two or more branches so as to form a fork; “The road forks”
+	- Synonyms
+		- branch
+		- fork
+		- furcate
+		- separate
+	- Less specific
+		- diverge
+	- More specific
+		- arborize
+		- arborise
+		- twig
+		- bifurcate
+		- trifurcate
+	- See also
+		- diversify
+		- branch out
+		- broaden
+	- Related
+		- furcation
+		- forking
+		- branching
+		- ramification
+		- fork
+		- forking
+		- furcation
+		- forking
+		- branching
+		- ramification
+		- fork
+		- forking
+		- branch
+		- leg
+		- ramification
+		- ramification
+		- branching
+		- ramification
+		- fork
+		- forking
+		- branch
+		- leg
+		- ramification
+		- branch
+
+[*From LookUp*:](https://learnwithlookup.com/share/index.html?word=ramify&definition=form%2520branches%2520or%2520offshoots&data=eyJpbWFnZSI6IiIsIndvcmQiOiJyYW1pZnkiLCJkZWZpbml0aW9uIjoiZm9ybSBicmFuY2hlcyBvciBvZmZzaG9vdHMifQ%3D%3D)
+Verb
+1.	Technical Formal form branches or offshoots
+the shrub ramifies almost from the base and can grow 1 to 3 meters high
+
+spread or branch out; grow and develop in complexity or range
+the methods and applications have ramified, generating many new insights along the way | the consequences of an act ramify and multiply
+# ramify
+
+
+## Verb
+
+1. have or develop complicating consequences; “These actions will ramify”
+	- Synonyms
+		- complexify
+	- Less specific
+		- change
+	- Related
+		- complication
+		- ramification
+2. grow and send out branches or branch-like structures; “these plants ramify early and get to be very large”
+	- Synonyms
+		- branch
+	- Less specific
+		- grow
+	- Related
+		- branch
+		- leg
+		- ramification
+		- ramification
+		- branching
+		- ramification
+		- fork
+		- forking
+3. divide into two or more branches so as to form a fork; “The road forks”
+	- Synonyms
+		- branch
+		- fork
+		- furcate
+		- separate
+	- Less specific
+		- diverge
+	- More specific
+		- arborize
+		- arborise
+		- twig
+		- bifurcate
+		- trifurcate
+	- See also
+		- diversify
+		- branch out
+		- broaden
+	- Related
+		- furcation
+		- forking
+		- branching
+		- ramification
+		- fork
+		- forking
+		- furcation
+		- forking
+		- branching
+		- ramification
+		- fork
+		- forking
+		- branch
+		- leg
+		- ramification
+		- ramification
+		- branching
+		- ramification
+		- fork
+		- forking
+		- branch
+		- leg
+		- ramification
+		- branch
+
+[*From LookUp*:](https://learnwithlookup.com/share/index.html?word=ramify&definition=form%2520branches%2520or%2520offshoots&data=eyJpbWFnZSI6IiIsIndvcmQiOiJyYW1pZnkiLCJkZWZpbml0aW9uIjoiZm9ybSBicmFuY2hlcyBvciBvZmZzaG9vdHMifQ%3D%3D)
+Verb
+1.	Technical Formal form branches or offshoots
+the shrub ramifies almost from the base and can grow 1 to 3 meters high
+
+spread or branch out; grow and develop in complexity or range
+the methods and applications have ramified, generating many new insights along the way | the consequences of an act ramify and multiply
+# rascal
+
+
+## Noun
+
+1. a deceitful and unreliable scoundrel
+	- Synonyms
+		- rogue
+		- knave
+		- rapscallion
+		- scalawag
+		- scallywag
+		- varlet
+	- Less specific
+		- villain
+		- scoundrel
+	- Related
+		- rascally
+		- roguish
+		- scoundrelly
+		- blackguardly
+2. one who is playfully mischievous
+	- Synonyms
+		- imp
+		- scamp
+		- monkey
+		- rapscallion
+		- scalawag
+		- scallywag
+	- Less specific
+		- child
+		- kid
+		- youngster
+		- minor
+		- shaver
+		- nipper
+		- small fry
+		- tiddler
+		- tike
+		- tyke
+		- fry
+		- nestling
+	- More specific
+		- terror
+		- brat
+		- little terror
+		- holy terror
+	- Related
+		- devilish
+		- rascally
+		- roguish
+		- tamper
+		- fiddle
+		- monkey
+
+*From LookUp*:
+
+Noun
+1.	a mischievous or cheeky person, especially a child or man (typically used in an affectionate way)
+a lovable rascal | you are such a rascal!
+# rascal
+
+
+## Noun
+
+1. a deceitful and unreliable scoundrel
+	- Synonyms
+		- rogue
+		- knave
+		- rapscallion
+		- scalawag
+		- scallywag
+		- varlet
+	- Less specific
+		- villain
+		- scoundrel
+	- Related
+		- rascally
+		- roguish
+		- scoundrelly
+		- blackguardly
+2. one who is playfully mischievous
+	- Synonyms
+		- imp
+		- scamp
+		- monkey
+		- rapscallion
+		- scalawag
+		- scallywag
+	- Less specific
+		- child
+		- kid
+		- youngster
+		- minor
+		- shaver
+		- nipper
+		- small fry
+		- tiddler
+		- tike
+		- tyke
+		- fry
+		- nestling
+	- More specific
+		- terror
+		- brat
+		- little terror
+		- holy terror
+	- Related
+		- devilish
+		- rascally
+		- roguish
+		- tamper
+		- fiddle
+		- monkey
+
+*From LookUp*:
+
+Noun
+1.	a mischievous or cheeky person, especially a child or man (typically used in an affectionate way)
+a lovable rascal | you are such a rascal!
+# ratiocinate
+
+
+## Verb
+
+1. reason methodologically and logically
+	- Less specific
+		- reason
+	- Related
+		- ratiocinative
+		- ratiocination
+		- rationale
+		- principle
+		- reasoner
+		- ratiocinator
+
+
+# ratiocinate
+
+
+## Verb
+
+1. reason methodologically and logically
+	- Less specific
+		- reason
+	- Related
+		- ratiocinative
+		- ratiocination
+		- rationale
+		- principle
+		- reasoner
+		- ratiocinator
+
+
+# recoup
+
+
+## Verb
+
+1. reimburse or compensate (someone), as for a loss
+	- Synonyms
+		- reimburse
+	- Less specific
+		- compensate
+		- recompense
+		- remunerate
+	- Related
+		- reimbursement
+2. regain or make up for; “recuperate one’s losses”
+	- Synonyms
+		- recover
+		- recuperate
+	- Less specific
+		- get
+		- acquire
+	- More specific
+		- make up
+		- catch up with
+3. retain and refrain from disbursing; of payments; “My employer is withholding taxes”
+	- Synonyms
+		- withhold
+		- deduct
+	- Less specific
+		- keep
+		- hold on
+	- More specific
+		- dock
+	- Related
+		- deductible
+		- withholder
+		- withholding tax
+		- withholding
+		- withholding
+
+
+# recoup
+
+
+## Verb
+
+1. reimburse or compensate (someone), as for a loss
+	- Synonyms
+		- reimburse
+	- Less specific
+		- compensate
+		- recompense
+		- remunerate
+	- Related
+		- reimbursement
+2. regain or make up for; “recuperate one’s losses”
+	- Synonyms
+		- recover
+		- recuperate
+	- Less specific
+		- get
+		- acquire
+	- More specific
+		- make up
+		- catch up with
+3. retain and refrain from disbursing; of payments; “My employer is withholding taxes”
+	- Synonyms
+		- withhold
+		- deduct
+	- Less specific
+		- keep
+		- hold on
+	- More specific
+		- dock
+	- Related
+		- deductible
+		- withholder
+		- withholding tax
+		- withholding
+		- withholding
+
+
 # relegate
 
 
@@ -3533,7 +31490,385 @@ Of or pertaining to Madagascar or its inhabitants.
 		- relegation
 
 
-===
+# relegate
+
+
+## Verb
+
+1. refer to another person for decision or judgment; “She likes to relegate difficult questions to her colleagues”
+	- Synonyms
+		- pass on
+		- submit
+	- Less specific
+		- submit
+	- Related
+		- delegating
+		- delegation
+		- relegating
+		- relegation
+		- deputation
+		- delegating
+		- delegation
+		- relegating
+		- relegation
+		- deputation
+2. assign to a lower position; reduce in rank; “She was demoted because she always speaks up”; “He was broken down to Sergeant”
+	- Synonyms
+		- demote
+		- bump
+		- break
+		- kick downstairs
+	- Antonyms
+		- promote
+		- upgrade
+		- advance
+		- kick upstairs
+		- raise
+		- elevate
+	- Less specific
+		- delegate
+		- designate
+		- depute
+		- assign
+	- More specific
+		- sideline
+		- reduce
+	- See also
+		- murder
+		- slay
+		- hit
+		- dispatch
+		- bump off
+		- off
+		- polish off
+		- remove
+	- Related
+		- relegation
+		- demotion
+3. expel, as if by official decree; “he was banished from his own country”
+	- Synonyms
+		- banish
+		- bar
+	- Less specific
+		- expel
+		- throw out
+		- kick out
+	- More specific
+		- spike
+	- Related
+		- relegation
+		- banishment
+		- proscription
+4. assign to a class or kind; “How should algae be classified?”; “People argue about how to relegate certain mushrooms”
+	- Synonyms
+		- classify
+	- Less specific
+		- assign
+		- attribute
+	- Related
+		- classificatory
+		- class
+		- division
+		- class
+		- stratum
+		- social class
+		- socio-economic class
+		- class
+		- category
+		- family
+		- classification
+		- categorization
+		- categorisation
+		- classification
+		- categorization
+		- categorisation
+		- sorting
+		- categorization
+		- categorisation
+		- classification
+		- compartmentalization
+		- compartmentalisation
+		- assortment
+		- classifier
+		- classifier
+		- class
+		- relegation
+
+
+# repentant
+
+![repentant LookUp](https://i.snap.as/t2l3sIJy.png)
+
+## Adjective
+
+1. feeling or expressing remorse for misdeeds
+	- Synonyms
+		- penitent
+	- Antonyms
+		- impenitent
+		- unrepentant
+		- unremorseful
+		- impenitent
+		- unrepentant
+		- unremorseful
+	- Similar to
+		- contrite
+		- remorseful
+		- rueful
+		- ruthful
+		- penitential
+		- penitentiary
+	- See also
+		- ashamed
+		- regretful
+		- sorry
+		- bad
+	- Related
+		- repentance
+		- penitence
+		- penance
+		- repent
+		- atone
+		- repent
+		- regret
+		- rue
+		- penitent
+		- repentance
+		- penitence
+		- penance
+
+*From LookUp*:
+Adjective
+1.	expressing or feeling sincere regret and remorse; remorseful
+he is truly repentant for his incredible naivety and stupidity
+
+---
+
+Adjective
+1.	Nancy looked suitably repentant and said she was sorry
+
+Similar Words: 	penitent    contrite    regretful    full of regret    sorrowful    rueful    remorseful    apologetic    conscience-stricken    ashamed    guilt-ridden    chastened    self-reproachful    shamefaced    guilty    compunctious
+
+Opposites: 	unrepentant    impenitent
+# repentant
+
+![repentant LookUp](https://i.snap.as/t2l3sIJy.png)
+
+## Adjective
+
+1. feeling or expressing remorse for misdeeds
+	- Synonyms
+		- penitent
+	- Antonyms
+		- impenitent
+		- unrepentant
+		- unremorseful
+		- impenitent
+		- unrepentant
+		- unremorseful
+	- Similar to
+		- contrite
+		- remorseful
+		- rueful
+		- ruthful
+		- penitential
+		- penitentiary
+	- See also
+		- ashamed
+		- regretful
+		- sorry
+		- bad
+	- Related
+		- repentance
+		- penitence
+		- penance
+		- repent
+		- atone
+		- repent
+		- regret
+		- rue
+		- penitent
+		- repentance
+		- penitence
+		- penance
+
+*From LookUp*:
+Adjective
+1.	expressing or feeling sincere regret and remorse; remorseful
+he is truly repentant for his incredible naivety and stupidity
+
+---
+
+Adjective
+1.	Nancy looked suitably repentant and said she was sorry
+
+Similar Words: 	penitent    contrite    regretful    full of regret    sorrowful    rueful    remorseful    apologetic    conscience-stricken    ashamed    guilt-ridden    chastened    self-reproachful    shamefaced    guilty    compunctious
+
+Opposites: 	unrepentant    impenitent
+# reprobate
+
+
+## Noun
+
+1. a person without moral scruples
+	- Synonyms
+		- miscreant
+	- Less specific
+		- wrongdoer
+		- offender
+	- More specific
+		- pervert
+		- deviant
+		- deviate
+		- degenerate
+		- scapegrace
+		- black sheep
+		- wretch
+	- Related
+		- depraved
+		- perverse
+		- perverted
+		- reprobate
+
+## Verb
+
+1. reject (documents) as invalid
+	- Antonyms
+		- approbate
+	- Less specific
+		- reject
+2. abandon to eternal damnation; “God reprobated the unrepenting sinner”
+	- Less specific
+		- sentence
+		- condemn
+		- doom
+	- Related
+		- reprobation
+	- Topic Members
+		- theology
+		- theological system
+3. express strong disapproval of; “We condemn the racism in South Africa”; “These ideas were reprobated”
+	- Synonyms
+		- condemn
+		- decry
+		- objurgate
+		- excoriate
+	- Less specific
+		- denounce
+	- Related
+		- excoriation
+		- reprobation
+		- condemnatory
+		- condemning
+		- condemnation
+		- disapprobation
+		- condemnation
+
+## Adjective
+
+1. deviating from what is considered moral or right or proper or good; “depraved criminals”; “a perverted sense of loyalty”; “the reprobate conduct of a gambling aristocrat”
+	- Synonyms
+		- depraved
+		- perverse
+		- perverted
+	- Similar to
+		- corrupt
+	- Related
+		- reprobate
+		- miscreant
+		- perversity
+		- perverseness
+		- perversity
+		- perverseness
+		- corruption
+		- degeneracy
+		- depravation
+		- depravity
+		- putrefaction
+
+
+# reprobate
+
+
+## Noun
+
+1. a person without moral scruples
+	- Synonyms
+		- miscreant
+	- Less specific
+		- wrongdoer
+		- offender
+	- More specific
+		- pervert
+		- deviant
+		- deviate
+		- degenerate
+		- scapegrace
+		- black sheep
+		- wretch
+	- Related
+		- depraved
+		- perverse
+		- perverted
+		- reprobate
+
+## Verb
+
+1. reject (documents) as invalid
+	- Antonyms
+		- approbate
+	- Less specific
+		- reject
+2. abandon to eternal damnation; “God reprobated the unrepenting sinner”
+	- Less specific
+		- sentence
+		- condemn
+		- doom
+	- Related
+		- reprobation
+	- Topic Members
+		- theology
+		- theological system
+3. express strong disapproval of; “We condemn the racism in South Africa”; “These ideas were reprobated”
+	- Synonyms
+		- condemn
+		- decry
+		- objurgate
+		- excoriate
+	- Less specific
+		- denounce
+	- Related
+		- excoriation
+		- reprobation
+		- condemnatory
+		- condemning
+		- condemnation
+		- disapprobation
+		- condemnation
+
+## Adjective
+
+1. deviating from what is considered moral or right or proper or good; “depraved criminals”; “a perverted sense of loyalty”; “the reprobate conduct of a gambling aristocrat”
+	- Synonyms
+		- depraved
+		- perverse
+		- perverted
+	- Similar to
+		- corrupt
+	- Related
+		- reprobate
+		- miscreant
+		- perversity
+		- perverseness
+		- perversity
+		- perverseness
+		- corruption
+		- degeneracy
+		- depravation
+		- depravity
+		- putrefaction
+
+
 # repudiate
 
 
@@ -3589,7 +31924,215 @@ Of or pertaining to Madagascar or its inhabitants.
 		- debunking
 
 
-===
+# repudiate
+
+
+## Verb
+
+1. cast off; “She renounced her husband”; “The parents repudiated their son”
+	- Synonyms
+		- disown
+		- renounce
+	- Less specific
+		- reject
+	- More specific
+		- apostatize
+		- apostatise
+		- tergiversate
+		- abjure
+		- recant
+		- forswear
+		- retract
+		- resile
+		- swallow
+		- take back
+		- unsay
+		- withdraw
+		- refute
+		- rebut
+		- deny
+	- Related
+		- repudiation
+		- renunciation
+		- repudiation
+		- renunciation
+		- renunciation
+		- renouncement
+2. refuse to acknowledge, ratify, or recognize as valid; “The woman repudiated the divorce settlement”
+	- Less specific
+		- reject
+	- Related
+		- repudiative
+		- repudiation
+3. refuse to recognize or pay; “repudiate a debt”
+	- Less specific
+		- refuse
+		- decline
+	- Related
+		- repudiation
+4. reject as untrue, unfounded, or unjust; “She repudiated the accusations”
+	- Less specific
+		- deny
+	- Related
+		- repudiative
+		- repudiation
+		- debunking
+
+
+# rescission
+
+
+## Noun
+
+1. (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made; “recission may be brought about by decree or by mutual consent”
+	- Synonyms
+		- recission
+	- Less specific
+		- cancellation
+	- Related
+		- revoke
+		- annul
+		- lift
+		- countermand
+		- reverse
+		- repeal
+		- overturn
+		- rescind
+		- vacate
+		- revoke
+		- annul
+		- lift
+		- countermand
+		- reverse
+		- repeal
+		- overturn
+		- rescind
+		- vacate
+	- Topic Members
+		- law
+		- jurisprudence
+
+
+# rescission
+
+
+## Noun
+
+1. (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made; “recission may be brought about by decree or by mutual consent”
+	- Synonyms
+		- recission
+	- Less specific
+		- cancellation
+	- Related
+		- revoke
+		- annul
+		- lift
+		- countermand
+		- reverse
+		- repeal
+		- overturn
+		- rescind
+		- vacate
+		- revoke
+		- annul
+		- lift
+		- countermand
+		- reverse
+		- repeal
+		- overturn
+		- rescind
+		- vacate
+	- Topic Members
+		- law
+		- jurisprudence
+
+
+# revile
+
+
+## Verb
+
+1. spread negative information about; “The Nazi propaganda vilified the Jews”
+	- Synonyms
+		- vilify
+		- vituperate
+		- rail
+	- Less specific
+		- abuse
+		- clapperclaw
+		- blackguard
+		- shout
+	- Related
+		- scathing
+		- vituperative
+		- vituperation
+		- invective
+		- vitriol
+		- abuse
+		- insult
+		- revilement
+		- contumely
+		- vilification
+		- abuse
+		- insult
+		- revilement
+		- contumely
+		- vilification
+		- smear
+		- vilification
+		- malignment
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+
+
+# revile
+
+
+## Verb
+
+1. spread negative information about; “The Nazi propaganda vilified the Jews”
+	- Synonyms
+		- vilify
+		- vituperate
+		- rail
+	- Less specific
+		- abuse
+		- clapperclaw
+		- blackguard
+		- shout
+	- Related
+		- scathing
+		- vituperative
+		- vituperation
+		- invective
+		- vitriol
+		- abuse
+		- insult
+		- revilement
+		- contumely
+		- vilification
+		- abuse
+		- insult
+		- revilement
+		- contumely
+		- vilification
+		- smear
+		- vilification
+		- malignment
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+
+
 # riffle
 
 
@@ -3694,7 +32237,110 @@ Of or pertaining to Madagascar or its inhabitants.
 		- cards
 
 
-===
+# riffle
+
+
+## Noun
+
+1. a small wave on the surface of a liquid
+	- Synonyms
+		- ripple
+		- rippling
+		- wavelet
+	- Less specific
+		- wave
+		- moving ridge
+	- Related
+		- wave
+		- moving ridge
+		- ripple
+		- ruffle
+		- riffle
+		- cockle
+		- undulate
+		- ripple
+		- ruffle
+		- riffle
+		- cockle
+		- undulate
+		- ripple
+		- babble
+		- guggle
+		- burble
+		- bubble
+		- gurgle
+		- ripple
+		- ruffle
+		- riffle
+		- cockle
+		- undulate
+2. shuffling by splitting the pack and interweaving the two halves at their corners
+	- Less specific
+		- shuffle
+		- shuffling
+		- make
+	- Related
+		- riffle
+
+## Verb
+
+1. twitch or flutter; “the paper flicked”
+	- Synonyms
+		- flick
+		- ruffle
+	- Less specific
+		- move
+		- displace
+2. look through a book or other written material; “He thumbed through the report”; “She leafed through the volume”
+	- Synonyms
+		- flick
+		- flip
+		- thumb
+		- leaf
+		- riff
+	- Less specific
+		- peruse
+	- Related
+		- leaf
+		- folio
+3. stir up (water) so as to form ripples
+	- Synonyms
+		- ripple
+		- ruffle
+		- cockle
+		- undulate
+	- Less specific
+		- flow
+		- flux
+	- Entailments
+		- fold
+		- fold up
+		- turn up
+	- Related
+		- ripple
+		- rippling
+		- riffle
+		- wavelet
+		- ripple
+		- rippling
+		- riffle
+		- wavelet
+		- ripple
+		- rippling
+		- riffle
+		- wavelet
+4. shuffle (playing cards) by separating the deck into two parts and riffling with the thumbs so the cards intermix
+	- Less specific
+		- shuffle
+		- ruffle
+		- mix
+	- Related
+		- riffle
+	- Topic Members
+		- card game
+		- cards
+
+
 # risible
 
 
@@ -3742,7 +32388,643 @@ Of or pertaining to Madagascar or its inhabitants.
 		- funniness
 
 
-===
+# risible
+
+
+## Adjective
+
+1. arousing or provoking laughter; “an amusing film with a steady stream of pranks and pratfalls”; “an amusing fellow”; “a comic hat”; “a comical look of surprise”; “funny stories that made everybody laugh”; “a very funny writer”; “it would have been laughable if it hadn’t hurt so much”; “a mirthful experience”; “risible courtroom antics”
+	- Synonyms
+		- amusing
+		- comic
+		- comical
+		- funny
+		- laughable
+		- mirthful
+	- Similar to
+		- humorous
+		- humourous
+	- Related
+		- risibility
+		- hilarity
+		- mirth
+		- mirthfulness
+		- glee
+		- gleefulness
+		- laugh
+		- express joy
+		- express mirth
+		- fun
+		- merriment
+		- playfulness
+		- drollery
+		- clowning
+		- comedy
+		- funniness
+		- comicality
+		- drollery
+		- clowning
+		- comedy
+		- funniness
+		- comedy
+		- comedian
+		- comic
+		- drollery
+		- clowning
+		- comedy
+		- funniness
+
+
+# RoamingCustom.dic
+Updated `10072022-095620`
+
+- [**Gist**](https://gist.github.com/extratone/a74a0f67bd9ded172aac59651c254b8a)
+- [WTF](https://davidblue.wtf/drafts/65DD2280-428D-45AB-A18E-C2CAD2855D79.html)
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/65DD2280-428D-45AB-A18E-C2CAD2855D79.md)
+- [Simplenote Local](simplenote://note/dac2a5fcc49743abbb99989ff44116cc)
+- [Simplenote Publish](http://simp.ly/publish/8qKBZx)
+- [Things](things:///show?id=FXVQyKyWNQX8GevMgTCSPX)
+
+
+---
+
+1714
+65203
+Ann
+Askeptical
+ain't
+Blue
+Borned
+Bryant
+bespeckled
+blue
+Cliff
+Club
+Columbia
+condescensions
+conspiratorializing
+cybergrind
+David
+Drycast
+dweebish
+Extratone
+Extratone.com
+Fediverse
+featuresets
+glennr
+Hall
+Hildur
+Honk
+Jlin
+Kev
+Krusemark
+Librivox
+MacStories
+Mediafire
+Memoji
+MO
+MovableType
+MySpace
+newcome
+Oak
+offputting
+Parkade
+Pl
+playlistification
+Quirk
+Rochko
+Sierra
+splittercore
+Tapbots
+Testflight
+Tootsuite's
+Trullinger
+Tump's
+Tweetbot
+Tweetdeck
+tastemaking
+undebatably
+wack
+Y'all
+yzome
+# RoamingCustom.dic
+Updated `10072022-095620`
+
+- [**Gist**](https://gist.github.com/extratone/a74a0f67bd9ded172aac59651c254b8a)
+- [WTF](https://davidblue.wtf/drafts/65DD2280-428D-45AB-A18E-C2CAD2855D79.html)
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/65DD2280-428D-45AB-A18E-C2CAD2855D79.md)
+- [Simplenote Local](simplenote://note/dac2a5fcc49743abbb99989ff44116cc)
+- [Simplenote Publish](http://simp.ly/publish/8qKBZx)
+- [Things](things:///show?id=FXVQyKyWNQX8GevMgTCSPX)
+
+
+---
+
+1714
+65203
+Ann
+Askeptical
+ain't
+Blue
+Borned
+Bryant
+bespeckled
+blue
+Cliff
+Club
+Columbia
+condescensions
+conspiratorializing
+cybergrind
+David
+Drycast
+dweebish
+Extratone
+Extratone.com
+Fediverse
+featuresets
+glennr
+Hall
+Hildur
+Honk
+Jlin
+Kev
+Krusemark
+Librivox
+MacStories
+Mediafire
+Memoji
+MO
+MovableType
+MySpace
+newcome
+Oak
+offputting
+Parkade
+Pl
+playlistification
+Quirk
+Rochko
+Sierra
+splittercore
+Tapbots
+Testflight
+Tootsuite's
+Trullinger
+Tump's
+Tweetbot
+Tweetdeck
+tastemaking
+undebatably
+wack
+Y'all
+yzome
+# rowdy
+
+
+## Noun
+
+1. a cruel and brutal fellow
+	- Synonyms
+		- bully
+		- tough
+		- hooligan
+		- ruffian
+		- roughneck
+		- yob
+		- yobo
+		- yobbo
+	- Less specific
+		- attacker
+		- aggressor
+		- assailant
+		- assaulter
+	- More specific
+		- bullyboy
+		- muscleman
+		- muscle
+		- skinhead
+		- skin
+		- tough guy
+		- plug-ugly
+	- Related
+		- ruffianly
+		- tough
+		- browbeat
+		- bully
+		- swagger
+
+## Adjective
+
+1. disturbing the public peace; loud and rough; “a raucous party”; “rowdy teenagers”
+	- Synonyms
+		- raucous
+	- Similar to
+		- disorderly
+	- Related
+		- rowdiness
+		- rowdyism
+		- roughness
+		- disorderliness
+
+
+# rowdy
+
+
+## Noun
+
+1. a cruel and brutal fellow
+	- Synonyms
+		- bully
+		- tough
+		- hooligan
+		- ruffian
+		- roughneck
+		- yob
+		- yobo
+		- yobbo
+	- Less specific
+		- attacker
+		- aggressor
+		- assailant
+		- assaulter
+	- More specific
+		- bullyboy
+		- muscleman
+		- muscle
+		- skinhead
+		- skin
+		- tough guy
+		- plug-ugly
+	- Related
+		- ruffianly
+		- tough
+		- browbeat
+		- bully
+		- swagger
+
+## Adjective
+
+1. disturbing the public peace; loud and rough; “a raucous party”; “rowdy teenagers”
+	- Synonyms
+		- raucous
+	- Similar to
+		- disorderly
+	- Related
+		- rowdiness
+		- rowdyism
+		- roughness
+		- disorderliness
+
+
+# rufous
+
+
+
+adjective
+reddish brown in color: handsome rufous plumage.
+noun
+a reddish-brown color: pale southern races of peregrine have some rufous on nape.
+ORIGIN
+late 18th century: from Latin rufus ‘red, reddish’ + -ous.
+# rufous
+
+
+
+adjective
+reddish brown in color: handsome rufous plumage.
+noun
+a reddish-brown color: pale southern races of peregrine have some rufous on nape.
+ORIGIN
+late 18th century: from Latin rufus ‘red, reddish’ + -ous.
+# sapid
+
+
+## Adjective
+
+1. full of flavor
+	- Synonyms
+		- flavorful
+		- flavourful
+		- flavorous
+		- flavourous
+		- flavorsome
+		- flavoursome
+		- saporous
+	- Similar to
+		- tasty
+	- Related
+		- sapidity
+		- sapidness
+		- relish
+		- flavor
+		- flavour
+		- sapidity
+		- savor
+		- savour
+		- smack
+		- nip
+		- tang
+		- relish
+		- flavor
+		- flavour
+		- sapidity
+		- savor
+		- savour
+		- smack
+		- nip
+		- tang
+
+
+# sapid
+
+
+## Adjective
+
+1. full of flavor
+	- Synonyms
+		- flavorful
+		- flavourful
+		- flavorous
+		- flavourous
+		- flavorsome
+		- flavoursome
+		- saporous
+	- Similar to
+		- tasty
+	- Related
+		- sapidity
+		- sapidness
+		- relish
+		- flavor
+		- flavour
+		- sapidity
+		- savor
+		- savour
+		- smack
+		- nip
+		- tang
+		- relish
+		- flavor
+		- flavour
+		- sapidity
+		- savor
+		- savour
+		- smack
+		- nip
+		- tang
+
+
+# scintillation
+
+
+## Noun
+
+1. (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle
+	- Less specific
+		- light
+		- visible light
+		- visible radiation
+	- Related
+		- scintillate
+	- Topic Members
+		- physics
+		- natural philosophy
+2. a rapid change in brightness; a brief spark or flash
+	- Synonyms
+		- twinkle
+		- sparkling
+	- Less specific
+		- change
+		- alteration
+		- modification
+	- Related
+		- sparkle
+		- scintillate
+		- coruscate
+		- scintillate
+		- twinkle
+		- winkle
+		- scintillate
+		- flash
+		- blink
+		- wink
+		- twinkle
+		- winkle
+3. a brilliant display of wit
+	- Less specific
+		- brilliance
+		- genius
+	- Related
+		- sparkle
+		- scintillate
+		- coruscate
+4. the quality of shining with a bright reflected light
+	- Synonyms
+		- glitter
+		- glister
+		- glisten
+		- sparkle
+	- Less specific
+		- brightness
+	- Related
+		- sparkle
+		- scintillate
+		- coruscate
+		- sparkle
+		- scintillate
+		- coruscate
+		- glitter
+		- glisten
+		- glint
+		- gleam
+		- shine
+		- aglitter
+		- coruscant
+		- fulgid
+		- glinting
+		- glistering
+		- glittering
+		- glittery
+		- scintillant
+		- scintillating
+		- sparkly
+		- glitter
+		- glisten
+		- glint
+		- gleam
+		- shine
+5. the twinkling of the stars caused when changes in the density of the earth’s atmosphere produce uneven refraction of starlight
+	- Less specific
+		- fluctuation
+		- wavering
+	- Related
+		- twinkle
+		- winkle
+		- scintillate
+
+
+# scintillation
+
+
+## Noun
+
+1. (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle
+	- Less specific
+		- light
+		- visible light
+		- visible radiation
+	- Related
+		- scintillate
+	- Topic Members
+		- physics
+		- natural philosophy
+2. a rapid change in brightness; a brief spark or flash
+	- Synonyms
+		- twinkle
+		- sparkling
+	- Less specific
+		- change
+		- alteration
+		- modification
+	- Related
+		- sparkle
+		- scintillate
+		- coruscate
+		- scintillate
+		- twinkle
+		- winkle
+		- scintillate
+		- flash
+		- blink
+		- wink
+		- twinkle
+		- winkle
+3. a brilliant display of wit
+	- Less specific
+		- brilliance
+		- genius
+	- Related
+		- sparkle
+		- scintillate
+		- coruscate
+4. the quality of shining with a bright reflected light
+	- Synonyms
+		- glitter
+		- glister
+		- glisten
+		- sparkle
+	- Less specific
+		- brightness
+	- Related
+		- sparkle
+		- scintillate
+		- coruscate
+		- sparkle
+		- scintillate
+		- coruscate
+		- glitter
+		- glisten
+		- glint
+		- gleam
+		- shine
+		- aglitter
+		- coruscant
+		- fulgid
+		- glinting
+		- glistering
+		- glittering
+		- glittery
+		- scintillant
+		- scintillating
+		- sparkly
+		- glitter
+		- glisten
+		- glint
+		- gleam
+		- shine
+5. the twinkling of the stars caused when changes in the density of the earth’s atmosphere produce uneven refraction of starlight
+	- Less specific
+		- fluctuation
+		- wavering
+	- Related
+		- twinkle
+		- winkle
+		- scintillate
+
+
+# scoundrel
+
+
+## Noun
+
+1. a wicked or evil person; someone who does evil deliberately
+	- Synonyms
+		- villain
+	- Less specific
+		- unwelcome person
+		- persona non grata
+	- More specific
+		- cad
+		- bounder
+		- blackguard
+		- dog
+		- hound
+		- heel
+		- gallows bird
+		- rogue
+		- knave
+		- rascal
+		- rapscallion
+		- scalawag
+		- scallywag
+		- varlet
+		- villainess
+	- Related
+		- rascally
+		- roguish
+		- scoundrelly
+		- blackguardly
+		- nefarious
+		- villainous
+
+
+# scoundrel
+
+
+## Noun
+
+1. a wicked or evil person; someone who does evil deliberately
+	- Synonyms
+		- villain
+	- Less specific
+		- unwelcome person
+		- persona non grata
+	- More specific
+		- cad
+		- bounder
+		- blackguard
+		- dog
+		- hound
+		- heel
+		- gallows bird
+		- rogue
+		- knave
+		- rascal
+		- rapscallion
+		- scalawag
+		- scallywag
+		- varlet
+		- villainess
+	- Related
+		- rascally
+		- roguish
+		- scoundrelly
+		- blackguardly
+		- nefarious
+		- villainous
+
+
 # screed
 
 
@@ -3764,7 +33046,1509 @@ Of or pertaining to Madagascar or its inhabitants.
 		- slip
 
 
-===
+# screed
+
+
+## Noun
+
+1. a long monotonous harangue
+	- Less specific
+		- harangue
+		- rant
+		- ranting
+2. a long piece of writing
+	- Less specific
+		- writing
+		- written material
+		- piece of writing
+3. an accurately levelled strip of material placed on a wall or floor as guide for the even application of plaster or concrete
+	- Less specific
+		- strip
+		- slip
+
+
+# screwball
+
+
+## Noun
+
+1. a whimsically eccentric person
+	- Synonyms
+		- crackpot
+		- crank
+		- nut
+		- nut case
+		- fruitcake
+	- Less specific
+		- eccentric
+		- eccentric person
+		- flake
+		- oddball
+		- geek
+	- Related
+		- crazy
+		- half-baked
+		- screwball
+		- softheaded
+2. a pitch with reverse spin that curves toward the side of the plate from which it was thrown
+	- Less specific
+		- pitch
+		- delivery
+
+## Adjective
+
+1. foolish; totally unsound; “a crazy scheme”; “half-baked ideas”; “a screwball proposal without a prayer of working”
+	- Synonyms
+		- crazy
+		- half-baked
+		- softheaded
+	- Similar to
+		- impractical
+	- Related
+		- crackpot
+		- crank
+		- nut
+		- nut case
+		- fruitcake
+		- screwball
+		- folly
+		- foolery
+		- tomfoolery
+		- craziness
+		- lunacy
+		- indulgence
+
+- [**screwball** - LookUp](https://learnwithlookup.com/share/index.html?word=screwball&definition=crazy%2520or%2520eccentric%2520person&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzY3Jld2JhbGwiLCJkZWZpbml0aW9uIjoiY3Jhenkgb3IgZWNjZW50cmljIHBlcnNvbiJ9)
+Noun
+1.	Informal North American a crazy or eccentric person
+she was dating a real screwball
+
+2.	Baseball North American a pitched ball that moves in a direction opposite to that of a curveball.
+
+
+Adjective
+1.	Informal North American crazy; absurd
+what possessed you to ask a screwball question like that?
+
+Film relating to or denoting a style of fast-moving comedy film involving eccentric characters or ridiculous situations
+a screwball comedy in which two different couples find themselves sharing a house
+# screwball
+
+
+## Noun
+
+1. a whimsically eccentric person
+	- Synonyms
+		- crackpot
+		- crank
+		- nut
+		- nut case
+		- fruitcake
+	- Less specific
+		- eccentric
+		- eccentric person
+		- flake
+		- oddball
+		- geek
+	- Related
+		- crazy
+		- half-baked
+		- screwball
+		- softheaded
+2. a pitch with reverse spin that curves toward the side of the plate from which it was thrown
+	- Less specific
+		- pitch
+		- delivery
+
+## Adjective
+
+1. foolish; totally unsound; “a crazy scheme”; “half-baked ideas”; “a screwball proposal without a prayer of working”
+	- Synonyms
+		- crazy
+		- half-baked
+		- softheaded
+	- Similar to
+		- impractical
+	- Related
+		- crackpot
+		- crank
+		- nut
+		- nut case
+		- fruitcake
+		- screwball
+		- folly
+		- foolery
+		- tomfoolery
+		- craziness
+		- lunacy
+		- indulgence
+
+- [**screwball** - LookUp](https://learnwithlookup.com/share/index.html?word=screwball&definition=crazy%2520or%2520eccentric%2520person&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzY3Jld2JhbGwiLCJkZWZpbml0aW9uIjoiY3Jhenkgb3IgZWNjZW50cmljIHBlcnNvbiJ9)
+Noun
+1.	Informal North American a crazy or eccentric person
+she was dating a real screwball
+
+2.	Baseball North American a pitched ball that moves in a direction opposite to that of a curveball.
+
+
+Adjective
+1.	Informal North American crazy; absurd
+what possessed you to ask a screwball question like that?
+
+Film relating to or denoting a style of fast-moving comedy film involving eccentric characters or ridiculous situations
+a screwball comedy in which two different couples find themselves sharing a house
+# scrub
+
+
+## Noun
+
+1. dense vegetation consisting of stunted trees or bushes
+	- Synonyms
+		- chaparral
+		- bush
+	- Less specific
+		- vegetation
+		- flora
+		- botany
+	- Related
+		- bushy
+		- scrabbly
+		- scrubby
+2. the act of cleaning a surface by rubbing it with a brush and soap and water
+	- Synonyms
+		- scrubbing
+		- scouring
+	- Less specific
+		- cleaning
+		- cleansing
+		- cleanup
+	- More specific
+		- swabbing
+		- mopping
+	- Related
+		- scrub
+		- scour
+		- scrub
+		- scour
+		- scrub
+		- scrub up
+		- scrub
+		- scour
+
+## Verb
+
+1. clean with hard rubbing; “She scrubbed his back”
+	- Synonyms
+		- scour
+	- Less specific
+		- rub
+	- More specific
+		- holystone
+	- Related
+		- scour
+		- scourer
+		- scrub
+		- scrubbing
+		- scouring
+		- scrub
+		- scrubbing
+		- scouring
+		- scrubber
+		- scrub brush
+		- scrubbing brush
+		- scrubber
+		- scrub
+		- scrubbing
+		- scouring
+2. wash thoroughly; “surgeons must scrub prior to an operation”
+	- Synonyms
+		- scrub up
+	- Less specific
+		- wash
+		- lave
+	- Related
+		- scrub
+		- scrubbing
+		- scouring
+3. postpone indefinitely or annul something that was scheduled; “Call off the engagement”; “cancel the dinner party”; “we had to scrub our vacation plans”; “scratch that meeting–the chair is ill”
+	- Synonyms
+		- cancel
+		- call off
+		- scratch
+	- Entailments
+		- schedule
+	- Related
+		- cancellation
+
+## Adjective
+
+1. (of domestic animals) not selectively bred
+	- Similar to
+		- unimproved
+
+*From LookUp*:
+Verb
+1.	rub (someone or something) hard so as to clean them, typically with a brush and water
+he had to scrub the floor | she was scrubbing herself down at the sink | she scrubbed furiously at the plates
+
+"scrub something away/off" remove dirt by rubbing hard
+it took ages to scrub off the muck
+
+Surgery [no object] "scrub up" thoroughly clean one's hands and arms, especially before performing surgery
+the doctor scrubbed up and put on a protective gown
+
+Informal cancel or abandon (something)
+they aren't going to want to scrub the mission
+
+Chemistry remove impurities from (gas or vapor).
+
+Racing [no object] (of a rider) rub the arms and legs urgently on a horse's neck and flanks to urge it to move faster.
+
+
+Noun
+1.	an act of scrubbing something or someone
+
+              give the floor a good scrub
+
+2.	Cosmetics a semiabrasive cosmetic lotion applied to the face or body in order to cleanse the skin
+don't use facial scrubs if your skin is sensitive
+
+Surgery Informal "scrubs" • another term for scrub suit
+Bill emerged from the delivery room in green scrubs
+
+
+Noun
+1.	vegetation consisting mainly of brushwood or stunted forest growth
+a desert plain dotted with scrub
+
+Geography land covered with scrub
+the wind tore across scrub and heathland | his courageous explorations in the scrubs
+
+2.	Botany [as modifier] denoting a shrubby or small form of a plant
+scrub apple trees
+
+Farming North American denoting an animal of inferior breed or physique
+a scrub bull
+
+3.	Informal Derogatory an insignificant or contemptible person
+you are a mean scrub
+
+Sport North American (in sports) a player not among the best or most skilled
+a former All-Star reduced to the role of scrub
+# scrub
+
+
+## Noun
+
+1. dense vegetation consisting of stunted trees or bushes
+	- Synonyms
+		- chaparral
+		- bush
+	- Less specific
+		- vegetation
+		- flora
+		- botany
+	- Related
+		- bushy
+		- scrabbly
+		- scrubby
+2. the act of cleaning a surface by rubbing it with a brush and soap and water
+	- Synonyms
+		- scrubbing
+		- scouring
+	- Less specific
+		- cleaning
+		- cleansing
+		- cleanup
+	- More specific
+		- swabbing
+		- mopping
+	- Related
+		- scrub
+		- scour
+		- scrub
+		- scour
+		- scrub
+		- scrub up
+		- scrub
+		- scour
+
+## Verb
+
+1. clean with hard rubbing; “She scrubbed his back”
+	- Synonyms
+		- scour
+	- Less specific
+		- rub
+	- More specific
+		- holystone
+	- Related
+		- scour
+		- scourer
+		- scrub
+		- scrubbing
+		- scouring
+		- scrub
+		- scrubbing
+		- scouring
+		- scrubber
+		- scrub brush
+		- scrubbing brush
+		- scrubber
+		- scrub
+		- scrubbing
+		- scouring
+2. wash thoroughly; “surgeons must scrub prior to an operation”
+	- Synonyms
+		- scrub up
+	- Less specific
+		- wash
+		- lave
+	- Related
+		- scrub
+		- scrubbing
+		- scouring
+3. postpone indefinitely or annul something that was scheduled; “Call off the engagement”; “cancel the dinner party”; “we had to scrub our vacation plans”; “scratch that meeting–the chair is ill”
+	- Synonyms
+		- cancel
+		- call off
+		- scratch
+	- Entailments
+		- schedule
+	- Related
+		- cancellation
+
+## Adjective
+
+1. (of domestic animals) not selectively bred
+	- Similar to
+		- unimproved
+
+*From LookUp*:
+Verb
+1.	rub (someone or something) hard so as to clean them, typically with a brush and water
+he had to scrub the floor | she was scrubbing herself down at the sink | she scrubbed furiously at the plates
+
+"scrub something away/off" remove dirt by rubbing hard
+it took ages to scrub off the muck
+
+Surgery [no object] "scrub up" thoroughly clean one's hands and arms, especially before performing surgery
+the doctor scrubbed up and put on a protective gown
+
+Informal cancel or abandon (something)
+they aren't going to want to scrub the mission
+
+Chemistry remove impurities from (gas or vapor).
+
+Racing [no object] (of a rider) rub the arms and legs urgently on a horse's neck and flanks to urge it to move faster.
+
+
+Noun
+1.	an act of scrubbing something or someone
+
+              give the floor a good scrub
+
+2.	Cosmetics a semiabrasive cosmetic lotion applied to the face or body in order to cleanse the skin
+don't use facial scrubs if your skin is sensitive
+
+Surgery Informal "scrubs" • another term for scrub suit
+Bill emerged from the delivery room in green scrubs
+
+
+Noun
+1.	vegetation consisting mainly of brushwood or stunted forest growth
+a desert plain dotted with scrub
+
+Geography land covered with scrub
+the wind tore across scrub and heathland | his courageous explorations in the scrubs
+
+2.	Botany [as modifier] denoting a shrubby or small form of a plant
+scrub apple trees
+
+Farming North American denoting an animal of inferior breed or physique
+a scrub bull
+
+3.	Informal Derogatory an insignificant or contemptible person
+you are a mean scrub
+
+Sport North American (in sports) a player not among the best or most skilled
+a former All-Star reduced to the role of scrub
+# scud
+
+![scud LookUp](https://i.snap.as/ehsLvxYr.png)
+
+## Noun
+
+1. the act of moving along swiftly (as before a gale)
+	- Synonyms
+		- scudding
+	- Less specific
+		- speed
+		- speeding
+		- hurrying
+	- Related
+		- scud
+		- rack
+		- scud
+		- rack
+
+## Verb
+
+1. run or move very quickly or hastily; “She dashed into the yard”
+	- Synonyms
+		- dart
+		- dash
+		- scoot
+		- flash
+		- shoot
+	- Less specific
+		- rush
+		- hotfoot
+		- hasten
+		- hie
+		- speed
+		- race
+		- pelt along
+		- rush along
+		- cannonball along
+		- bucket along
+		- belt along
+		- step on it
+	- More specific
+		- plunge
+	- See also
+		- cut back
+		- flash back
+	- Related
+		- water scooter
+		- sea scooter
+		- scooter
+		- iceboat
+		- ice yacht
+		- scooter
+		- motor scooter
+		- scooter
+		- scooter
+		- dash
+		- bolt
+		- dash
+		- sprint
+		- flit
+		- dart
+2. run before a gale
+	- Synonyms
+		- rack
+	- Less specific
+		- sail
+	- Related
+		- scud
+		- scudding
+		- scud
+		- scudding
+	- Topic Members
+		- navigation
+		- pilotage
+		- piloting
+
+*From LookUp*:
+Verb
+1.	move fast in a straight line because or as if driven by the wind
+we lie watching the clouds scudding across the sky | three small ships were scudding before a brisk breeze
+
+
+Noun
+1.	Meteorology Literary a formation of vapory clouds driven fast by the wind
+the water is glassy under a scud of mist | the picturesque shoreline disappeared into low-cloud scud and rain
+
+a mass of windblown spray.
+
+Meteorology a driving shower of rain or snow; a gust
+scuds of rain gave way to sun
+
+Meteorology the action of moving fast in a straight line when driven by the wind
+the scud of the clouds before the wind
+
+2.	Weapons (also Scud) a type of long-range surface-to-surface guided missile able to be fired from a mobile launcher.
+
+### Origin
+mid 16th century (as a verb): perhaps an alteration of the noun scut, thus reflecting the sense ‘race like a hare’
+
+early 19th century: of uncertain origin
+
+### Phrases
+in the scud
+
+### Thesaurus
+Verb
+1.	a few dark clouds scudded across the sky
+
+Similar Words: 	speed    race    sail    streak    shoot    sweep    skim    whip    whizz    whoosh    buzz    zoom    flash    blast    career    hare    fly    wing    kite    skite    scurry    flit    scutter    hurry    hasten    rush    belt    scoot    scorch    tear    zap    zip    bomb    bucket    shift    boogie    hightail    clip    drag ass    haul ass    tear ass    cut along
+# scud
+
+![scud LookUp](https://i.snap.as/ehsLvxYr.png)
+
+## Noun
+
+1. the act of moving along swiftly (as before a gale)
+	- Synonyms
+		- scudding
+	- Less specific
+		- speed
+		- speeding
+		- hurrying
+	- Related
+		- scud
+		- rack
+		- scud
+		- rack
+
+## Verb
+
+1. run or move very quickly or hastily; “She dashed into the yard”
+	- Synonyms
+		- dart
+		- dash
+		- scoot
+		- flash
+		- shoot
+	- Less specific
+		- rush
+		- hotfoot
+		- hasten
+		- hie
+		- speed
+		- race
+		- pelt along
+		- rush along
+		- cannonball along
+		- bucket along
+		- belt along
+		- step on it
+	- More specific
+		- plunge
+	- See also
+		- cut back
+		- flash back
+	- Related
+		- water scooter
+		- sea scooter
+		- scooter
+		- iceboat
+		- ice yacht
+		- scooter
+		- motor scooter
+		- scooter
+		- scooter
+		- dash
+		- bolt
+		- dash
+		- sprint
+		- flit
+		- dart
+2. run before a gale
+	- Synonyms
+		- rack
+	- Less specific
+		- sail
+	- Related
+		- scud
+		- scudding
+		- scud
+		- scudding
+	- Topic Members
+		- navigation
+		- pilotage
+		- piloting
+
+*From LookUp*:
+Verb
+1.	move fast in a straight line because or as if driven by the wind
+we lie watching the clouds scudding across the sky | three small ships were scudding before a brisk breeze
+
+
+Noun
+1.	Meteorology Literary a formation of vapory clouds driven fast by the wind
+the water is glassy under a scud of mist | the picturesque shoreline disappeared into low-cloud scud and rain
+
+a mass of windblown spray.
+
+Meteorology a driving shower of rain or snow; a gust
+scuds of rain gave way to sun
+
+Meteorology the action of moving fast in a straight line when driven by the wind
+the scud of the clouds before the wind
+
+2.	Weapons (also Scud) a type of long-range surface-to-surface guided missile able to be fired from a mobile launcher.
+
+### Origin
+mid 16th century (as a verb): perhaps an alteration of the noun scut, thus reflecting the sense ‘race like a hare’
+
+early 19th century: of uncertain origin
+
+### Phrases
+in the scud
+
+### Thesaurus
+Verb
+1.	a few dark clouds scudded across the sky
+
+Similar Words: 	speed    race    sail    streak    shoot    sweep    skim    whip    whizz    whoosh    buzz    zoom    flash    blast    career    hare    fly    wing    kite    skite    scurry    flit    scutter    hurry    hasten    rush    belt    scoot    scorch    tear    zap    zip    bomb    bucket    shift    boogie    hightail    clip    drag ass    haul ass    tear ass    cut along
+# scutter
+
+![scutter LookUp](https://i.snap.as/n2XgSDMn.png)
+
+*From LookUp*:
+Verb
+[no object, with adverbial of direction] 
+
+1.	British (especially of a small animal) move hurriedly with short steps
+a little dog scuttered up from the cabin
+
+
+Noun
+[in singular] 
+
+1.	British an act or sound of scuttering
+there was no sound in the wood, no scutter of tiny beast
+# scutter
+
+![scutter LookUp](https://i.snap.as/n2XgSDMn.png)
+
+*From LookUp*:
+Verb
+[no object, with adverbial of direction] 
+
+1.	British (especially of a small animal) move hurriedly with short steps
+a little dog scuttered up from the cabin
+
+
+Noun
+[in singular] 
+
+1.	British an act or sound of scuttering
+there was no sound in the wood, no scutter of tiny beast
+# sedulous
+
+
+## Adjective
+
+1. marked by care and persistent effort; “her assiduous attempts to learn French”; “assiduous research”; “sedulous pursuit of legal and moral principles”
+	- Synonyms
+		- assiduous
+	- Similar to
+		- diligent
+	- Related
+		- sedulity
+		- sedulousness
+		- sedulity
+		- sedulousness
+		- assiduity
+		- assiduousness
+		- concentration
+		- assiduity
+		- assiduousness
+		- concentration
+
+
+# sedulous
+
+
+## Adjective
+
+1. marked by care and persistent effort; “her assiduous attempts to learn French”; “assiduous research”; “sedulous pursuit of legal and moral principles”
+	- Synonyms
+		- assiduous
+	- Similar to
+		- diligent
+	- Related
+		- sedulity
+		- sedulousness
+		- sedulity
+		- sedulousness
+		- assiduity
+		- assiduousness
+		- concentration
+		- assiduity
+		- assiduousness
+		- concentration
+
+
+# serendipity
+
+
+## Noun
+
+1. good luck in making unexpected and fortunate discoveries
+	- Less specific
+		- good luck
+		- fluke
+		- good fortune
+	- Related
+		- serendipitous
+
+
+# serendipity
+
+
+## Noun
+
+1. good luck in making unexpected and fortunate discoveries
+	- Less specific
+		- good luck
+		- fluke
+		- good fortune
+	- Related
+		- serendipitous
+
+
+# service
+
+
+## Noun
+
+1. work done by one person or group that benefits another; “budget separately for goods and services”
+	- Less specific
+		- work
+	- More specific
+		- consulting service
+		- facility
+		- national service
+		- utility
+2. an act of help or assistance; “he did them a service”
+	- Antonyms
+		- disservice
+		- ill service
+		- ill turn
+	- Less specific
+		- aid
+		- assist
+		- assistance
+		- help
+	- More specific
+		- childcare
+		- child care
+		- community service
+		- community service
+		- public service
+		- help desk
+		- helpdesk
+		- seating
+3. the act of public worship following prescribed rules; “the Sunday service”
+	- Synonyms
+		- religious service
+		- divine service
+	- Less specific
+		- religious ceremony
+		- religious ritual
+	- More specific
+		- church service
+		- church
+		- devotional
+		- prayer meeting
+		- prayer service
+		- chapel service
+		- chapel
+		- committal service
+		- none
+		- vesper
+		- watch night
+	- Parts
+		- invocation
+		- supplication
+4. a company or agency that performs a public service; subject to government regulation
+	- Less specific
+		- company
+	- More specific
+		- utility
+		- public utility
+		- public utility company
+		- public-service corporation
+	- Related
+		- service
+		- serve
+5. employment in or work for another; “he retired after 30 years of service”
+	- Less specific
+		- employment
+		- work
+6. a force that is a branch of the armed forces
+	- Synonyms
+		- military service
+		- armed service
+	- Less specific
+		- force
+		- personnel
+	- More specific
+		- army
+		- regular army
+		- ground forces
+		- navy
+		- naval forces
+		- coastguard
+		- Marines
+		- air force
+		- airforce
+	- Members
+		- military unit
+		- military force
+		- military group
+		- force
+	- Topic Members
+		- military
+		- armed forces
+		- armed services
+		- military machine
+		- war machine
+7. Canadian writer (born in England) who wrote about life in the Yukon Territory (1874-1958)
+	- Synonyms
+		- Service
+		- Robert William Service
+	- Is a
+		- writer
+		- author
+8. a means of serving; “of no avail”; “there’s no help for it”
+	- Synonyms
+		- avail
+		- help
+	- Less specific
+		- helpfulness
+	- Related
+		- avail
+9. tableware consisting of a complete set of articles (silver or dishware) for use at table
+	- Synonyms
+		- table service
+	- Less specific
+		- tableware
+	- More specific
+		- dinner service
+		- dinner set
+		- place setting
+		- setting
+10. the act of mating by male animals; “the bull was worth good money in servicing fees”
+	- Synonyms
+		- servicing
+	- Less specific
+		- coupling
+		- mating
+		- pairing
+		- conjugation
+		- union
+		- sexual union
+	- Related
+		- serve
+		- service
+		- serve
+		- service
+11. (law) the acts performed by an English feudal tenant for the benefit of his lord which formed the consideration for the property granted to him
+	- Less specific
+		- activity
+	- More specific
+		- socage
+		- military service
+		- knight's service
+	- Topic Members
+		- case law
+		- precedent
+		- common law
+12. (sports) a stroke that puts the ball in play; “his powerful serves won the game”
+	- Synonyms
+		- serve
+	- Less specific
+		- tennis stroke
+		- tennis shot
+	- More specific
+		- ace
+		- fault
+		- let
+		- net ball
+	- Related
+		- serve
+	- Topic Members
+		- tennis
+		- lawn tennis
+		- badminton
+		- squash
+		- squash racquets
+		- squash rackets
+13. the act of delivering a writ or summons upon someone; “he accepted service of the subpoena”
+	- Synonyms
+		- serving
+		- service of process
+	- Less specific
+		- delivery
+		- bringing
+14. periodic maintenance on a car or machine; “it was time for an overhaul on the tractor”
+	- Synonyms
+		- overhaul
+		- inspection and repair
+	- Less specific
+		- care
+		- maintenance
+		- upkeep
+	- More specific
+		- interim overhaul
+	- Related
+		- service
+		- overhaul
+		- modernize
+		- modernise
+15. the performance of duties by a waiter or servant; “that restaurant has excellent service”
+	- Less specific
+		- accommodation
+	- More specific
+		- curb service
+		- self-service
+		- valet parking
+
+## Verb
+
+1. be used by; as of a utility; “The sewage plant served the neighboring communities”; “The garage served to shelter his horses”
+	- Synonyms
+		- serve
+	- Less specific
+		- function
+		- work
+		- operate
+		- go
+		- run
+	- Related
+		- service
+2. make fit for use; “service my truck”; “the washing machine needs to be serviced”
+	- Less specific
+		- tune
+		- tune up
+	- Related
+		- overhaul
+		- inspection and repair
+		- service
+3. mate with; “male animals serve the females for breeding purposes”
+	- Synonyms
+		- serve
+	- Less specific
+		- copulate
+		- mate
+		- pair
+		- couple
+	- More specific
+		- stand
+	- Related
+		- servicing
+		- service
+		- servicing
+		- service
+
+- [**service** - LookUp](https://learnwithlookup.com/share/index.html?word=service&definition=action%2520of%2520helping%2520or%2520doing%2520work%2520for%2520someone&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzZXJ2aWNlIiwiZGVmaW5pdGlvbiI6ImFjdGlvbiBvZiBoZWxwaW5nIG9yIGRvaW5nIHdvcmsgZm9yIHNvbWVvbmUifQ%3D%3D)
+Noun
+1.	the action of helping or doing work for someone
+millions are involved in voluntary service
+
+an act of assistance
+he has done us a great service | he volunteered his services as a driver
+
+a period of employment with a company or organization
+he retired after 40 years' service
+
+the use that can be made of a machine
+the computer should provide good service for years
+
+employment as a servant
+the pitifully low wages gained from domestic service
+
+2.	Commerce assistance or advice given to customers during and after the sale of goods
+they aim to provide better quality of service
+
+the action or process of serving food and drinks to customers
+they complained of poor bar service
+
+Restaurants • short for service charge
+service is included in the final bill
+
+3.	Commerce a piece of work done for a client or customer that does not involve manufacturing goods
+highly customized goods and services | the provision of banking services to small and medium-sized businesses | the growth of employment in the services sector
+
+4.	a system supplying a public need such as transport, communications, or utilities such as electricity and water
+a regular bus service
+
+a public department or organization run by the government
+the U.S. Fish and Wildlife Service
+
+Military "the services" the armed forces
+he saw a friend in army uniform, telling tales of his adventures in the services | service personnel | troops from all branches of the services
+
+Roads British "services" an area with parking beside a major road supplying gasoline, refreshments, and other amenities to motorists.
+
+5.	Religion a ceremony of religious worship according to a prescribed form; the prescribed form for such a ceremony
+a funeral service
+
+6.	Mechanics a periodic routine inspection and maintenance of a vehicle or other machine
+he took his car in for service | they phoned for service on their air conditioning
+
+7.	[with modifier] a set of matching dishes and utensils used for serving a particular meal
+a dinner service
+
+8.	Tennis (in tennis and other racket sports) the action or right of serving to begin play.
+
+Tennis a serve.
+
+9.	Law the formal delivery of a document such as a writ or summons.
+
+
+Verb
+1.	Mechanics perform routine maintenance or repair work on (a vehicle or machine)
+have your car serviced regularly
+
+supply and maintain systems for public utilities and transportation and communications in (an area)
+the town is small but well serviced
+
+perform a service or services for (someone)
+the state's biggest health maintenance organization servicing the poor
+
+Finance pay interest on (a debt)
+taxpayers are paying $250 million just to service that debt
+
+2.	Zoology (of a male animal) mate with (a female animal)
+one dog could presumably service several bitches in a day
+
+Sex Vulgar Slang have sex with or give sexual gratification to (someone).
+
+## Origin
+late Old English serfise (denoting religious devotion or a form of liturgy), from Old French servise or Latin servitium ‘slavery’, from servus ‘slave’. The early sense of the verb (mid 19th century) was ‘be of service to, provide with a service’
+
+## Thesaurus
+Noun
+1.	there has been an improvement in pay and conditions of service
+
+Similar Words: 	work    employment    employ    labour    performance of one's duties
+
+2.	he has done us a great service | Josie offered her services as a babysitter
+
+Similar Words: 	act of assistance    good turn    favour    kindness    helping hand    assistance    help    aid    offices    ministrations
+
+3.	both the food and the service were excellent
+
+Similar Words: 	waiting    waitressing    waiting at table    serving of food and drink    attendance    serving
+
+4.	high quality products which will give many years of reliable service
+
+Similar Words: 	use    usage
+
+5.	he took his car in for a service
+
+Similar Words: 	overhaul    servicing    maintenance check    routine check    check
+
+6.	he will be cremated tomorrow after a private funeral service | the first words of the marriage service
+
+Similar Words: 	ceremony    ritual    rite    observance    ordinance    liturgy    sacrament    office
+
+7.	the provision of a wide range of local services | the national telephone service
+
+Similar Words: 	amenity    facility    resource    utility    solution    system
+
+8.	if you're about to leave the services, the prospect of Civvy Street can be daunting
+
+Similar Words: 	armed forces    armed services    forces    military    army    navy    air force    marines
+
+
+
+Verb
+1.	ensure that gas appliances are serviced regularly
+
+Similar Words: 	overhaul    check    check over    go over    give a maintenance check to    maintain    keep in good condition    repair    mend    recondition
+# service
+
+
+## Noun
+
+1. work done by one person or group that benefits another; “budget separately for goods and services”
+	- Less specific
+		- work
+	- More specific
+		- consulting service
+		- facility
+		- national service
+		- utility
+2. an act of help or assistance; “he did them a service”
+	- Antonyms
+		- disservice
+		- ill service
+		- ill turn
+	- Less specific
+		- aid
+		- assist
+		- assistance
+		- help
+	- More specific
+		- childcare
+		- child care
+		- community service
+		- community service
+		- public service
+		- help desk
+		- helpdesk
+		- seating
+3. the act of public worship following prescribed rules; “the Sunday service”
+	- Synonyms
+		- religious service
+		- divine service
+	- Less specific
+		- religious ceremony
+		- religious ritual
+	- More specific
+		- church service
+		- church
+		- devotional
+		- prayer meeting
+		- prayer service
+		- chapel service
+		- chapel
+		- committal service
+		- none
+		- vesper
+		- watch night
+	- Parts
+		- invocation
+		- supplication
+4. a company or agency that performs a public service; subject to government regulation
+	- Less specific
+		- company
+	- More specific
+		- utility
+		- public utility
+		- public utility company
+		- public-service corporation
+	- Related
+		- service
+		- serve
+5. employment in or work for another; “he retired after 30 years of service”
+	- Less specific
+		- employment
+		- work
+6. a force that is a branch of the armed forces
+	- Synonyms
+		- military service
+		- armed service
+	- Less specific
+		- force
+		- personnel
+	- More specific
+		- army
+		- regular army
+		- ground forces
+		- navy
+		- naval forces
+		- coastguard
+		- Marines
+		- air force
+		- airforce
+	- Members
+		- military unit
+		- military force
+		- military group
+		- force
+	- Topic Members
+		- military
+		- armed forces
+		- armed services
+		- military machine
+		- war machine
+7. Canadian writer (born in England) who wrote about life in the Yukon Territory (1874-1958)
+	- Synonyms
+		- Service
+		- Robert William Service
+	- Is a
+		- writer
+		- author
+8. a means of serving; “of no avail”; “there’s no help for it”
+	- Synonyms
+		- avail
+		- help
+	- Less specific
+		- helpfulness
+	- Related
+		- avail
+9. tableware consisting of a complete set of articles (silver or dishware) for use at table
+	- Synonyms
+		- table service
+	- Less specific
+		- tableware
+	- More specific
+		- dinner service
+		- dinner set
+		- place setting
+		- setting
+10. the act of mating by male animals; “the bull was worth good money in servicing fees”
+	- Synonyms
+		- servicing
+	- Less specific
+		- coupling
+		- mating
+		- pairing
+		- conjugation
+		- union
+		- sexual union
+	- Related
+		- serve
+		- service
+		- serve
+		- service
+11. (law) the acts performed by an English feudal tenant for the benefit of his lord which formed the consideration for the property granted to him
+	- Less specific
+		- activity
+	- More specific
+		- socage
+		- military service
+		- knight's service
+	- Topic Members
+		- case law
+		- precedent
+		- common law
+12. (sports) a stroke that puts the ball in play; “his powerful serves won the game”
+	- Synonyms
+		- serve
+	- Less specific
+		- tennis stroke
+		- tennis shot
+	- More specific
+		- ace
+		- fault
+		- let
+		- net ball
+	- Related
+		- serve
+	- Topic Members
+		- tennis
+		- lawn tennis
+		- badminton
+		- squash
+		- squash racquets
+		- squash rackets
+13. the act of delivering a writ or summons upon someone; “he accepted service of the subpoena”
+	- Synonyms
+		- serving
+		- service of process
+	- Less specific
+		- delivery
+		- bringing
+14. periodic maintenance on a car or machine; “it was time for an overhaul on the tractor”
+	- Synonyms
+		- overhaul
+		- inspection and repair
+	- Less specific
+		- care
+		- maintenance
+		- upkeep
+	- More specific
+		- interim overhaul
+	- Related
+		- service
+		- overhaul
+		- modernize
+		- modernise
+15. the performance of duties by a waiter or servant; “that restaurant has excellent service”
+	- Less specific
+		- accommodation
+	- More specific
+		- curb service
+		- self-service
+		- valet parking
+
+## Verb
+
+1. be used by; as of a utility; “The sewage plant served the neighboring communities”; “The garage served to shelter his horses”
+	- Synonyms
+		- serve
+	- Less specific
+		- function
+		- work
+		- operate
+		- go
+		- run
+	- Related
+		- service
+2. make fit for use; “service my truck”; “the washing machine needs to be serviced”
+	- Less specific
+		- tune
+		- tune up
+	- Related
+		- overhaul
+		- inspection and repair
+		- service
+3. mate with; “male animals serve the females for breeding purposes”
+	- Synonyms
+		- serve
+	- Less specific
+		- copulate
+		- mate
+		- pair
+		- couple
+	- More specific
+		- stand
+	- Related
+		- servicing
+		- service
+		- servicing
+		- service
+
+- [**service** - LookUp](https://learnwithlookup.com/share/index.html?word=service&definition=action%2520of%2520helping%2520or%2520doing%2520work%2520for%2520someone&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzZXJ2aWNlIiwiZGVmaW5pdGlvbiI6ImFjdGlvbiBvZiBoZWxwaW5nIG9yIGRvaW5nIHdvcmsgZm9yIHNvbWVvbmUifQ%3D%3D)
+Noun
+1.	the action of helping or doing work for someone
+millions are involved in voluntary service
+
+an act of assistance
+he has done us a great service | he volunteered his services as a driver
+
+a period of employment with a company or organization
+he retired after 40 years' service
+
+the use that can be made of a machine
+the computer should provide good service for years
+
+employment as a servant
+the pitifully low wages gained from domestic service
+
+2.	Commerce assistance or advice given to customers during and after the sale of goods
+they aim to provide better quality of service
+
+the action or process of serving food and drinks to customers
+they complained of poor bar service
+
+Restaurants • short for service charge
+service is included in the final bill
+
+3.	Commerce a piece of work done for a client or customer that does not involve manufacturing goods
+highly customized goods and services | the provision of banking services to small and medium-sized businesses | the growth of employment in the services sector
+
+4.	a system supplying a public need such as transport, communications, or utilities such as electricity and water
+a regular bus service
+
+a public department or organization run by the government
+the U.S. Fish and Wildlife Service
+
+Military "the services" the armed forces
+he saw a friend in army uniform, telling tales of his adventures in the services | service personnel | troops from all branches of the services
+
+Roads British "services" an area with parking beside a major road supplying gasoline, refreshments, and other amenities to motorists.
+
+5.	Religion a ceremony of religious worship according to a prescribed form; the prescribed form for such a ceremony
+a funeral service
+
+6.	Mechanics a periodic routine inspection and maintenance of a vehicle or other machine
+he took his car in for service | they phoned for service on their air conditioning
+
+7.	[with modifier] a set of matching dishes and utensils used for serving a particular meal
+a dinner service
+
+8.	Tennis (in tennis and other racket sports) the action or right of serving to begin play.
+
+Tennis a serve.
+
+9.	Law the formal delivery of a document such as a writ or summons.
+
+
+Verb
+1.	Mechanics perform routine maintenance or repair work on (a vehicle or machine)
+have your car serviced regularly
+
+supply and maintain systems for public utilities and transportation and communications in (an area)
+the town is small but well serviced
+
+perform a service or services for (someone)
+the state's biggest health maintenance organization servicing the poor
+
+Finance pay interest on (a debt)
+taxpayers are paying $250 million just to service that debt
+
+2.	Zoology (of a male animal) mate with (a female animal)
+one dog could presumably service several bitches in a day
+
+Sex Vulgar Slang have sex with or give sexual gratification to (someone).
+
+## Origin
+late Old English serfise (denoting religious devotion or a form of liturgy), from Old French servise or Latin servitium ‘slavery’, from servus ‘slave’. The early sense of the verb (mid 19th century) was ‘be of service to, provide with a service’
+
+## Thesaurus
+Noun
+1.	there has been an improvement in pay and conditions of service
+
+Similar Words: 	work    employment    employ    labour    performance of one's duties
+
+2.	he has done us a great service | Josie offered her services as a babysitter
+
+Similar Words: 	act of assistance    good turn    favour    kindness    helping hand    assistance    help    aid    offices    ministrations
+
+3.	both the food and the service were excellent
+
+Similar Words: 	waiting    waitressing    waiting at table    serving of food and drink    attendance    serving
+
+4.	high quality products which will give many years of reliable service
+
+Similar Words: 	use    usage
+
+5.	he took his car in for a service
+
+Similar Words: 	overhaul    servicing    maintenance check    routine check    check
+
+6.	he will be cremated tomorrow after a private funeral service | the first words of the marriage service
+
+Similar Words: 	ceremony    ritual    rite    observance    ordinance    liturgy    sacrament    office
+
+7.	the provision of a wide range of local services | the national telephone service
+
+Similar Words: 	amenity    facility    resource    utility    solution    system
+
+8.	if you're about to leave the services, the prospect of Civvy Street can be daunting
+
+Similar Words: 	armed forces    armed services    forces    military    army    navy    air force    marines
+
+
+
+Verb
+1.	ensure that gas appliances are serviced regularly
+
+Similar Words: 	overhaul    check    check over    go over    give a maintenance check to    maintain    keep in good condition    repair    mend    recondition
+# shufti
+
+![shufti LookUp](https://i.snap.as/oQwnVHHU.png)
+
+## Noun
+
+1. a quick look around (originally military slang); “take a shufti while you’re out there”
+	- Less specific
+		- reconnaissance
+		- reconnaissance mission
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+
+*From LookUp*:
+Noun
+1.	Informal British a look or reconnoiter, especially a quick one
+I'll take a shufti round the wood while I'm about it
+# shufti
+
+![shufti LookUp](https://i.snap.as/oQwnVHHU.png)
+
+## Noun
+
+1. a quick look around (originally military slang); “take a shufti while you’re out there”
+	- Less specific
+		- reconnaissance
+		- reconnaissance mission
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+
+*From LookUp*:
+Noun
+1.	Informal British a look or reconnoiter, especially a quick one
+I'll take a shufti round the wood while I'm about it
 # shunt
 
 
@@ -3810,7 +34594,135 @@ Of or pertaining to Madagascar or its inhabitants.
 		- bypass
 
 
-===
+# shunt
+
+
+## Noun
+
+1. a passage by which a bodily fluid (especially blood) is diverted from one channel to another; “an arteriovenus shunt”
+	- Less specific
+		- passage
+		- passageway
+	- More specific
+		- bypass
+		- portacaval shunt
+2. a conductor having low resistance in parallel with another device to divert a fraction of the current
+	- Synonyms
+		- electrical shunt
+		- bypass
+	- Less specific
+		- conductor
+	- Part of
+		- circuit
+		- electrical circuit
+		- electric circuit
+	- Related
+		- shunt
+3. implant consisting of a tube made of plastic or rubber; for draining fluids within the body
+	- Less specific
+		- implant
+
+## Verb
+
+1. transfer to another track, of trains
+	- Less specific
+		- transfer
+		- shift
+	- Related
+		- shunter
+2. provide with or divert by means of an electrical shunt
+	- Less specific
+		- deviate
+	- Related
+		- shunt
+		- electrical shunt
+		- bypass
+
+
+# shyster
+
+
+## Noun
+
+1. a person (especially a lawyer or politician) who uses unscrupulous or unethical methods
+	- Synonyms
+		- pettifogger
+	- Less specific
+		- wrongdoer
+		- offender
+
+
+# shyster
+
+
+## Noun
+
+1. a person (especially a lawyer or politician) who uses unscrupulous or unethical methods
+	- Synonyms
+		- pettifogger
+	- Less specific
+		- wrongdoer
+		- offender
+
+
+# sibylline
+
+
+## Adjective
+
+1. resembling or characteristic of a prophet or prophecy; “the high priest’s divinatory pronouncement”; “mantic powers”; “a kind of sibylline book with ready and infallible answers to questions”
+	- Synonyms
+		- divinatory
+		- mantic
+		- sibyllic
+		- vatic
+		- vatical
+	- Similar to
+		- prophetic
+		- prophetical
+	- Related
+		- sibyl
+		- sibyl
+		- divine
+2. having a secret or hidden meaning; “cabalistic symbols engraved in stone”; “cryptic writings”; “thoroughly sibylline in most of his pronouncements”- John Gunther
+	- Synonyms
+		- cabalistic
+		- kabbalistic
+		- qabalistic
+		- cryptic
+		- cryptical
+	- Similar to
+		- esoteric
+	- Related
+		- cabala
+		- cabbala
+		- cabbalah
+		- kabala
+		- kabbala
+		- kabbalah
+		- qabala
+		- qabalah
+		- cabala
+		- cabbala
+		- cabbalah
+		- kabala
+		- kabbala
+		- kabbalah
+		- qabala
+		- qabalah
+		- cabala
+		- cabbala
+		- cabbalah
+		- kabala
+		- kabbala
+		- kabbalah
+		- qabala
+		- qabalah
+
+- [**sibylline** - LookUp](https://learnwithlookup.com/share/index.html?word=sibylline&definition=relating%2520to%2520or%2520characteristic%2520of%2520sibyl&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzaWJ5bGxpbmUiLCJkZWZpbml0aW9uIjoicmVsYXRpbmcgdG8gb3IgY2hhcmFjdGVyaXN0aWMgb2Ygc2lieWwifQ%3D%3D)
+Adjective
+1.	Religion Roman History Greek History Literary relating to or characteristic of a sibyl; prophetic and mysterious
+one glimpses them, uttering sibylline predictions of weal and woe | his fascinating, if sometimes sibylline, meditations on the nation
 # sidereal
 
 
@@ -3824,7 +34736,19 @@ Of or pertaining to Madagascar or its inhabitants.
 		- civil
 
 
-===
+# sidereal
+
+
+## Adjective
+
+1. of or relating to the stars or constellations; “sidereal bodies”; “the sidereal system”
+	- Pertains to
+		- constellation
+2. (of divisions of time) determined by daily motion of the stars; “sidereal time”
+	- Antonyms
+		- civil
+
+
 # sidle
 
 
@@ -3843,7 +34767,44 @@ Of or pertaining to Madagascar or its inhabitants.
 		- sashay
 
 
-===
+# sidle
+
+
+## Verb
+
+1. move unobtrusively or furtively; “The young man began to sidle near the pretty girl sitting on the log”
+	- Less specific
+		- move
+2. move sideways
+	- Synonyms
+		- sashay
+	- Less specific
+		- move
+	- Related
+		- chasse
+		- sashay
+
+
+# simpatico
+
+
+*From LookUp*:
+Adjective
+1.	(of a person) likable and easy to get along with
+the inspector was a charming man, so simpatico | an elegant, simpatico boy whom I often saw and talked to
+
+having or characterized by shared attributes or interests; compatible
+a simpatico relationship
+# simpatico
+
+
+*From LookUp*:
+Adjective
+1.	(of a person) likable and easy to get along with
+the inspector was a charming man, so simpatico | an elegant, simpatico boy whom I often saw and talked to
+
+having or characterized by shared attributes or interests; compatible
+a simpatico relationship
 # slapdash
 
 
@@ -3873,7 +34834,35 @@ Of or pertaining to Madagascar or its inhabitants.
 		- bolt
 
 
-===
+# slapdash
+
+
+## Adjective
+
+1. marked by great carelessness; “a most haphazard system of record keeping”; “slapdash work”; “slipshod spelling”; “sloppy workmanship”
+	- Synonyms
+		- haphazard
+		- slipshod
+		- sloppy
+	- Similar to
+		- careless
+	- Related
+		- carelessness
+		- sloppiness
+
+## Adverb
+
+1. in a careless or reckless manner; “the shelves were put up slapdash”
+	- Synonyms
+		- slam-bang
+2. directly; “he ran bang into the pole”; “ran slap into her”
+	- Synonyms
+		- bang
+		- slap
+		- smack
+		- bolt
+
+
 # slipshod
 
 
@@ -3891,7 +34880,304 @@ Of or pertaining to Madagascar or its inhabitants.
 		- sloppiness
 
 
-===
+# slipshod
+
+
+## Adjective
+
+1. marked by great carelessness; “a most haphazard system of record keeping”; “slapdash work”; “slipshod spelling”; “sloppy workmanship”
+	- Synonyms
+		- haphazard
+		- slapdash
+		- sloppy
+	- Similar to
+		- careless
+	- Related
+		- carelessness
+		- sloppiness
+
+
+# slipshod
+
+
+## Adjective
+
+1. marked by great carelessness; “a most haphazard system of record keeping”; “slapdash work”; “slipshod spelling”; “sloppy workmanship”
+	- Synonyms
+		- haphazard
+		- slapdash
+		- sloppy
+	- Similar to
+		- careless
+	- Related
+		- carelessness
+		- sloppiness
+
+
+# slough
+
+
+## Noun
+
+1. necrotic tissue; a mortified or gangrenous part or mass
+	- Synonyms
+		- gangrene
+		- sphacelus
+	- Less specific
+		- pathology
+	- More specific
+		- dry gangrene
+		- cold gangrene
+		- mumification necrosis
+		- mummification
+		- gas gangrene
+		- clostridial myonecrosis
+		- emphysematous gangrene
+		- emphysematous phlegmon
+		- gangrenous emphysema
+		- gas phlegmon
+		- progressive emphysematous necrosis
+	- Related
+		- necrose
+		- gangrene
+		- mortify
+		- sphacelate
+		- gangrenous
+		- mortified
+		- necrose
+		- gangrene
+		- mortify
+		- sphacelate
+2. a hollow filled with mud
+	- Less specific
+		- bog
+		- peat bog
+	- Related
+		- boggy
+		- marshy
+		- miry
+		- mucky
+		- muddy
+		- quaggy
+		- sloppy
+		- sloughy
+		- soggy
+		- squashy
+		- swampy
+		- waterlogged
+3. a stagnant swamp (especially as part of a bayou)
+	- Less specific
+		- swamp
+		- swampland
+4. any outer covering that can be shed or cast off (such as the cast-off skin of a snake)
+	- Less specific
+		- covering
+		- natural covering
+		- cover
+	- Related
+		- shed
+		- molt
+		- exuviate
+		- moult
+		- slough
+
+## Verb
+
+1. cast off hair, skin, horn, or feathers; “our dog sheds every Spring”
+	- Synonyms
+		- shed
+		- molt
+		- exuviate
+		- moult
+	- Less specific
+		- shed
+		- cast
+		- cast off
+		- shake off
+		- throw
+		- throw off
+		- throw away
+		- drop
+	- More specific
+		- desquamate
+		- peel off
+	- Related
+		- slough
+		- shedding
+		- sloughing
+		- molter
+		- moulter
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- molter
+		- moulter
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- shedding
+		- sloughing
+
+
+# slough
+
+
+## Noun
+
+1. necrotic tissue; a mortified or gangrenous part or mass
+	- Synonyms
+		- gangrene
+		- sphacelus
+	- Less specific
+		- pathology
+	- More specific
+		- dry gangrene
+		- cold gangrene
+		- mumification necrosis
+		- mummification
+		- gas gangrene
+		- clostridial myonecrosis
+		- emphysematous gangrene
+		- emphysematous phlegmon
+		- gangrenous emphysema
+		- gas phlegmon
+		- progressive emphysematous necrosis
+	- Related
+		- necrose
+		- gangrene
+		- mortify
+		- sphacelate
+		- gangrenous
+		- mortified
+		- necrose
+		- gangrene
+		- mortify
+		- sphacelate
+2. a hollow filled with mud
+	- Less specific
+		- bog
+		- peat bog
+	- Related
+		- boggy
+		- marshy
+		- miry
+		- mucky
+		- muddy
+		- quaggy
+		- sloppy
+		- sloughy
+		- soggy
+		- squashy
+		- swampy
+		- waterlogged
+3. a stagnant swamp (especially as part of a bayou)
+	- Less specific
+		- swamp
+		- swampland
+4. any outer covering that can be shed or cast off (such as the cast-off skin of a snake)
+	- Less specific
+		- covering
+		- natural covering
+		- cover
+	- Related
+		- shed
+		- molt
+		- exuviate
+		- moult
+		- slough
+
+## Verb
+
+1. cast off hair, skin, horn, or feathers; “our dog sheds every Spring”
+	- Synonyms
+		- shed
+		- molt
+		- exuviate
+		- moult
+	- Less specific
+		- shed
+		- cast
+		- cast off
+		- shake off
+		- throw
+		- throw off
+		- throw away
+		- drop
+	- More specific
+		- desquamate
+		- peel off
+	- Related
+		- slough
+		- shedding
+		- sloughing
+		- molter
+		- moulter
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- molter
+		- moulter
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- molt
+		- molting
+		- moult
+		- moulting
+		- ecdysis
+		- shedding
+		- sloughing
+
+
+# smithereens
+
+
+## Noun
+
+1. a collection of small fragments considered as a whole; “Berlin was bombed to smithereens”; “his hopes were dashed to smithereens”; “I wanted to smash him to smithereens”; “the toilet bowl ws blown to smithereens”
+	- Less specific
+		- collection
+		- aggregation
+		- accumulation
+		- assemblage
+
+
+# smithereens
+
+
+## Noun
+
+1. a collection of small fragments considered as a whole; “Berlin was bombed to smithereens”; “his hopes were dashed to smithereens”; “I wanted to smash him to smithereens”; “the toilet bowl ws blown to smithereens”
+	- Less specific
+		- collection
+		- aggregation
+		- accumulation
+		- assemblage
+
+
 # snuggery
 
 
@@ -3909,7 +35195,49 @@ Of or pertaining to Madagascar or its inhabitants.
 
 A SNUGGERY is a cosy, comfortable place.
 - [@HaggardHawks](https://twitter.com/HaggardHawks/status/1500506830904172547)
-===
+# snuggery
+
+
+## Noun
+
+1. a small secluded room
+	- Synonyms
+		- cubby
+		- cubbyhole
+		- snug
+	- Less specific
+		- room
+	- Related
+		- snug
+
+A SNUGGERY is a cosy, comfortable place.
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1500506830904172547)
+# solipsism
+
+
+## Noun
+
+1. (philosophy) the philosophical theory that the self is all that you know to exist
+	- Less specific
+		- philosophical doctrine
+		- philosophical theory
+	- Topic Members
+		- philosophy
+
+
+# solipsism
+
+
+## Noun
+
+1. (philosophy) the philosophical theory that the self is all that you know to exist
+	- Less specific
+		- philosophical doctrine
+		- philosophical theory
+	- Topic Members
+		- philosophy
+
+
 # solubility
 
 
@@ -3945,7 +35273,55 @@ A SNUGGERY is a cosy, comfortable place.
 		- soluble
 
 
-===
+# solubility
+
+
+## Noun
+
+1. the quantity of a particular substance that can dissolve in a particular solvent (yielding a saturated solution)
+	- Less specific
+		- definite quantity
+	- Related
+		- soluble
+	- Topic Members
+		- solution
+2. the property (of a problem or difficulty) that makes it possible to solve
+	- Synonyms
+		- solvability
+	- Antonyms
+		- unsolvability
+		- insolubility
+		- unsolvability
+		- insolubility
+	- Less specific
+		- property
+	- Related
+		- soluble
+		- solvable
+		- resolvable
+3. the quality of being soluble and easily dissolved in liquid
+	- Antonyms
+		- insolubility
+	- Less specific
+		- quality
+	- Related
+		- soluble
+
+
+# somnambulant
+
+
+- [**somnambulant** - LookUp](https://learnwithlookup.com/share/index.html?word=somnambulant&definition=characteristic%2520of%2520sleepwalker&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzb21uYW1idWxhbnQiLCJkZWZpbml0aW9uIjoiY2hhcmFjdGVyaXN0aWMgb2Ygc2xlZXB3YWxrZXIifQ%3D%3D)
+Adjective
+1.	resembling or characteristic of a sleepwalker; sluggish
+a somnambulant stroll | his somnambulant performance | the plot plods along at a somnambulant pace<dfn></dfn>
+# somnambulant
+
+
+- [**somnambulant** - LookUp](https://learnwithlookup.com/share/index.html?word=somnambulant&definition=characteristic%2520of%2520sleepwalker&data=eyJpbWFnZSI6IiIsIndvcmQiOiJzb21uYW1idWxhbnQiLCJkZWZpbml0aW9uIjoiY2hhcmFjdGVyaXN0aWMgb2Ygc2xlZXB3YWxrZXIifQ%3D%3D)
+Adjective
+1.	resembling or characteristic of a sleepwalker; sluggish
+a somnambulant stroll | his somnambulant performance | the plot plods along at a somnambulant pace<dfn></dfn>
 # somnolent
 
 
@@ -3966,7 +35342,26 @@ A SNUGGERY is a cosy, comfortable place.
 		- slumber
 
 
-===
+# somnolent
+
+
+## Adjective
+
+1. inclined to or marked by drowsiness; “slumberous (or slumbrous) eyes”; “`slumbery’ is archaic”; “the sound had a somnolent effect”
+	- Synonyms
+		- slumberous
+		- slumbery
+		- slumbrous
+	- Similar to
+		- asleep
+	- Related
+		- sleepiness
+		- drowsiness
+		- somnolence
+		- sleep
+		- slumber
+
+
 # splosh
 
 
@@ -4087,7 +35482,204 @@ A SNUGGERY is a cosy, comfortable place.
 		- splattering
 
 t
-===
+# splosh
+
+
+## Verb
+
+1. make a splashing sound; “water was splashing on the floor”
+	- Synonyms
+		- splash
+		- slosh
+		- slush
+	- Less specific
+		- sound
+		- go
+	- Related
+		- splash
+		- plash
+2. walk through mud or mire; “We had to splosh across the wet meadow”
+	- Synonyms
+		- squelch
+		- squish
+		- splash
+		- slosh
+		- slop
+	- Less specific
+		- slog
+		- footslog
+		- plod
+		- trudge
+		- pad
+		- tramp
+3. cause (a liquid) to spatter about, especially with force; “She splashed the water around her”
+	- Synonyms
+		- sprinkle
+		- splash
+	- Less specific
+		- scatter
+		- sprinkle
+		- dot
+		- dust
+		- disperse
+	- More specific
+		- salt
+		- drizzle
+		- moisten
+	- Related
+		- splash
+		- splashing
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- splash
+		- plash
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- sprinkle
+		- sprinkling
+		- sparge
+		- sprinkler
+4. dash a liquid upon or against; “The mother splashed the baby’s face with water”
+	- Synonyms
+		- spatter
+		- splatter
+		- plash
+		- splash
+		- swash
+	- Less specific
+		- scatter
+		- sprinkle
+		- dot
+		- dust
+		- disperse
+	- More specific
+		- puddle
+		- slosh
+		- slush
+		- slosh around
+		- slush around
+	- Related
+		- swash
+		- splash
+		- plash
+		- splash
+		- splashing
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- splash
+		- plash
+		- dab
+		- splash
+		- splatter
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+
+t
+# spume
+
+
+## Noun
+
+1. foam or froth on the sea
+	- Less specific
+		- foam
+		- froth
+	- Related
+		- froth
+		- spume
+		- suds
+		- bubbling
+		- bubbly
+		- foaming
+		- foamy
+		- frothy
+		- effervescing
+		- spumy
+
+## Verb
+
+1. make froth or foam and become bubbly; “The river foamed”
+	- Synonyms
+		- froth
+		- suds
+	- Less specific
+		- make
+		- create
+	- Related
+		- soapsuds
+		- suds
+		- lather
+		- spume
+		- foam
+		- froth
+
+
+# spume
+
+
+## Noun
+
+1. foam or froth on the sea
+	- Less specific
+		- foam
+		- froth
+	- Related
+		- froth
+		- spume
+		- suds
+		- bubbling
+		- bubbly
+		- foaming
+		- foamy
+		- frothy
+		- effervescing
+		- spumy
+
+## Verb
+
+1. make froth or foam and become bubbly; “The river foamed”
+	- Synonyms
+		- froth
+		- suds
+	- Less specific
+		- make
+		- create
+	- Related
+		- soapsuds
+		- suds
+		- lather
+		- spume
+		- foam
+		- froth
+
+
 # squiggle
 
 
@@ -4110,13 +35702,1356 @@ t
 		- squiggly
 
 
-===
+# squiggle
+
+
+## Noun
+
+1. a short twisting line
+	- Synonyms
+		- curlicue
+	- Less specific
+		- line
+	- Related
+		- squiggly
+2. an illegible scrawl; “his signature was just a squiggle but only he could make that squiggle”
+	- Less specific
+		- scribble
+		- scratch
+		- scrawl
+		- cacography
+	- Related
+		- squiggly
+
+
+# squinch
+
+
+## Noun
+
+1. a small arch built across the interior angle of two walls (usually to support a spire)
+	- Less specific
+		- arch
+	- More specific
+		- trumpet arch
+
+## Verb
+
+1. crouch down
+	- Less specific
+		- crouch
+		- stoop
+		- bend
+		- bow
+2. draw back, as with fear or pain; “she flinched when they showed the slaughtering of the calf”
+	- Synonyms
+		- flinch
+		- funk
+		- cringe
+		- shrink
+		- wince
+		- recoil
+		- quail
+	- Less specific
+		- move
+	- More specific
+		- shrink back
+		- retract
+	- Related
+		- wince
+		- wince
+		- flinch
+		- wince
+		- flinch
+3. cross one’s eyes as if in strabismus; “The children squinted so as to scare each other”
+	- Synonyms
+		- squint
+	- Less specific
+		- grimace
+		- make a face
+		- pull a face
+	- Related
+		- squinter
+		- squint-eye
+		- squint
+
+
+# squinch
+
+
+## Noun
+
+1. a small arch built across the interior angle of two walls (usually to support a spire)
+	- Less specific
+		- arch
+	- More specific
+		- trumpet arch
+
+## Verb
+
+1. crouch down
+	- Less specific
+		- crouch
+		- stoop
+		- bend
+		- bow
+2. draw back, as with fear or pain; “she flinched when they showed the slaughtering of the calf”
+	- Synonyms
+		- flinch
+		- funk
+		- cringe
+		- shrink
+		- wince
+		- recoil
+		- quail
+	- Less specific
+		- move
+	- More specific
+		- shrink back
+		- retract
+	- Related
+		- wince
+		- wince
+		- flinch
+		- wince
+		- flinch
+3. cross one’s eyes as if in strabismus; “The children squinted so as to scare each other”
+	- Synonyms
+		- squint
+	- Less specific
+		- grimace
+		- make a face
+		- pull a face
+	- Related
+		- squinter
+		- squint-eye
+		- squint
+
+
+# stultify
+
+
+## Verb
+
+1. prove to be of unsound mind or demonstrate someone’s incompetence; “nobody is legally allowed to stultify himself”
+	- Less specific
+		- prove
+		- demonstrate
+		- establish
+		- show
+		- shew
+	- Related
+		- stultification
+		- befooling
+	- Topic Members
+		- law
+		- jurisprudence
+2. cause to appear foolish; “He stultified himself by contradicting himself and being inconsistent”
+	- Less specific
+		- ridicule
+		- roast
+		- guy
+		- blackguard
+		- laugh at
+		- jest at
+		- rib
+		- make fun
+		- poke fun
+	- Related
+		- stultification
+		- befooling
+3. deprive of strength or efficiency; make useless or worthless; “This measure crippled our efforts”; “Their behavior stultified the boss’s hard work”
+	- Synonyms
+		- cripple
+	- Less specific
+		- weaken
+
+
+# stultify
+
+
+## Verb
+
+1. prove to be of unsound mind or demonstrate someone’s incompetence; “nobody is legally allowed to stultify himself”
+	- Less specific
+		- prove
+		- demonstrate
+		- establish
+		- show
+		- shew
+	- Related
+		- stultification
+		- befooling
+	- Topic Members
+		- law
+		- jurisprudence
+2. cause to appear foolish; “He stultified himself by contradicting himself and being inconsistent”
+	- Less specific
+		- ridicule
+		- roast
+		- guy
+		- blackguard
+		- laugh at
+		- jest at
+		- rib
+		- make fun
+		- poke fun
+	- Related
+		- stultification
+		- befooling
+3. deprive of strength or efficiency; make useless or worthless; “This measure crippled our efforts”; “Their behavior stultified the boss’s hard work”
+	- Synonyms
+		- cripple
+	- Less specific
+		- weaken
+
+
+# surname
+
+
+## Noun
+
+1. the name used to identify the members of a family (as distinguished from each member’s given name)
+	- Synonyms
+		- family name
+		- cognomen
+		- last name
+	- Less specific
+		- name
+	- More specific
+		- maiden name
+
+
+# surname
+
+
+## Noun
+
+1. the name used to identify the members of a family (as distinguished from each member’s given name)
+	- Synonyms
+		- family name
+		- cognomen
+		- last name
+	- Less specific
+		- name
+	- More specific
+		- maiden name
+
+
+# swang
+
+
+## Verb
+
+(*especially when operating an automobile*)
+
+**a methodology of travel defined by extreme oscillation (...*swanging from lane to lane*) at relatively minimal velocity.** 
+
+**Related**
+- floss
+- flex
+- crawl
+- comin dine
+
+## Reference
+
+See the lyrics of Guerilla Maab's "[We Gone Swang](https://davidblue.wtf/drafts/E597F470-0B28-459B-9652-D2A647EDEB8F.html)" (from *Resurrected*) in their entirety, below.
+
+```
+[Hook - 2x]
+We gone swang, lane to lane
+Still gripping the wood grain, collecting my change
+We gone swang, lane to lane
+In the wide frame, on Fondren and Main
+ 
+[Dougie D]
+Fucking with G, the skating Escalade
+Flossing all through the city, swanging from lane to lane
+Gripping wooden grain, that's the way we do it mayn
+On a constant grind working jelly, collecting change
+In a wide frame, big body overloading the road
+Hogging the street, just like they always be out of control
+Roll with us, or you bitches get rolled over
+Ain't no chip on my shoulder, I just got money to fold up
+It's the Dougie Deezie, off of the heezy please believe me
+Gotta be keeping it greasy, for me to see the cheesy
+Doing it like it go, and there's one thing I know fa sho
+We gon shine and gon hold, because the 3rd Coast is our home
+
+[Trae]
+See I'm a grain gripping, 83 swanger
+Chromy glass, nigga you in danger
+Got a sawed off, that'll repaint you
+In a wide body, like the Lone Ranger
+I'ma stop and drop, when I wanna roll
+I got a big four do', with a big fo'-fo'
+Sitting solo, Doug-O wrecked
+Now Trae done backdo'
+Ghetto superstar, menage tois
+Candy paint, done wet up the car
+Lane to lane, my drop'll get raw
+Running red lights, and don't bar the law
+Gotta get paid, stacking my change
+Gripping the grain, gliding mayn
+Turn out the back, and I'ma gon swang
+Untamed, fin to do my thang
+Now Trae done wrecked it, world respected
+Out the Southside, of Houston Texas
+Living wreckless, don't neglect it
+Moving on, and ain't baring plexas
+Bubble eyed, fin to lead the way
+Diamonds shining, like a heat wave
+Back it up, 'fore I blind your face
+Slow Loud And Bangin', fin to lead the race
+
+[Hook - 2x]
+
+[Jay'Ton]
+I swing blocks, when I'm in the drop
+Where the throwed bops, and the haters jock
+It's Jay'Ton on 84's, Volvos fin to glide the road
+I'm 16 all in your face, braided up and I'm out of sight
+With a bad dyke on a motor bike, screened up lighting up the night
+I'm blue red coming out the I, turning heads on the boulevard
+My AK'll make a nigga know, when I cock it back I'm fin to hit you hard
+Southside fin to go get it, all about stacking a mill ticket
+I'm still playa don't get it twisted, sideways with the trunk lifted
+
+[Lil' B]
+The window tinter, wood grain gripper
+Wet candy paint, and a chrome pistol
+Eyes on me, like a thoed stripper
+Showing naked, better take a picture
+On the boulevard we don't guard
+84's and vogues, down to South Park
+Cause I'm Lil' B, and I don't barge
+Slow Loud And Bangin', we'll pull your car
+That's on the Lord, we'll leave a stain
+Hogging lanes, in a wide frame
+With my nigga too, all against the grain
+On the Dirty South, is where we gon swang
+Riding two deep, or solo
+Platinum FUBU, or Polo
+With a bad hoe, rocking J-Lo
+Skating up the block, I'm crawling slow
+
+[Hook - 2x]
+
+[Z-Ro]
+Solid, as a rock
+Profiling in the turning lane, banging down your block
+Hell naw it just don't stop, matter fact it never slow down
+When I'm in the kitchen whipping, my prices tend to go down
+Then I dog my Intrepid, mash on the gas on down to the flo'
+Till I hit my block and set up shop, anything you need come to the Ro
+Might got prices on my head but I'm not scared, I'm gon shine
+Relaxing in Rolls Royces, attempting to pass time
+I be smoking on that stink, had to retire from that ink
+Cause you just can't think, when your mind goes blank
+Full tank of unleaded, then I'm head to Probilla
+Fucking with that Big Mello, because my click require killas
+You ain't gotta holla at me, when you see me outside
+Cause when I go to my ride, I got your woman inside
+She got her mouth open wide, ready for me to drop it in
+My shine is unstoppable, but you wanna stop it here we go again
+
+[Hook - 4x]
+```	
+# swang
+
+
+## Verb
+
+(*especially when operating an automobile*)
+
+**a methodology of travel defined by extreme oscillation (...*swanging from lane to lane*) at relatively minimal velocity.** 
+
+**Related**
+- floss
+- flex
+- crawl
+- comin dine
+
+## Reference
+
+See the lyrics of Guerilla Maab's "[We Gone Swang](https://davidblue.wtf/drafts/E597F470-0B28-459B-9652-D2A647EDEB8F.html)" (from *Resurrected*) in their entirety, below.
+
+```
+[Hook - 2x]
+We gone swang, lane to lane
+Still gripping the wood grain, collecting my change
+We gone swang, lane to lane
+In the wide frame, on Fondren and Main
+ 
+[Dougie D]
+Fucking with G, the skating Escalade
+Flossing all through the city, swanging from lane to lane
+Gripping wooden grain, that's the way we do it mayn
+On a constant grind working jelly, collecting change
+In a wide frame, big body overloading the road
+Hogging the street, just like they always be out of control
+Roll with us, or you bitches get rolled over
+Ain't no chip on my shoulder, I just got money to fold up
+It's the Dougie Deezie, off of the heezy please believe me
+Gotta be keeping it greasy, for me to see the cheesy
+Doing it like it go, and there's one thing I know fa sho
+We gon shine and gon hold, because the 3rd Coast is our home
+
+[Trae]
+See I'm a grain gripping, 83 swanger
+Chromy glass, nigga you in danger
+Got a sawed off, that'll repaint you
+In a wide body, like the Lone Ranger
+I'ma stop and drop, when I wanna roll
+I got a big four do', with a big fo'-fo'
+Sitting solo, Doug-O wrecked
+Now Trae done backdo'
+Ghetto superstar, menage tois
+Candy paint, done wet up the car
+Lane to lane, my drop'll get raw
+Running red lights, and don't bar the law
+Gotta get paid, stacking my change
+Gripping the grain, gliding mayn
+Turn out the back, and I'ma gon swang
+Untamed, fin to do my thang
+Now Trae done wrecked it, world respected
+Out the Southside, of Houston Texas
+Living wreckless, don't neglect it
+Moving on, and ain't baring plexas
+Bubble eyed, fin to lead the way
+Diamonds shining, like a heat wave
+Back it up, 'fore I blind your face
+Slow Loud And Bangin', fin to lead the race
+
+[Hook - 2x]
+
+[Jay'Ton]
+I swing blocks, when I'm in the drop
+Where the throwed bops, and the haters jock
+It's Jay'Ton on 84's, Volvos fin to glide the road
+I'm 16 all in your face, braided up and I'm out of sight
+With a bad dyke on a motor bike, screened up lighting up the night
+I'm blue red coming out the I, turning heads on the boulevard
+My AK'll make a nigga know, when I cock it back I'm fin to hit you hard
+Southside fin to go get it, all about stacking a mill ticket
+I'm still playa don't get it twisted, sideways with the trunk lifted
+
+[Lil' B]
+The window tinter, wood grain gripper
+Wet candy paint, and a chrome pistol
+Eyes on me, like a thoed stripper
+Showing naked, better take a picture
+On the boulevard we don't guard
+84's and vogues, down to South Park
+Cause I'm Lil' B, and I don't barge
+Slow Loud And Bangin', we'll pull your car
+That's on the Lord, we'll leave a stain
+Hogging lanes, in a wide frame
+With my nigga too, all against the grain
+On the Dirty South, is where we gon swang
+Riding two deep, or solo
+Platinum FUBU, or Polo
+With a bad hoe, rocking J-Lo
+Skating up the block, I'm crawling slow
+
+[Hook - 2x]
+
+[Z-Ro]
+Solid, as a rock
+Profiling in the turning lane, banging down your block
+Hell naw it just don't stop, matter fact it never slow down
+When I'm in the kitchen whipping, my prices tend to go down
+Then I dog my Intrepid, mash on the gas on down to the flo'
+Till I hit my block and set up shop, anything you need come to the Ro
+Might got prices on my head but I'm not scared, I'm gon shine
+Relaxing in Rolls Royces, attempting to pass time
+I be smoking on that stink, had to retire from that ink
+Cause you just can't think, when your mind goes blank
+Full tank of unleaded, then I'm head to Probilla
+Fucking with that Big Mello, because my click require killas
+You ain't gotta holla at me, when you see me outside
+Cause when I go to my ride, I got your woman inside
+She got her mouth open wide, ready for me to drop it in
+My shine is unstoppable, but you wanna stop it here we go again
+
+[Hook - 4x]
+```	
+# synonymy
+
+
+## Noun
+
+1. the semantic relation that holds between two words that can (in a given context) express the same meaning
+	- Synonyms
+		- synonymity
+		- synonymousness
+	- Less specific
+		- semantic relation
+	- Related
+		- synonymous
+		- synonymous
+		- synonymist
+
+
+# synonymy
+
+
+## Noun
+
+1. the semantic relation that holds between two words that can (in a given context) express the same meaning
+	- Synonyms
+		- synonymity
+		- synonymousness
+	- Less specific
+		- semantic relation
+	- Related
+		- synonymous
+		- synonymous
+		- synonymist
+
+
+# tawdry
+
+
+## Adjective
+
+1. tastelessly showy; “a flash car”; “a flashy ring”; “garish colors”; “a gaudy costume”; “loud sport shirts”; “a meretricious yet stylish book”; “tawdry ornaments”
+	- Synonyms
+		- brassy
+		- cheap
+		- flash
+		- flashy
+		- garish
+		- gaudy
+		- gimcrack
+		- loud
+		- meretricious
+		- tacky
+		- tatty
+		- trashy
+	- Similar to
+		- tasteless
+	- Related
+		- shoddiness
+		- trashiness
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- cheapness
+		- tackiness
+		- tat
+		- sleaze
+		- cheapness
+		- tackiness
+		- tat
+		- sleaze
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- bangle
+		- bauble
+		- gaud
+		- gewgaw
+		- novelty
+		- fallal
+		- trinket
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- garishness
+		- gaudiness
+		- garishness
+		- gaudiness
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- ostentation
+		- fanfare
+		- flash
+		- cheapness
+		- tackiness
+		- tat
+		- sleaze
+2. made of inferior workmanship and materials; “cheapjack moviemaking…that feeds on the low taste of the mob”- Judith Crist
+	- Synonyms
+		- cheapjack
+		- shoddy
+	- Similar to
+		- inferior
+	- Related
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- shoddiness
+		- trashiness
+		- flimsiness
+		- shoddiness
+
+
+# tawdry
+
+
+## Adjective
+
+1. tastelessly showy; “a flash car”; “a flashy ring”; “garish colors”; “a gaudy costume”; “loud sport shirts”; “a meretricious yet stylish book”; “tawdry ornaments”
+	- Synonyms
+		- brassy
+		- cheap
+		- flash
+		- flashy
+		- garish
+		- gaudy
+		- gimcrack
+		- loud
+		- meretricious
+		- tacky
+		- tatty
+		- trashy
+	- Similar to
+		- tasteless
+	- Related
+		- shoddiness
+		- trashiness
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- cheapness
+		- tackiness
+		- tat
+		- sleaze
+		- cheapness
+		- tackiness
+		- tat
+		- sleaze
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- bangle
+		- bauble
+		- gaud
+		- gewgaw
+		- novelty
+		- fallal
+		- trinket
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- garishness
+		- gaudiness
+		- garishness
+		- gaudiness
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- ostentation
+		- fanfare
+		- flash
+		- cheapness
+		- tackiness
+		- tat
+		- sleaze
+2. made of inferior workmanship and materials; “cheapjack moviemaking…that feeds on the low taste of the mob”- Judith Crist
+	- Synonyms
+		- cheapjack
+		- shoddy
+	- Similar to
+		- inferior
+	- Related
+		- flashiness
+		- garishness
+		- gaudiness
+		- loudness
+		- brashness
+		- meretriciousness
+		- tawdriness
+		- glitz
+		- shoddiness
+		- trashiness
+		- flimsiness
+		- shoddiness
+
+
+# technologist
+
+
+## Noun
+
+1. a person who uses scientific knowledge to solve practical problems
+	- Synonyms
+		- engineer
+		- applied scientist
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+	- More specific
+		- aeronautical engineer
+		- aerospace engineer
+		- army engineer
+		- military engineer
+		- automotive engineer
+		- civil engineer
+		- electrical engineer
+		- marine engineer
+		- naval engineer
+		- mechanical engineer
+		- metallurgist
+		- metallurgical engineer
+		- mining engineer
+		- programmer
+		- computer programmer
+		- coder
+		- software engineer
+		- rocket engineer
+		- rocket scientist
+		- surveyor
+	- Examples
+		- Daimler
+		- Gottlieb Daimler
+		- Diesel
+		- Rudolf Diesel
+		- Rudolf Christian Karl Diesel
+		- Donkin
+		- Bryan Donkin
+		- Eiffel
+		- Alexandre Gustave Eiffel
+		- Fuller
+		- Buckminster Fuller
+		- R
+		- Richard Buckminster Fuller
+		- Goethals
+		- George Washington Goethals
+		- Junkers
+		- Hugo Junkers
+		- Kettering
+		- Charles Kettering
+		- Charles Franklin Kettering
+		- Leonardo
+		- Leonardo da Vinci
+		- da Vinci
+		- Roebling
+		- John Roebling
+		- John Augustus Roebling
+		- Shannon
+		- Claude Shannon
+		- Claude E
+		- Claude Elwood Shannon
+		- Siemens
+		- Karl Wilhelm Siemens
+		- Sir Charles William Siemens
+		- Sperry
+		- Elmer Ambrose Sperry
+		- Trevithick
+		- Richard Trevithick
+		- Watson
+		- Thomas Augustus Watson
+		- Watt
+		- James Watt
+	- Related
+		- engineering
+		- engineering science
+		- applied science
+		- technology
+		- technology
+		- engineer
+		- mastermind
+		- engineer
+		- direct
+		- organize
+		- organise
+		- orchestrate
+
+
+# technologist
+
+
+## Noun
+
+1. a person who uses scientific knowledge to solve practical problems
+	- Synonyms
+		- engineer
+		- applied scientist
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+	- More specific
+		- aeronautical engineer
+		- aerospace engineer
+		- army engineer
+		- military engineer
+		- automotive engineer
+		- civil engineer
+		- electrical engineer
+		- marine engineer
+		- naval engineer
+		- mechanical engineer
+		- metallurgist
+		- metallurgical engineer
+		- mining engineer
+		- programmer
+		- computer programmer
+		- coder
+		- software engineer
+		- rocket engineer
+		- rocket scientist
+		- surveyor
+	- Examples
+		- Daimler
+		- Gottlieb Daimler
+		- Diesel
+		- Rudolf Diesel
+		- Rudolf Christian Karl Diesel
+		- Donkin
+		- Bryan Donkin
+		- Eiffel
+		- Alexandre Gustave Eiffel
+		- Fuller
+		- Buckminster Fuller
+		- R
+		- Richard Buckminster Fuller
+		- Goethals
+		- George Washington Goethals
+		- Junkers
+		- Hugo Junkers
+		- Kettering
+		- Charles Kettering
+		- Charles Franklin Kettering
+		- Leonardo
+		- Leonardo da Vinci
+		- da Vinci
+		- Roebling
+		- John Roebling
+		- John Augustus Roebling
+		- Shannon
+		- Claude Shannon
+		- Claude E
+		- Claude Elwood Shannon
+		- Siemens
+		- Karl Wilhelm Siemens
+		- Sir Charles William Siemens
+		- Sperry
+		- Elmer Ambrose Sperry
+		- Trevithick
+		- Richard Trevithick
+		- Watson
+		- Thomas Augustus Watson
+		- Watt
+		- James Watt
+	- Related
+		- engineering
+		- engineering science
+		- applied science
+		- technology
+		- technology
+		- engineer
+		- mastermind
+		- engineer
+		- direct
+		- organize
+		- organise
+		- orchestrate
+
+
+# tellurian
+
+
+## Noun
+
+1. an inhabitant of the earth
+	- Synonyms
+		- earthling
+		- earthman
+		- worldling
+	- Less specific
+		- inhabitant
+		- habitant
+		- dweller
+		- denizen
+		- indweller
+	- Related
+		- Earth
+		- earth
+		- world
+		- globe
+		- Earth
+		- earth
+		- world
+		- globe
+
+## Adjective
+
+1. of or relating to or inhabiting the land as opposed to the sea or air
+	- Synonyms
+		- telluric
+		- terrestrial
+		- terrene
+	- Pertains to
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+
+
+# tellurian
+
+
+## Noun
+
+1. an inhabitant of the earth
+	- Synonyms
+		- earthling
+		- earthman
+		- worldling
+	- Less specific
+		- inhabitant
+		- habitant
+		- dweller
+		- denizen
+		- indweller
+	- Related
+		- Earth
+		- earth
+		- world
+		- globe
+		- Earth
+		- earth
+		- world
+		- globe
+
+## Adjective
+
+1. of or relating to or inhabiting the land as opposed to the sea or air
+	- Synonyms
+		- telluric
+		- terrestrial
+		- terrene
+	- Pertains to
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+		- land
+		- dry land
+		- earth
+		- ground
+		- solid ground
+		- terra firma
+
+
+# tenant
+
+
+## Noun
+
+1. someone who pays rent to use land or a building or a car that is owned by someone else; “the landlord can evict a tenant who doesn’t pay the rent”
+	- Synonyms
+		- renter
+	- Less specific
+		- payer
+		- remunerator
+	- More specific
+		- leaseholder
+		- lessee
+		- lodger
+		- boarder
+		- roomer
+	- Related
+		- lease
+		- rent
+		- hire
+		- charter
+		- engage
+		- take
+		- rent
+		- hire
+		- charter
+		- lease
+		- occupancy
+		- tenancy
+		- tenant
+2. a holder of buildings or lands by any kind of title (as ownership or lease)
+	- Less specific
+		- holder
+	- More specific
+		- cotenant
+		- life tenant
+		- tenant farmer
+	- Related
+		- occupancy
+		- tenancy
+3. any occupant who dwells in a place
+	- Less specific
+		- resident
+		- occupant
+		- occupier
+	- Related
+		- occupancy
+		- tenancy
+		- tenant
+
+## Verb
+
+1. occupy as a tenant
+	- Less specific
+		- populate
+		- dwell
+		- live
+		- inhabit
+	- Related
+		- tenant
+		- tenant
+		- renter
+		- tenantry
+
+
+# tenant
+
+
+## Noun
+
+1. someone who pays rent to use land or a building or a car that is owned by someone else; “the landlord can evict a tenant who doesn’t pay the rent”
+	- Synonyms
+		- renter
+	- Less specific
+		- payer
+		- remunerator
+	- More specific
+		- leaseholder
+		- lessee
+		- lodger
+		- boarder
+		- roomer
+	- Related
+		- lease
+		- rent
+		- hire
+		- charter
+		- engage
+		- take
+		- rent
+		- hire
+		- charter
+		- lease
+		- occupancy
+		- tenancy
+		- tenant
+2. a holder of buildings or lands by any kind of title (as ownership or lease)
+	- Less specific
+		- holder
+	- More specific
+		- cotenant
+		- life tenant
+		- tenant farmer
+	- Related
+		- occupancy
+		- tenancy
+3. any occupant who dwells in a place
+	- Less specific
+		- resident
+		- occupant
+		- occupier
+	- Related
+		- occupancy
+		- tenancy
+		- tenant
+
+## Verb
+
+1. occupy as a tenant
+	- Less specific
+		- populate
+		- dwell
+		- live
+		- inhabit
+	- Related
+		- tenant
+		- tenant
+		- renter
+		- tenantry
+
+
+# tetchy
+
+
+## Adjective
+
+1. easily irritated or annoyed; “an incorrigibly fractious young man”; “not the least nettlesome of his countrymen”
+	- Synonyms
+		- cranky
+		- fractious
+		- irritable
+		- nettlesome
+		- peevish
+		- peckish
+		- pettish
+		- petulant
+		- scratchy
+		- testy
+		- techy
+	- Similar to
+		- ill-natured
+	- Related
+		- testiness
+		- touchiness
+		- tetchiness
+		- testiness
+		- touchiness
+		- tetchiness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+		- grouch
+		- grump
+		- crank
+		- churl
+		- crosspatch
+		- crankiness
+		- crotchetiness
+		- contrariness
+		- grumpiness
+
+
+# tetchy
+
+
+## Adjective
+
+1. easily irritated or annoyed; “an incorrigibly fractious young man”; “not the least nettlesome of his countrymen”
+	- Synonyms
+		- cranky
+		- fractious
+		- irritable
+		- nettlesome
+		- peevish
+		- peckish
+		- pettish
+		- petulant
+		- scratchy
+		- testy
+		- techy
+	- Similar to
+		- ill-natured
+	- Related
+		- testiness
+		- touchiness
+		- tetchiness
+		- testiness
+		- touchiness
+		- tetchiness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- irritability
+		- crossness
+		- fretfulness
+		- fussiness
+		- peevishness
+		- petulance
+		- choler
+		- temper
+		- biliousness
+		- irritability
+		- peevishness
+		- pettishness
+		- snappishness
+		- surliness
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+		- grouch
+		- grump
+		- crank
+		- churl
+		- crosspatch
+		- crankiness
+		- crotchetiness
+		- contrariness
+		- grumpiness
+
+
 # Teutonophile
 
 
 “A Germanophile, Teutonophile or Teutophile is a person who is fond of German culture, German people and Germany in general or who exhibits German patriotism in spite of not being either an ethnic German or a German citizen.”
 - [Germanophile - Wikipedia](https://en.wikipedia.org/wiki/Germanophile)
-===
+# Teutonophile
+
+
+“A Germanophile, Teutonophile or Teutophile is a person who is fond of German culture, German people and Germany in general or who exhibits German patriotism in spite of not being either an ethnic German or a German citizen.”
+- [Germanophile - Wikipedia](https://en.wikipedia.org/wiki/Germanophile)
 # text fucking
 1. **Text Fucking** *verb*
 a.) hardcore text manipulation.
@@ -4127,7 +37062,616 @@ the discipline of text fucking.
 
 3. **Text Fuckery** *noun*
 the output... the *result* of the verb.
-===
+# text fucking
+1. **Text Fucking** *verb*
+a.) hardcore text manipulation.
+b.) destruction of usable digital text.
+
+2. **Text Fuckery** *noun*
+the discipline of text fucking.
+
+3. **Text Fuckery** *noun*
+the output... the *result* of the verb.
+# theocracy
+
+
+## Noun
+
+1. a political unit governed by a deity (or by officials thought to be divinely guided)
+	- Less specific
+		- political system
+		- form of government
+	- More specific
+		- church-state
+		- hierocracy
+	- Related
+		- theocratic
+2. the belief in government by divine guidance
+	- Less specific
+		- political orientation
+		- ideology
+		- political theory
+
+*From Wikipedia*:
+'''Theocracy''' is a form of government in which one or more [[deity|deities]] of some type are recognized as supreme ruling authorities, giving divine guidance to human intermediaries who manage the day-to-day affairs of the government.<ref>Webster's Encyclopedic Unabridged Dictionary of the English Language (1989 edition).</ref><ref>"[https://www.oxforddictionaries.com/definition/english/theocracy Theocracy, n.]" in ''Oxford English Dictionary'' (2015); Retrieved 28 June 2015</ref>
+
+==Etymology==
+The word theocracy originates from the [[Greek language|Greek]] word θεοκρατία (''theocratia'') meaning "the rule of God". This, in turn, derives from [[:wikt:θεός|θεός]] (theos), meaning "god", and [[:wikt:κρατέω|κρατέω]] (''krateo''), meaning "to rule". Thus the meaning of the word in Greek was "rule by god(s)" or human [[incarnation]](s) of god(s).
+
+The term was initially coined by [[Flavius Josephus]] in the first century AD to describe the characteristic government of the [[Jew]]s. Josephus argued that while mankind had developed many forms of rule, most could be subsumed under the following three types: [[monarchy]], [[oligarchy]], and [[democracy]]. However, according to Josephus, the government of the Jews was unique. Josephus offered the term "theocracy" to describe this polity in which God was sovereign and His word was law.<ref>{{cite book|url=http://www.gutenberg.org/files/2849/2849-h/2849-h.htm|title=Against Apion by Flavius Josephus, Book II, Chapter 17|work=gutenberg.org|date=October 2001}}</ref>
+
+Josephus' definition was widely accepted until the [[The Age of Enlightenment|Enlightenment]] era, when the term took on negative [[connotation]]s and was barely salvaged by [[Hegel]]'s commentary.<ref>{{Cite journal|last=Moked|first=Oran|date=2004|title=The Relationship between Religion and State in Hegel's Thought|journal=Hegel Bulletin|language=en|volume=25|issue=1–2|pages=96–112|doi=10.1017/S0263523200002032|issn=2051-5367|doi-access=free}}</ref> The first recorded English use was in 1622, with the meaning "sacerdotal government under divine inspiration" (as in Biblical Israel before the rise of kings); the meaning "priestly or religious body wielding political and civil power" was recorded in 1825.
+
+==Definition==
+{{tone|section|date=December 2016}}
+The term ''theocracy'' derives from the [[Koine Greek]] {{lang|grc|θεοκρατία}}, "rule of God", a term used by [[Josephus]] for the [[kingdoms of Israel and Judah]],<ref>English form the 17th century (''[[OED]]'').
+The Greek term is explicitly coined by Josephus and isn't attested elsewhere in Ancient Greek; Josephus marks it as a [[Nonce word|nonce]] coinage by calling it a "strained expression".
+W. Whiston tr. [[Josephus]], ''Against Apion'' ii. §17 (1814) IV. 340: "He [Moses] ordained our government to be what, by a strained expression, may be termed a Theocracy", translating  {{lang|grc|ὡς δ'ἄν τίς εἴποι, βιασάμενος τὸν λόγον, θεοκρατίαν}}
+</ref> reflecting the view that "God himself is recognized as the head" of the state.<ref>[http://www.newadvent.org/cathen/14568a.htm Catholic Encyclopedia] "A form of civil government in which God himself is recognized as the head."</ref>
+The common, generic use of the term, as defined above in terms of rule by a church or analogous religious leadership, would be more accurately described as an ecclesiocracy.<ref>Stephen Palmquist, [http://www.hkbu.edu.hk/~ppp/bth ''Biblical Theocracy: A vision of the biblical foundations for a Christian political philosophy''] (Hong Kong: Philopsychy Press, 1993), introduced these more precise uses of the terms in arguing that theocracy (in this pure sense) is the only political system defended in the Bible. While Palmquist defends theocracy in this pure form as a viable (though "non-political") political system, he warns that what normally goes by this name is actually ecclesiocracy, the most dangerous of all political systems.</ref>
+
+In a pure theocracy, the civil leader is believed to have a personal connection with the deity or deities of that civilization's religion or belief, such as [[Muhammad]]'s leadership of the early Muslims with prophecies from [[God in Islam|Allah]]. In an ecclesiocracy, the religious leaders assume a leading role in the state, but do not claim that they are instruments of divine revelation. 
+
+A related phenomenon is a secular government co-existing with a state religion or delegating some aspects of civil law to religious communities. For example, in Israel, [[Marriage in Israel|marriage]] is governed by officially recognized religious bodies who each provide marriage services for their respected adherents, yet no form of civil marriage (free of religion) exists, nor marriage by non-recognized minority religions.
+# theocracy
+
+
+## Noun
+
+1. a political unit governed by a deity (or by officials thought to be divinely guided)
+	- Less specific
+		- political system
+		- form of government
+	- More specific
+		- church-state
+		- hierocracy
+	- Related
+		- theocratic
+2. the belief in government by divine guidance
+	- Less specific
+		- political orientation
+		- ideology
+		- political theory
+
+*From Wikipedia*:
+'''Theocracy''' is a form of government in which one or more [[deity|deities]] of some type are recognized as supreme ruling authorities, giving divine guidance to human intermediaries who manage the day-to-day affairs of the government.<ref>Webster's Encyclopedic Unabridged Dictionary of the English Language (1989 edition).</ref><ref>"[https://www.oxforddictionaries.com/definition/english/theocracy Theocracy, n.]" in ''Oxford English Dictionary'' (2015); Retrieved 28 June 2015</ref>
+
+==Etymology==
+The word theocracy originates from the [[Greek language|Greek]] word θεοκρατία (''theocratia'') meaning "the rule of God". This, in turn, derives from [[:wikt:θεός|θεός]] (theos), meaning "god", and [[:wikt:κρατέω|κρατέω]] (''krateo''), meaning "to rule". Thus the meaning of the word in Greek was "rule by god(s)" or human [[incarnation]](s) of god(s).
+
+The term was initially coined by [[Flavius Josephus]] in the first century AD to describe the characteristic government of the [[Jew]]s. Josephus argued that while mankind had developed many forms of rule, most could be subsumed under the following three types: [[monarchy]], [[oligarchy]], and [[democracy]]. However, according to Josephus, the government of the Jews was unique. Josephus offered the term "theocracy" to describe this polity in which God was sovereign and His word was law.<ref>{{cite book|url=http://www.gutenberg.org/files/2849/2849-h/2849-h.htm|title=Against Apion by Flavius Josephus, Book II, Chapter 17|work=gutenberg.org|date=October 2001}}</ref>
+
+Josephus' definition was widely accepted until the [[The Age of Enlightenment|Enlightenment]] era, when the term took on negative [[connotation]]s and was barely salvaged by [[Hegel]]'s commentary.<ref>{{Cite journal|last=Moked|first=Oran|date=2004|title=The Relationship between Religion and State in Hegel's Thought|journal=Hegel Bulletin|language=en|volume=25|issue=1–2|pages=96–112|doi=10.1017/S0263523200002032|issn=2051-5367|doi-access=free}}</ref> The first recorded English use was in 1622, with the meaning "sacerdotal government under divine inspiration" (as in Biblical Israel before the rise of kings); the meaning "priestly or religious body wielding political and civil power" was recorded in 1825.
+
+==Definition==
+{{tone|section|date=December 2016}}
+The term ''theocracy'' derives from the [[Koine Greek]] {{lang|grc|θεοκρατία}}, "rule of God", a term used by [[Josephus]] for the [[kingdoms of Israel and Judah]],<ref>English form the 17th century (''[[OED]]'').
+The Greek term is explicitly coined by Josephus and isn't attested elsewhere in Ancient Greek; Josephus marks it as a [[Nonce word|nonce]] coinage by calling it a "strained expression".
+W. Whiston tr. [[Josephus]], ''Against Apion'' ii. §17 (1814) IV. 340: "He [Moses] ordained our government to be what, by a strained expression, may be termed a Theocracy", translating  {{lang|grc|ὡς δ'ἄν τίς εἴποι, βιασάμενος τὸν λόγον, θεοκρατίαν}}
+</ref> reflecting the view that "God himself is recognized as the head" of the state.<ref>[http://www.newadvent.org/cathen/14568a.htm Catholic Encyclopedia] "A form of civil government in which God himself is recognized as the head."</ref>
+The common, generic use of the term, as defined above in terms of rule by a church or analogous religious leadership, would be more accurately described as an ecclesiocracy.<ref>Stephen Palmquist, [http://www.hkbu.edu.hk/~ppp/bth ''Biblical Theocracy: A vision of the biblical foundations for a Christian political philosophy''] (Hong Kong: Philopsychy Press, 1993), introduced these more precise uses of the terms in arguing that theocracy (in this pure sense) is the only political system defended in the Bible. While Palmquist defends theocracy in this pure form as a viable (though "non-political") political system, he warns that what normally goes by this name is actually ecclesiocracy, the most dangerous of all political systems.</ref>
+
+In a pure theocracy, the civil leader is believed to have a personal connection with the deity or deities of that civilization's religion or belief, such as [[Muhammad]]'s leadership of the early Muslims with prophecies from [[God in Islam|Allah]]. In an ecclesiocracy, the religious leaders assume a leading role in the state, but do not claim that they are instruments of divine revelation. 
+
+A related phenomenon is a secular government co-existing with a state religion or delegating some aspects of civil law to religious communities. For example, in Israel, [[Marriage in Israel|marriage]] is governed by officially recognized religious bodies who each provide marriage services for their respected adherents, yet no form of civil marriage (free of religion) exists, nor marriage by non-recognized minority religions.
+# therein
+
+
+## Adverb
+
+1. (formal) in or into that thing or place; “they can read therein what our plans are”
+	- Synonyms
+		- in this
+		- in that
+
+
+# therein
+
+
+## Adverb
+
+1. (formal) in or into that thing or place; “they can read therein what our plans are”
+	- Synonyms
+		- in this
+		- in that
+
+
+# thrum
+
+
+## Noun
+
+1. a thrumming sound; “he could hear the thrum of a banjo”
+	- Less specific
+		- sound
+	- Related
+		- strum
+		- thrum
+
+## Verb
+
+1. sound with a monotonous hum
+	- Synonyms
+		- hum
+	- Less specific
+		- sound
+		- go
+	- Related
+		- hum
+		- humming
+2. sound the strings of (a stringed instrument); “strum a guitar”
+	- Synonyms
+		- strum
+	- Less specific
+		- sound
+	- Related
+		- thrum
+		- strum
+3. make a rhythmic sound; “Rain drummed against the windshield”; “The drums beat all night”
+	- Synonyms
+		- drum
+		- beat
+	- Less specific
+		- sound
+		- go
+	- Related
+		- rhythm
+		- beat
+		- musical rhythm
+		- drummer
+
+- [LookUp](https://learnwithlookup.com/share/index.html?word=thrum&definition=make%2520continuous%2520rhythmic%2520humming%2520sound&data=eyJpbWFnZSI6IiIsIndvcmQiOiJ0aHJ1bSIsImRlZmluaXRpb24iOiJtYWtlIGNvbnRpbnVvdXMgcmh5dGhtaWMgaHVtbWluZyBzb3VuZCJ9)
+Verb
+1.	make a continuous rhythmic humming sound
+the boat's huge engines thrummed in his ears
+
+[with object] strum (the strings of a musical instrument) in a rhythmic way
+he thrums the strings | blind men thrum and hum in the soft air
+
+
+Noun
+[usually in singular] 
+
+1.	a continuous rhythmic humming sound
+the steady thrum of rain on the windows
+
+
+Noun
+1.	Textiles (in weaving) an unwoven end of a warp thread, or a fringe of such ends, left in the loom when the finished cloth is cut away.
+
+any short loose thread.
+
+
+Verb
+1.	Textiles cover or adorn (cloth or clothing) with ends of thread.
+# thrum
+
+
+## Noun
+
+1. a thrumming sound; “he could hear the thrum of a banjo”
+	- Less specific
+		- sound
+	- Related
+		- strum
+		- thrum
+
+## Verb
+
+1. sound with a monotonous hum
+	- Synonyms
+		- hum
+	- Less specific
+		- sound
+		- go
+	- Related
+		- hum
+		- humming
+2. sound the strings of (a stringed instrument); “strum a guitar”
+	- Synonyms
+		- strum
+	- Less specific
+		- sound
+	- Related
+		- thrum
+		- strum
+3. make a rhythmic sound; “Rain drummed against the windshield”; “The drums beat all night”
+	- Synonyms
+		- drum
+		- beat
+	- Less specific
+		- sound
+		- go
+	- Related
+		- rhythm
+		- beat
+		- musical rhythm
+		- drummer
+
+- [LookUp](https://learnwithlookup.com/share/index.html?word=thrum&definition=make%2520continuous%2520rhythmic%2520humming%2520sound&data=eyJpbWFnZSI6IiIsIndvcmQiOiJ0aHJ1bSIsImRlZmluaXRpb24iOiJtYWtlIGNvbnRpbnVvdXMgcmh5dGhtaWMgaHVtbWluZyBzb3VuZCJ9)
+Verb
+1.	make a continuous rhythmic humming sound
+the boat's huge engines thrummed in his ears
+
+[with object] strum (the strings of a musical instrument) in a rhythmic way
+he thrums the strings | blind men thrum and hum in the soft air
+
+
+Noun
+[usually in singular] 
+
+1.	a continuous rhythmic humming sound
+the steady thrum of rain on the windows
+
+
+Noun
+1.	Textiles (in weaving) an unwoven end of a warp thread, or a fringe of such ends, left in the loom when the finished cloth is cut away.
+
+any short loose thread.
+
+
+Verb
+1.	Textiles cover or adorn (cloth or clothing) with ends of thread.
+# thwack
+
+
+## Noun
+
+1. a hard blow with a flat object
+	- Less specific
+		- blow
+	- Related
+		- smack
+		- thwack
+
+## Verb
+
+1. deliver a hard blow to; “The teacher smacked the student who had misbehaved”
+	- Synonyms
+		- smack
+	- Less specific
+		- hit
+	- Related
+		- thwack
+		- smack
+		- smacking
+		- slap
+		- slap
+		- smack
+		- smacker
+		- smack
+		- smacking
+		- slap
+
+*From LookUp:*
+
+Verb
+1.	strike forcefully with a sharp blow
+she thwacked the back of their knees with a cane
+
+
+Noun
+1.	a sharp blow
+he hit it with a hefty thwack
+
+**Thesaurus**
+
+Verb
+1.	Pedro thwacked the backs of the man's legs with his crutch
+
+Similar Words: 	hit    strike    beat    batter    pound    attack    assault    knock    rap    smack    slap    pummel    thump    punch    cudgel    thrash    bang    drub    welt    cuff    crack    buffet    box someone's ears    bash    clobber    clout    clip    wallop    whack    belt    tan    biff    bop    lay into    pitch into    lace into    let someone have it    knock into the middle of next week    sock    lam    whomp    stick one on    slosh    boff    bust    slug    light into    whale    dong    quilt    smite    swinge
+
+
+
+Noun
+1.	he was given a painful thwack with a rolled-up magazine
+
+Similar Words: 	blow    hit    punch    thump    smack    slap    bang    welt    cuff    box    crack    bash    clobber    clout    clip    wallop    whack    belt    tan    biff    bop    sock    lam    whomp    slosh    boff    bust    slug    whale    dong    buffet
+# thwack
+
+
+## Noun
+
+1. a hard blow with a flat object
+	- Less specific
+		- blow
+	- Related
+		- smack
+		- thwack
+
+## Verb
+
+1. deliver a hard blow to; “The teacher smacked the student who had misbehaved”
+	- Synonyms
+		- smack
+	- Less specific
+		- hit
+	- Related
+		- thwack
+		- smack
+		- smacking
+		- slap
+		- slap
+		- smack
+		- smacker
+		- smack
+		- smacking
+		- slap
+
+*From LookUp:*
+
+Verb
+1.	strike forcefully with a sharp blow
+she thwacked the back of their knees with a cane
+
+
+Noun
+1.	a sharp blow
+he hit it with a hefty thwack
+
+**Thesaurus**
+
+Verb
+1.	Pedro thwacked the backs of the man's legs with his crutch
+
+Similar Words: 	hit    strike    beat    batter    pound    attack    assault    knock    rap    smack    slap    pummel    thump    punch    cudgel    thrash    bang    drub    welt    cuff    crack    buffet    box someone's ears    bash    clobber    clout    clip    wallop    whack    belt    tan    biff    bop    lay into    pitch into    lace into    let someone have it    knock into the middle of next week    sock    lam    whomp    stick one on    slosh    boff    bust    slug    light into    whale    dong    quilt    smite    swinge
+
+
+
+Noun
+1.	he was given a painful thwack with a rolled-up magazine
+
+Similar Words: 	blow    hit    punch    thump    smack    slap    bang    welt    cuff    box    crack    bash    clobber    clout    clip    wallop    whack    belt    tan    biff    bop    sock    lam    whomp    slosh    boff    bust    slug    whale    dong    buffet
+# TIL
+
+
+*From LookUp*:
+Residual (Abbreviation)
+1.	Computing Informal today I learned
+TIL something interesting
+# TIL
+
+
+*From LookUp*:
+Residual (Abbreviation)
+1.	Computing Informal today I learned
+TIL something interesting
+# totem
+
+
+## Noun
+
+1. a clan or tribe identified by their kinship to a common totemic object
+	- Less specific
+		- kin
+		- kin group
+		- kinship group
+		- kindred
+		- clan
+		- tribe
+	- Members
+		- totemist
+2. emblem consisting of an object such as an animal or plant; serves as the symbol of a family or clan (especially among American Indians)
+	- Less specific
+		- emblem
+	- Related
+		- totemic
+	- Region
+		- United States
+		- United States of America
+		- America
+		- the States
+		- US
+		- U
+		- USA
+		- U
+
+*From LookUp*:
+Noun
+1.	Anthropology a natural object or animal that is believed by a particular society to have spiritual significance and that is adopted by it as an emblem.
+
+a person or thing regarded as being symbolic or representative of a particular quality or concept
+the fast food chains have become totems of Western economic development | the newspaper is seen as a totem of media independence and integrity
+# totem
+
+
+## Noun
+
+1. a clan or tribe identified by their kinship to a common totemic object
+	- Less specific
+		- kin
+		- kin group
+		- kinship group
+		- kindred
+		- clan
+		- tribe
+	- Members
+		- totemist
+2. emblem consisting of an object such as an animal or plant; serves as the symbol of a family or clan (especially among American Indians)
+	- Less specific
+		- emblem
+	- Related
+		- totemic
+	- Region
+		- United States
+		- United States of America
+		- America
+		- the States
+		- US
+		- U
+		- USA
+		- U
+
+*From LookUp*:
+Noun
+1.	Anthropology a natural object or animal that is believed by a particular society to have spiritual significance and that is adopted by it as an emblem.
+
+a person or thing regarded as being symbolic or representative of a particular quality or concept
+the fast food chains have become totems of Western economic development | the newspaper is seen as a totem of media independence and integrity
+# traduce
+
+
+## Verb
+
+1. speak unfavorably about; “She badmouths her husband everywhere”
+	- Synonyms
+		- badmouth
+		- malign
+		- drag through the mud
+	- Less specific
+		- defame
+		- slander
+		- smirch
+		- asperse
+		- denigrate
+		- calumniate
+		- smear
+		- sully
+		- besmirch
+	- Related
+		- defamation
+		- calumny
+		- calumniation
+		- obloquy
+		- traducement
+		- hatchet job
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+		- smear
+		- vilification
+		- malignment
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+
+
+# traduce
+
+
+## Verb
+
+1. speak unfavorably about; “She badmouths her husband everywhere”
+	- Synonyms
+		- badmouth
+		- malign
+		- drag through the mud
+	- Less specific
+		- defame
+		- slander
+		- smirch
+		- asperse
+		- denigrate
+		- calumniate
+		- smear
+		- sully
+		- besmirch
+	- Related
+		- defamation
+		- calumny
+		- calumniation
+		- obloquy
+		- traducement
+		- hatchet job
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+		- smear
+		- vilification
+		- malignment
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+
+
+# transclusion
+
+
+> In computer science, transclusion is the inclusion of part or all of an electronic document into one or more other documents by hypertext reference. Transclusion is usually performed when the referencing document is displayed, and is normally automatic and transparent to the end user. The result of transclusion is a single integrated document made of parts assembled dynamically from separate sources, possibly stored on different computers in disparate places.
+
+> Transclusion facilitates modular design: a resource  is stored once and distributed for reuse in multiple documents. Updates or corrections to a resource are then reflected in any referencing documents. Ted Nelson coined the term for his 1980 nonlinear book Literary Machines, but the idea of master copy and occurrences was applied 17 years before, in Sketchpad.
+-[Wikipedia](https://en.m.wikipedia.org/wiki/Transclusion)
+# transclusion
+
+
+> In computer science, transclusion is the inclusion of part or all of an electronic document into one or more other documents by hypertext reference. Transclusion is usually performed when the referencing document is displayed, and is normally automatic and transparent to the end user. The result of transclusion is a single integrated document made of parts assembled dynamically from separate sources, possibly stored on different computers in disparate places.
+
+> Transclusion facilitates modular design: a resource  is stored once and distributed for reuse in multiple documents. Updates or corrections to a resource are then reflected in any referencing documents. Ted Nelson coined the term for his 1980 nonlinear book Literary Machines, but the idea of master copy and occurrences was applied 17 years before, in Sketchpad.
+-[Wikipedia](https://en.m.wikipedia.org/wiki/Transclusion)
+# transcutaneous
+
+
+## Adjective
+
+1. through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches); “transdermal estrogen”; “percutaneous absorption”
+	- Synonyms
+		- transdermal
+		- transdermic
+		- percutaneous
+	- Pertains to
+		- skin
+		- tegument
+		- cutis
+		- skin
+		- tegument
+		- cutis
+		- dermis
+		- corium
+		- derma
+		- dermis
+		- corium
+		- derma
+	- Topic Members
+		- pharmacology
+		- pharmacological medicine
+		- materia medica
+
+
+# transcutaneous
+
+
+## Adjective
+
+1. through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches); “transdermal estrogen”; “percutaneous absorption”
+	- Synonyms
+		- transdermal
+		- transdermic
+		- percutaneous
+	- Pertains to
+		- skin
+		- tegument
+		- cutis
+		- skin
+		- tegument
+		- cutis
+		- dermis
+		- corium
+		- derma
+		- dermis
+		- corium
+		- derma
+	- Topic Members
+		- pharmacology
+		- pharmacological medicine
+		- materia medica
+
+
 # travail
 
 
@@ -4274,7 +37818,232 @@ the output... the *result* of the verb.
 		- jack
 
 
-===
+# travail
+
+
+## Noun
+
+1. concluding state of pregnancy; from the onset of contractions to the birth of a child; “she was in labor for six hours”
+	- Synonyms
+		- parturiency
+		- labor
+		- labour
+		- confinement
+		- lying-in
+		- childbed
+	- Less specific
+		- parturition
+		- birth
+		- giving birth
+		- birthing
+	- More specific
+		- premature labor
+		- premature labour
+	- Parts
+		- uterine contraction
+		- effacement
+		- asynclitism
+		- obliquity
+	- Part of
+		- pregnancy
+		- gestation
+		- maternity
+	- Related
+		- labor
+		- labour
+		- labor
+		- labour
+		- parturient
+		- parturient
+2. use of physical or mental energy; hard work; “he got an A for effort”; “they managed only with great exertion”
+	- Synonyms
+		- effort
+		- elbow grease
+		- exertion
+		- sweat
+	- Less specific
+		- labor
+		- labour
+		- toil
+	- More specific
+		- struggle
+		- trouble
+		- difficulty
+		- least effort
+		- least resistance
+		- strain
+		- straining
+		- exercise
+		- exercising
+		- physical exercise
+		- physical exertion
+		- workout
+		- pull
+		- application
+		- diligence
+		- overkill
+		- supererogation
+		- overexertion
+		- friction
+		- detrition
+		- rubbing
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+		- exert
+
+## Verb
+
+1. work hard; “She was digging away at her math homework”; “Lexicographers drudge all day long”
+	- Synonyms
+		- labor
+		- labour
+		- toil
+		- fag
+		- grind
+		- drudge
+		- dig
+		- moil
+	- Less specific
+		- work
+		- do work
+	- Related
+		- drudge
+		- peon
+		- navvy
+		- galley slave
+		- hack
+		- drudge
+		- hacker
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- swot
+		- grind
+		- nerd
+		- wonk
+		- dweeb
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- effort
+		- elbow grease
+		- exertion
+		- travail
+		- sweat
+		- toiler
+		- labor
+		- labour
+		- toil
+		- labor
+		- labour
+		- toil
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+		- labor
+		- labour
+		- toil
+		- undertaking
+		- project
+		- task
+		- labor
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+
+
+# treen
+
+
+*From LookUp*:
+Noun
+1.	[treated as plural] small domestic wooden objects, especially antiques.
+
+
+Adjective
+1.	Archaic wooden
+a treen snuffbox
+# treen
+
+
+*From LookUp*:
+Noun
+1.	[treated as plural] small domestic wooden objects, especially antiques.
+
+
+Adjective
+1.	Archaic wooden
+a treen snuffbox
+# troth
+
+
+## Noun
+
+1. a mutual promise to marry
+	- Synonyms
+		- betrothal
+		- engagement
+	- Less specific
+		- promise
+	- More specific
+		- ringing
+	- Related
+		- betroth
+		- engage
+		- affiance
+		- plight
+2. a solemn pledge of fidelity
+	- Synonyms
+		- plight
+	- Less specific
+		- assurance
+		- pledge
+	- Related
+		- pledge
+		- plight
+
+
+# troth
+
+
+## Noun
+
+1. a mutual promise to marry
+	- Synonyms
+		- betrothal
+		- engagement
+	- Less specific
+		- promise
+	- More specific
+		- ringing
+	- Related
+		- betroth
+		- engage
+		- affiance
+		- plight
+2. a solemn pledge of fidelity
+	- Synonyms
+		- plight
+	- Less specific
+		- assurance
+		- pledge
+	- Related
+		- pledge
+		- plight
+
+
 # trounce
 
 
@@ -4491,7 +38260,264 @@ the output... the *result* of the verb.
 		- reprimand
 
 
-===
+# trounce
+
+
+## Verb
+
+1. beat severely with a whip or rod; “The teacher often flogged the students”; “The children were severely trounced”
+	- Synonyms
+		- flog
+		- welt
+		- whip
+		- lather
+		- lash
+		- slash
+		- strap
+	- Less specific
+		- beat
+		- beat up
+		- work over
+	- More specific
+		- flagellate
+		- scourge
+		- leather
+		- horsewhip
+		- switch
+		- cowhide
+		- cat
+		- birch
+	- Related
+		- beating
+		- thrashing
+		- licking
+		- drubbing
+		- lacing
+		- trouncing
+		- whacking
+		- strap
+		- whip
+		- lash
+		- whiplash
+		- lash
+		- thong
+		- whip
+		- whip
+		- lash
+		- whiplash
+		- switcher
+		- whipper
+		- whipping
+		- tanning
+		- flogging
+		- lashing
+		- flagellation
+		- wale
+		- welt
+		- weal
+		- wheal
+		- whipping
+		- tanning
+		- flogging
+		- lashing
+		- flagellation
+2. come out better in a competition, race, or conflict; “Agassi beat Becker in the tennis championship”; “We beat the competition”; “Harvard defeated Yale in the last football game”
+	- Synonyms
+		- beat
+		- beat out
+		- crush
+		- shell
+		- vanquish
+	- Less specific
+		- get the better of
+		- overcome
+		- defeat
+	- More specific
+		- outpoint
+		- outscore
+		- walk over
+		- eliminate
+		- worst
+		- pip
+		- mop up
+		- whip
+		- rack up
+		- whomp
+		- get the best
+		- have the best
+		- overcome
+		- spread-eagle
+		- spreadeagle
+		- rout
+		- get the jump
+		- cheat
+		- chouse
+		- shaft
+		- screw
+		- chicane
+		- jockey
+		- surpass
+		- outstrip
+		- outmatch
+		- outgo
+		- exceed
+		- outdo
+		- surmount
+		- outperform
+		- overcome
+		- get over
+		- subdue
+		- surmount
+		- master
+		- outdo
+		- outflank
+		- trump
+		- best
+		- scoop
+		- outfight
+		- overpower
+		- overmaster
+		- overwhelm
+		- checkmate
+		- mate
+		- immobilize
+		- immobilise
+		- outplay
+		- cream
+		- bat
+		- clobber
+		- drub
+		- thrash
+		- lick
+	- Entailments
+		- win
+	- Related
+		- beatable
+		- vanquishable
+		- vincible
+		- conqueror
+		- vanquisher
+		- thrashing
+		- walloping
+		- debacle
+		- drubbing
+		- slaughter
+		- trouncing
+		- whipping
+		- beatable
+		- vanquishable
+		- vincible
+		- beating
+		- whipping
+3. censure severely or angrily; “The mother scolded the child for entering a stranger’s car”; “The deputy ragged the Prime Minister”; “The customer dressed down the waiter for bringing cold soup”
+	- Synonyms
+		- call on the carpet
+		- take to task
+		- rebuke
+		- rag
+		- lecture
+		- reprimand
+		- jaw
+		- dress down
+		- call down
+		- scold
+		- chide
+		- berate
+		- bawl out
+		- remonstrate
+		- chew out
+		- chew up
+		- have words
+		- lambaste
+		- lambast
+	- Less specific
+		- knock
+		- criticize
+		- criticise
+		- pick apart
+	- More specific
+		- chastise
+		- castigate
+		- objurgate
+		- chasten
+		- correct
+		- tell off
+		- brush down
+	- Related
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- scold
+		- scolder
+		- nag
+		- nagger
+		- common scold
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- lecture
+		- speech
+		- talking to
+		- upbraider
+		- reprover
+		- reproacher
+		- rebuker
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+
+
+# turpitude
+
+
+## Noun
+
+1. a corrupt or depraved or degenerate act or practice; “the various turpitudes of modern society”
+	- Synonyms
+		- depravity
+	- Less specific
+		- transgression
+		- evildoing
+
+
+# turpitude
+
+
+## Noun
+
+1. a corrupt or depraved or degenerate act or practice; “the various turpitudes of modern society”
+	- Synonyms
+		- depravity
+	- Less specific
+		- transgression
+		- evildoing
+
+
+# tuse
+
+
+Abbreviation of *obtuse*. *Not* "[a slang term for *vagina*](https://www.urbandictionary.com/define.php?term=tuse)."
+
+Ex:
+
+> tuse goose.
+# tuse
+
+
+Abbreviation of *obtuse*. *Not* "[a slang term for *vagina*](https://www.urbandictionary.com/define.php?term=tuse)."
+
+Ex:
+
+> tuse goose.
 # tyke
 
 
@@ -4581,7 +38607,189 @@ the output... the *result* of the verb.
 		- puerility
 
 
-===
+# tyke
+
+
+## Noun
+
+1. a native of Yorkshire
+	- Less specific
+		- English person
+2. a crude uncouth ill-bred person lacking culture or refinement
+	- Synonyms
+		- peasant
+		- barbarian
+		- boor
+		- churl
+		- Goth
+		- tike
+	- Less specific
+		- unpleasant person
+		- disagreeable person
+	- Related
+		- barbarian
+		- barbaric
+		- savage
+		- uncivilized
+		- uncivilised
+		- wild
+3. a young person of either sex; “she writes books for children”; “they’re just kids”; “`tiddler’ is a British term for youngster”
+	- Synonyms
+		- child
+		- kid
+		- youngster
+		- minor
+		- shaver
+		- nipper
+		- small fry
+		- tiddler
+		- tike
+		- fry
+		- nestling
+	- Less specific
+		- juvenile
+		- juvenile person
+	- More specific
+		- bairn
+		- buster
+		- changeling
+		- child prodigy
+		- infant prodigy
+		- wonder child
+		- foster-child
+		- foster child
+		- fosterling
+		- imp
+		- scamp
+		- monkey
+		- rascal
+		- rapscallion
+		- scalawag
+		- scallywag
+		- kiddy
+		- kiddie
+		- orphan
+		- peanut
+		- pickaninny
+		- piccaninny
+		- picaninny
+		- poster child
+		- preschooler
+		- kindergartner
+		- kindergartener
+		- silly
+		- sprog
+		- toddler
+		- yearling
+		- tot
+		- bambino
+		- urchin
+		- waif
+		- street child
+	- Parts
+		- child's body
+	- Related
+		- childlike
+		- childly
+		- childhood
+		- childhood
+		- puerility
+
+
+# tyro
+
+
+## Noun
+
+1. someone new to a field or activity
+	- Synonyms
+		- novice
+		- beginner
+		- tiro
+		- initiate
+	- Less specific
+		- unskilled person
+	- More specific
+		- abecedarian
+		- apprentice
+		- learner
+		- prentice
+		- cub
+		- greenhorn
+		- rookie
+		- landlubber
+		- lubber
+		- landsman
+		- newcomer
+		- fledgling
+		- fledgeling
+		- starter
+		- neophyte
+		- freshman
+		- newbie
+		- entrant
+		- tenderfoot
+		- trainee
+	- Related
+		- initiate
+		- induct
+		- get down
+		- begin
+		- get
+		- start out
+		- start
+		- set about
+		- set out
+		- commence
+
+
+# tyro
+
+
+## Noun
+
+1. someone new to a field or activity
+	- Synonyms
+		- novice
+		- beginner
+		- tiro
+		- initiate
+	- Less specific
+		- unskilled person
+	- More specific
+		- abecedarian
+		- apprentice
+		- learner
+		- prentice
+		- cub
+		- greenhorn
+		- rookie
+		- landlubber
+		- lubber
+		- landsman
+		- newcomer
+		- fledgling
+		- fledgeling
+		- starter
+		- neophyte
+		- freshman
+		- newbie
+		- entrant
+		- tenderfoot
+		- trainee
+	- Related
+		- initiate
+		- induct
+		- get down
+		- begin
+		- get
+		- start out
+		- start
+		- set about
+		- set out
+		- commence
+
+
 # unco
 
 
@@ -4604,7 +38812,28 @@ the output... the *result* of the verb.
 		- unusual
 
 
-===
+# unco
+
+
+## Adverb
+
+1. to a remarkable degree or extent; “she was unusually tall”; “Notably missing from the network’s fall line-up are any half-hour scripted comedies”
+	- Synonyms
+		- unusually
+		- remarkably
+		- notably
+	- Antonyms
+		- normally
+		- usually
+		- unremarkably
+		- commonly
+		- ordinarily
+	- Pertains to
+		- remarkable
+		- singular
+		- unusual
+
+
 # undercovered
 
 <u>Adjective</u>
@@ -4628,7 +38857,203 @@ When I use the term "undercovered," I am describing something which "mainstream 
 [**Shortcut Share Link**](https://www.icloud.com/shortcuts/18eb1e77ab0b455f82da4c4c6e521368)
 
 Undercovered is an adjective meaning: less present in popular discourse than is contextually appropriate.
-===
+# undercovered
+
+<u>Adjective</u>
+
+*(Of an individual, project, social dynamic, single event, etc.)*
+
+**Less present in popular discourse than is contextually appropriate.**
+
+When I use the term "undercovered," I am describing something which "mainstream media" (*technology journalism*, most often) has not, is not, and/or is not likely to adequately amplify according to my own framework of relevance.
+
+#### Some prime examples:
+
+* [**Bandcamp as the answer to all contemporary woes regarding music streaming services**](https://bilge.world/bandcamp-streaming-music).
+* [Mastodon as the answer to (a great many) contemporary woes regarding social networks](https://bilge.world/eugen-rochko-interview).
+* [Discord as a superior (and free!) Slack alternative for small businesses/projects](https://bilge.world/discord-slack-comparison).
+
+==
+
+## Siri TTS
+
+[**Shortcut Share Link**](https://www.icloud.com/shortcuts/18eb1e77ab0b455f82da4c4c6e521368)
+
+Undercovered is an adjective meaning: less present in popular discourse than is contextually appropriate.
+# unerring
+
+
+## Adjective
+
+1. not liable to error; “the Church was…theoretically inerrant and omnicompetent”-G.G.Coulton; “lack an inerrant literary sense”; “an unerring marksman”
+	- Synonyms
+		- inerrable
+		- inerrant
+	- Similar to
+		- infallible
+	- Related
+		- inerrancy
+
+
+# unerring
+
+
+## Adjective
+
+1. not liable to error; “the Church was…theoretically inerrant and omnicompetent”-G.G.Coulton; “lack an inerrant literary sense”; “an unerring marksman”
+	- Synonyms
+		- inerrable
+		- inerrant
+	- Similar to
+		- infallible
+	- Related
+		- inerrancy
+
+
+# unfeigned
+
+
+## Adjective
+
+1. not pretended; sincerely felt or expressed; “genuine emotion”; “her interest in people was unfeigned”; “true grief”
+	- Synonyms
+		- genuine
+		- true
+	- Similar to
+		- sincere
+	- Related
+		- authenticity
+		- genuineness
+		- legitimacy
+
+
+# unfeigned
+
+
+## Adjective
+
+1. not pretended; sincerely felt or expressed; “genuine emotion”; “her interest in people was unfeigned”; “true grief”
+	- Synonyms
+		- genuine
+		- true
+	- Similar to
+		- sincere
+	- Related
+		- authenticity
+		- genuineness
+		- legitimacy
+
+
+# ungovernable
+
+
+## Adjective
+
+1. incapable of being controlled; “the little boy’s parents think he is spirited, but his teacher finds him unruly”
+	- Synonyms
+		- indocile
+		- uncontrollable
+		- unruly
+	- Similar to
+		- unmanageable
+		- difficult
+	- Related
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+
+
+# ungovernable
+
+
+## Adjective
+
+1. incapable of being controlled; “the little boy’s parents think he is spirited, but his teacher finds him unruly”
+	- Synonyms
+		- indocile
+		- uncontrollable
+		- unruly
+	- Similar to
+		- unmanageable
+		- difficult
+	- Related
+		- unruliness
+		- fractiousness
+		- willfulness
+		- wilfulness
+
+
+# unthought
+
+
+## Adjective
+
+1. so unexpected as to have not been imagined; “an unhoped-for piece of luck”; “an unthought advantage”; “an unthought-of place to find the key”
+	- Synonyms
+		- unhoped
+		- unhoped-for
+		- unthought-of
+	- Similar to
+		- unexpected
+
+- [**unthought** - LookUp](https://learnwithlookup.com/share/index.html?word=unthought&definition=not%2520imagined%2520or%2520dreamed%2520of&data=eyJpbWFnZSI6IiIsIndvcmQiOiJ1bnRob3VnaHQiLCJkZWZpbml0aW9uIjoibm90IGltYWdpbmVkIG9yIGRyZWFtZWQgb2YifQ%3D%3D)
+Adjective
+1.	"unthought of" not imagined or dreamed of
+the old develop interests unthought of in earlier years
+
+2.	not formed by the process of thinking
+what remains unsaid and therefore unthought
+# unthought
+
+
+## Adjective
+
+1. so unexpected as to have not been imagined; “an unhoped-for piece of luck”; “an unthought advantage”; “an unthought-of place to find the key”
+	- Synonyms
+		- unhoped
+		- unhoped-for
+		- unthought-of
+	- Similar to
+		- unexpected
+
+- [**unthought** - LookUp](https://learnwithlookup.com/share/index.html?word=unthought&definition=not%2520imagined%2520or%2520dreamed%2520of&data=eyJpbWFnZSI6IiIsIndvcmQiOiJ1bnRob3VnaHQiLCJkZWZpbml0aW9uIjoibm90IGltYWdpbmVkIG9yIGRyZWFtZWQgb2YifQ%3D%3D)
+Adjective
+1.	"unthought of" not imagined or dreamed of
+the old develop interests unthought of in earlier years
+
+2.	not formed by the process of thinking
+what remains unsaid and therefore unthought
+# urbane
+
+
+## Adjective
+
+1. showing a high degree of refinement and the assurance that comes from wide social experience; “his polished manner”; “maintained an urbane tone in his letters”
+	- Synonyms
+		- polished
+		- refined
+	- Similar to
+		- sophisticated
+	- Related
+		- urbanity
+
+
+# urbane
+
+
+## Adjective
+
+1. showing a high degree of refinement and the assurance that comes from wide social experience; “his polished manner”; “maintained an urbane tone in his letters”
+	- Synonyms
+		- polished
+		- refined
+	- Similar to
+		- sophisticated
+	- Related
+		- urbanity
+
+
 # ursine
 
 
@@ -4639,7 +39064,236 @@ Undercovered is an adjective meaning: less present in popular discourse than is 
 		- bear
 
 
-===
+# ursine
+
+
+## Adjective
+
+1. of or relating to or similar to bears
+	- Pertains to
+		- bear
+
+
+# vaunt
+
+
+## Noun
+
+1. extravagant self-praise
+	- Less specific
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+	- Related
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- vaunt
+		- gasconade
+
+## Verb
+
+1. show off
+	- Synonyms
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- gasconade
+	- Less specific
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+	- More specific
+		- puff
+		- gloat
+		- triumph
+		- crow
+	- Related
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- vaunt
+		- braggadocio
+		- bluster
+		- rodomontade
+		- rhodomontade
+		- bravado
+		- bluster
+		- loudmouth
+		- blusterer
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+
+*From LookUp*:
+Verb
+1.	boast about or praise (something), especially excessively
+he was initially vaunted by the West for his leadership of the country | an autobiographer is simultaneously vaunted and castigated for revealing more than is deemed proper
+
+
+Noun
+1.	Archaic a boast.
+# vaunt
+
+
+## Noun
+
+1. extravagant self-praise
+	- Less specific
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+	- Related
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- vaunt
+		- gasconade
+
+## Verb
+
+1. show off
+	- Synonyms
+		- boast
+		- tout
+		- swash
+		- shoot a line
+		- brag
+		- gas
+		- blow
+		- bluster
+		- gasconade
+	- Less specific
+		- overstate
+		- exaggerate
+		- overdraw
+		- hyperbolize
+		- hyperbolise
+		- magnify
+		- amplify
+	- More specific
+		- puff
+		- gloat
+		- triumph
+		- crow
+	- Related
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- vaunt
+		- braggadocio
+		- bluster
+		- rodomontade
+		- rhodomontade
+		- bravado
+		- bluster
+		- loudmouth
+		- blusterer
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+		- brag
+		- bragging
+		- crow
+		- crowing
+		- vaporing
+		- line-shooting
+		- gasconade
+		- boast
+		- boasting
+		- self-praise
+		- jactitation
+		- bragger
+		- braggart
+		- boaster
+		- blowhard
+		- line-shooter
+		- vaunter
+
+*From LookUp*:
+Verb
+1.	boast about or praise (something), especially excessively
+he was initially vaunted by the West for his leadership of the country | an autobiographer is simultaneously vaunted and castigated for revealing more than is deemed proper
+
+
+Noun
+1.	Archaic a boast.
 # verdure
 
 
@@ -4667,7 +39321,83 @@ Undercovered is an adjective meaning: less present in popular discourse than is 
 		- verdant
 
 
-===
+# verdure
+
+
+## Noun
+
+1. green foliage
+	- Synonyms
+		- greenery
+	- Less specific
+		- leaf
+		- leafage
+		- foliage
+	- Related
+		- green
+2. the lush appearance of flourishing vegetation
+	- Synonyms
+		- greenness
+		- verdancy
+	- Less specific
+		- profusion
+		- profuseness
+		- richness
+		- cornucopia
+	- Related
+		- verdant
+
+
+# veridical
+
+
+## Adjective
+
+1. coinciding with reality; “perceptual error…has a surprising resemblance to veridical perception”- F.A.Olafson
+	- Synonyms
+		- real
+	- Similar to
+		- realistic
+	- Related
+		- reality
+		- realness
+		- realism
+		- reality
+		- realness
+		- realism
+
+- [**veridical** - LookUp](https://learnwithlookup.com/share/index.html?word=veridical&definition=truthful&data=eyJpbWFnZSI6IiIsIndvcmQiOiJ2ZXJpZGljYWwiLCJkZWZpbml0aW9uIjoidHJ1dGhmdWwifQ%3D%3D)
+Adjective
+1.	Formal truthful
+Pilate's attitude to the veridical
+
+Psychology coinciding with reality
+such memories are not necessarily veridical
+# veridical
+
+
+## Adjective
+
+1. coinciding with reality; “perceptual error…has a surprising resemblance to veridical perception”- F.A.Olafson
+	- Synonyms
+		- real
+	- Similar to
+		- realistic
+	- Related
+		- reality
+		- realness
+		- realism
+		- reality
+		- realness
+		- realism
+
+- [**veridical** - LookUp](https://learnwithlookup.com/share/index.html?word=veridical&definition=truthful&data=eyJpbWFnZSI6IiIsIndvcmQiOiJ2ZXJpZGljYWwiLCJkZWZpbml0aW9uIjoidHJ1dGhmdWwifQ%3D%3D)
+Adjective
+1.	Formal truthful
+Pilate's attitude to the veridical
+
+Psychology coinciding with reality
+such memories are not necessarily veridical
 # verisimilitude
 
 
@@ -4681,7 +39411,509 @@ Undercovered is an adjective meaning: less present in popular discourse than is 
 		- colour
 
 
-===
+# verisimilitude
+
+
+## Noun
+
+1. the appearance of truth; the quality of seeming to be true
+	- Less specific
+		- semblance
+		- gloss
+		- color
+		- colour
+
+
+# vesture
+
+
+## Noun
+
+1. something that covers or cloaks like a garment; “fields in a vesture of green”
+	- Less specific
+		- covering
+		- natural covering
+		- cover
+2. a covering designed to be worn on a person’s body
+	- Synonyms
+		- clothing
+		- article of clothing
+		- wear
+		- wearable
+		- habiliment
+	- Less specific
+		- covering
+		- consumer goods
+	- More specific
+		- accessory
+		- accoutrement
+		- accouterment
+		- apparel
+		- wearing apparel
+		- dress
+		- clothes
+		- array
+		- raiment
+		- regalia
+		- attire
+		- garb
+		- dress
+		- beachwear
+		- black
+		- blue
+		- change
+		- civilian clothing
+		- civilian dress
+		- civilian garb
+		- plain clothes
+		- drag
+		- footwear
+		- garment
+		- grey
+		- gray
+		- handwear
+		- hand wear
+		- headdress
+		- headgear
+		- knitwear
+		- leisure wear
+		- loungewear
+		- man's clothing
+		- neckpiece
+		- nightwear
+		- sleepwear
+		- nightclothes
+		- outerwear
+		- overclothes
+		- protective garment
+		- ready-to-wear
+		- slip-on
+		- slops
+		- street clothes
+		- tailor-made
+		- togs
+		- threads
+		- duds
+		- uniform
+		- vestiture
+		- woman's clothing
+		- work-clothing
+		- work-clothes
+		- work clothes
+		- work clothing
+	- Parts
+		- wardrobe
+	- Related
+		- wear
+		- bear
+		- wear
+		- put on
+		- get into
+		- don
+		- assume
+		- wear
+		- have on
+		- vestiary
+		- vest
+		- robe
+		- vesture
+		- dress
+		- clothe
+		- enclothe
+		- garb
+		- raiment
+		- tog
+		- garment
+		- habilitate
+		- fit out
+		- apparel
+
+## Verb
+
+1. provide or cover with a cloak
+	- Less specific
+		- dress
+		- clothe
+		- enclothe
+		- garb
+		- raiment
+		- tog
+		- garment
+		- habilitate
+		- fit out
+		- apparel
+	- Related
+		- clothing
+		- article of clothing
+		- vesture
+		- wear
+		- wearable
+		- habiliment
+
+	
+# vesture
+
+
+## Noun
+
+1. something that covers or cloaks like a garment; “fields in a vesture of green”
+	- Less specific
+		- covering
+		- natural covering
+		- cover
+2. a covering designed to be worn on a person’s body
+	- Synonyms
+		- clothing
+		- article of clothing
+		- wear
+		- wearable
+		- habiliment
+	- Less specific
+		- covering
+		- consumer goods
+	- More specific
+		- accessory
+		- accoutrement
+		- accouterment
+		- apparel
+		- wearing apparel
+		- dress
+		- clothes
+		- array
+		- raiment
+		- regalia
+		- attire
+		- garb
+		- dress
+		- beachwear
+		- black
+		- blue
+		- change
+		- civilian clothing
+		- civilian dress
+		- civilian garb
+		- plain clothes
+		- drag
+		- footwear
+		- garment
+		- grey
+		- gray
+		- handwear
+		- hand wear
+		- headdress
+		- headgear
+		- knitwear
+		- leisure wear
+		- loungewear
+		- man's clothing
+		- neckpiece
+		- nightwear
+		- sleepwear
+		- nightclothes
+		- outerwear
+		- overclothes
+		- protective garment
+		- ready-to-wear
+		- slip-on
+		- slops
+		- street clothes
+		- tailor-made
+		- togs
+		- threads
+		- duds
+		- uniform
+		- vestiture
+		- woman's clothing
+		- work-clothing
+		- work-clothes
+		- work clothes
+		- work clothing
+	- Parts
+		- wardrobe
+	- Related
+		- wear
+		- bear
+		- wear
+		- put on
+		- get into
+		- don
+		- assume
+		- wear
+		- have on
+		- vestiary
+		- vest
+		- robe
+		- vesture
+		- dress
+		- clothe
+		- enclothe
+		- garb
+		- raiment
+		- tog
+		- garment
+		- habilitate
+		- fit out
+		- apparel
+
+## Verb
+
+1. provide or cover with a cloak
+	- Less specific
+		- dress
+		- clothe
+		- enclothe
+		- garb
+		- raiment
+		- tog
+		- garment
+		- habilitate
+		- fit out
+		- apparel
+	- Related
+		- clothing
+		- article of clothing
+		- vesture
+		- wear
+		- wearable
+		- habiliment
+
+	
+# virtue signaling
+
+
+noun derogatory
+the public expression of opinions or sentiments intended to demonstrate one's good character or social conscience or the moral correctness of one's position on a particular issue: it's noticeable how often virtue signaling consists of saying you hate things | standing on the sidelines saying how awful the situation is does nothing except massage your ego by virtue signaling.º
+# virtue signaling
+
+
+noun derogatory
+the public expression of opinions or sentiments intended to demonstrate one's good character or social conscience or the moral correctness of one's position on a particular issue: it's noticeable how often virtue signaling consists of saying you hate things | standing on the sidelines saying how awful the situation is does nothing except massage your ego by virtue signaling.º
+# visage
+
+
+## Noun
+
+1. the human face (`kisser’ and `smiler’ and `mug’ are informal terms for `face’ and `phiz’ is British)
+	- Synonyms
+		- countenance
+		- physiognomy
+		- phiz
+		- kisser
+		- smiler
+		- mug
+	- Less specific
+		- face
+		- human face
+	- More specific
+		- pudding face
+		- pudding-face
+	- Part of
+		- human head
+	- Related
+		- smile
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+2. the appearance conveyed by a person’s face; “a pleasant countenance”; “a stern visage”
+	- Synonyms
+		- countenance
+	- Less specific
+		- appearance
+		- visual aspect
+	- More specific
+		- expression
+		- look
+		- aspect
+		- facial expression
+		- face
+		- poker face
+
+
+# visage
+
+
+## Noun
+
+1. the human face (`kisser’ and `smiler’ and `mug’ are informal terms for `face’ and `phiz’ is British)
+	- Synonyms
+		- countenance
+		- physiognomy
+		- phiz
+		- kisser
+		- smiler
+		- mug
+	- Less specific
+		- face
+		- human face
+	- More specific
+		- pudding face
+		- pudding-face
+	- Part of
+		- human head
+	- Related
+		- smile
+	- Region
+		- United Kingdom
+		- UK
+		- U
+		- Britain
+		- United Kingdom of Great Britain and Northern Ireland
+		- Great Britain
+2. the appearance conveyed by a person’s face; “a pleasant countenance”; “a stern visage”
+	- Synonyms
+		- countenance
+	- Less specific
+		- appearance
+		- visual aspect
+	- More specific
+		- expression
+		- look
+		- aspect
+		- facial expression
+		- face
+		- poker face
+
+
+# vitriol
+
+
+## Noun
+
+1. (H2SO4) a highly corrosive acid made from sulfur dioxide; widely used in the chemical industry
+	- Synonyms
+		- oil of vitriol
+		- sulfuric acid
+		- sulphuric acid
+	- Less specific
+		- acid
+	- More specific
+		- battery acid
+		- electrolyte acid
+	- Contains
+		- sulfur
+		- S
+		- sulphur
+		- atomic number 16
+	- Related
+		- caustic
+		- corrosive
+		- erosive
+		- vitriolic
+		- mordant
+2. abusive or venomous language used to express blame or censure or bitter deep-seated ill will
+	- Synonyms
+		- vituperation
+		- invective
+	- Less specific
+		- abuse
+		- insult
+		- revilement
+		- contumely
+		- vilification
+	- Related
+		- acerb
+		- acerbic
+		- acid
+		- acrid
+		- bitter
+		- blistering
+		- caustic
+		- sulfurous
+		- sulphurous
+		- virulent
+		- vitriolic
+		- vilify
+		- revile
+		- vituperate
+		- rail
+
+## Verb
+
+1. expose to the effects of vitriol or injure with vitriol
+	- Less specific
+		- subject
+2. subject to bitter verbal abuse
+	- Less specific
+		- attack
+		- round
+		- assail
+		- lash out
+		- snipe
+		- assault
+
+
+# vitriol
+
+
+## Noun
+
+1. (H2SO4) a highly corrosive acid made from sulfur dioxide; widely used in the chemical industry
+	- Synonyms
+		- oil of vitriol
+		- sulfuric acid
+		- sulphuric acid
+	- Less specific
+		- acid
+	- More specific
+		- battery acid
+		- electrolyte acid
+	- Contains
+		- sulfur
+		- S
+		- sulphur
+		- atomic number 16
+	- Related
+		- caustic
+		- corrosive
+		- erosive
+		- vitriolic
+		- mordant
+2. abusive or venomous language used to express blame or censure or bitter deep-seated ill will
+	- Synonyms
+		- vituperation
+		- invective
+	- Less specific
+		- abuse
+		- insult
+		- revilement
+		- contumely
+		- vilification
+	- Related
+		- acerb
+		- acerbic
+		- acid
+		- acrid
+		- bitter
+		- blistering
+		- caustic
+		- sulfurous
+		- sulphurous
+		- virulent
+		- vitriolic
+		- vilify
+		- revile
+		- vituperate
+		- rail
+
+## Verb
+
+1. expose to the effects of vitriol or injure with vitriol
+	- Less specific
+		- subject
+2. subject to bitter verbal abuse
+	- Less specific
+		- attack
+		- round
+		- assail
+		- lash out
+		- snipe
+		- assault
+
+
 # Vocabulary
 As of `02022022-113251`.
 - "APRICITY"
@@ -4912,7 +40144,236 @@ As of `02022022-113251`.
 - "abjurer"
 - "abjuration"
 - "abdicate"
-===
+# Vocabulary
+As of `02022022-113251`.
+- "APRICITY"
+- "Antwerp"
+- "anomaly"
+- "anodyne"
+- "analysand"
+- "All Merriam Webster URLS"
+- "agony uncle"
+- "affable"
+- "aesthete"
+- "acrimony"
+- "acephalous"
+- "accede"
+- "power user fallacy"
+- "Word"
+- "valence"
+- "unmet"
+- "unctuous"
+- "typosquatting"
+- "tripartite"
+- "syllabify"
+- "syllabic"
+- "sophomoric"
+- "snilch"
+- "rube"
+- "rowback"
+- "rookery"
+- "repine"
+- "refusenik"
+- "quotidian"
+- "promulgate"
+- "praecognitum"
+- "portmanteau"
+- "portmanteau"
+- "pogram"
+- "plaudit"
+- "perseveration"
+- "peroration"
+- "pernicious"
+- "panopticon"
+- "palliative"
+- "palimpsest"
+- "oviparous"
+- "oviparity"
+- "ossify"
+- "orgiastic"
+- "oeuvre"
+- "nimby"
+- "news hole"
+- "neologism"
+- "naval-gazing"
+- "morkshriek"
+- "microhumor"
+- "metalayer"
+- "makeup"
+- "lachrymose"
+- "jump"
+- "jitterbug"
+- "jink"
+- "jibe"
+- "jeremiad"
+- "je ne sais quoi"
+- "jaggies"
+- "interstitial"
+- "interpunct"
+- "ineludible"
+- "ineluctable"
+- "imbroglio"
+- "hoary"
+- "hegemon"
+- "guttersnipe"
+- "graf"
+- "gewgaw"
+- "get waxed"
+- "flatplan"
+- "flag"
+- "febrile"
+- "fealty"
+- "faineancy"
+- "doily"
+- "divest"
+- "deviant revisionist"
+- "cyberdeck"
+- "cutline"
+- "cude"
+- "crud"
+- "Color Struck"
+- "collogue"
+- "circuitous"
+- "CHÈVRECHOUTISME"
+- "chiaroscuro"
+- "caveat lector"
+- "carceral"
+- "buttonhole"
+- "bumptious"
+- "bricolage"
+- "bowdlerize"
+- "bemoan"
+- "belletrist"
+- "bauble"
+- "banality"
+- "banal"
+- "avuncular"
+- "au courant"
+- "atavism"
+- "asinine"
+- "archon"
+- "APRICITY"
+- "Antwerp"
+- "anomaly"
+- "anodyne"
+- "analysand"
+- "All Merriam Webster URLS"
+- "agony uncle"
+- "affable"
+- "aesthete"
+- "acrimony"
+- "acephalous"
+- "accede"
+- "power user fallacy"
+- "Word"
+- "yashica"
+- "whilom"
+- "vtuber"
+- "vino"
+- "verisimilitude"
+- "venerable"
+- "velleity"
+- "unforced error"
+- "undercovered"
+- "til"
+- "teetotum"
+- "superlative"
+- "squiffy"
+- "spread out"
+- "sigabrt"
+- "sherlocking"
+- "salient"
+- "rumigeration"
+- "rosicler"
+- "rhopographer"
+- "rhombicosidodecahedron"
+- "retardataire"
+- "render"
+- "regicide"
+- "raison d’être"
+- "raison d'être"
+- "quotidian"
+- "provincial"
+- "protean"
+- "propaganda"
+- "productization"
+- "power user fallacy"
+- "plutography"
+- "plughole"
+- "pinocle"
+- "physiognomic"
+- "persona non grata"
+- "perseverate"
+- "patently"
+- "panopticon"
+- "oyakodon"
+- "ostracize"
+- "oleophobic"
+- "obfuscation"
+- "mollify"
+- "lustless"
+- "lithe"
+- "lambda"
+- "isoclinal"
+- "ipso facto"
+- "inanity"
+- "impugn"
+- "hobnobbing"
+- "heliolatry"
+- "grimgribber"
+- "greek alphabet"
+- "gormandize"
+- "gestation"
+- "functionary"
+- "ftp"
+- "forswear"
+- "ethnonationalism"
+- "epistomelohical"
+- "edifying"
+- "diversionary attack"
+- "diversionary"
+- "dinkus"
+- "didactic"
+- "demarcate"
+- "deleterious"
+- "dbi"
+- "covenant"
+- "correspondence"
+- "concordat"
+- "comradeliness"
+- "complaisant"
+- "classificatory"
+- "circumcision"
+- "chum up"
+- "cause du jour"
+- "catharsis"
+- "bricolage"
+- "bilge"
+- "bijou"
+- "belletristic"
+- "bauble"
+- "banal"
+- "avuncular"
+- "automation"
+- "audacity"
+- "au courant"
+- "atavism"
+- "asinine"
+- "antwerp"
+- "anodyne"
+- "analysand"
+- "agony uncle"
+- "affable"
+- "aesthete"
+- "admonishment"
+- "acrimony"
+- "acephalous"
+- "accommodating"
+- "accede"
+- "abstergify"
+- "abjurer"
+- "abjuration"
+- "abdicate"
 # Vocabulary
 As of `03052022-151120`
 
@@ -8819,7 +44280,3912 @@ verisimilitude
 		- color
 		- colour
 
-===
+# Vocabulary
+As of `03052022-151120`
+
+---
+## acrimony
+
+
+### Noun
+
+1. a rough and bitter manner
+	- Synonyms
+		- bitterness
+		- acerbity
+		- jaundice
+		- tartness
+		- thorniness
+	- Less specific
+		- disagreeableness
+	- Related
+		- sharp
+		- sharp-worded
+		- tart
+		- jaundice
+		- acerb
+		- acerbic
+		- acid
+		- acrid
+		- bitter
+		- blistering
+		- caustic
+		- sulfurous
+		- sulphurous
+		- virulent
+		- vitriolic
+		- embitter
+		- envenom
+		- acerbate
+		- acrimonious
+		- bitter
+		- acerb
+		- acerbic
+		- acid
+		- acrid
+		- bitter
+		- blistering
+		- caustic
+		- sulfurous
+		- sulphurous
+		- virulent
+		- vitriolic
+		- acrimonious
+		- bitter
+
+
+---
+## anhedonia
+
+
+### Noun
+
+1. an inability to experience pleasure
+	- Less specific
+		- psychological state
+		- psychological condition
+		- mental state
+		- mental condition
+
+
+---
+## atavism
+
+
+### Noun
+
+1. a reappearance of an earlier characteristic
+	- Synonyms
+		- reversion
+		- throwback
+	- Less specific
+		- recurrence
+		- return
+	- Related
+		- atavist
+		- throwback
+---
+## atrabilious
+
+
+### Adjective
+
+1. irritable as if suffering from indigestion
+	- Synonyms
+		- bilious
+		- dyspeptic
+		- liverish
+	- Similar to
+		- ill-natured
+	- Related
+		- biliousness
+
+
+---
+## automation
+
+### Noun
+
+1. the act of implementing the control of equipment with advanced technology; usually involving electronic hardware; “automation replaces human workers by machines”
+	- Synonyms
+		- mechanization
+		- mechanisation
+	- Less specific
+		- high technology
+		- high tech
+	- More specific
+		- computerization
+		- cybernation
+	- Related
+		- mechanize
+		- mechanise
+		- mechanize
+		- mechanise
+		- automatize
+		- automatise
+		- automate
+2. the condition of being automatically operated or controlled; “automation increases productivity”
+	- Less specific
+		- condition
+		- status
+	- Related
+		- automatize
+		- automatise
+		- automate
+3. equipment used to achieve automatic control or operation; “this factory floor is a showcase for automation and robotic equipment”
+	- Less specific
+		- equipment
+
+
+---
+**BACK LINKS**  
+  
+- [[- Embed <audio> Element: ⇧⌃A]]
+---
+
+---
+## axiomatic
+### Adjective
+
+1. evident without proof or argument; “an axiomatic truth”; “we hold these truths to be self-evident”
+	- Synonyms
+		- self-evident
+		- taken for granted
+	- Similar to
+		- obvious
+	- Related
+		- axiom
+2. containing aphorisms or maxims; “axiomatic wisdom”
+	- Synonyms
+		- aphoristic
+	- Pertains to
+		- maxim
+		- axiom
+	- Related
+		- aphorism
+		- apothegm
+		- apophthegm
+		- maxim
+		- axiom
+3. of or relating to or derived from axioms; “axiomatic physics”; “the postulational method was applied to geometry”- S.S.Stevens
+	- Synonyms
+		- axiomatical
+		- postulational
+	- Pertains to
+		- axiom
+		- axiom
+	- Related
+		- axiom
+		- axiom
+
+---
+## bandylan
+
+
+> Word of the Day: BANDYLAN (n.) an outcast, an unpleasant person shunned by others [19thC dial.]
+
+- [@HaggardHawks](https://twitter.com/HaggardHawks/status/1498553625701859332)
+---
+## bauble
+
+
+### Noun
+
+1. a mock scepter carried by a court jester
+	- Less specific
+		- scepter
+		- sceptre
+		- verge
+		- wand
+2. cheap showy jewelry or ornament on clothing
+	- Synonyms
+		- bangle
+		- gaud
+		- gewgaw
+		- novelty
+		- fallal
+		- trinket
+	- Less specific
+		- adornment
+	- Member of
+		- trinketry
+	- Related
+		- brassy
+		- cheap
+		- flash
+		- flashy
+		- garish
+		- gaudy
+		- gimcrack
+		- loud
+		- meretricious
+		- tacky
+		- tatty
+		- tawdry
+		- trashy
+
+
+---
+## bevy
+
+
+### Noun
+
+1. a large gathering of people of a particular type; “he was surrounded by a bevy of beauties in bathing attire”; “a bevy of young beach boys swarmed around him”
+	- Less specific
+		- gathering
+		- assemblage
+2. a flock of birds (especially when gathered close together on the ground); “we were visited at breakfast by a bevy of excited ducks”
+	- Less specific
+		- flock
+	- Members
+		- quail
+
+
+---
+## bitch
+
+
+### Noun
+
+1. an unpleasant difficulty; “this problem is a real bitch”
+	- Less specific
+		- difficulty
+2. a person (usually but not necessarily a woman) who is thoroughly disliked; “she said her son thought Hillary was a bitch”
+	- Synonyms
+		- cunt
+	- Less specific
+		- unpleasant person
+		- disagreeable person
+3. informal terms for objecting; “I have a gripe about the service here”
+	- Synonyms
+		- gripe
+		- kick
+		- beef
+		- squawk
+	- Less specific
+		- objection
+	- Related
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- bitchy
+		- catty
+		- cattish
+		- backbite
+		- bitch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+		- gripe
+		- bitch
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+4. female of any member of the dog family
+	- Less specific
+		- canine
+		- canid
+	- More specific
+		- brood bitch
+
+### Verb
+
+1. complain; “What was he hollering about?”
+	- Synonyms
+		- gripe
+		- grouse
+		- crab
+		- beef
+		- squawk
+		- bellyache
+		- holler
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- whiner
+		- complainer
+		- moaner
+		- sniveller
+		- crybaby
+		- bellyacher
+		- grumbler
+		- squawker
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- crab
+		- crabby person
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+2. say mean things
+	- Synonyms
+		- backbite
+	- Less specific
+		- complain
+		- kick
+		- plain
+		- sound off
+		- quetch
+		- kvetch
+	- Related
+		- gripe
+		- kick
+		- beef
+		- bitch
+		- squawk
+		- bitchery
+		- defamer
+		- maligner
+		- slanderer
+		- vilifier
+		- libeler
+		- backbiter
+		- traducer
+
+---
+## boolean
+
+
+### Adjective
+
+1. of or relating to a combinatorial system devised by George Boole that combines propositions with the logical operators AND and OR and IF THEN and EXCEPT and NOT
+	- Pertains to
+		- Boole
+		- George Boole
+	- Related
+		- Boole
+		- George Boole
+
+
+---
+## bout
+
+
+### Noun
+
+1. (sports) a division during which one team is on the offensive
+	- Synonyms
+		- turn
+		- round
+	- Less specific
+		- part
+		- section
+		- division
+	- More specific
+		- top
+		- top of the inning
+		- bottom
+		- bottom of the inning
+	- Part of
+		- playing period
+		- period of play
+		- play
+	- Topic Members
+		- sport
+		- athletics
+2. a period of illness; “a bout of fever”; “a bout of depression”
+	- Less specific
+		- time period
+		- period of time
+		- period
+3. a contest or fight (especially between boxers or wrestlers)
+	- Less specific
+		- contest
+		- competition
+4. an occasion for excessive eating or drinking; “they went on a bust that lasted three days”
+	- Synonyms
+		- bust
+		- tear
+		- binge
+	- Less specific
+		- revel
+		- revelry
+	- More specific
+		- piss-up
+	- Related
+		- gorge
+		- ingurgitate
+		- overindulge
+		- glut
+		- englut
+		- stuff
+		- engorge
+		- overgorge
+		- overeat
+		- gormandize
+		- gormandise
+		- gourmandize
+		- binge
+		- pig out
+		- satiate
+		- scarf out
+
+
+---
+## bowdlerizer
+
+
+### Noun
+
+1. a person who edits a text by removing obscene or offensive words or passages; “Thomas Bowdler was a famous expurgator”
+	- Synonyms
+		- expurgator
+		- bowdleriser
+	- Less specific
+		- editor
+		- editor in chief
+	- Related
+		- bowdlerize
+		- bowdlerise
+		- expurgate
+		- castrate
+		- shorten
+		- bowdlerize
+		- bowdlerise
+		- expurgate
+		- castrate
+		- shorten
+		- bowdlerize
+		- bowdlerise
+		- expurgate
+		- castrate
+		- shorten
+
+
+---
+## bugaboo
+
+
+### Noun
+
+1. an imaginary monster used to frighten children
+	- Synonyms
+		- bogeyman
+		- bugbear
+		- boogeyman
+		- booger
+	- Less specific
+		- monster
+2. a source of concern; “the old bugaboo of inflation still bothers them”
+	- Less specific
+		- concern
+		- worry
+		- headache
+		- vexation
+
+
+---
+## capitulate
+
+
+### Verb
+
+1. surrender under agreed conditions
+	- Less specific
+		- surrender
+		- give up
+	- Related
+		- capitulation
+		- fall
+		- surrender
+
+
+---
+## classificatory
+
+
+### Adjective
+
+1. relating to or involving classification; “classificatory criteria”
+	- Pertains to
+		- categorization
+		- categorisation
+		- classification
+		- compartmentalization
+		- compartmentalisation
+		- assortment
+	- Related
+		- relegate
+		- classify
+		- classify
+		- class
+		- sort
+		- assort
+		- sort out
+		- separate
+
+
+---
+## collocation
+
+
+### Noun
+
+1. a grouping of words in a sentence
+	- Less specific
+		- language unit
+		- linguistic unit
+2. the act of positioning close together (or side by side); “it is the result of the juxtaposition of contrasting colors”
+	- Synonyms
+		- juxtaposition
+		- apposition
+	- Less specific
+		- placement
+		- location
+		- locating
+		- position
+		- positioning
+		- emplacement
+	- More specific
+		- tessellation
+	- Related
+		- collocate
+		- lump
+		- chunk
+		- appose
+		- juxtapose
+
+
+---
+## concatenate
+
+
+### Verb
+
+1. combine two strings to form a single one
+	- Less specific
+		- chain
+	- Related
+		- concatenation
+	- Topic Members
+		- computer science
+		- computing
+2. add by linking or joining so as to form a chain or series; “concatenate terms”; “concatenate characters”
+	- Less specific
+		- add
+	- Related
+		- concatenation
+
+
+---
+## crimp
+
+
+### Noun
+
+1. an angular or rounded shape made by folding; “a fold in the napkin”; “a crease in his trousers”; “a plication on her blouse”; “a flexure of the colon”; “a bend of his elbow”
+	- Synonyms
+		- fold
+		- crease
+		- plication
+		- flexure
+		- bend
+	- Less specific
+		- angular shape
+		- angularity
+	- More specific
+		- pleat
+		- plait
+		- kink
+		- twist
+		- twirl
+		- pucker
+		- ruck
+	- Related
+		- bend
+		- flex
+		- flex
+		- bend
+		- deform
+		- twist
+		- turn
+		- crimp
+		- pinch
+		- bend
+		- flex
+		- pleat
+		- plicate
+		- fold
+		- fold up
+		- turn up
+2. someone who tricks or coerces men into service as sailors or soldiers
+	- Synonyms
+		- crimper
+	- Less specific
+		- kidnapper
+		- kidnaper
+		- abductor
+		- snatcher
+3. a lock of hair that has been artificially waved or curled
+	- Less specific
+		- lock
+		- curl
+		- ringlet
+		- whorl
+	- More specific
+		- pin curl
+		- spit curl
+		- kiss curl
+	- Related
+		- crimp
+		- crape
+		- frizzle
+		- frizz
+		- kink up
+		- kink
+
+### Verb
+
+1. make ridges into by pinching together
+	- Synonyms
+		- pinch
+	- Less specific
+		- fold
+		- fold up
+		- turn up
+	- More specific
+		- flute
+	- Related
+		- pinch
+		- tweak
+		- fold
+		- crease
+		- plication
+		- flexure
+		- crimp
+		- bend
+2. curl tightly; “crimp hair”
+	- Synonyms
+		- crape
+		- frizzle
+		- frizz
+		- kink up
+		- kink
+	- Less specific
+		- curl
+		- wave
+	- Related
+		- kink
+		- twist
+		- twirl
+		- crimp
+
+
+---
+## dereliction
+
+
+### Noun
+
+1. a tendency to be negligent and uncaring; “he inherited his delinquency from his father”; “his derelictions were not really intended as crimes”; “his adolescent protest consisted of willful neglect of all his responsibilities”
+	- Synonyms
+		- delinquency
+		- willful neglect
+	- Less specific
+		- negligence
+		- neglect
+		- neglectfulness
+	- Related
+		- delinquent
+2. willful negligence
+	- Less specific
+		- negligence
+		- carelessness
+		- neglect
+		- nonperformance
+		- wrongdoing
+		- wrongful conduct
+		- misconduct
+		- actus reus
+	- More specific
+		- nonfeasance
+
+
+---
+## dinkus
+
+
+> In typography, a dinkus is a typographic symbol which often consists of three spaced asterisks in a horizontal row, i.e.   ∗ ∗ ∗  . The symbol has a variety of uses, and it usually denotes an intentional omission or a logical "break" of varying degree in a written work. This latter use is similar to a subsection, and it indicates to the reader that the subsequent text should be re-contextualized. When used this way, the dinkus typically appears centrally aligned on a line of its own with vertical spacing before and after the symbol. The dinkus has been in use in various forms since c. 1850. Historically, the dinkus was often represented as an asterism, ⁂, though this use has fallen out of favor and is now nearly obsolete.
+
+-[Dinkus - Wikipedia](https://en.wikipedia.org/wiki/Dinkus)
+---
+## disruption
+
+
+### Noun
+
+1. an act of delaying or interrupting the continuity; “it was presented without commercial breaks”; “there was a gap in his account”
+	- Synonyms
+		- break
+		- interruption
+		- gap
+	- Less specific
+		- delay
+		- holdup
+	- More specific
+		- cut-in
+		- insert
+		- cut-in
+		- insert
+		- interjection
+		- interposition
+		- interpolation
+		- interpellation
+		- breaking off
+		- abruption
+		- heckling
+		- barracking
+	- Related
+		- interrupt
+		- disrupt
+		- break up
+		- cut off
+		- interrupt
+		- disrupt
+		- interrupt
+		- disrupt
+		- break up
+		- cut off
+		- interrupt
+		- disrupt
+2. a disorderly outburst or tumult; “they were amazed by the furious disturbance they had caused”
+	- Synonyms
+		- disturbance
+		- commotion
+		- flutter
+		- hurly burly
+		- to-do
+		- hoo-ha
+		- hoo-hah
+		- kerfuffle
+	- Less specific
+		- disorder
+	- More specific
+		- convulsion
+		- turmoil
+		- upheaval
+		- earthquake
+		- incident
+		- stir
+		- splash
+		- storm
+		- tempest
+		- storm center
+		- storm centre
+		- tumult
+		- tumultuousness
+		- uproar
+		- garboil
+3. an event that results in a displacement or discontinuity
+	- Synonyms
+		- dislocation
+	- Less specific
+		- interruption
+		- break
+	- Related
+		- dislocate
+		- dislocate
+		- luxate
+		- splay
+		- slip
+4. the act of causing disorder
+	- Synonyms
+		- perturbation
+	- Less specific
+		- disturbance
+	- More specific
+		- dislocation
+		- breakdown
+		- surprise
+		- surprisal
+	- Related
+		- perturb
+		- perturb
+		- derange
+		- throw out of kilter
+		- disrupt
+
+
+---
+## dubitable
+
+
+### Adjective
+
+1. open to doubt or suspicion; “the candidate’s doubtful past”; “he has a dubious record indeed”; “what one found uncertain the other found dubious or downright false”; “it was more than dubitable whether the friend was as influential as she thought”- Karen Horney
+	- Synonyms
+		- doubtful
+		- dubious
+		- in question
+	- Similar to
+		- questionable
+	- Related
+		- doubt
+		- dubiousness
+		- doubtfulness
+		- question
+		- doubt
+		- dubiousness
+		- doubtfulness
+		- question
+
+---
+## ensconce
+
+
+### Verb
+
+1. fix firmly; “He ensconced himself in the chair”
+	- Synonyms
+		- settle
+	- Less specific
+		- put
+		- set
+		- place
+		- pose
+		- position
+		- lay
+
+
+---
+## erudite
+
+
+### Adjective
+
+1. having or showing profound knowledge; “a learned jurist”; “an erudite professor”
+	- Synonyms
+		- learned
+	- Similar to
+		- scholarly
+	- Related
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+		- eruditeness
+		- erudition
+		- learnedness
+		- learning
+		- scholarship
+		- encyclopedism
+		- encyclopaedism
+
+
+---
+## exigent
+
+
+### Adjective
+
+1. demanding attention; “clamant needs”; “a crying need”; “regarded literary questions as exigent and momentous”- H.L.Mencken; “insistent hunger”; “an instant need”
+	- Synonyms
+		- clamant
+		- crying
+		- insistent
+		- instant
+	- Similar to
+		- imperative
+	- Related
+		- imperativeness
+		- instancy
+		- imperativeness
+		- insistence
+		- insistency
+		- press
+		- pressure
+		- exigency
+		- emergency
+		- exigency
+		- pinch
+2. requiring precise accuracy; “an exacting job”; “became more exigent over his pronunciation”
+	- Synonyms
+		- exacting
+	- Similar to
+		- demanding
+
+
+---
+## explicate
+
+
+### Verb
+
+1. make plain and comprehensible; “He explained the laws of physics to his students”
+	- Synonyms
+		- explain
+	- Less specific
+		- inform
+	- More specific
+		- rede
+		- interpret
+		- account for
+		- naturalize
+		- clarify
+		- clear up
+		- elucidate
+		- comment
+	- Related
+		- explication
+		- explication
+		- explanatory
+		- explanation
+2. elaborate, as of theories and hypotheses; “Could you develop the ideas in your thesis”
+	- Synonyms
+		- formulate
+		- develop
+	- Less specific
+		- speculate
+		- theorize
+		- theorise
+		- conjecture
+		- hypothesize
+		- hypothesise
+		- hypothecate
+		- suppose
+	- More specific
+		- mature
+		- redevelop
+		- reformulate
+	- Related
+		- conceptualization
+		- conceptualisation
+		- formulation
+		- explication
+
+
+---
+## expression
+
+
+### Noun
+
+1. the feelings expressed on a person’s face; “a sad expression”; “a look of triumph”; “an angry face”
+	- Synonyms
+		- look
+		- aspect
+		- facial expression
+		- face
+	- Less specific
+		- countenance
+		- visage
+	- More specific
+		- leer
+		- sparkle
+		- twinkle
+		- spark
+		- light
+	- Related
+		- look
+		- appear
+		- seem
+		- look
+		- look
+2. expression without words; “tears are an expression of grief”; “the pulse is a reflection of the heart’s condition”
+	- Synonyms
+		- manifestation
+		- reflection
+		- reflexion
+	- Less specific
+		- demonstration
+		- demo
+	- More specific
+		- lamentation
+		- mourning
+		- act
+		- effusion
+		- gush
+		- outburst
+		- blowup
+		- ebullition
+	- Related
+		- attest
+		- certify
+		- manifest
+		- demonstrate
+		- evidence
+3. the communication (in speech or writing) of your beliefs or opinions; “expressions of good will”; “he helped me find verbal expression for my ideas”; “the idea was immediate but the verbalism took hours”
+	- Synonyms
+		- verbal expression
+		- verbalism
+	- Less specific
+		- communication
+		- communicating
+	- More specific
+		- articulation
+		- voice
+		- cold turkey
+		- congratulation
+		- felicitation
+	- Related
+		- express
+		- verbalize
+		- verbalise
+		- utter
+		- give tongue to
+4. a word or phrase that particular people use in particular situations; “pardon the expression”
+	- Synonyms
+		- saying
+		- locution
+	- Less specific
+		- speech
+		- speech communication
+		- spoken communication
+		- spoken language
+		- language
+		- voice communication
+		- oral communication
+	- More specific
+		- Beatitude
+		- logion
+		- calque
+		- calque formation
+		- loan translation
+		- advice and consent
+		- ambiguity
+		- euphemism
+		- dysphemism
+		- shucks
+		- tongue twister
+		- anatomical reference
+		- anatomical
+		- southernism
+		- motto
+		- slogan
+		- catchword
+		- shibboleth
+		- maxim
+		- axiom
+		- epigram
+		- quip
+		- proverb
+		- adage
+		- saw
+		- byword
+		- idiom
+		- idiomatic expression
+		- phrasal idiom
+		- set phrase
+		- phrase
+		- agrapha
+		- sumpsimus
+	- Related
+		- say
+5. the style of expressing yourself; “he suggested a better formulation”; “his manner of expression showed how much he cared”
+	- Synonyms
+		- formulation
+	- Less specific
+		- expressive style
+		- style
+	- More specific
+		- sentimentalism
+		- honorific
+		- archaism
+		- archaicism
+		- boilerplate
+		- colloquialism
+		- parlance
+		- idiom
+		- Americanism
+		- Anglicism
+		- Briticism
+		- Britishism
+		- wording
+		- diction
+		- phrasing
+		- phraseology
+		- choice of words
+		- verbiage
+	- Related
+		- give voice
+		- formulate
+		- word
+		- phrase
+		- articulate
+6. a group of symbols that make a mathematical statement
+	- Synonyms
+		- formula
+	- Less specific
+		- mathematical statement
+	- More specific
+		- sentential function
+		- primitive
+		- exponential expression
+	- Related
+		- formularize
+		- formularise
+	- Topic Members
+		- mathematics
+		- math
+		- maths
+7. (genetics) the process of expressing a gene
+	- Less specific
+		- organic process
+		- biological process
+	- Related
+		- express
+	- Topic Members
+		- genetics
+		- genetic science
+8. a group of words that form a constituent of a sentence and are considered as a single unit; “I concluded from his awkward constructions that he was a foreigner”
+	- Synonyms
+		- construction
+		- grammatical construction
+	- Antonyms
+		- misconstruction
+	- Less specific
+		- constituent
+		- grammatical constituent
+	- More specific
+		- adjunct
+		- clause
+		- complement
+		- involution
+		- phrase
+		- predicator
+9. the act of forcing something out by squeezing or pressing; “the expression of milk from her breast”
+	- Less specific
+		- squeeze
+		- squeezing
+	- Related
+		- press out
+		- express
+		- extract
+
+
+---
+## expurgate
+
+
+### Verb
+
+1. edit by omitting or modifying parts considered indelicate; “bowdlerize a novel”
+	- Synonyms
+		- bowdlerize
+		- bowdlerise
+		- castrate
+		- shorten
+	- Less specific
+		- abridge
+		- foreshorten
+		- abbreviate
+		- shorten
+		- cut
+		- contract
+		- reduce
+	- Related
+		- expurgation
+		- castration
+		- expurgation
+		- castration
+		- expurgator
+		- bowdlerizer
+		- bowdleriser
+		- bowdlerization
+		- bowdlerisation
+		- bowdlerization
+		- bowdlerisation
+		- Bowdler
+		- Thomas Bowdler
+		- expurgator
+		- bowdlerizer
+		- bowdleriser
+		- bowdlerization
+		- bowdlerisation
+		- bowdlerization
+		- bowdlerisation
+		- expurgator
+		- bowdlerizer
+		- bowdleriser
+
+
+---
+## farad
+
+
+### Noun
+
+1. the capacitance of a capacitor that has an equal and opposite charge of 1 coulomb on each plate and a voltage difference of 1 volt between the plates
+	- Synonyms
+		- F
+	- Less specific
+		- capacitance unit
+	- Parts
+		- millifarad
+	- Part of
+		- abfarad
+
+
+---
+## faux pas
+
+
+### Noun
+
+1. a socially awkward or tactless act
+	- Synonyms
+		- gaffe
+		- solecism
+		- slip
+		- gaucherie
+	- Less specific
+		- blunder
+		- blooper
+		- bloomer
+		- bungle
+		- pratfall
+		- foul-up
+		- fuckup
+		- flub
+		- botch
+		- boner
+		- boo-boo
+
+
+---
+## foppish
+
+
+### Adjective
+
+1. affecting extreme elegance in dress and manner
+	- Synonyms
+		- dandified
+		- dandyish
+	- Similar to
+		- elegant
+	- Related
+		- foppishness
+		- dandyism
+
+
+---
+## foregleam
+
+
+a hint or glimpse of the future.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1498606884818931718)
+---
+## forelooker
+
+
+A FORELOOKER is someone who thinks about or is concerned for the future.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1500166721990242308)
+---
+## glisk
+
+
+A GLISK is a glimpse of warm sunshine. [HaggardHawks](https://twitter.com/HaggardHawks/status/1495736768221614084)
+---
+## Greek
+- Alpha
+- Beta
+- Gamma
+- Delta
+- Epsilon
+- Zeta
+- Eta
+- Theta
+- Iota
+- Kappa
+- Lambda
+- Mu
+- Nu
+- Xi
+- Omicron
+- Pi
+- Rho
+- Sigma
+- Tau
+- Upsilon
+- Phi
+- Chi
+- Psi
+- Omega
+---
+## grubby
+
+
+### Noun
+
+1. small sculpin of the coast of New England
+	- Synonyms
+		- Myxocephalus aenaeus
+	- Less specific
+		- sculpin
+	- Member of
+		- Myxocephalus
+		- genus Myxocephalus
+
+### Adjective
+
+1. infested with grubs
+	- Pertains to
+		- grub
+	- Related
+		- grub
+2. thickly covered with ingrained dirt or soot; “a miner’s begrimed face”; “dingy linen”; “grimy hands”; “grubby little fingers”; “a grungy kitchen”
+	- Synonyms
+		- begrimed
+		- dingy
+		- grimy
+		- grungy
+		- raunchy
+	- Similar to
+		- dirty
+		- soiled
+		- unclean
+	- Related
+		- dirt
+		- filth
+		- grime
+		- soil
+		- stain
+		- grease
+		- grunge
+		- griminess
+		- grubbiness
+		- dirt
+		- filth
+		- grime
+		- soil
+		- stain
+		- grease
+		- grunge
+		- griminess
+		- grubbiness
+		- dinginess
+		- dinge
+		- dinginess
+		- dinge
+
+
+---
+## henceforward
+
+
+### Adverb
+
+1. from this time forth; from now on; “henceforth she will be known as Mrs. Smith”
+	- Synonyms
+		- henceforth
+
+
+---
+## hew
+
+
+### Verb
+
+1. make or shape as with an axe; “hew out a path in the rock”
+	- Synonyms
+		- hew out
+	- Less specific
+		- carve
+	- More specific
+		- rough-hew
+		- roughcast
+	- Related
+		- hewer
+2. strike with an axe; cut down, strike; “hew an oak”
+	- Less specific
+		- strike
+	- More specific
+		- snag
+	- See also
+		- hew
+		- hew out
+	- Related
+		- hewer
+
+
+---
+## homunculus
+
+
+### Noun
+
+1. a person who is very small but who is not otherwise deformed or abnormal
+	- Synonyms
+		- manikin
+		- mannikin
+	- Less specific
+		- small person
+2. a tiny fully formed individual that (according to the discredited theory of preformation) is supposed to be present in the sperm cell
+	- Less specific
+		- person
+		- individual
+		- someone
+		- somebody
+		- mortal
+		- soul
+
+[homunculus](drafts://open?uuid=BF3AB34D-9CC5-40B9-819D-31974293D7A7)
+---
+## idiom
+
+
+### Noun
+
+1. a manner of speaking that is natural to native speakers of a language
+	- Synonyms
+		- parlance
+	- Less specific
+		- formulation
+		- expression
+	- Related
+		- idiomatic
+		- idiomatical
+		- idiomatic
+		- idiomatical
+2. the usage or vocabulary that is characteristic of a specific group of people; “the immigrants spoke an odd dialect of English”; “he has a strong German accent”; “it has been said that a language is a dialect with an army and navy”
+	- Synonyms
+		- dialect
+		- accent
+	- Less specific
+		- non-standard speech
+	- More specific
+		- eye dialect
+		- patois
+	- Related
+		- stress
+		- accent
+		- accentuate
+		- dialectal
+3. the style of a particular artist or school or movement; “an imaginative orchestral idiom”
+	- Synonyms
+		- artistic style
+	- Less specific
+		- manner
+		- mode
+		- style
+		- way
+		- fashion
+	- More specific
+		- baroque
+		- baroqueness
+		- classical style
+		- order
+		- rococo
+		- High Renaissance
+		- treatment
+		- neoclassicism
+		- classicism
+		- classicalism
+		- Romanticism
+		- Romantic Movement
+4. an expression whose meanings cannot be inferred from the meanings of the words that make it up
+	- Synonyms
+		- idiomatic expression
+		- phrasal idiom
+		- set phrase
+		- phrase
+	- Less specific
+		- saying
+		- expression
+		- locution
+	- More specific
+		- ruralism
+		- rusticism
+	- Related
+		- phrasal
+		- give voice
+		- formulate
+		- word
+		- phrase
+		- articulate
+		- idiomatic
+		- idiomatical
+
+
+---
+## idiomatic
+
+
+### Adjective
+
+1. of or relating to or conforming to idiom; “idiomatic English”
+	- Synonyms
+		- idiomatical
+	- Pertains to
+		- parlance
+		- idiom
+		- parlance
+		- idiom
+	- Related
+		- parlance
+		- idiom
+		- parlance
+		- idiom
+		- idiom
+		- idiomatic expression
+		- phrasal idiom
+		- set phrase
+		- phrase
+
+
+---
+## impecunious
+
+
+### Adjective
+
+1. not having enough money to pay for necessities
+	- Synonyms
+		- hard up
+		- in straitened circumstances
+		- penniless
+		- penurious
+		- pinched
+	- Similar to
+		- poor
+	- Related
+		- indigence
+		- need
+		- penury
+		- pauperism
+		- pauperization
+		- impecuniousness
+		- pennilessness
+		- penuriousness
+		- impecuniousness
+		- pennilessness
+		- penuriousness
+		- impecuniousness
+		- pennilessness
+		- penuriousness
+
+
+---
+## inexorable
+### Adjective
+
+1. not to be placated or appeased or moved by entreaty; “grim determination”; “grim necessity”; “Russia’s final hour, it seemed, approached with inexorable certainty”; “relentless persecution”; “the stern demands of parenthood”
+	- Synonyms
+		- grim
+		- relentless
+		- stern
+		- unappeasable
+		- unforgiving
+		- unrelenting
+	- Similar to
+		- implacable
+	- Related
+		- sternness
+		- strictness
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- asperity
+		- grimness
+		- hardship
+		- rigor
+		- rigour
+		- severity
+		- severeness
+		- rigorousness
+		- rigourousness
+2. impervious to pleas, persuasion, requests, reason; “he is adamant in his refusal to change his mind”; “Cynthia was inexorable; she would have none of him”- W.Churchill; “an intransigent conservative opposed to every liberal tendency”
+	- Synonyms
+		- adamant
+		- adamantine
+		- intransigent
+	- Similar to
+		- inflexible
+	- Related
+		- intransigency
+		- intransigence
+		- intransigency
+		- intransigence
+		- relentlessness
+		- inexorability
+		- inexorableness
+		- adamance
+		- obduracy
+		- unyieldingness
+
+
+---
+## injuredly
+
+
+[@breadotop on Twitter](https://twitter.com/breadotop/status/1498369261261053952)
+---
+## languor
+
+
+### Noun
+
+1. a relaxed comfortable feeling
+	- Synonyms
+		- dreaminess
+	- Less specific
+		- easiness
+		- relaxation
+	- Related
+		- dreamy
+		- lackadaisical
+		- languid
+		- languorous
+		- dreamy
+		- moony
+		- woolgathering
+2. oppressively still air; “the afternoon was hot, quiet, and heavy with languor”; “Summer shows all the languor of a hot, breezeless day as the dancer lazily brushes her hand over her brow”
+	- Less specific
+		- wind
+		- air current
+		- current of air
+3. a feeling of lack of interest or energy
+	- Synonyms
+		- lassitude
+		- listlessness
+	- Less specific
+		- apathy
+	- Related
+		- dispirited
+		- listless
+		- listless
+4. inactivity; showing an unusual lack of energy; “the general appearance of sluggishness alarmed his friends”
+	- Synonyms
+		- lethargy
+		- sluggishness
+		- phlegm
+		- flatness
+	- Less specific
+		- inactiveness
+		- inactivity
+		- inertia
+	- Related
+		- phlegmatic
+		- phlegmatical
+		- phlegmatic
+		- phlegmatical
+		- inert
+		- sluggish
+		- soggy
+		- torpid
+		- lethargic
+		- unenergetic
+		- dreamy
+		- lackadaisical
+		- languid
+		- languorous
+
+
+---
+## lapse
+
+
+### Noun
+
+1. a mistake resulting from inattention
+	- Synonyms
+		- oversight
+	- Less specific
+		- mistake
+		- error
+		- fault
+2. a break or intermission in the occurrence of something; “a lapse of three weeks between letters”
+	- Less specific
+		- pause
+		- intermission
+		- break
+		- interruption
+		- suspension
+	- Related
+		- elapse
+		- lapse
+		- pass
+		- slip by
+		- glide by
+		- slip away
+		- go by
+		- slide by
+		- go along
+		- lapse
+		- lapse
+3. a failure to maintain a higher state
+	- Synonyms
+		- backsliding
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+	- Less specific
+		- failure
+	- More specific
+		- recidivism
+	- Related
+		- revert
+		- return
+		- retrovert
+		- regress
+		- turn back
+		- relapse
+		- lapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+		- relapse
+		- lapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+		- get worse
+		- relapse
+		- relapse
+		- lapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+		- lapse
+		- backslide
+
+### Verb
+
+1. pass into a specified state or condition; “He sank into nirvana”
+	- Synonyms
+		- sink
+		- pass
+	- Less specific
+		- move
+	- Related
+		- passage
+		- transition
+2. end, at least for a long time; “The correspondence lapsed”
+	- Less specific
+		- end
+		- stop
+		- finish
+		- terminate
+		- cease
+	- Related
+		- lapse
+3. drop to a lower level, as in one’s morals or standards
+	- Synonyms
+		- backslide
+	- Less specific
+		- slip
+		- drop off
+		- drop away
+		- fall away
+	- Related
+		- recidivist
+		- backslider
+		- reversionist
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+4. go back to bad behavior; “Those who recidivate are often minor criminals”
+	- Synonyms
+		- relapse
+		- recidivate
+		- regress
+		- retrogress
+		- fall back
+	- Less specific
+		- revert
+		- return
+		- retrovert
+		- regress
+		- turn back
+	- Related
+		- recidivism
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+		- backsliding
+		- lapse
+		- lapsing
+		- relapse
+		- relapsing
+		- reversion
+		- reverting
+5. let slip; “He lapsed his membership”
+	- Less specific
+		- forfeit
+		- give up
+		- throw overboard
+		- waive
+		- forgo
+		- forego
+	- Related
+		- lapse
+6. pass by; “three years elapsed”
+	- Synonyms
+		- elapse
+		- pass
+		- slip by
+		- glide by
+		- slip away
+		- go by
+		- slide by
+		- go along
+	- Less specific
+		- advance
+		- progress
+		- pass on
+		- move on
+		- march on
+		- go on
+	- More specific
+		- fly
+		- fell
+		- vanish
+	- Related
+		- lapse
+
+
+---
+## lucre
+
+
+### Noun
+
+1. informal terms for money
+	- Synonyms
+		- boodle
+		- bread
+		- cabbage
+		- clams
+		- dinero
+		- dough
+		- gelt
+		- kale
+		- lettuce
+		- lolly
+		- loot
+		- moolah
+		- pelf
+		- scratch
+		- shekels
+		- simoleons
+		- sugar
+		- wampum
+	- Less specific
+		- money
+	- Related
+		- pilfer
+		- cabbage
+		- purloin
+		- pinch
+		- abstract
+		- snarf
+		- swipe
+		- hook
+		- sneak
+		- filch
+		- nobble
+		- lift
+2. the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
+	- Synonyms
+		- net income
+		- net
+		- net profit
+		- profit
+		- profits
+		- earnings
+	- Less specific
+		- income
+	- More specific
+		- earning per share
+		- windfall profit
+		- killing
+		- cleanup
+		- fast buck
+		- quick buck
+		- filthy lucre
+		- gross profit
+		- gross profit margin
+		- margin
+		- markup
+		- accumulation
+		- dividend
+	- Parts
+		- share
+		- portion
+		- part
+		- percentage
+	- Related
+		- profiteer
+		- profit
+		- turn a profit
+		- net
+		- clear
+
+
+---
+## macro
+
+
+### Noun
+
+1. a single computer instruction that results in a series of instructions in machine language
+	- Synonyms
+		- macro instruction
+	- Less specific
+		- instruction
+		- command
+		- statement
+		- program line
+
+### Adjective
+
+1. very large in scale or scope or capability
+	- Similar to
+		- large
+		- big
+
+
+---
+## marginalia
+
+
+### Noun
+
+1. notes written in the margin
+	- Less specific
+		- note
+	- More specific
+		- scholium
+		- scholia
+
+
+---
+## miasma
+
+
+### Noun
+
+1. an unwholesome atmosphere; “the novel spun a miasma of death and decay”
+	- Synonyms
+		- miasm
+	- Less specific
+		- atmosphere
+		- ambiance
+		- ambience
+	- Related
+		- miasmic
+		- mephitic
+2. unhealthy vapors rising from the ground or other sources; “the miasma of the marshes”; “a miasma of cigar smoke”
+	- Synonyms
+		- miasm
+	- Less specific
+		- air pollution
+	- Related
+		- miasmal
+		- miasmic
+		- vaporous
+		- vapourous
+		- miasmal
+		- miasmic
+		- vaporous
+		- vapourous
+
+
+---
+## missive
+
+
+### Noun
+
+1. a written message addressed to a person or organization; “mailed an indignant letter to the editor”
+	- Synonyms
+		- letter
+	- Less specific
+		- text
+		- textual matter
+		- document
+	- More specific
+		- business letter
+		- covering letter
+		- cover letter
+		- crank letter
+		- encyclical
+		- encyclical letter
+		- fan letter
+		- personal letter
+		- form letter
+		- open letter
+		- chain letter
+		- pastoral
+		- round robin
+		- airmail letter
+		- air letter
+		- aerogram
+		- aerogramme
+		- epistle
+		- dead letter
+		- dead mail
+		- letter of intent
+		- invitation
+	- Parts
+		- postscript
+		- PS
+		- address
+		- destination
+		- name and address
+		- line
+	- Part of
+		- correspondence
+		- mail
+
+
+---
+## oleophilic
+
+
+### Adjective
+
+1. having a strong affinity for oils rather than water
+	- Antonyms
+		- oleophobic
+	- Similar to
+		- lipophilic
+		- lipotropic
+	- Topic Members
+		- chemistry
+		- chemical science
+
+
+---
+## parlance
+
+
+### Noun
+
+1. a manner of speaking that is natural to native speakers of a language
+	- Synonyms
+		- idiom
+	- Less specific
+		- formulation
+		- expression
+	- Related
+		- idiomatic
+		- idiomatical
+		- idiomatic
+		- idiomatical
+
+
+---
+## parlous
+
+
+### Adjective
+
+1. fraught with danger; “dangerous waters”; “a parlous journey on stormy seas”; “a perilous voyage across the Atlantic in a small boat”; “the precarious life of an undersea diver”; “dangerous surgery followed by a touch-and-go recovery”
+	- Synonyms
+		- perilous
+		- precarious
+		- touch-and-go
+	- Similar to
+		- dangerous
+		- unsafe
+	- Related
+		- precariousness
+		- riskiness
+		- peril
+		- hazard
+		- jeopardy
+		- peril
+		- risk
+		- endangerment
+		- risk
+		- peril
+		- danger
+		- hazardousness
+		- perilousness
+
+
+---
+## patois
+
+
+### Noun
+
+1. a characteristic language of a particular group (as among thieves); “they don’t speak our lingo”
+	- Synonyms
+		- slang
+		- cant
+		- jargon
+		- lingo
+		- argot
+		- vernacular
+	- Less specific
+		- non-standard speech
+	- More specific
+		- street name
+		- rhyming slang
+	- Related
+		- slangy
+		- slang
+2. a regional dialect of a language (especially French); usually considered substandard
+	- Less specific
+		- dialect
+		- idiom
+		- accent
+
+
+---
+## peregrinate
+
+
+### Verb
+
+1. travel around, through, or over, especially on foot; “peregrinate the bridge”
+	- Less specific
+		- travel
+		- trip
+		- jaunt
+	- Related
+		- peregrination
+
+
+---
+## pertinent
+
+
+### Adjective
+
+1. having precise or logical relevance to the matter at hand; “a list of articles pertinent to the discussion”; “remarks that were to the point”
+	- Similar to
+		- relevant
+	- Related
+		- applicability
+		- pertinence
+		- pertinency
+		- applicability
+		- pertinence
+		- pertinency
+		- pertain
+		- appertain
+2. being of striking appropriateness and pertinence; “the successful copywriter is a master of apposite and evocative verbal images”; “an apt reply”
+	- Synonyms
+		- apposite
+		- apt
+	- Similar to
+		- apropos
+	- Related
+		- applicability
+		- pertinence
+		- pertinency
+		- applicability
+		- pertinence
+		- pertinency
+		- refer
+		- pertain
+		- relate
+		- concern
+		- come to
+		- bear on
+		- touch
+		- touch on
+		- have to do with
+		- aptness
+		- appositeness
+		- aptness
+		- appositeness
+
+
+---
+## pious
+
+
+### Adjective
+
+1. having or showing or expressing reverence for a deity; “pious readings”
+	- Antonyms
+		- impious
+	- Similar to
+		- devotional
+		- godly
+		- reverent
+		- worshipful
+		- holier-than-thou
+		- pietistic
+		- pietistical
+		- pharisaic
+		- pharisaical
+		- sanctimonious
+		- self-righteous
+		- prayerful
+	- See also
+		- religious
+		- sacred
+		- unworldly
+		- virtuous
+	- Attributes
+		- piety
+		- piousness
+	- Related
+		- piety
+		- piousness
+
+
+---
+## portent
+
+
+### Noun
+
+1. a sign of something about to happen; “he looked for an omen before going into battle”
+	- Synonyms
+		- omen
+		- presage
+		- prognostic
+		- prognostication
+		- prodigy
+	- Less specific
+		- augury
+		- sign
+		- foretoken
+		- preindication
+	- More specific
+		- auspice
+		- foreboding
+		- death knell
+	- Related
+		- portentous
+		- prodigious
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- predictive
+		- prognostic
+		- prognosticative
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- portentous
+		- prodigious
+		- fateful
+		- foreboding
+		- portentous
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+		- ill
+		- inauspicious
+		- ominous
+		- baleful
+		- forbidding
+		- menacing
+		- minacious
+		- minatory
+		- ominous
+		- sinister
+		- threatening
+		- bode
+		- portend
+		- auspicate
+		- prognosticate
+		- omen
+		- presage
+		- betoken
+		- foreshadow
+		- augur
+		- foretell
+		- prefigure
+		- forecast
+		- predict
+
+
+---
+## portmanteau
+
+
+### Noun
+
+1. a new word formed by joining two others and combining their meanings; “`smog’ is a blend of `smoke’ and `fog’”; “`motel’ is a portmanteau word made by combining `motor’ and `hotel’”; “`brunch’ is a well-known portmanteau”
+	- Synonyms
+		- blend
+		- portmanteau word
+	- Less specific
+		- neologism
+		- neology
+		- coinage
+2. a large travelling bag made of stiff leather
+	- Synonyms
+		- Gladstone
+		- Gladstone bag
+	- Less specific
+		- bag
+		- traveling bag
+		- travelling bag
+		- grip
+		- suitcase
+
+
+---
+## posy
+
+
+### Noun
+
+1. an arrangement of flowers that is usually given as a present
+	- Synonyms
+		- bouquet
+		- corsage
+		- nosegay
+	- Less specific
+		- flower arrangement
+		- floral arrangement
+
+
+---
+## relegate
+
+
+### Verb
+
+1. refer to another person for decision or judgment; “She likes to relegate difficult questions to her colleagues”
+	- Synonyms
+		- pass on
+		- submit
+	- Less specific
+		- submit
+	- Related
+		- delegating
+		- delegation
+		- relegating
+		- relegation
+		- deputation
+		- delegating
+		- delegation
+		- relegating
+		- relegation
+		- deputation
+2. assign to a lower position; reduce in rank; “She was demoted because she always speaks up”; “He was broken down to Sergeant”
+	- Synonyms
+		- demote
+		- bump
+		- break
+		- kick downstairs
+	- Antonyms
+		- promote
+		- upgrade
+		- advance
+		- kick upstairs
+		- raise
+		- elevate
+	- Less specific
+		- delegate
+		- designate
+		- depute
+		- assign
+	- More specific
+		- sideline
+		- reduce
+	- See also
+		- murder
+		- slay
+		- hit
+		- dispatch
+		- bump off
+		- off
+		- polish off
+		- remove
+	- Related
+		- relegation
+		- demotion
+3. expel, as if by official decree; “he was banished from his own country”
+	- Synonyms
+		- banish
+		- bar
+	- Less specific
+		- expel
+		- throw out
+		- kick out
+	- More specific
+		- spike
+	- Related
+		- relegation
+		- banishment
+		- proscription
+4. assign to a class or kind; “How should algae be classified?”; “People argue about how to relegate certain mushrooms”
+	- Synonyms
+		- classify
+	- Less specific
+		- assign
+		- attribute
+	- Related
+		- classificatory
+		- class
+		- division
+		- class
+		- stratum
+		- social class
+		- socio-economic class
+		- class
+		- category
+		- family
+		- classification
+		- categorization
+		- categorisation
+		- classification
+		- categorization
+		- categorisation
+		- sorting
+		- categorization
+		- categorisation
+		- classification
+		- compartmentalization
+		- compartmentalisation
+		- assortment
+		- classifier
+		- classifier
+		- class
+		- relegation
+
+
+---
+## repudiate
+
+
+### Verb
+
+1. cast off; “She renounced her husband”; “The parents repudiated their son”
+	- Synonyms
+		- disown
+		- renounce
+	- Less specific
+		- reject
+	- More specific
+		- apostatize
+		- apostatise
+		- tergiversate
+		- abjure
+		- recant
+		- forswear
+		- retract
+		- resile
+		- swallow
+		- take back
+		- unsay
+		- withdraw
+		- refute
+		- rebut
+		- deny
+	- Related
+		- repudiation
+		- renunciation
+		- repudiation
+		- renunciation
+		- renunciation
+		- renouncement
+2. refuse to acknowledge, ratify, or recognize as valid; “The woman repudiated the divorce settlement”
+	- Less specific
+		- reject
+	- Related
+		- repudiative
+		- repudiation
+3. refuse to recognize or pay; “repudiate a debt”
+	- Less specific
+		- refuse
+		- decline
+	- Related
+		- repudiation
+4. reject as untrue, unfounded, or unjust; “She repudiated the accusations”
+	- Less specific
+		- deny
+	- Related
+		- repudiative
+		- repudiation
+		- debunking
+
+
+---
+## riffle
+
+
+### Noun
+
+1. a small wave on the surface of a liquid
+	- Synonyms
+		- ripple
+		- rippling
+		- wavelet
+	- Less specific
+		- wave
+		- moving ridge
+	- Related
+		- wave
+		- moving ridge
+		- ripple
+		- ruffle
+		- riffle
+		- cockle
+		- undulate
+		- ripple
+		- ruffle
+		- riffle
+		- cockle
+		- undulate
+		- ripple
+		- babble
+		- guggle
+		- burble
+		- bubble
+		- gurgle
+		- ripple
+		- ruffle
+		- riffle
+		- cockle
+		- undulate
+2. shuffling by splitting the pack and interweaving the two halves at their corners
+	- Less specific
+		- shuffle
+		- shuffling
+		- make
+	- Related
+		- riffle
+
+### Verb
+
+1. twitch or flutter; “the paper flicked”
+	- Synonyms
+		- flick
+		- ruffle
+	- Less specific
+		- move
+		- displace
+2. look through a book or other written material; “He thumbed through the report”; “She leafed through the volume”
+	- Synonyms
+		- flick
+		- flip
+		- thumb
+		- leaf
+		- riff
+	- Less specific
+		- peruse
+	- Related
+		- leaf
+		- folio
+3. stir up (water) so as to form ripples
+	- Synonyms
+		- ripple
+		- ruffle
+		- cockle
+		- undulate
+	- Less specific
+		- flow
+		- flux
+	- Entailments
+		- fold
+		- fold up
+		- turn up
+	- Related
+		- ripple
+		- rippling
+		- riffle
+		- wavelet
+		- ripple
+		- rippling
+		- riffle
+		- wavelet
+		- ripple
+		- rippling
+		- riffle
+		- wavelet
+4. shuffle (playing cards) by separating the deck into two parts and riffling with the thumbs so the cards intermix
+	- Less specific
+		- shuffle
+		- ruffle
+		- mix
+	- Related
+		- riffle
+	- Topic Members
+		- card game
+		- cards
+
+
+---
+## risible
+
+
+### Adjective
+
+1. arousing or provoking laughter; “an amusing film with a steady stream of pranks and pratfalls”; “an amusing fellow”; “a comic hat”; “a comical look of surprise”; “funny stories that made everybody laugh”; “a very funny writer”; “it would have been laughable if it hadn’t hurt so much”; “a mirthful experience”; “risible courtroom antics”
+	- Synonyms
+		- amusing
+		- comic
+		- comical
+		- funny
+		- laughable
+		- mirthful
+	- Similar to
+		- humorous
+		- humourous
+	- Related
+		- risibility
+		- hilarity
+		- mirth
+		- mirthfulness
+		- glee
+		- gleefulness
+		- laugh
+		- express joy
+		- express mirth
+		- fun
+		- merriment
+		- playfulness
+		- drollery
+		- clowning
+		- comedy
+		- funniness
+		- comicality
+		- drollery
+		- clowning
+		- comedy
+		- funniness
+		- comedy
+		- comedian
+		- comic
+		- drollery
+		- clowning
+		- comedy
+		- funniness
+
+
+---
+## screed
+
+
+### Noun
+
+1. a long monotonous harangue
+	- Less specific
+		- harangue
+		- rant
+		- ranting
+2. a long piece of writing
+	- Less specific
+		- writing
+		- written material
+		- piece of writing
+3. an accurately levelled strip of material placed on a wall or floor as guide for the even application of plaster or concrete
+	- Less specific
+		- strip
+		- slip
+
+
+---
+## sidle
+
+
+### Verb
+
+1. move unobtrusively or furtively; “The young man began to sidle near the pretty girl sitting on the log”
+	- Less specific
+		- move
+2. move sideways
+	- Synonyms
+		- sashay
+	- Less specific
+		- move
+	- Related
+		- chasse
+		- sashay
+
+
+---
+## solubility
+
+
+### Noun
+
+1. the quantity of a particular substance that can dissolve in a particular solvent (yielding a saturated solution)
+	- Less specific
+		- definite quantity
+	- Related
+		- soluble
+	- Topic Members
+		- solution
+2. the property (of a problem or difficulty) that makes it possible to solve
+	- Synonyms
+		- solvability
+	- Antonyms
+		- unsolvability
+		- insolubility
+		- unsolvability
+		- insolubility
+	- Less specific
+		- property
+	- Related
+		- soluble
+		- solvable
+		- resolvable
+3. the quality of being soluble and easily dissolved in liquid
+	- Antonyms
+		- insolubility
+	- Less specific
+		- quality
+	- Related
+		- soluble
+
+
+---
+## splosh
+
+
+### Verb
+
+1. make a splashing sound; “water was splashing on the floor”
+	- Synonyms
+		- splash
+		- slosh
+		- slush
+	- Less specific
+		- sound
+		- go
+	- Related
+		- splash
+		- plash
+2. walk through mud or mire; “We had to splosh across the wet meadow”
+	- Synonyms
+		- squelch
+		- squish
+		- splash
+		- slosh
+		- slop
+	- Less specific
+		- slog
+		- footslog
+		- plod
+		- trudge
+		- pad
+		- tramp
+3. cause (a liquid) to spatter about, especially with force; “She splashed the water around her”
+	- Synonyms
+		- sprinkle
+		- splash
+	- Less specific
+		- scatter
+		- sprinkle
+		- dot
+		- dust
+		- disperse
+	- More specific
+		- salt
+		- drizzle
+		- moisten
+	- Related
+		- splash
+		- splashing
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- splash
+		- plash
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- sprinkle
+		- sprinkling
+		- sparge
+		- sprinkler
+4. dash a liquid upon or against; “The mother splashed the baby’s face with water”
+	- Synonyms
+		- spatter
+		- splatter
+		- plash
+		- splash
+		- swash
+	- Less specific
+		- scatter
+		- sprinkle
+		- dot
+		- dust
+		- disperse
+	- More specific
+		- puddle
+		- slosh
+		- slush
+		- slosh around
+		- slush around
+	- Related
+		- swash
+		- splash
+		- plash
+		- splash
+		- splashing
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- splash
+		- plash
+		- dab
+		- splash
+		- splatter
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+		- spatter
+		- spattering
+		- splash
+		- splashing
+		- splattering
+
+t
+---
+## squiggle
+
+
+### Noun
+
+1. a short twisting line
+	- Synonyms
+		- curlicue
+	- Less specific
+		- line
+	- Related
+		- squiggly
+2. an illegible scrawl; “his signature was just a squiggle but only he could make that squiggle”
+	- Less specific
+		- scribble
+		- scratch
+		- scrawl
+		- cacography
+	- Related
+		- squiggly
+
+
+---
+## text fucking
+1. **Text Fucking** *verb*
+a.) hardcore text manipulation.
+b.) destruction of usable digital text.
+
+2. **Text Fuckery** *noun*
+the discipline of text fucking.
+
+3. **Text Fuckery** *noun*
+the output... the *result* of the verb.
+---
+## travail
+
+
+### Noun
+
+1. concluding state of pregnancy; from the onset of contractions to the birth of a child; “she was in labor for six hours”
+	- Synonyms
+		- parturiency
+		- labor
+		- labour
+		- confinement
+		- lying-in
+		- childbed
+	- Less specific
+		- parturition
+		- birth
+		- giving birth
+		- birthing
+	- More specific
+		- premature labor
+		- premature labour
+	- Parts
+		- uterine contraction
+		- effacement
+		- asynclitism
+		- obliquity
+	- Part of
+		- pregnancy
+		- gestation
+		- maternity
+	- Related
+		- labor
+		- labour
+		- labor
+		- labour
+		- parturient
+		- parturient
+2. use of physical or mental energy; hard work; “he got an A for effort”; “they managed only with great exertion”
+	- Synonyms
+		- effort
+		- elbow grease
+		- exertion
+		- sweat
+	- Less specific
+		- labor
+		- labour
+		- toil
+	- More specific
+		- struggle
+		- trouble
+		- difficulty
+		- least effort
+		- least resistance
+		- strain
+		- straining
+		- exercise
+		- exercising
+		- physical exercise
+		- physical exertion
+		- workout
+		- pull
+		- application
+		- diligence
+		- overkill
+		- supererogation
+		- overexertion
+		- friction
+		- detrition
+		- rubbing
+	- Related
+		- labor
+		- labour
+		- toil
+		- fag
+		- travail
+		- grind
+		- drudge
+		- dig
+		- moil
+		- exert
+
+### Verb
+
+1. work hard; “She was digging away at her math homework”; “Lexicographers drudge all day long”
+	- Synonyms
+		- labor
+		- labour
+		- toil
+		- fag
+		- grind
+		- drudge
+		- dig
+		- moil
+	- Less specific
+		- work
+		- do work
+	- Related
+		- drudge
+		- peon
+		- navvy
+		- galley slave
+		- hack
+		- drudge
+		- hacker
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- swot
+		- grind
+		- nerd
+		- wonk
+		- dweeb
+		- drudgery
+		- plodding
+		- grind
+		- donkeywork
+		- effort
+		- elbow grease
+		- exertion
+		- travail
+		- sweat
+		- toiler
+		- labor
+		- labour
+		- toil
+		- labor
+		- labour
+		- toil
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+		- labor
+		- labour
+		- toil
+		- undertaking
+		- project
+		- task
+		- labor
+		- laborer
+		- manual laborer
+		- labourer
+		- jack
+
+
+---
+## trounce
+
+
+### Verb
+
+1. beat severely with a whip or rod; “The teacher often flogged the students”; “The children were severely trounced”
+	- Synonyms
+		- flog
+		- welt
+		- whip
+		- lather
+		- lash
+		- slash
+		- strap
+	- Less specific
+		- beat
+		- beat up
+		- work over
+	- More specific
+		- flagellate
+		- scourge
+		- leather
+		- horsewhip
+		- switch
+		- cowhide
+		- cat
+		- birch
+	- Related
+		- beating
+		- thrashing
+		- licking
+		- drubbing
+		- lacing
+		- trouncing
+		- whacking
+		- strap
+		- whip
+		- lash
+		- whiplash
+		- lash
+		- thong
+		- whip
+		- whip
+		- lash
+		- whiplash
+		- switcher
+		- whipper
+		- whipping
+		- tanning
+		- flogging
+		- lashing
+		- flagellation
+		- wale
+		- welt
+		- weal
+		- wheal
+		- whipping
+		- tanning
+		- flogging
+		- lashing
+		- flagellation
+2. come out better in a competition, race, or conflict; “Agassi beat Becker in the tennis championship”; “We beat the competition”; “Harvard defeated Yale in the last football game”
+	- Synonyms
+		- beat
+		- beat out
+		- crush
+		- shell
+		- vanquish
+	- Less specific
+		- get the better of
+		- overcome
+		- defeat
+	- More specific
+		- outpoint
+		- outscore
+		- walk over
+		- eliminate
+		- worst
+		- pip
+		- mop up
+		- whip
+		- rack up
+		- whomp
+		- get the best
+		- have the best
+		- overcome
+		- spread-eagle
+		- spreadeagle
+		- rout
+		- get the jump
+		- cheat
+		- chouse
+		- shaft
+		- screw
+		- chicane
+		- jockey
+		- surpass
+		- outstrip
+		- outmatch
+		- outgo
+		- exceed
+		- outdo
+		- surmount
+		- outperform
+		- overcome
+		- get over
+		- subdue
+		- surmount
+		- master
+		- outdo
+		- outflank
+		- trump
+		- best
+		- scoop
+		- outfight
+		- overpower
+		- overmaster
+		- overwhelm
+		- checkmate
+		- mate
+		- immobilize
+		- immobilise
+		- outplay
+		- cream
+		- bat
+		- clobber
+		- drub
+		- thrash
+		- lick
+	- Entailments
+		- win
+	- Related
+		- beatable
+		- vanquishable
+		- vincible
+		- conqueror
+		- vanquisher
+		- thrashing
+		- walloping
+		- debacle
+		- drubbing
+		- slaughter
+		- trouncing
+		- whipping
+		- beatable
+		- vanquishable
+		- vincible
+		- beating
+		- whipping
+3. censure severely or angrily; “The mother scolded the child for entering a stranger’s car”; “The deputy ragged the Prime Minister”; “The customer dressed down the waiter for bringing cold soup”
+	- Synonyms
+		- call on the carpet
+		- take to task
+		- rebuke
+		- rag
+		- lecture
+		- reprimand
+		- jaw
+		- dress down
+		- call down
+		- scold
+		- chide
+		- berate
+		- bawl out
+		- remonstrate
+		- chew out
+		- chew up
+		- have words
+		- lambaste
+		- lambast
+	- Less specific
+		- knock
+		- criticize
+		- criticise
+		- pick apart
+	- More specific
+		- chastise
+		- castigate
+		- objurgate
+		- chasten
+		- correct
+		- tell off
+		- brush down
+	- Related
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- scold
+		- scolder
+		- nag
+		- nagger
+		- common scold
+		- chiding
+		- scolding
+		- objurgation
+		- tongue-lashing
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+		- lecture
+		- speech
+		- talking to
+		- upbraider
+		- reprover
+		- reproacher
+		- rebuker
+		- rebuke
+		- reproof
+		- reproval
+		- reprehension
+		- reprimand
+
+
+---
+## undercovered
+
+<u>Adjective</u>
+
+*(Of an individual, project, social dynamic, single event, etc.)*
+
+**Less present in popular discourse than is contextually appropriate.**
+
+When I use the term "undercovered," I am describing something which "mainstream media" (*technology journalism*, most often) has not, is not, and/or is not likely to adequately amplify according to my own framework of relevance.
+
+##### Some prime examples:
+
+* [**Bandcamp as the answer to all contemporary woes regarding music streaming services**](https://bilge.world/bandcamp-streaming-music).
+* [Mastodon as the answer to (a great many) contemporary woes regarding social networks](https://bilge.world/eugen-rochko-interview).
+* [Discord as a superior (and free!) Slack alternative for small businesses/projects](https://bilge.world/discord-slack-comparison).
+
+==
+
+### Siri TTS
+
+[**Shortcut Share Link**](https://www.icloud.com/shortcuts/18eb1e77ab0b455f82da4c4c6e521368)
+
+Undercovered is an adjective meaning: less present in popular discourse than is contextually appropriate.
+---
+## ursine
+
+
+### Adjective
+
+1. of or relating to or similar to bears
+	- Pertains to
+		- bear
+
+
+---
+## verdure
+
+
+### Noun
+
+1. green foliage
+	- Synonyms
+		- greenery
+	- Less specific
+		- leaf
+		- leafage
+		- foliage
+	- Related
+		- green
+2. the lush appearance of flourishing vegetation
+	- Synonyms
+		- greenness
+		- verdancy
+	- Less specific
+		- profusion
+		- profuseness
+		- richness
+		- cornucopia
+	- Related
+		- verdant
+
+
+---
+## verisimilitude
+
+
+### Noun
+
+1. the appearance of truth; the quality of seeming to be true
+	- Less specific
+		- semblance
+		- gloss
+		- color
+		- colour
+
+
+---
+## Vocabulary
+As of `02022022-113251`.
+- "APRICITY"
+- "Antwerp"
+- "anomaly"
+- "anodyne"
+- "analysand"
+- "All Merriam Webster URLS"
+- "agony uncle"
+- "affable"
+- "aesthete"
+- "acrimony"
+- "acephalous"
+- "accede"
+- "power user fallacy"
+- "Word"
+- "valence"
+- "unmet"
+- "unctuous"
+- "typosquatting"
+- "tripartite"
+- "syllabify"
+- "syllabic"
+- "sophomoric"
+- "snilch"
+- "rube"
+- "rowback"
+- "rookery"
+- "repine"
+- "refusenik"
+- "quotidian"
+- "promulgate"
+- "praecognitum"
+- "portmanteau"
+- "portmanteau"
+- "pogram"
+- "plaudit"
+- "perseveration"
+- "peroration"
+- "pernicious"
+- "panopticon"
+- "palliative"
+- "palimpsest"
+- "oviparous"
+- "oviparity"
+- "ossify"
+- "orgiastic"
+- "oeuvre"
+- "nimby"
+- "news hole"
+- "neologism"
+- "naval-gazing"
+- "morkshriek"
+- "microhumor"
+- "metalayer"
+- "makeup"
+- "lachrymose"
+- "jump"
+- "jitterbug"
+- "jink"
+- "jibe"
+- "jeremiad"
+- "je ne sais quoi"
+- "jaggies"
+- "interstitial"
+- "interpunct"
+- "ineludible"
+- "ineluctable"
+- "imbroglio"
+- "hoary"
+- "hegemon"
+- "guttersnipe"
+- "graf"
+- "gewgaw"
+- "get waxed"
+- "flatplan"
+- "flag"
+- "febrile"
+- "fealty"
+- "faineancy"
+- "doily"
+- "divest"
+- "deviant revisionist"
+- "cyberdeck"
+- "cutline"
+- "cude"
+- "crud"
+- "Color Struck"
+- "collogue"
+- "circuitous"
+- "CHÈVRECHOUTISME"
+- "chiaroscuro"
+- "caveat lector"
+- "carceral"
+- "buttonhole"
+- "bumptious"
+- "bricolage"
+- "bowdlerize"
+- "bemoan"
+- "belletrist"
+- "bauble"
+- "banality"
+- "banal"
+- "avuncular"
+- "au courant"
+- "atavism"
+- "asinine"
+- "archon"
+- "APRICITY"
+- "Antwerp"
+- "anomaly"
+- "anodyne"
+- "analysand"
+- "All Merriam Webster URLS"
+- "agony uncle"
+- "affable"
+- "aesthete"
+- "acrimony"
+- "acephalous"
+- "accede"
+- "power user fallacy"
+- "Word"
+- "yashica"
+- "whilom"
+- "vtuber"
+- "vino"
+- "verisimilitude"
+- "venerable"
+- "velleity"
+- "unforced error"
+- "undercovered"
+- "til"
+- "teetotum"
+- "superlative"
+- "squiffy"
+- "spread out"
+- "sigabrt"
+- "sherlocking"
+- "salient"
+- "rumigeration"
+- "rosicler"
+- "rhopographer"
+- "rhombicosidodecahedron"
+- "retardataire"
+- "render"
+- "regicide"
+- "raison d’être"
+- "raison d'être"
+- "quotidian"
+- "provincial"
+- "protean"
+- "propaganda"
+- "productization"
+- "power user fallacy"
+- "plutography"
+- "plughole"
+- "pinocle"
+- "physiognomic"
+- "persona non grata"
+- "perseverate"
+- "patently"
+- "panopticon"
+- "oyakodon"
+- "ostracize"
+- "oleophobic"
+- "obfuscation"
+- "mollify"
+- "lustless"
+- "lithe"
+- "lambda"
+- "isoclinal"
+- "ipso facto"
+- "inanity"
+- "impugn"
+- "hobnobbing"
+- "heliolatry"
+- "grimgribber"
+- "greek alphabet"
+- "gormandize"
+- "gestation"
+- "functionary"
+- "ftp"
+- "forswear"
+- "ethnonationalism"
+- "epistomelohical"
+- "edifying"
+- "diversionary attack"
+- "diversionary"
+- "dinkus"
+- "didactic"
+- "demarcate"
+- "deleterious"
+- "dbi"
+- "covenant"
+- "correspondence"
+- "concordat"
+- "comradeliness"
+- "complaisant"
+- "classificatory"
+- "circumcision"
+- "chum up"
+- "cause du jour"
+- "catharsis"
+- "bricolage"
+- "bilge"
+- "bijou"
+- "belletristic"
+- "bauble"
+- "banal"
+- "avuncular"
+- "automation"
+- "audacity"
+- "au courant"
+- "atavism"
+- "asinine"
+- "antwerp"
+- "anodyne"
+- "analysand"
+- "agony uncle"
+- "affable"
+- "aesthete"
+- "admonishment"
+- "acrimony"
+- "acephalous"
+- "accommodating"
+- "accede"
+- "abstergify"
+- "abjurer"
+- "abjuration"
+- "abdicate"
+---
+## voluble
+
+
+### Adjective
+
+1. marked by a ready flow of speech; “she is an extremely voluble young woman who engages in soliloquies not conversations”
+	- Antonyms
+		- taciturn
+	- Similar to
+		- chatty
+		- gabby
+		- garrulous
+		- loquacious
+		- talkative
+		- talky
+	- See also
+		- communicative
+		- communicatory
+		- prolix
+	- Related
+		- fluency
+		- volubility
+		- articulateness
+
+
+---
+## whorl
+
+
+### Noun
+
+1. a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+	- Synonyms
+		- coil
+		- roll
+		- curl
+		- curlicue
+		- ringlet
+		- gyre
+		- scroll
+	- Less specific
+		- round shape
+	- More specific
+		- corolla
+		- calyx
+		- verticil
+	- Related
+		- coil
+		- loop
+		- curl
+		- curl up
+		- curl
+		- draw in
+		- curl
+		- curve
+		- kink
+		- roll
+		- roll out
+		- roll
+		- roll
+		- undulate
+		- gyrate
+		- spiral
+		- coil
+		- coil
+		- loop
+		- curl
+2. a strand or cluster of hair
+	- Synonyms
+		- lock
+		- curl
+		- ringlet
+	- Less specific
+		- hair
+	- More specific
+		- sausage curl
+		- forelock
+		- crimp
+		- dreadlock
+	- Part of
+		- hairdo
+		- hairstyle
+		- hair style
+		- coiffure
+		- coif
+	- Related
+		- curly
+		- curl
+		- wave
+3. a structure consisting of something wound in a continuous series of loops; “a coil of rope”
+	- Synonyms
+		- coil
+		- spiral
+		- volute
+		- helix
+	- Less specific
+		- structure
+		- construction
+	- More specific
+		- hank
+	- Related
+		- coiling
+		- helical
+		- spiral
+		- spiraling
+		- volute
+		- voluted
+		- whorled
+		- turbinate
+		- coiling
+		- helical
+		- spiral
+		- spiraling
+		- volute
+		- voluted
+		- whorled
+		- turbinate
+		- gyrate
+		- spiral
+		- coil
+		- gyrate
+		- spiral
+		- coil
+		- coil
+		- loop
+		- curl
+
+
+---
+## winnow
+
+
+### Noun
+
+1. the act of separating grain from chaff; “the winnowing was done by women”
+	- Synonyms
+		- winnowing
+		- sifting
+	- Less specific
+		- separation
+	- Related
+		- sift
+		- sieve
+		- strain
+		- winnow
+		- winnow
+
+### Verb
+
+1. separate the chaff from grain by using air currents; “She stood there winnowing grain all day in the field”
+	- Less specific
+		- sift
+		- sieve
+		- strain
+	- Related
+		- winnow
+		- winnowing
+		- sifting
+		- winnow
+		- winnowing
+		- sifting
+2. blow on; “The wind was winnowing her hair”; “the wind winnowed the grass”
+	- Less specific
+		- fan
+3. select desirable parts from a group or list; “cull out the interesting letters from the poet’s correspondence”; “winnow the finalists from the long list of applicants”
+	- Synonyms
+		- cull out
+	- Less specific
+		- choose
+		- take
+		- select
+		- pick out
+4. blow away or off with a current of air; “winnow chaff”; “The speaker ceased to be an amusing little gnat to be fanned away and was kicked off the forum”
+	- Synonyms
+		- fan
+	- Less specific
+		- remove
+		- take
+		- take away
+		- withdraw
+
+
+---
+## ziggurat
+
+
+### Noun
+
+1. a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians
+	- Synonyms
+		- zikkurat
+		- zikurat
+	- Less specific
+		- temple
+	- Examples
+		- Tower of Babel
+		- Babel
+
+
+---
+innumerable
+
+# innumerable
+
+
+### Adjective
+
+1. too numerous to be counted; “countless hours”; “an infinite number of reasons”; “innumerable difficulties”; “the multitudinous seas”; “myriad stars”
+	- Synonyms
+		- countless
+		- infinite
+		- innumerous
+		- multitudinous
+		- myriad
+		- numberless
+		- uncounted
+		- unnumberable
+		- unnumbered
+		- unnumerable
+	- Similar to
+		- incalculable
+	- Related
+		- myriad
+		- battalion
+		- large number
+		- multitude
+		- plurality
+		- pack
+		- multitudinousness
+		- innumerableness
+		- countlessness
+		- infiniteness
+		- infinitude
+		- unboundedness
+		- boundlessness
+		- limitlessness
+		- innumerableness
+		- countlessness
+---
+verisimilitude
+
+# verisimilitude
+
+
+### Noun
+
+1. the appearance of truth; the quality of seeming to be true
+	- Less specific
+		- semblance
+		- gloss
+		- color
+		- colour
+
 # vocabulary - 03752022-033248
 
 - [bathysphere](drafts://open?uuid=ED3C2FD6-DC11-406B-BFEC-C11E7DCB3C68)
@@ -8942,7 +48308,402 @@ verisimilitude
 - [Vocabulary](drafts://open?uuid=D55E1586-D703-4C6F-B821-DB0DD659076D)
 - [verisimilitude](drafts://open?uuid=9FEC7BB9-4F28-4ED8-883D-9F7B4A758C54)
 - [automation](drafts://open?uuid=F4B309B9-5932-4318-A98A-D7E6FF6CAADC)
-===
+# vocabulary - 03752022-033248
+
+- [bathysphere](drafts://open?uuid=ED3C2FD6-DC11-406B-BFEC-C11E7DCB3C68)
+- [madecassee](drafts://open?uuid=ACAB5A5C-ADFA-4B9A-B691-DF459AFE0C07)
+- [huffcap](drafts://open?uuid=7957ED3E-E941-4C02-9D66-990D2ADFEEE0)
+- [bathyscaphe](drafts://open?uuid=34FB3FDA-EC34-4C21-B2C3-A3C595358566)
+- [legerdemain](drafts://open?uuid=FDCC397B-A2B6-4042-A8BF-BB2905410D30)
+- [ethnography](drafts://open?uuid=F2B5FC41-3AA1-4408-B11F-6111C67790B3)
+- [Teutonophile](drafts://open?uuid=CF031F5E-886B-4E9F-8878-4D2BC62C6A93)
+- [castrametation](drafts://open?uuid=DE30BFD5-AE21-40D5-894A-A69387F02210)
+- [accost](drafts://open?uuid=F0B257BA-C6A5-4661-9D32-E2A8B62B8108)
+- [sidereal](drafts://open?uuid=48AEC351-459C-4E86-8B90-D61D3C5C7399)
+- [modal](drafts://open?uuid=E984B136-0591-4F76-867E-DD262A625451)
+- [hack](drafts://open?uuid=E30A6F67-7D23-4B0E-8593-A283BF3FA133)
+- [farcical](drafts://open?uuid=AB35F12B-00B3-4510-8FB2-E3A33F6AA606)
+- [contemporaneous](drafts://open?uuid=A737499F-2319-428D-8172-305FB33A078D)
+- [unco](drafts://open?uuid=42FFCF23-86B9-4BB8-9602-6C04AEFD313A)
+- [abyssal](drafts://open?uuid=C2679472-03FE-4BFF-9BF4-A4F66A954C95)
+- [junket](drafts://open?uuid=16550F8F-F739-4138-8A07-DFDDA8983C60)
+- [jig](drafts://open?uuid=A3F6115B-7E4D-4A0F-9E35-82672F102CF7)
+- [slapdash](drafts://open?uuid=2D7B2A32-C817-4DA0-A76C-50A522C5FF48)
+- [slipshod](drafts://open?uuid=04EC2E71-F95F-4EBA-A550-6548C529352B)
+- [hyperbole](drafts://open?uuid=569E609A-CDBE-463F-91C8-DAFCCF85C6C4)
+- [shunt](drafts://open?uuid=C6FDF7F9-2B40-40B2-ADA0-253CDCC97716)
+- [aquiline](drafts://open?uuid=AAE1D3A4-32A0-4117-AFD4-024DA70B2020)
+- [tyke](drafts://open?uuid=167E87F2-07A9-4B38-A0BB-004DA43CF705)
+- [invidious](drafts://open?uuid=41668C51-AD79-4150-B8AA-B191D0F9C844)
+- [snuggery](drafts://open?uuid=492C14E5-DB4A-4B53-A93C-5BFC8ED28AB6)
+- [bozo](drafts://open?uuid=6C7D4FE5-1C4A-4E18-B561-5E96F60741B8)
+- [contrite](drafts://open?uuid=8F478EE2-65C5-42DD-A7DF-87CFC25E375A)
+- [propitious](drafts://open?uuid=867BF77E-7A68-491B-AED2-3737222731E7)
+- [chivvy](drafts://open?uuid=68A7EEB2-6BF0-40F8-9757-E1F435A4A2D6)
+- [somnolent](drafts://open?uuid=9FDC494F-8FC2-4583-9493-14B66D8D3EEF)
+- [jejune](drafts://open?uuid=B9C84971-9A0E-4A49-91A4-2687A2F1FBAA)
+- [doldrums](drafts://open?uuid=3C561EFD-2A64-4063-95C7-238D8C01CBB8)
+- [abstruse](drafts://open?uuid=B300F68B-0A54-4C40-AAB5-1E4F9CF5B26C)
+- [Vocabulary](drafts://open?uuid=C41AC4C1-6F45-47C0-ACB2-74DDEDA8B41F)
+- [Greek](drafts://open?uuid=FE462935-3900-49E7-8FA7-B16D581B71A7)
+- [undercovered](drafts://open?uuid=A8DDF7DC-0D9C-4162-B028-5D8E75B819E5)
+- [ziggurat](drafts://open?uuid=35116CA8-D82C-46FE-83CD-06D9B08AAD5C)
+- [whorl](drafts://open?uuid=056B54EF-14B1-4AF4-AD81-F28992D86FDE)
+- [voluble](drafts://open?uuid=D87A37F9-DCE3-463C-AFAE-E7EE2D8CAF40)
+- [verdure](drafts://open?uuid=1A9EE026-718B-4136-964E-71A2B2B195AA)
+- [ursine](drafts://open?uuid=AF3E6804-0467-410E-A18C-C14A6FAE72A8)
+- [trounce](drafts://open?uuid=E2DDC96F-ECF4-429A-85B0-7C98B6819D2A)
+- [travail](drafts://open?uuid=9B7547E3-990E-4D64-B669-BF5E0EFAAE94)
+- [squiggle](drafts://open?uuid=30DA26F2-88E8-44F7-A864-3A36F85F1015)
+- [splosh](drafts://open?uuid=658D9FFA-A4AD-4E28-AB6D-E2212FC91D75)
+- [sidle](drafts://open?uuid=C87D12AA-A16F-40CE-8337-6AC8C9608220)
+- [screed](drafts://open?uuid=49845495-DCA7-48BE-9ABD-BBDC0F66E05B)
+- [riffle](drafts://open?uuid=4C8A4859-C3C3-4957-BDBC-98EB036F71FE)
+- [repudiate](drafts://open?uuid=750D789C-A5EA-4D86-94E6-71B0170E9323)
+- [posy](drafts://open?uuid=4E9356FA-0BEA-4D7D-8FB7-68150647734E)
+- [peregrinate](drafts://open?uuid=4872C520-97D0-47F6-A653-70A4C34B639D)
+- [patois](drafts://open?uuid=A58B77E8-AF70-4D36-84C6-92D38BA97B81)
+- [parlous](drafts://open?uuid=8A204E2E-17C3-4106-981B-A95A1F7D4EB7)
+- [missive](drafts://open?uuid=B53FF0EB-6787-433A-9054-02AD44F82124)
+- [miasma](drafts://open?uuid=DDADA8D8-405D-467B-A83A-6C943270F425)
+- [marginalia](drafts://open?uuid=5555F786-F11F-4B27-9DD9-AC62CFBF4744)
+- [lucre](drafts://open?uuid=A7D7191F-1128-4F16-9035-E4AF24CAE37C)
+- [languor](drafts://open?uuid=5DF23287-599C-4E89-BD61-A93EE530BC86)
+- [impecunious](drafts://open?uuid=8C142D95-5214-465C-99C6-7E51B53BB5CF)
+- [hew](drafts://open?uuid=2894585C-ED4C-46E7-AFB0-1F0E788AC59B)
+- [foppish](drafts://open?uuid=06CDD34D-B550-4943-9D7D-8FF550C6472C)
+- [faux pas](drafts://open?uuid=80F5E00B-AB06-4485-9158-EE8E05581BF0)
+- [explicate](drafts://open?uuid=26B6B8F4-A06E-4FF6-A377-2EA2987A70C9)
+- [ensconce](drafts://open?uuid=BC2005E1-BEB5-41FE-99C7-8BB710B9EF75)
+- [dereliction](drafts://open?uuid=FCE2E3F3-85AE-42BD-9634-362284E8461A)
+- [crimp](drafts://open?uuid=AD9F2E94-BA12-4C1A-B21D-445B20449A1F)
+- [collocation](drafts://open?uuid=6376D3F5-758B-463E-A479-E28BE9AAE5D1)
+- [capitulate](drafts://open?uuid=3EB80052-BCCE-488D-8F04-D2EBB5C392E2)
+- [bugaboo](drafts://open?uuid=46565F1C-509F-4EE5-9EC9-C6EBF104EF0D)
+- [bevy](drafts://open?uuid=08F91DD8-B3F3-4774-8BFC-E6D423DACF49)
+- [bauble](drafts://open?uuid=ECF8939E-5DC1-46D9-B158-7A4435BBA68D)
+- [atrabilious](drafts://open?uuid=32785CDA-4C6B-4AB5-B07A-E718941758C7)
+- [anhedonia](drafts://open?uuid=B166FE08-A3D8-4FB2-8949-5D6D9EFD2494)
+- [acrimony](drafts://open?uuid=8B6C0F6D-E3C2-4249-99FA-582C801AE463)
+- [bowdlerizer](drafts://open?uuid=719E1519-62AC-45B8-AA3A-905910CCE1B3)
+- [expurgate](drafts://open?uuid=69E57E1E-0703-4072-BC72-03BA9C4161D3)
+- [forelooker](drafts://open?uuid=9C095CCD-ADEA-49F9-87F4-D0FFE2F59C4A)
+- [idiomatic](drafts://open?uuid=D792AD5A-46A1-4E87-9404-1F6DBB0F7187)
+- [erudite](drafts://open?uuid=110E27DF-CE93-46B2-988A-8B406CE275FC)
+- [lapse](drafts://open?uuid=A5FAE0D3-2194-429A-91D3-CD22399F3E6C)
+- [relegate](drafts://open?uuid=71ACCA28-82B7-4E76-AD5B-387D6F8581CC)
+- [parlance](drafts://open?uuid=7A6D0850-FD29-41D3-BA32-280DC47EAA53)
+- [risible](drafts://open?uuid=180B908B-BF71-435B-8CF0-9199DE32EEF9)
+- [foregleam](drafts://open?uuid=7A42937B-5680-4E22-9E5E-0DF4BB96784E)
+- [dinkus](drafts://open?uuid=C4F33942-BCE1-4615-8CC5-2355EF8ADAFD)
+- [bandylan](drafts://open?uuid=02463E3B-15DB-46A7-9FF1-52DEEA49D086)
+- [injuredly](drafts://open?uuid=E9BE4EE2-CC13-4B61-A150-BE78DA38D5BE)
+- [macro](drafts://open?uuid=B689567B-D8F4-4639-909D-3A166E9B27C0)
+- [pious](drafts://open?uuid=16455EDB-B5BB-4CCC-B0B3-865CA3C77BA4)
+- [portent](drafts://open?uuid=4BE9923A-87F8-48A0-872C-0CBE47E5B0FC)
+- [farad](drafts://open?uuid=717D7150-CFCE-4776-82E1-CEAC6ED6F2EE)
+- [concatenate](drafts://open?uuid=A3833C3C-F420-453D-80D4-9478B99606A7)
+- [oleophilic](drafts://open?uuid=167E8136-AA36-4D21-A122-6003710F14A9)
+- [bout](drafts://open?uuid=52A11EC1-19C5-454B-9C61-5BBB8E2076E7)
+- [atavism](drafts://open?uuid=4F4F0F3A-A826-45FC-8B9B-6B83CA94C6BF)
+- [classificatory](drafts://open?uuid=5D6FD073-D978-4988-849F-6BD9CF15B31F)
+- [verisimilitude](drafts://open?uuid=2E9A5499-22EA-476D-A844-AF360C01EBA0)
+- [pertinent](drafts://open?uuid=A3C12CBD-7D83-4195-A3B5-50ECAA358A4E)
+- [grubby](drafts://open?uuid=EAF8AE87-415C-408B-AC16-EAF7F7CD8226)
+- [inexorable](drafts://open?uuid=95EABC2A-5183-4330-BBCF-39C49E751C4A)
+- [portmanteau](drafts://open?uuid=AA10F992-B65A-4267-BD92-364481D369CE)
+- [boolean](drafts://open?uuid=02D619D4-05C5-40FF-8FAF-1267C3F7310D)
+- [expression](drafts://open?uuid=19B6BCEB-0ED8-42A2-9356-945090D4384B)
+- [text fucking](drafts://open?uuid=C91449D3-9926-41A5-B589-64118EC2348F)
+- [disruption](drafts://open?uuid=6BFECB0C-8D3C-4E16-9586-16D56DFA6F4B)
+- [winnow](drafts://open?uuid=4D3465A3-6B6C-4899-83FF-A77E3A49E902)
+- [solubility](drafts://open?uuid=6DDE5F0D-CEF8-4684-86CB-307E05AB3AB7)
+- [homunculus](drafts://open?uuid=BF3AB34D-9CC5-40B9-819D-31974293D7A7)
+- [exigent](drafts://open?uuid=1B27596C-F158-4112-80FF-2885B043B9D7)
+- [henceforward](drafts://open?uuid=DBB2FEAC-F200-45D0-A1C4-C11271C01B04)
+- [idiom](drafts://open?uuid=0593A07B-BD11-4879-B9CD-C08D54A1D5D7)
+- [glisk](drafts://open?uuid=7AF79C8F-4C59-48D8-9F7C-DA366E5AAFB2)
+- [axiomatic](drafts://open?uuid=A59DAB8D-0379-427B-A9F6-8D4E3AC6674D)
+- [innumerable](drafts://open?uuid=2CB39306-90A4-4620-9581-89E1EF0614C5)
+- [dubitable](drafts://open?uuid=DAA78E23-AD57-4DEA-81AF-FB59ACBC0266)
+- [bitch](drafts://open?uuid=176A79AE-BE6C-4192-B0EE-8623CB9C5617)
+- [Vocabulary](drafts://open?uuid=D55E1586-D703-4C6F-B821-DB0DD659076D)
+- [verisimilitude](drafts://open?uuid=9FEC7BB9-4F28-4ED8-883D-9F7B4A758C54)
+- [automation](drafts://open?uuid=F4B309B9-5932-4318-A98A-D7E6FF6CAADC)
+# Vocabulary Index
+Last updated `03242022-141014`
+
+- [abstruse](https://davidblue.wtf/drafts/B300F68B-0A54-4C40-AAB5-1E4F9CF5B26C.html)
+- [abyssal](https://davidblue.wtf/drafts/C2679472-03FE-4BFF-9BF4-A4F66A954C95.html)
+- [accost](https://davidblue.wtf/drafts/F0B257BA-C6A5-4661-9D32-E2A8B62B8108.html)
+- [acrimony](https://davidblue.wtf/drafts/8B6C0F6D-E3C2-4249-99FA-582C801AE463.html)
+- [anhedonia](https://davidblue.wtf/drafts/B166FE08-A3D8-4FB2-8949-5D6D9EFD2494.html)
+- [aquiline](https://davidblue.wtf/drafts/AAE1D3A4-32A0-4117-AFD4-024DA70B2020.html)
+- [atavism](https://davidblue.wtf/drafts/4F4F0F3A-A826-45FC-8B9B-6B83CA94C6BF.html)
+- [atrabilious](https://davidblue.wtf/drafts/32785CDA-4C6B-4AB5-B07A-E718941758C7.html)
+- [automation](https://davidblue.wtf/drafts/F4B309B9-5932-4318-A98A-D7E6FF6CAADC.html)
+- [axiomatic](https://davidblue.wtf/drafts/A59DAB8D-0379-427B-A9F6-8D4E3AC6674D.html)
+- [bandylan](https://davidblue.wtf/drafts/02463E3B-15DB-46A7-9FF1-52DEEA49D086.html)
+- [bathyscaphe](https://davidblue.wtf/drafts/34FB3FDA-EC34-4C21-B2C3-A3C595358566.html)
+- [bathysphere](https://davidblue.wtf/drafts/ED3C2FD6-DC11-406B-BFEC-C11E7DCB3C68.html)
+- [bauble](https://davidblue.wtf/drafts/ECF8939E-5DC1-46D9-B158-7A4435BBA68D.html)
+- [bevy](https://davidblue.wtf/drafts/08F91DD8-B3F3-4774-8BFC-E6D423DACF49.html)
+- [bitch](https://davidblue.wtf/drafts/176A79AE-BE6C-4192-B0EE-8623CB9C5617.html)
+- [bombastic](https://davidblue.wtf/drafts/D1C34CD2-332C-4E19-869D-10D7191802E0.html)
+- [boolean](https://davidblue.wtf/drafts/02D619D4-05C5-40FF-8FAF-1267C3F7310D.html)
+- [bout](https://davidblue.wtf/drafts/52A11EC1-19C5-454B-9C61-5BBB8E2076E7.html)
+- [bowdlerizer](https://davidblue.wtf/drafts/719E1519-62AC-45B8-AA3A-905910CCE1B3.html)
+- [bozo](https://davidblue.wtf/drafts/6C7D4FE5-1C4A-4E18-B561-5E96F60741B8.html)
+- [bugaboo](https://davidblue.wtf/drafts/46565F1C-509F-4EE5-9EC9-C6EBF104EF0D.html)
+- [capitulate](https://davidblue.wtf/drafts/3EB80052-BCCE-488D-8F04-D2EBB5C392E2.html)
+- [castrametation](https://davidblue.wtf/drafts/DE30BFD5-AE21-40D5-894A-A69387F02210.html)
+- [chivvy](https://davidblue.wtf/drafts/68A7EEB2-6BF0-40F8-9757-E1F435A4A2D6.html)
+- [classificatory](https://davidblue.wtf/drafts/5D6FD073-D978-4988-849F-6BD9CF15B31F.html)
+- [collocation](https://davidblue.wtf/drafts/6376D3F5-758B-463E-A479-E28BE9AAE5D1.html)
+- [concatenate](https://davidblue.wtf/drafts/A3833C3C-F420-453D-80D4-9478B99606A7.html)
+- [conflate](https://davidblue.wtf/drafts/60DC4F20-22D1-442A-AC20-9E27B400D544.html)
+- [contemporaneous](https://davidblue.wtf/drafts/A737499F-2319-428D-8172-305FB33A078D.html)
+- [contrite](https://davidblue.wtf/drafts/8F478EE2-65C5-42DD-A7DF-87CFC25E375A.html)
+- [crimp](https://davidblue.wtf/drafts/AD9F2E94-BA12-4C1A-B21D-445B20449A1F.html)
+- [dereliction](https://davidblue.wtf/drafts/FCE2E3F3-85AE-42BD-9634-362284E8461A.html)
+- [dinkus](https://davidblue.wtf/drafts/C4F33942-BCE1-4615-8CC5-2355EF8ADAFD.html)
+- [disruption](https://davidblue.wtf/drafts/6BFECB0C-8D3C-4E16-9586-16D56DFA6F4B.html)
+- [doldrums](https://davidblue.wtf/drafts/3C561EFD-2A64-4063-95C7-238D8C01CBB8.html)
+- [dubitable](https://davidblue.wtf/drafts/DAA78E23-AD57-4DEA-81AF-FB59ACBC0266.html)
+- [ensconce](https://davidblue.wtf/drafts/BC2005E1-BEB5-41FE-99C7-8BB710B9EF75.html)
+- [erudite](https://davidblue.wtf/drafts/110E27DF-CE93-46B2-988A-8B406CE275FC.html)
+- [ethnography](https://davidblue.wtf/drafts/F2B5FC41-3AA1-4408-B11F-6111C67790B3.html)
+- [exigent](https://davidblue.wtf/drafts/1B27596C-F158-4112-80FF-2885B043B9D7.html)
+- [explicate](https://davidblue.wtf/drafts/26B6B8F4-A06E-4FF6-A377-2EA2987A70C9.html)
+- [expression](https://davidblue.wtf/drafts/19B6BCEB-0ED8-42A2-9356-945090D4384B.html)
+- [expurgate](https://davidblue.wtf/drafts/69E57E1E-0703-4072-BC72-03BA9C4161D3.html)
+- [farad](https://davidblue.wtf/drafts/717D7150-CFCE-4776-82E1-CEAC6ED6F2EE.html)
+- [farcical](https://davidblue.wtf/drafts/AB35F12B-00B3-4510-8FB2-E3A33F6AA606.html)
+- [faux pas](https://davidblue.wtf/drafts/80F5E00B-AB06-4485-9158-EE8E05581BF0.html)
+- [foppish](https://davidblue.wtf/drafts/06CDD34D-B550-4943-9D7D-8FF550C6472C.html)
+- [foregleam](https://davidblue.wtf/drafts/7A42937B-5680-4E22-9E5E-0DF4BB96784E.html)
+- [forelooker](https://davidblue.wtf/drafts/9C095CCD-ADEA-49F9-87F4-D0FFE2F59C4A.html)
+- [glisk](https://davidblue.wtf/drafts/7AF79C8F-4C59-48D8-9F7C-DA366E5AAFB2.html)
+- [Greek](https://davidblue.wtf/drafts/FE462935-3900-49E7-8FA7-B16D581B71A7.html)
+- [grubby](https://davidblue.wtf/drafts/EAF8AE87-415C-408B-AC16-EAF7F7CD8226.html)
+- [hack](https://davidblue.wtf/drafts/E30A6F67-7D23-4B0E-8593-A283BF3FA133.html)
+- [henceforward](https://davidblue.wtf/drafts/DBB2FEAC-F200-45D0-A1C4-C11271C01B04.html)
+- [hew](https://davidblue.wtf/drafts/2894585C-ED4C-46E7-AFB0-1F0E788AC59B.html)
+- [homunculus](https://davidblue.wtf/drafts/BF3AB34D-9CC5-40B9-819D-31974293D7A7.html)
+- [huffcap](https://davidblue.wtf/drafts/7957ED3E-E941-4C02-9D66-990D2ADFEEE0.html)
+- [hyperbole](https://davidblue.wtf/drafts/569E609A-CDBE-463F-91C8-DAFCCF85C6C4.html)
+- [iconographic cannibalism](https://davidblue.wtf/drafts/BAB523E3-840E-4456-9E03-C971C86EE214.html)
+- [idiom](https://davidblue.wtf/drafts/0593A07B-BD11-4879-B9CD-C08D54A1D5D7.html)
+- [idiomatic](https://davidblue.wtf/drafts/D792AD5A-46A1-4E87-9404-1F6DBB0F7187.html)
+- [impecunious](https://davidblue.wtf/drafts/8C142D95-5214-465C-99C6-7E51B53BB5CF.html)
+- [inexorable](https://davidblue.wtf/drafts/95EABC2A-5183-4330-BBCF-39C49E751C4A.html)
+- [injuredly](https://davidblue.wtf/drafts/E9BE4EE2-CC13-4B61-A150-BE78DA38D5BE.html)
+- [innumerable](https://davidblue.wtf/drafts/2CB39306-90A4-4620-9581-89E1EF0614C5.html)
+- [invidious](https://davidblue.wtf/drafts/41668C51-AD79-4150-B8AA-B191D0F9C844.html)
+- [jejune](https://davidblue.wtf/drafts/B9C84971-9A0E-4A49-91A4-2687A2F1FBAA.html)
+- [jig](https://davidblue.wtf/drafts/A3F6115B-7E4D-4A0F-9E35-82672F102CF7.html)
+- [junket](https://davidblue.wtf/drafts/16550F8F-F739-4138-8A07-DFDDA8983C60.html)
+- [languor](https://davidblue.wtf/drafts/5DF23287-599C-4E89-BD61-A93EE530BC86.html)
+- [lapse](https://davidblue.wtf/drafts/A5FAE0D3-2194-429A-91D3-CD22399F3E6C.html)
+- [legerdemain](https://davidblue.wtf/drafts/FDCC397B-A2B6-4042-A8BF-BB2905410D30.html)
+- [lucre](https://davidblue.wtf/drafts/A7D7191F-1128-4F16-9035-E4AF24CAE37C.html)
+- [macro](https://davidblue.wtf/drafts/B689567B-D8F4-4639-909D-3A166E9B27C0.html)
+- [madecassee](https://davidblue.wtf/drafts/ACAB5A5C-ADFA-4B9A-B691-DF459AFE0C07.html)
+- [malevolent](https://davidblue.wtf/drafts/9DB44839-847A-4AC9-80F8-1B07F19A5C38.html)
+- [marginalia](https://davidblue.wtf/drafts/5555F786-F11F-4B27-9DD9-AC62CFBF4744.html)
+- [miasma](https://davidblue.wtf/drafts/DDADA8D8-405D-467B-A83A-6C943270F425.html)
+- [misimprove](https://davidblue.wtf/drafts/CF44500A-97C4-4614-B6EB-7E7A39AD481D.html)
+- [missive](https://davidblue.wtf/drafts/B53FF0EB-6787-433A-9054-02AD44F82124.html)
+- [modal](https://davidblue.wtf/drafts/E984B136-0591-4F76-867E-DD262A625451.html)
+- [obloquy](https://davidblue.wtf/drafts/AD7836E2-B6EE-420F-8FBA-4682D24C0830.html)
+- [obviate](https://davidblue.wtf/drafts/43C02ABB-6970-40F8-96FD-ACE7D0FCBEE8.html)
+- [oleophilic](https://davidblue.wtf/drafts/167E8136-AA36-4D21-A122-6003710F14A9.html)
+- [parlance](https://davidblue.wtf/drafts/7A6D0850-FD29-41D3-BA32-280DC47EAA53.html)
+- [parlous](https://davidblue.wtf/drafts/8A204E2E-17C3-4106-981B-A95A1F7D4EB7.html)
+- [patois](https://davidblue.wtf/drafts/A58B77E8-AF70-4D36-84C6-92D38BA97B81.html)
+- [peregrinate](https://davidblue.wtf/drafts/4872C520-97D0-47F6-A653-70A4C34B639D.html)
+- [pertinent](https://davidblue.wtf/drafts/A3C12CBD-7D83-4195-A3B5-50ECAA358A4E.html)
+- [phlogiston](https://davidblue.wtf/drafts/C8B39B3B-8737-4146-8D08-292175C657EE.html)
+- [phonoaestheme](https://davidblue.wtf/drafts/DD130862-1E19-49EF-A308-398A46302BD4.html)
+- [pious](https://davidblue.wtf/drafts/16455EDB-B5BB-4CCC-B0B3-865CA3C77BA4.html)
+- [placate](https://davidblue.wtf/drafts/53543872-FBA2-4874-BE01-3D0243733507.html)
+- [portent](https://davidblue.wtf/drafts/4BE9923A-87F8-48A0-872C-0CBE47E5B0FC.html)
+- [portmanteau](https://davidblue.wtf/drafts/AA10F992-B65A-4267-BD92-364481D369CE.html)
+- [posy](https://davidblue.wtf/drafts/4E9356FA-0BEA-4D7D-8FB7-68150647734E.html)
+- [propitious](https://davidblue.wtf/drafts/867BF77E-7A68-491B-AED2-3737222731E7.html)
+- [recoup](https://davidblue.wtf/drafts/63155184-4EE7-4DC5-80F4-000F206FB71F.html)
+- [relegate](https://davidblue.wtf/drafts/71ACCA28-82B7-4E76-AD5B-387D6F8581CC.html)
+- [repudiate](https://davidblue.wtf/drafts/750D789C-A5EA-4D86-94E6-71B0170E9323.html)
+- [riffle](https://davidblue.wtf/drafts/4C8A4859-C3C3-4957-BDBC-98EB036F71FE.html)
+- [risible](https://davidblue.wtf/drafts/180B908B-BF71-435B-8CF0-9199DE32EEF9.html)
+- [screed](https://davidblue.wtf/drafts/49845495-DCA7-48BE-9ABD-BBDC0F66E05B.html)
+- [shunt](https://davidblue.wtf/drafts/C6FDF7F9-2B40-40B2-ADA0-253CDCC97716.html)
+- [sidereal](https://davidblue.wtf/drafts/48AEC351-459C-4E86-8B90-D61D3C5C7399.html)
+- [sidle](https://davidblue.wtf/drafts/C87D12AA-A16F-40CE-8337-6AC8C9608220.html)
+- [slapdash](https://davidblue.wtf/drafts/2D7B2A32-C817-4DA0-A76C-50A522C5FF48.html)
+- [slipshod](https://davidblue.wtf/drafts/04EC2E71-F95F-4EBA-A550-6548C529352B.html)
+- [snuggery](https://davidblue.wtf/drafts/492C14E5-DB4A-4B53-A93C-5BFC8ED28AB6.html)
+- [solubility](https://davidblue.wtf/drafts/6DDE5F0D-CEF8-4684-86CB-307E05AB3AB7.html)
+- [somnolent](https://davidblue.wtf/drafts/9FDC494F-8FC2-4583-9493-14B66D8D3EEF.html)
+- [splosh](https://davidblue.wtf/drafts/658D9FFA-A4AD-4E28-AB6D-E2212FC91D75.html)
+- [squiggle](https://davidblue.wtf/drafts/30DA26F2-88E8-44F7-A864-3A36F85F1015.html)
+- [Teutonophile](https://davidblue.wtf/drafts/CF031F5E-886B-4E9F-8878-4D2BC62C6A93.html)
+- [text fucking](https://davidblue.wtf/drafts/C91449D3-9926-41A5-B589-64118EC2348F.html)
+- [travail](https://davidblue.wtf/drafts/9B7547E3-990E-4D64-B669-BF5E0EFAAE94.html)
+- [trounce](https://davidblue.wtf/drafts/E2DDC96F-ECF4-429A-85B0-7C98B6819D2A.html)
+- [tyke](https://davidblue.wtf/drafts/167E87F2-07A9-4B38-A0BB-004DA43CF705.html)
+- [unco](https://davidblue.wtf/drafts/42FFCF23-86B9-4BB8-9602-6C04AEFD313A.html)
+- [undercovered](https://davidblue.wtf/drafts/A8DDF7DC-0D9C-4162-B028-5D8E75B819E5.html)
+- [ursine](https://davidblue.wtf/drafts/AF3E6804-0467-410E-A18C-C14A6FAE72A8.html)
+- [verdure](https://davidblue.wtf/drafts/1A9EE026-718B-4136-964E-71A2B2B195AA.html)
+- [verisimilitude](https://davidblue.wtf/drafts/2E9A5499-22EA-476D-A844-AF360C01EBA0.html)
+- [verisimilitude](https://davidblue.wtf/drafts/9FEC7BB9-4F28-4ED8-883D-9F7B4A758C54.html)
+- [virtue signaling](https://davidblue.wtf/drafts/9AE0FE0D-7AF7-4818-809E-235B3C37EE77.html)
+- [vocabulary - 03752022-033248](https://davidblue.wtf/drafts/E54F7EF9-3FAA-423C-86A2-C1210114B4FA.html)
+- [Vocabulary](https://davidblue.wtf/drafts/C41AC4C1-6F45-47C0-ACB2-74DDEDA8B41F.html)
+- [Vocabulary](https://davidblue.wtf/drafts/D55E1586-D703-4C6F-B821-DB0DD659076D.html)
+- [voluble](https://davidblue.wtf/drafts/D87A37F9-DCE3-463C-AFAE-E7EE2D8CAF40.html)
+- [whewt](https://davidblue.wtf/drafts/5BA2D00D-BA85-4C34-BACC-612F1D3C5CE3.html)
+- [whorl](https://davidblue.wtf/drafts/056B54EF-14B1-4AF4-AD81-F28992D86FDE.html)
+- [winnow](https://davidblue.wtf/drafts/4D3465A3-6B6C-4899-83FF-A77E3A49E902.html)
+- [ziggurat](https://davidblue.wtf/drafts/35116CA8-D82C-46FE-83CD-06D9B08AAD5C.html)
+# Vocabulary Index
+Last updated `03242022-141014`
+
+- [abstruse](https://davidblue.wtf/drafts/B300F68B-0A54-4C40-AAB5-1E4F9CF5B26C.html)
+- [abyssal](https://davidblue.wtf/drafts/C2679472-03FE-4BFF-9BF4-A4F66A954C95.html)
+- [accost](https://davidblue.wtf/drafts/F0B257BA-C6A5-4661-9D32-E2A8B62B8108.html)
+- [acrimony](https://davidblue.wtf/drafts/8B6C0F6D-E3C2-4249-99FA-582C801AE463.html)
+- [anhedonia](https://davidblue.wtf/drafts/B166FE08-A3D8-4FB2-8949-5D6D9EFD2494.html)
+- [aquiline](https://davidblue.wtf/drafts/AAE1D3A4-32A0-4117-AFD4-024DA70B2020.html)
+- [atavism](https://davidblue.wtf/drafts/4F4F0F3A-A826-45FC-8B9B-6B83CA94C6BF.html)
+- [atrabilious](https://davidblue.wtf/drafts/32785CDA-4C6B-4AB5-B07A-E718941758C7.html)
+- [automation](https://davidblue.wtf/drafts/F4B309B9-5932-4318-A98A-D7E6FF6CAADC.html)
+- [axiomatic](https://davidblue.wtf/drafts/A59DAB8D-0379-427B-A9F6-8D4E3AC6674D.html)
+- [bandylan](https://davidblue.wtf/drafts/02463E3B-15DB-46A7-9FF1-52DEEA49D086.html)
+- [bathyscaphe](https://davidblue.wtf/drafts/34FB3FDA-EC34-4C21-B2C3-A3C595358566.html)
+- [bathysphere](https://davidblue.wtf/drafts/ED3C2FD6-DC11-406B-BFEC-C11E7DCB3C68.html)
+- [bauble](https://davidblue.wtf/drafts/ECF8939E-5DC1-46D9-B158-7A4435BBA68D.html)
+- [bevy](https://davidblue.wtf/drafts/08F91DD8-B3F3-4774-8BFC-E6D423DACF49.html)
+- [bitch](https://davidblue.wtf/drafts/176A79AE-BE6C-4192-B0EE-8623CB9C5617.html)
+- [bombastic](https://davidblue.wtf/drafts/D1C34CD2-332C-4E19-869D-10D7191802E0.html)
+- [boolean](https://davidblue.wtf/drafts/02D619D4-05C5-40FF-8FAF-1267C3F7310D.html)
+- [bout](https://davidblue.wtf/drafts/52A11EC1-19C5-454B-9C61-5BBB8E2076E7.html)
+- [bowdlerizer](https://davidblue.wtf/drafts/719E1519-62AC-45B8-AA3A-905910CCE1B3.html)
+- [bozo](https://davidblue.wtf/drafts/6C7D4FE5-1C4A-4E18-B561-5E96F60741B8.html)
+- [bugaboo](https://davidblue.wtf/drafts/46565F1C-509F-4EE5-9EC9-C6EBF104EF0D.html)
+- [capitulate](https://davidblue.wtf/drafts/3EB80052-BCCE-488D-8F04-D2EBB5C392E2.html)
+- [castrametation](https://davidblue.wtf/drafts/DE30BFD5-AE21-40D5-894A-A69387F02210.html)
+- [chivvy](https://davidblue.wtf/drafts/68A7EEB2-6BF0-40F8-9757-E1F435A4A2D6.html)
+- [classificatory](https://davidblue.wtf/drafts/5D6FD073-D978-4988-849F-6BD9CF15B31F.html)
+- [collocation](https://davidblue.wtf/drafts/6376D3F5-758B-463E-A479-E28BE9AAE5D1.html)
+- [concatenate](https://davidblue.wtf/drafts/A3833C3C-F420-453D-80D4-9478B99606A7.html)
+- [conflate](https://davidblue.wtf/drafts/60DC4F20-22D1-442A-AC20-9E27B400D544.html)
+- [contemporaneous](https://davidblue.wtf/drafts/A737499F-2319-428D-8172-305FB33A078D.html)
+- [contrite](https://davidblue.wtf/drafts/8F478EE2-65C5-42DD-A7DF-87CFC25E375A.html)
+- [crimp](https://davidblue.wtf/drafts/AD9F2E94-BA12-4C1A-B21D-445B20449A1F.html)
+- [dereliction](https://davidblue.wtf/drafts/FCE2E3F3-85AE-42BD-9634-362284E8461A.html)
+- [dinkus](https://davidblue.wtf/drafts/C4F33942-BCE1-4615-8CC5-2355EF8ADAFD.html)
+- [disruption](https://davidblue.wtf/drafts/6BFECB0C-8D3C-4E16-9586-16D56DFA6F4B.html)
+- [doldrums](https://davidblue.wtf/drafts/3C561EFD-2A64-4063-95C7-238D8C01CBB8.html)
+- [dubitable](https://davidblue.wtf/drafts/DAA78E23-AD57-4DEA-81AF-FB59ACBC0266.html)
+- [ensconce](https://davidblue.wtf/drafts/BC2005E1-BEB5-41FE-99C7-8BB710B9EF75.html)
+- [erudite](https://davidblue.wtf/drafts/110E27DF-CE93-46B2-988A-8B406CE275FC.html)
+- [ethnography](https://davidblue.wtf/drafts/F2B5FC41-3AA1-4408-B11F-6111C67790B3.html)
+- [exigent](https://davidblue.wtf/drafts/1B27596C-F158-4112-80FF-2885B043B9D7.html)
+- [explicate](https://davidblue.wtf/drafts/26B6B8F4-A06E-4FF6-A377-2EA2987A70C9.html)
+- [expression](https://davidblue.wtf/drafts/19B6BCEB-0ED8-42A2-9356-945090D4384B.html)
+- [expurgate](https://davidblue.wtf/drafts/69E57E1E-0703-4072-BC72-03BA9C4161D3.html)
+- [farad](https://davidblue.wtf/drafts/717D7150-CFCE-4776-82E1-CEAC6ED6F2EE.html)
+- [farcical](https://davidblue.wtf/drafts/AB35F12B-00B3-4510-8FB2-E3A33F6AA606.html)
+- [faux pas](https://davidblue.wtf/drafts/80F5E00B-AB06-4485-9158-EE8E05581BF0.html)
+- [foppish](https://davidblue.wtf/drafts/06CDD34D-B550-4943-9D7D-8FF550C6472C.html)
+- [foregleam](https://davidblue.wtf/drafts/7A42937B-5680-4E22-9E5E-0DF4BB96784E.html)
+- [forelooker](https://davidblue.wtf/drafts/9C095CCD-ADEA-49F9-87F4-D0FFE2F59C4A.html)
+- [glisk](https://davidblue.wtf/drafts/7AF79C8F-4C59-48D8-9F7C-DA366E5AAFB2.html)
+- [Greek](https://davidblue.wtf/drafts/FE462935-3900-49E7-8FA7-B16D581B71A7.html)
+- [grubby](https://davidblue.wtf/drafts/EAF8AE87-415C-408B-AC16-EAF7F7CD8226.html)
+- [hack](https://davidblue.wtf/drafts/E30A6F67-7D23-4B0E-8593-A283BF3FA133.html)
+- [henceforward](https://davidblue.wtf/drafts/DBB2FEAC-F200-45D0-A1C4-C11271C01B04.html)
+- [hew](https://davidblue.wtf/drafts/2894585C-ED4C-46E7-AFB0-1F0E788AC59B.html)
+- [homunculus](https://davidblue.wtf/drafts/BF3AB34D-9CC5-40B9-819D-31974293D7A7.html)
+- [huffcap](https://davidblue.wtf/drafts/7957ED3E-E941-4C02-9D66-990D2ADFEEE0.html)
+- [hyperbole](https://davidblue.wtf/drafts/569E609A-CDBE-463F-91C8-DAFCCF85C6C4.html)
+- [iconographic cannibalism](https://davidblue.wtf/drafts/BAB523E3-840E-4456-9E03-C971C86EE214.html)
+- [idiom](https://davidblue.wtf/drafts/0593A07B-BD11-4879-B9CD-C08D54A1D5D7.html)
+- [idiomatic](https://davidblue.wtf/drafts/D792AD5A-46A1-4E87-9404-1F6DBB0F7187.html)
+- [impecunious](https://davidblue.wtf/drafts/8C142D95-5214-465C-99C6-7E51B53BB5CF.html)
+- [inexorable](https://davidblue.wtf/drafts/95EABC2A-5183-4330-BBCF-39C49E751C4A.html)
+- [injuredly](https://davidblue.wtf/drafts/E9BE4EE2-CC13-4B61-A150-BE78DA38D5BE.html)
+- [innumerable](https://davidblue.wtf/drafts/2CB39306-90A4-4620-9581-89E1EF0614C5.html)
+- [invidious](https://davidblue.wtf/drafts/41668C51-AD79-4150-B8AA-B191D0F9C844.html)
+- [jejune](https://davidblue.wtf/drafts/B9C84971-9A0E-4A49-91A4-2687A2F1FBAA.html)
+- [jig](https://davidblue.wtf/drafts/A3F6115B-7E4D-4A0F-9E35-82672F102CF7.html)
+- [junket](https://davidblue.wtf/drafts/16550F8F-F739-4138-8A07-DFDDA8983C60.html)
+- [languor](https://davidblue.wtf/drafts/5DF23287-599C-4E89-BD61-A93EE530BC86.html)
+- [lapse](https://davidblue.wtf/drafts/A5FAE0D3-2194-429A-91D3-CD22399F3E6C.html)
+- [legerdemain](https://davidblue.wtf/drafts/FDCC397B-A2B6-4042-A8BF-BB2905410D30.html)
+- [lucre](https://davidblue.wtf/drafts/A7D7191F-1128-4F16-9035-E4AF24CAE37C.html)
+- [macro](https://davidblue.wtf/drafts/B689567B-D8F4-4639-909D-3A166E9B27C0.html)
+- [madecassee](https://davidblue.wtf/drafts/ACAB5A5C-ADFA-4B9A-B691-DF459AFE0C07.html)
+- [malevolent](https://davidblue.wtf/drafts/9DB44839-847A-4AC9-80F8-1B07F19A5C38.html)
+- [marginalia](https://davidblue.wtf/drafts/5555F786-F11F-4B27-9DD9-AC62CFBF4744.html)
+- [miasma](https://davidblue.wtf/drafts/DDADA8D8-405D-467B-A83A-6C943270F425.html)
+- [misimprove](https://davidblue.wtf/drafts/CF44500A-97C4-4614-B6EB-7E7A39AD481D.html)
+- [missive](https://davidblue.wtf/drafts/B53FF0EB-6787-433A-9054-02AD44F82124.html)
+- [modal](https://davidblue.wtf/drafts/E984B136-0591-4F76-867E-DD262A625451.html)
+- [obloquy](https://davidblue.wtf/drafts/AD7836E2-B6EE-420F-8FBA-4682D24C0830.html)
+- [obviate](https://davidblue.wtf/drafts/43C02ABB-6970-40F8-96FD-ACE7D0FCBEE8.html)
+- [oleophilic](https://davidblue.wtf/drafts/167E8136-AA36-4D21-A122-6003710F14A9.html)
+- [parlance](https://davidblue.wtf/drafts/7A6D0850-FD29-41D3-BA32-280DC47EAA53.html)
+- [parlous](https://davidblue.wtf/drafts/8A204E2E-17C3-4106-981B-A95A1F7D4EB7.html)
+- [patois](https://davidblue.wtf/drafts/A58B77E8-AF70-4D36-84C6-92D38BA97B81.html)
+- [peregrinate](https://davidblue.wtf/drafts/4872C520-97D0-47F6-A653-70A4C34B639D.html)
+- [pertinent](https://davidblue.wtf/drafts/A3C12CBD-7D83-4195-A3B5-50ECAA358A4E.html)
+- [phlogiston](https://davidblue.wtf/drafts/C8B39B3B-8737-4146-8D08-292175C657EE.html)
+- [phonoaestheme](https://davidblue.wtf/drafts/DD130862-1E19-49EF-A308-398A46302BD4.html)
+- [pious](https://davidblue.wtf/drafts/16455EDB-B5BB-4CCC-B0B3-865CA3C77BA4.html)
+- [placate](https://davidblue.wtf/drafts/53543872-FBA2-4874-BE01-3D0243733507.html)
+- [portent](https://davidblue.wtf/drafts/4BE9923A-87F8-48A0-872C-0CBE47E5B0FC.html)
+- [portmanteau](https://davidblue.wtf/drafts/AA10F992-B65A-4267-BD92-364481D369CE.html)
+- [posy](https://davidblue.wtf/drafts/4E9356FA-0BEA-4D7D-8FB7-68150647734E.html)
+- [propitious](https://davidblue.wtf/drafts/867BF77E-7A68-491B-AED2-3737222731E7.html)
+- [recoup](https://davidblue.wtf/drafts/63155184-4EE7-4DC5-80F4-000F206FB71F.html)
+- [relegate](https://davidblue.wtf/drafts/71ACCA28-82B7-4E76-AD5B-387D6F8581CC.html)
+- [repudiate](https://davidblue.wtf/drafts/750D789C-A5EA-4D86-94E6-71B0170E9323.html)
+- [riffle](https://davidblue.wtf/drafts/4C8A4859-C3C3-4957-BDBC-98EB036F71FE.html)
+- [risible](https://davidblue.wtf/drafts/180B908B-BF71-435B-8CF0-9199DE32EEF9.html)
+- [screed](https://davidblue.wtf/drafts/49845495-DCA7-48BE-9ABD-BBDC0F66E05B.html)
+- [shunt](https://davidblue.wtf/drafts/C6FDF7F9-2B40-40B2-ADA0-253CDCC97716.html)
+- [sidereal](https://davidblue.wtf/drafts/48AEC351-459C-4E86-8B90-D61D3C5C7399.html)
+- [sidle](https://davidblue.wtf/drafts/C87D12AA-A16F-40CE-8337-6AC8C9608220.html)
+- [slapdash](https://davidblue.wtf/drafts/2D7B2A32-C817-4DA0-A76C-50A522C5FF48.html)
+- [slipshod](https://davidblue.wtf/drafts/04EC2E71-F95F-4EBA-A550-6548C529352B.html)
+- [snuggery](https://davidblue.wtf/drafts/492C14E5-DB4A-4B53-A93C-5BFC8ED28AB6.html)
+- [solubility](https://davidblue.wtf/drafts/6DDE5F0D-CEF8-4684-86CB-307E05AB3AB7.html)
+- [somnolent](https://davidblue.wtf/drafts/9FDC494F-8FC2-4583-9493-14B66D8D3EEF.html)
+- [splosh](https://davidblue.wtf/drafts/658D9FFA-A4AD-4E28-AB6D-E2212FC91D75.html)
+- [squiggle](https://davidblue.wtf/drafts/30DA26F2-88E8-44F7-A864-3A36F85F1015.html)
+- [Teutonophile](https://davidblue.wtf/drafts/CF031F5E-886B-4E9F-8878-4D2BC62C6A93.html)
+- [text fucking](https://davidblue.wtf/drafts/C91449D3-9926-41A5-B589-64118EC2348F.html)
+- [travail](https://davidblue.wtf/drafts/9B7547E3-990E-4D64-B669-BF5E0EFAAE94.html)
+- [trounce](https://davidblue.wtf/drafts/E2DDC96F-ECF4-429A-85B0-7C98B6819D2A.html)
+- [tyke](https://davidblue.wtf/drafts/167E87F2-07A9-4B38-A0BB-004DA43CF705.html)
+- [unco](https://davidblue.wtf/drafts/42FFCF23-86B9-4BB8-9602-6C04AEFD313A.html)
+- [undercovered](https://davidblue.wtf/drafts/A8DDF7DC-0D9C-4162-B028-5D8E75B819E5.html)
+- [ursine](https://davidblue.wtf/drafts/AF3E6804-0467-410E-A18C-C14A6FAE72A8.html)
+- [verdure](https://davidblue.wtf/drafts/1A9EE026-718B-4136-964E-71A2B2B195AA.html)
+- [verisimilitude](https://davidblue.wtf/drafts/2E9A5499-22EA-476D-A844-AF360C01EBA0.html)
+- [verisimilitude](https://davidblue.wtf/drafts/9FEC7BB9-4F28-4ED8-883D-9F7B4A758C54.html)
+- [virtue signaling](https://davidblue.wtf/drafts/9AE0FE0D-7AF7-4818-809E-235B3C37EE77.html)
+- [vocabulary - 03752022-033248](https://davidblue.wtf/drafts/E54F7EF9-3FAA-423C-86A2-C1210114B4FA.html)
+- [Vocabulary](https://davidblue.wtf/drafts/C41AC4C1-6F45-47C0-ACB2-74DDEDA8B41F.html)
+- [Vocabulary](https://davidblue.wtf/drafts/D55E1586-D703-4C6F-B821-DB0DD659076D.html)
+- [voluble](https://davidblue.wtf/drafts/D87A37F9-DCE3-463C-AFAE-E7EE2D8CAF40.html)
+- [whewt](https://davidblue.wtf/drafts/5BA2D00D-BA85-4C34-BACC-612F1D3C5CE3.html)
+- [whorl](https://davidblue.wtf/drafts/056B54EF-14B1-4AF4-AD81-F28992D86FDE.html)
+- [winnow](https://davidblue.wtf/drafts/4D3465A3-6B6C-4899-83FF-A77E3A49E902.html)
+- [ziggurat](https://davidblue.wtf/drafts/35116CA8-D82C-46FE-83CD-06D9B08AAD5C.html)
 # voluble
 
 
@@ -8968,7 +48729,41 @@ verisimilitude
 		- articulateness
 
 
-===
+# voluble
+
+
+## Adjective
+
+1. marked by a ready flow of speech; “she is an extremely voluble young woman who engages in soliloquies not conversations”
+	- Antonyms
+		- taciturn
+	- Similar to
+		- chatty
+		- gabby
+		- garrulous
+		- loquacious
+		- talkative
+		- talky
+	- See also
+		- communicative
+		- communicatory
+		- prolix
+	- Related
+		- fluency
+		- volubility
+		- articulateness
+
+
+# whewt
+
+
+To WHEWT is to whistle tunelessly or feebly.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1504796813987135488)
+# whewt
+
+
+To WHEWT is to whistle tunelessly or feebly.
+-[@HaggardHawks](https://twitter.com/HaggardHawks/status/1504796813987135488)
 # whorl
 
 
@@ -9071,7 +48866,108 @@ verisimilitude
 		- curl
 
 
-===
+# whorl
+
+
+## Noun
+
+1. a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+	- Synonyms
+		- coil
+		- roll
+		- curl
+		- curlicue
+		- ringlet
+		- gyre
+		- scroll
+	- Less specific
+		- round shape
+	- More specific
+		- corolla
+		- calyx
+		- verticil
+	- Related
+		- coil
+		- loop
+		- curl
+		- curl up
+		- curl
+		- draw in
+		- curl
+		- curve
+		- kink
+		- roll
+		- roll out
+		- roll
+		- roll
+		- undulate
+		- gyrate
+		- spiral
+		- coil
+		- coil
+		- loop
+		- curl
+2. a strand or cluster of hair
+	- Synonyms
+		- lock
+		- curl
+		- ringlet
+	- Less specific
+		- hair
+	- More specific
+		- sausage curl
+		- forelock
+		- crimp
+		- dreadlock
+	- Part of
+		- hairdo
+		- hairstyle
+		- hair style
+		- coiffure
+		- coif
+	- Related
+		- curly
+		- curl
+		- wave
+3. a structure consisting of something wound in a continuous series of loops; “a coil of rope”
+	- Synonyms
+		- coil
+		- spiral
+		- volute
+		- helix
+	- Less specific
+		- structure
+		- construction
+	- More specific
+		- hank
+	- Related
+		- coiling
+		- helical
+		- spiral
+		- spiraling
+		- volute
+		- voluted
+		- whorled
+		- turbinate
+		- coiling
+		- helical
+		- spiral
+		- spiraling
+		- volute
+		- voluted
+		- whorled
+		- turbinate
+		- gyrate
+		- spiral
+		- coil
+		- gyrate
+		- spiral
+		- coil
+		- coil
+		- loop
+		- curl
+
+
 # winnow
 
 
@@ -9125,7 +49021,275 @@ verisimilitude
 		- withdraw
 
 
-===
+# winnow
+
+
+## Noun
+
+1. the act of separating grain from chaff; “the winnowing was done by women”
+	- Synonyms
+		- winnowing
+		- sifting
+	- Less specific
+		- separation
+	- Related
+		- sift
+		- sieve
+		- strain
+		- winnow
+		- winnow
+
+## Verb
+
+1. separate the chaff from grain by using air currents; “She stood there winnowing grain all day in the field”
+	- Less specific
+		- sift
+		- sieve
+		- strain
+	- Related
+		- winnow
+		- winnowing
+		- sifting
+		- winnow
+		- winnowing
+		- sifting
+2. blow on; “The wind was winnowing her hair”; “the wind winnowed the grass”
+	- Less specific
+		- fan
+3. select desirable parts from a group or list; “cull out the interesting letters from the poet’s correspondence”; “winnow the finalists from the long list of applicants”
+	- Synonyms
+		- cull out
+	- Less specific
+		- choose
+		- take
+		- select
+		- pick out
+4. blow away or off with a current of air; “winnow chaff”; “The speaker ceased to be an amusing little gnat to be fanned away and was kicked off the forum”
+	- Synonyms
+		- fan
+	- Less specific
+		- remove
+		- take
+		- take away
+		- withdraw
+
+
+# woodlet
+
+
+## Noun
+
+1. garden consisting of a small cultivated wood without undergrowth
+	- Synonyms
+		- grove
+		- orchard
+		- plantation
+	- Less specific
+		- garden
+	- More specific
+		- apple orchard
+		- lemon grove
+		- orange grove
+		- peach orchard
+
+
+# woodlet
+
+
+## Noun
+
+1. garden consisting of a small cultivated wood without undergrowth
+	- Synonyms
+		- grove
+		- orchard
+		- plantation
+	- Less specific
+		- garden
+	- More specific
+		- apple orchard
+		- lemon grove
+		- orange grove
+		- peach orchard
+
+
+# zest
+
+
+## Noun
+
+1. vigorous and enthusiastic enjoyment
+	- Synonyms
+		- gusto
+		- relish
+		- zestfulness
+	- Less specific
+		- enjoyment
+		- enthusiasm
+	- Related
+		- zestful
+		- yeasty
+		- zesty
+		- barmy
+		- zestful
+		- yeasty
+		- zesty
+		- barmy
+		- enjoy
+		- bask
+		- relish
+		- savor
+		- savour
+2. a tart spicy quality
+	- Synonyms
+		- nip
+		- piquance
+		- piquancy
+		- piquantness
+		- tang
+		- tanginess
+	- Less specific
+		- spiciness
+		- spice
+		- spicery
+	- Related
+		- piquant
+		- savory
+		- savoury
+		- zesty
+		- lemony
+		- lemonlike
+		- sourish
+		- tangy
+		- tart
+		- nippy
+		- zest
+		- spice
+		- spice up
+
+## Verb
+
+1. add herbs or spices to
+	- Synonyms
+		- spice
+		- spice up
+	- Less specific
+		- season
+		- flavor
+		- flavour
+	- More specific
+		- ginger
+		- pepper
+	- Related
+		- spiciness
+		- spice
+		- spicery
+		- spice
+		- spice
+		- spiciness
+		- spice
+		- spicery
+		- nip
+		- piquance
+		- piquancy
+		- piquantness
+		- tang
+		- tanginess
+		- zest
+	- Topic Members
+		- cooking
+		- cookery
+		- preparation
+
+
+# zest
+
+
+## Noun
+
+1. vigorous and enthusiastic enjoyment
+	- Synonyms
+		- gusto
+		- relish
+		- zestfulness
+	- Less specific
+		- enjoyment
+		- enthusiasm
+	- Related
+		- zestful
+		- yeasty
+		- zesty
+		- barmy
+		- zestful
+		- yeasty
+		- zesty
+		- barmy
+		- enjoy
+		- bask
+		- relish
+		- savor
+		- savour
+2. a tart spicy quality
+	- Synonyms
+		- nip
+		- piquance
+		- piquancy
+		- piquantness
+		- tang
+		- tanginess
+	- Less specific
+		- spiciness
+		- spice
+		- spicery
+	- Related
+		- piquant
+		- savory
+		- savoury
+		- zesty
+		- lemony
+		- lemonlike
+		- sourish
+		- tangy
+		- tart
+		- nippy
+		- zest
+		- spice
+		- spice up
+
+## Verb
+
+1. add herbs or spices to
+	- Synonyms
+		- spice
+		- spice up
+	- Less specific
+		- season
+		- flavor
+		- flavour
+	- More specific
+		- ginger
+		- pepper
+	- Related
+		- spiciness
+		- spice
+		- spicery
+		- spice
+		- spice
+		- spiciness
+		- spice
+		- spicery
+		- nip
+		- piquance
+		- piquancy
+		- piquantness
+		- tang
+		- tanginess
+		- zest
+	- Topic Members
+		- cooking
+		- cookery
+		- preparation
+
+
 # ziggurat
 
 
@@ -9142,46 +49306,40 @@ verisimilitude
 		- Babel
 
 
-===
-innumerable
-
-# innumerable
+# ziggurat
 
 
-## Adjective
+## Noun
 
-1. too numerous to be counted; “countless hours”; “an infinite number of reasons”; “innumerable difficulties”; “the multitudinous seas”; “myriad stars”
+1. a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians
 	- Synonyms
-		- countless
-		- infinite
-		- innumerous
-		- multitudinous
-		- myriad
-		- numberless
-		- uncounted
-		- unnumberable
-		- unnumbered
-		- unnumerable
-	- Similar to
-		- incalculable
-	- Related
-		- myriad
-		- battalion
-		- large number
-		- multitude
-		- plurality
-		- pack
-		- multitudinousness
-		- innumerableness
-		- countlessness
-		- infiniteness
-		- infinitude
-		- unboundedness
-		- boundlessness
-		- limitlessness
-		- innumerableness
-		- countlessness
-===
+		- zikkurat
+		- zikurat
+	- Less specific
+		- temple
+	- Examples
+		- Tower of Babel
+		- Babel
+
+
+discursive
+discursive
+twat
+twat
+verisimilitude
+
+# verisimilitude
+
+
+## Noun
+
+1. the appearance of truth; the quality of seeming to be true
+	- Less specific
+		- semblance
+		- gloss
+		- color
+		- colour
+
 verisimilitude
 
 # verisimilitude
